@@ -1,4 +1,4 @@
-[English](./README.md) | [简体中文](./README.zh-CN.md) | [繁體中文](./README.zh-TW.md) | [Español](./README.es.md) | [Português](./README.pt.md) | [Deutsch](./README.de.md) | [Français](./README.fr.md) | [日本語](./README.ja.md) | [한국어](./README.ko.md) | [Türkçe](./README.tr.md) | [Русский](./README.ru.md)
+[English](./README.md) | [Español](./README.es.md) | [Português](./README.pt.md) | [日本語](./README.ja.md) | [한국어](./README.ko.md) | [Deutsch](./README.de.md) | [Français](./README.fr.md) | [Türkçe](./README.tr.md) | [繁體中文](./README.zh-TW.md) | [简体中文](./README.zh-CN.md) | [Русский](./README.ru.md)
 
 # Awesome Seedance 2.0 Prompts
 
