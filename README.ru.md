@@ -1,3 +1,5 @@
+[English](./README.md) | [简体中文](./README.zh-CN.md) | [繁體中文](./README.zh-TW.md) | [Español](./README.es.md) | [Deutsch](./README.de.md) | [Français](./README.fr.md) | [日本語](./README.ja.md) | [한국어](./README.ko.md) | [Português](./README.pt.md) | [Türkçe](./README.tr.md) | [Русский](./README.ru.md)
+
 # Awesome Seedance 2.0 Prompts
 
 [![Awesome](https://img.shields.io/badge/Awesome-Seedance%202.0%20Промпты-black?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-промпты) [![GitHub stars](https://img.shields.io/github/stars/EvoLinkAI/awesome-seedance-2.0-промпты?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-промпты/stargazers) [![Промпт count](https://img.shields.io/badge/промпты-125-blue?style=flat-square)](./README.md)
