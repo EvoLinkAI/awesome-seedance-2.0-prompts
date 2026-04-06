@@ -71,6 +71,43 @@
 
 이 프롬프트들은 롱폼 변신, 감정적 리얼리즘, 상업용 스토리보드 작업, 구조화된 프롬프트 설계, 대형 스펙터클 액션 등 다양한 측면을 대표하도록 골랐습니다.
 
+<!-- latest-additions:start -->
+### 최신 추가
+
+#### Hammer That Never Misses
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+원심력, 해머 추적 POV, 되돌아오는 타격 궤적을 중심으로 설계된 신화적 액션 원테이크 프롬프트입니다.
+
+출처: [Post](https://x.com/aimikoda/status/2040752436780961971) · 게시일: 05 Apr 2026
+
+[![](./public/seedance_2_prompt_images/126.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+#### Orbiting Carnival Objects
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+원형 궤도, 떠다니는 소품, 정교한 오브젝트 안무에 초점을 둔 깔끔한 모션 디자인 프롬프트입니다.
+
+출처: [Post](https://x.com/ShadeLurk/status/2040748166212157568) · 게시일: 05 Apr 2026
+
+[![](./public/seedance_2_prompt_images/123.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+#### Space Colony Dawn Heroine
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
+거대한 링형 우주 식민지의 새벽을 배경으로, 장대한 항공 스케일과 여성 주인공 등장 연출을 결합한 중국어 SF 프롬프트입니다.
+
+출처: [Post](https://x.com/MiraMusic_AI/status/2040744022294335604) · 게시일: 05 Apr 2026
+
+[![](./public/seedance_2_prompt_images/124.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+#### Sunny Pool Party Montage
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+사교적인 에너지, 햇빛 아래 움직임, 라이프스타일 광고 톤을 강조한 여름 풀파티 몽타주 프롬프트입니다.
+
+출처: [Post](https://x.com/ivanka_humeniuk/status/2040415406297374734) · 게시일: 05 Apr 2026
+
+[![](./public/seedance_2_prompt_images/125.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+<!-- latest-additions:end -->
+
 ### 옥상 각성에서 F-14 변신까지
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
 옥상 질주에서 자유낙하 포착, 자동차에서 제트기로의 변태로 점층적으로 확장되는 롱폼 변신 시퀀스입니다.
@@ -3288,7 +3325,6 @@ Scene: Black stand-up stage, strong spotlight illuminating the person, blurred s
 
 ## 리소스
 
-- 데이터셋 기준 원본: [`../seedance_2_prompt.json`](../seedance_2_prompt.json)
 - 기여 가이드: [`./CONTRIBUTING.md`](./CONTRIBUTING.md)
 - 저장소 계획 레퍼런스: [`../repo-structure.md`](../repo-structure.md)
 - API 레퍼런스: [`EvoLinkAI/Seedance-2.0-API`](https://github.com/EvoLinkAI/Seedance-2.0-API)

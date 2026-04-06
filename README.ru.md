@@ -71,6 +71,43 @@
 
 Эти промпты выделены за разнообразие: long-form трансформация, эмоциональный реализм, коммерческая storyboard-работа, структурированный дизайн промптов и зрелищный экшн.
 
+<!-- latest-additions:start -->
+### Последние Добавления
+
+#### Hammer That Never Misses
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+Мифический one-take prompt, построенный вокруг центробежной силы, POV следования за молотом и возвращающейся дуги удара.
+
+Источник: [Post](https://x.com/aimikoda/status/2040752436780961971) · Дата публикации: 05 Apr 2026
+
+[![](./public/seedance_2_prompt_images/126.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+#### Orbiting Carnival Objects
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+Чистый motion-design prompt с широкой круговой орбитой, парящими объектами и контролируемой хореографией.
+
+Источник: [Post](https://x.com/ShadeLurk/status/2040748166212157568) · Дата публикации: 05 Apr 2026
+
+[![](./public/seedance_2_prompt_images/123.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+#### Space Colony Dawn Heroine
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
+Китайский sci-fi storyboard prompt в кольцевой космической колонии на рассвете, сочетающий эпический масштаб и выход героини.
+
+Источник: [Post](https://x.com/MiraMusic_AI/status/2040744022294335604) · Дата публикации: 05 Apr 2026
+
+[![](./public/seedance_2_prompt_images/124.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+#### Sunny Pool Party Montage
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+Яркий летний pool-party montage prompt с акцентом на социальную энергию, движение под солнцем и lifestyle-commercial кадрирование.
+
+Источник: [Post](https://x.com/ivanka_humeniuk/status/2040415406297374734) · Дата публикации: 05 Apr 2026
+
+[![](./public/seedance_2_prompt_images/125.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+<!-- latest-additions:end -->
+
 ### Пробуждение на крыше и трансформация в F-14
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
 Длинная последовательность трансформации, которая развивается от спринта по крыше к захвату в свободном падении, а затем к метаморфозе автомобиля в реактивный самолет.
@@ -3288,7 +3325,6 @@ Scene: Black stand-up stage, strong spotlight illuminating the person, blurred s
 
 ## Ресурсы
 
-- Источник истины датасета: [`../seedance_2_prompt.json`](../seedance_2_prompt.json)
 - Руководство по участию: [`./CONTRIBUTING.md`](./CONTRIBUTING.md)
 - Справка по планированию репозитория: [`../repo-structure.md`](../repo-structure.md)
 - API reference: [`EvoLinkAI/Seedance-2.0-API`](https://github.com/EvoLinkAI/Seedance-2.0-API)

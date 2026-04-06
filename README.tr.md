@@ -71,6 +71,43 @@ Bu depo, prompt'lar hakkindaki yorumlara degil, Seedance 2.0 icin **kullanilabil
 
 Bu prompt'lar cesitlilik icin one cikarilmistir: uzun form donusum, duygusal gercekcilik, ticari storyboard calismasi, yapilandirilmis prompt tasarimi ve yuksek gosterili aksiyon.
 
+<!-- latest-additions:start -->
+### Son Eklenenler
+
+#### Hammer That Never Misses
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+Merkezkaç kuvveti, çekici takip eden POV ve geri dönen darbe yayı etrafında kurulan mitik bir tek plan promptu.
+
+Kaynak: [Post](https://x.com/aimikoda/status/2040752436780961971) · Yayınlanma: 05 Apr 2026
+
+[![](./public/seedance_2_prompt_images/126.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+#### Orbiting Carnival Objects
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+Geniş dairesel yörünge, süzülen objeler ve kontrollü nesne koreografisine odaklanan temiz bir motion design promptu.
+
+Kaynak: [Post](https://x.com/ShadeLurk/status/2040748166212157568) · Yayınlanma: 05 Apr 2026
+
+[![](./public/seedance_2_prompt_images/123.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+#### Space Colony Dawn Heroine
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
+Şafakta geçen halka biçimli bir uzay kolonisinde, epik ölçek ve kadın kahraman girişiyle kurulan Çince bir bilimkurgu storyboard promptu.
+
+Kaynak: [Post](https://x.com/MiraMusic_AI/status/2040744022294335604) · Yayınlanma: 05 Apr 2026
+
+[![](./public/seedance_2_prompt_images/124.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+#### Sunny Pool Party Montage
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+Sosyal enerji, güneş altındaki hareket ve lifestyle reklam kadrajını öne çıkaran parlak bir yaz havuzu partisi montaj promptu.
+
+Kaynak: [Post](https://x.com/ivanka_humeniuk/status/2040415406297374734) · Yayınlanma: 05 Apr 2026
+
+[![](./public/seedance_2_prompt_images/125.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+<!-- latest-additions:end -->
+
 ### Catida Uyanistan F-14 Donusumune
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
 Catidaki kosturmadan serbest dusus yakalamasina ve arabadan jet metamorfuzuna kadar yukselen uzun form bir donusum sekansi.
@@ -3288,7 +3325,6 @@ Scene: Black stand-up stage, strong spotlight illuminating the person, blurred s
 
 ## Kaynaklar
 
-- Veri seti icin tek dogruluk kaynagi: [`../seedance_2_prompt.json`](../seedance_2_prompt.json)
 - Katki rehberi: [`./CONTRIBUTING.md`](./CONTRIBUTING.md)
 - Depo planlama referansi: [`../repo-structure.md`](../repo-structure.md)
 - API referansi: [`EvoLinkAI/Seedance-2.0-API`](https://github.com/EvoLinkAI/Seedance-2.0-API)

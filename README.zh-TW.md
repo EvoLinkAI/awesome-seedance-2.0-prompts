@@ -71,6 +71,43 @@
 
 這些提示詞因其多樣性而被特別標出：長篇變形、情感寫實、商業分鏡、結構化提示詞設計，以及高規格動作場面。
 
+<!-- latest-additions:start -->
+### 最新新增
+
+#### Hammer That Never Misses
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+一個強調離心力、鐵鎚跟隨視角與回旋返手的神話動作一鏡到底 prompt。
+
+來源: [Post](https://x.com/aimikoda/status/2040752436780961971) · 發佈: 05 Apr 2026
+
+[![](./public/seedance_2_prompt_images/126.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+#### Orbiting Carnival Objects
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+一個乾淨的 motion design prompt，核心是環形軌道、漂浮道具與受控物件編排。
+
+來源: [Post](https://x.com/ShadeLurk/status/2040748166212157568) · 發佈: 05 Apr 2026
+
+[![](./public/seedance_2_prompt_images/123.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+#### Space Colony Dawn Heroine
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
+一條中文科幻分鏡 prompt，以環形太空殖民地清晨開場，結合宏大空拍與女性主角登場。
+
+來源: [Post](https://x.com/MiraMusic_AI/status/2040744022294335604) · 發佈: 05 Apr 2026
+
+[![](./public/seedance_2_prompt_images/124.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+#### Sunny Pool Party Montage
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+一個明亮夏日泳池派對 montage，強調社交氛圍、陽光動態與生活方式廣告感鏡頭。
+
+來源: [Post](https://x.com/ivanka_humeniuk/status/2040415406297374734) · 發佈: 05 Apr 2026
+
+[![](./public/seedance_2_prompt_images/125.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+<!-- latest-additions:end -->
+
 ### 天台覺醒到 F-14 變形
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
 一段長篇變形序列，從天台衝刺一路升級到自由落體承接，再到汽車變戰機。
@@ -3288,7 +3325,6 @@ Scene: Black stand-up stage, strong spotlight illuminating the person, blurred s
 
 ## 資源
 
-- 資料集權威來源：[`../seedance_2_prompt.json`](../seedance_2_prompt.json)
 - 貢獻指南：[`./CONTRIBUTING.md`](./CONTRIBUTING.md)
 - 儲存庫規劃參考：[`../repo-structure.md`](../repo-structure.md)
 - API 參考：[`EvoLinkAI/Seedance-2.0-API`](https://github.com/EvoLinkAI/Seedance-2.0-API)

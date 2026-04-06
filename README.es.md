@@ -71,6 +71,43 @@ Este repositorio se centra en **prompts utilizables** de Seedance 2.0, no en com
 
 Estos prompts se destacan por su variedad: transformación de formato largo, realismo emocional, trabajo de storyboard comercial, diseño de prompts estructurados y acción de alto espectáculo.
 
+<!-- latest-additions:start -->
+### Últimas Incorporaciones
+
+#### Hammer That Never Misses
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+Un prompt mitológico de plano secuencia centrado en fuerza centrífuga, POV siguiendo el martillo y un arco de regreso tras el impacto.
+
+Fuente: [Post](https://x.com/aimikoda/status/2040752436780961971) · Publicado: 05 Apr 2026
+
+[![](./public/seedance_2_prompt_images/126.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+#### Orbiting Carnival Objects
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+Un prompt limpio de motion design con órbita circular amplia, utilería flotante y coreografía controlada de objetos.
+
+Fuente: [Post](https://x.com/ShadeLurk/status/2040748166212157568) · Publicado: 05 Apr 2026
+
+[![](./public/seedance_2_prompt_images/123.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+#### Space Colony Dawn Heroine
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
+Un prompt chino de ciencia ficción por planos, ambientado en un anillo-colonia espacial al amanecer, con escala épica y presentación de heroína.
+
+Fuente: [Post](https://x.com/MiraMusic_AI/status/2040744022294335604) · Publicado: 05 Apr 2026
+
+[![](./public/seedance_2_prompt_images/124.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+#### Sunny Pool Party Montage
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+Un montaje luminoso de fiesta en piscina, centrado en energía social, movimiento bajo el sol y encuadre de estilo comercial lifestyle.
+
+Fuente: [Post](https://x.com/ivanka_humeniuk/status/2040415406297374734) · Publicado: 05 Apr 2026
+
+[![](./public/seedance_2_prompt_images/125.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+<!-- latest-additions:end -->
+
 ### Despertar en la Azotea hacia la Transformación en F-14
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
 Una secuencia de transformación de largo formato que escala de un sprint en la azotea a una captura en caída libre y luego a una metamorfosis de automóvil a jet.
@@ -3288,7 +3325,6 @@ Scene: Black stand-up stage, strong spotlight illuminating the person, blurred s
 
 ## Recursos
 
-- Fuente de verdad del dataset: [`../seedance_2_prompt.json`](../seedance_2_prompt.json)
 - Guía de contribución: [`./CONTRIBUTING.md`](./CONTRIBUTING.md)
 - Referencia de planificación del repositorio: [`../repo-structure.md`](../repo-structure.md)
 - Referencia de API: [`EvoLinkAI/Seedance-2.0-API`](https://github.com/EvoLinkAI/Seedance-2.0-API)

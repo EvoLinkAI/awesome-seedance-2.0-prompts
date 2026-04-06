@@ -71,6 +71,43 @@ This repository focuses on Seedance 2.0  **usable prompts**, not commentary abou
 
 These prompts are highlighted for variety: long-form transformation, emotional realism, commercial storyboard work, structured prompt design, and high-spectacle action.
 
+<!-- latest-additions:start -->
+### Latest Additions
+
+#### Hammer That Never Misses
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+A mythic hammer-throw one-shot built around centrifugal force, hammer-follow POV, and a returning impact arc.
+
+Source: [Post](https://x.com/aimikoda/status/2040752436780961971) · Published: 05 Apr 2026
+
+[![](./public/seedance_2_prompt_images/126.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+#### Orbiting Carnival Objects
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+A clean motion-design prompt with floating props, wide circular orbit motion, and controlled object choreography.
+
+Source: [Post](https://x.com/ShadeLurk/status/2040748166212157568) · Published: 05 Apr 2026
+
+[![](./public/seedance_2_prompt_images/123.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+#### Space Colony Dawn Heroine
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
+A Chinese multi-shot sci-fi opener set inside a ring colony, combining epic aerial scale and heroine staging.
+
+Source: [Post](https://x.com/MiraMusic_AI/status/2040744022294335604) · Published: 05 Apr 2026
+
+[![](./public/seedance_2_prompt_images/124.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+#### Sunny Pool Party Montage
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+A bright summer pool-party montage focused on social energy, sunlit motion, and lifestyle-commercial framing.
+
+Source: [Post](https://x.com/ivanka_humeniuk/status/2040415406297374734) · Published: 05 Apr 2026
+
+[![](./public/seedance_2_prompt_images/125.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+<!-- latest-additions:end -->
+
 ### Rooftop Awakening to F-14 Transformation
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
 A long-form transformation sequence that escalates from rooftop sprint, to freefall capture, to car-to-jet metamorphosis.
@@ -3288,7 +3325,6 @@ Scene: Black stand-up stage, strong spotlight illuminating the person, blurred s
 
 ## Resources
 
-- Dataset source of truth: [`../seedance_2_prompt.json`](../seedance_2_prompt.json)
 - Contribution guide: [`./CONTRIBUTING.md`](./CONTRIBUTING.md)
 - Repository planning reference: [`../repo-structure.md`](../repo-structure.md)
 - API reference: [`EvoLinkAI/Seedance-2.0-API`](https://github.com/EvoLinkAI/Seedance-2.0-API)

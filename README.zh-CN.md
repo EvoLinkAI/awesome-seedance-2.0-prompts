@@ -71,6 +71,43 @@
 
 这些 prompts 因其多样性而被高亮展示：长篇变形、情绪写实、商业分镜、结构化 prompt 设计，以及高观赏性动作场面。
 
+<!-- latest-additions:start -->
+### 最新新增
+
+#### Hammer That Never Misses
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+一个强调离心力、锤体跟随视角与回旋返手的神话动作一镜到底 prompt。
+
+来源: [Post](https://x.com/aimikoda/status/2040752436780961971) · 发布日期: 2026年4月5日
+
+[![](./public/seedance_2_prompt_images/126.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+#### Orbiting Carnival Objects
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+一个干净的运动设计 prompt，核心是环形轨道、漂浮道具和受控物体编排。
+
+来源: [Post](https://x.com/ShadeLurk/status/2040748166212157568) · 发布日期: 2026年4月5日
+
+[![](./public/seedance_2_prompt_images/123.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+#### Space Colony Dawn Heroine
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
+一条中文科幻分镜 prompt，以环形太空殖民地清晨开场，结合宏大航拍和女性主角登场。
+
+来源: [Post](https://x.com/MiraMusic_AI/status/2040744022294335604) · 发布日期: 2026年4月5日
+
+[![](./public/seedance_2_prompt_images/124.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+#### Sunny Pool Party Montage
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+一个明亮夏日泳池派对 montage，强调社交氛围、阳光动态和生活方式广告感镜头。
+
+来源: [Post](https://x.com/ivanka_humeniuk/status/2040415406297374734) · 发布日期: 2026年4月5日
+
+[![](./public/seedance_2_prompt_images/125.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+<!-- latest-additions:end -->
+
 ### 屋顶觉醒至 F-14 变形
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
 一个长篇变形序列，从屋顶冲刺、自由落体接应，一路升级到汽车变形成喷气战机。
@@ -3288,7 +3325,6 @@ Scene: Black stand-up stage, strong spotlight illuminating the person, blurred s
 
 ## 资源
 
-- 数据集真值来源: [`../seedance_2_prompt.json`](../seedance_2_prompt.json)
 - 贡献指南: [`./CONTRIBUTING.md`](./CONTRIBUTING.md)
 - 仓库规划参考: [`../repo-structure.md`](../repo-structure.md)
 - API 参考: [`EvoLinkAI/Seedance-2.0-API`](https://github.com/EvoLinkAI/Seedance-2.0-API)

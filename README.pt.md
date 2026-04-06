@@ -71,6 +71,43 @@ Este repositório foca em **prompts utilizáveis** do Seedance 2.0, não em come
 
 Estes prompts são destacados pela variedade: transformação de longa duração, realismo emocional, trabalho de storyboard comercial, design estruturado de prompt e ação de grande espetáculo.
 
+<!-- latest-additions:start -->
+### Adições Recentes
+
+#### Hammer That Never Misses
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+Um prompt mítico em plano-sequência, centrado em força centrífuga, POV seguindo o martelo e retorno após o impacto.
+
+Fonte: [Post](https://x.com/aimikoda/status/2040752436780961971) · Publicado em: 05 Apr 2026
+
+[![](./public/seedance_2_prompt_images/126.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+#### Orbiting Carnival Objects
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+Um prompt limpo de motion design com órbita circular ampla, objetos flutuantes e coreografia controlada.
+
+Fonte: [Post](https://x.com/ShadeLurk/status/2040748166212157568) · Publicado em: 05 Apr 2026
+
+[![](./public/seedance_2_prompt_images/123.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+#### Space Colony Dawn Heroine
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
+Um prompt chinês de ficção científica por planos, ambientado em uma colônia espacial em anel ao amanhecer, com escala épica e entrada da heroína.
+
+Fonte: [Post](https://x.com/MiraMusic_AI/status/2040744022294335604) · Publicado em: 05 Apr 2026
+
+[![](./public/seedance_2_prompt_images/124.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+#### Sunny Pool Party Montage
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+Um montage luminoso de pool party de verão, focado em energia social, movimento sob o sol e enquadramento de lifestyle comercial.
+
+Fonte: [Post](https://x.com/ivanka_humeniuk/status/2040415406297374734) · Publicado em: 05 Apr 2026
+
+[![](./public/seedance_2_prompt_images/125.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+<!-- latest-additions:end -->
+
 ### Despertar no Telhado até a Transformação em F-14
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
 Uma sequência de transformação de longa duração que escala de uma corrida no telhado, para captura em queda livre, até a metamorfose de carro em jato.
@@ -3288,7 +3325,6 @@ Scene: Black stand-up stage, strong spotlight illuminating the person, blurred s
 
 ## Recursos
 
-- Fonte de verdade do dataset: [`../seedance_2_prompt.json`](../seedance_2_prompt.json)
 - Guia de contribuição: [`./CONTRIBUTING.md`](./CONTRIBUTING.md)
 - Referência de planejamento do repositório: [`../repo-structure.md`](../repo-structure.md)
 - Referência de API: [`EvoLinkAI/Seedance-2.0-API`](https://github.com/EvoLinkAI/Seedance-2.0-API)

@@ -3,8 +3,4 @@ __pycache__/
 scripts/
 result/
 seedance-prompt-update/
-!seedance-prompt-update/
-!seedance-prompt-update/SKILL.md
-!seedance-prompt-update/scripts/
-!seedance-prompt-update/scripts/**
 seedance_2_prompt.json

@@ -71,6 +71,43 @@ Language: **日本語**
 
 ここでは、多様性の観点から、長尺 transformation、感情的リアリズム、商用 storyboard 制作、構造化 prompt 設計、高スペクタクルなアクションを取り上げています。
 
+<!-- latest-additions:start -->
+### 最新追加
+
+#### Hammer That Never Misses
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+遠心力、ハンマー追従 POV、投擲後の帰還アークを軸にした mythic action のワンショット prompt。
+
+出典: [Post](https://x.com/aimikoda/status/2040752436780961971) · 公開日: 05 Apr 2026
+
+[![](./public/seedance_2_prompt_images/126.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+#### Orbiting Carnival Objects
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+円軌道、浮遊プロップ、制御されたオブジェクト配置を中心にしたクリーンな motion design prompt。
+
+出典: [Post](https://x.com/ShadeLurk/status/2040748166212157568) · 公開日: 05 Apr 2026
+
+[![](./public/seedance_2_prompt_images/123.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+#### Space Colony Dawn Heroine
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
+リング型スペースコロニーの朝を舞台に、壮大な空撮スケールと女性主人公の登場を組み合わせた中国語 sci-fi storyboard prompt。
+
+出典: [Post](https://x.com/MiraMusic_AI/status/2040744022294335604) · 公開日: 05 Apr 2026
+
+[![](./public/seedance_2_prompt_images/124.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+#### Sunny Pool Party Montage
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+夏のプールパーティー montage。社交的な熱量、日差しの動き、ライフスタイル広告の画作りを重視。
+
+出典: [Post](https://x.com/ivanka_humeniuk/status/2040415406297374734) · 公開日: 05 Apr 2026
+
+[![](./public/seedance_2_prompt_images/125.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+<!-- latest-additions:end -->
+
 ### 屋上での覚醒から F-14 への変身
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
 屋上での疾走から自由落下でのキャッチ、そして車からジェット機への metamorphosis へと発展する長尺 transformation シーケンス。
@@ -3288,7 +3325,6 @@ Scene: Black stand-up stage, strong spotlight illuminating the person, blurred s
 
 ## リソース
 
-- データセットの正本: [`../seedance_2_prompt.json`](../seedance_2_prompt.json)
 - コントリビューションガイド: [`./CONTRIBUTING.md`](./CONTRIBUTING.md)
 - リポジトリ計画リファレンス: [`../repo-structure.md`](../repo-structure.md)
 - API リファレンス: [`EvoLinkAI/Seedance-2.0-API`](https://github.com/EvoLinkAI/Seedance-2.0-API)
