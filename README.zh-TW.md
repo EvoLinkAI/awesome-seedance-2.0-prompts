@@ -24,7 +24,6 @@
 ## 目錄
 
 - [統計](#statistics)
-- [相關儲存庫](#related-repositories)
 - [如何使用本儲存庫](#how-to-use-this-repository)
 - [精選提示詞](#featured-prompts)
 - [提示詞分類](#prompt-categories)
@@ -48,12 +47,6 @@
 | 提示詞總數 | 139 |
 | 來源語言 | 4 |
 | 最新來源日期 | `05 Apr 2026` |
-
-## 相關儲存庫
-
-- [`EvoLinkAI/Seedance-2.0-API`](https://github.com/EvoLinkAI/Seedance-2.0-API) - Seedance 2.0 的 API 參考、價格背景、請求範例與整合細節。
-- [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw) - 用於在工作流程自動化中執行 Seedance 2.0 生成的 OpenClaw skill 包裝。
-- [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide) - 更完整的 Seedance 2.0 指南，涵蓋原始提示詞以外的能力、技巧與使用案例說明。
 
 ## 如何使用本儲存庫
 

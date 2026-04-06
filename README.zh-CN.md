@@ -24,7 +24,6 @@
 ## 目录
 
 - [统计数据](#统计数据)
-- [相关仓库](#相关仓库)
 - [如何使用本仓库](#如何使用本仓库)
 - [精选提示词](#精选提示词)
 - [提示词分类](#提示词分类)
@@ -48,12 +47,6 @@
 | 提示词总数 | 139 |
 | 源语言 | 4 |
 | 最新来源日期 | `05 Apr 2026` |
-
-## 相关仓库
-
-- [`EvoLinkAI/Seedance-2.0-API`](https://github.com/EvoLinkAI/Seedance-2.0-API) - Seedance 2.0 的 API 参考、价格背景、请求示例与集成细节。
-- [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw) - 用于在工作流自动化中运行 Seedance 2.0 生成的 OpenClaw skill 封装。
-- [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide) - 更全面的 Seedance 2.0 指南，涵盖原始 prompts 之外的能力、技巧和用例说明。
 
 ## 如何使用本仓库
 

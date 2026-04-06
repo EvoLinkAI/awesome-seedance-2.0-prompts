@@ -24,7 +24,6 @@ Ce dépôt se concentre sur les **prompts exploitables** de Seedance 2.0, et non
 ## Table des matières
 
 - [Statistiques](#statistiques)
-- [Dépôts connexes](#dépôts-connexes)
 - [Comment utiliser ce dépôt](#comment-utiliser-ce-dépôt)
 - [Prompts en vedette](#prompts-en-vedette)
 - [Catégories de prompts](#catégories-de-prompts)
@@ -48,12 +47,6 @@ Ce dépôt se concentre sur les **prompts exploitables** de Seedance 2.0, et non
 | Total des prompts | 139 |
 | Langues source | 4 |
 | Date de la source la plus récente | `05 avr. 2026` |
-
-## Dépôts connexes
-
-- [`EvoLinkAI/Seedance-2.0-API`](https://github.com/EvoLinkAI/Seedance-2.0-API) - Référence API, contexte tarifaire, exemples de requêtes et détails d'intégration pour Seedance 2.0.
-- [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw) - Wrapper de skill OpenClaw pour exécuter la génération Seedance 2.0 dans l'automatisation de workflow.
-- [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide) - guide Seedance 2.0 plus large couvrant les capacités, les techniques et les explications de cas d'usage au-delà des prompts bruts.
 
 ## Comment utiliser ce dépôt
 

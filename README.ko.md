@@ -24,7 +24,6 @@
 ## 목차
 
 - [통계](#통계)
-- [관련 저장소](#관련-저장소)
 - [이 저장소 사용 방법](#이-저장소-사용-방법)
 - [추천 프롬프트](#추천-프롬프트)
 - [프롬프트 카테고리](#프롬프트-카테고리)
@@ -48,12 +47,6 @@
 | 전체 프롬프트 | 139 |
 | 원본 언어 수 | 4 |
 | 최신 소스 날짜 | `05 Apr 2026` |
-
-## 관련 저장소
-
-- [`EvoLinkAI/Seedance-2.0-API`](https://github.com/EvoLinkAI/Seedance-2.0-API) - Seedance 2.0용 API 레퍼런스, 가격 맥락, 요청 예시, 통합 세부 정보를 제공합니다.
-- [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw) - 워크플로 자동화 안에서 Seedance 2.0 생성을 실행하기 위한 OpenClaw skill wrapper입니다.
-- [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide) - 단순 프롬프트를 넘어 기능, 기법, 사용 사례 설명까지 다루는 더 폭넓은 Seedance 2.0 가이드입니다.
 
 ## 이 저장소 사용 방법
 

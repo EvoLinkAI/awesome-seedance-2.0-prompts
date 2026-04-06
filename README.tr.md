@@ -24,7 +24,6 @@ Bu depo, prompt'lar hakkindaki yorumlara degil, Seedance 2.0 icin **kullanilabil
 ## Icindekiler
 
 - [Istatistikler](#istatistikler)
-- [Ilgili Depolar](#ilgili-depolar)
 - [Bu Depo Nasil Kullanilir](#bu-depo-nasil-kullanilir)
 - [One Cikan Prompts](#one-cikan-prompts)
 - [Prompt Kategorileri](#prompt-kategorileri)
@@ -48,12 +47,6 @@ Bu depo, prompt'lar hakkindaki yorumlara degil, Seedance 2.0 icin **kullanilabil
 | Toplam prompt | 139 |
 | Kaynak dilleri | 4 |
 | En son kaynak tarihi | `05 Apr 2026` |
-
-## Ilgili Depolar
-
-- [`EvoLinkAI/Seedance-2.0-API`](https://github.com/EvoLinkAI/Seedance-2.0-API) - Seedance 2.0 icin API referansi, fiyatlandirma baglami, istek ornekleri ve entegrasyon ayrintilari.
-- [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw) - Seedance 2.0 uretimini workflow otomasyonu icinde calistirmak icin OpenClaw skill wrapper'i.
-- [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide) - ham prompt'larin otesinde yetenekleri, teknikleri ve kullanim senaryolarini kapsayan daha genis Seedance 2.0 rehberi.
 
 ## Bu Depo Nasil Kullanilir
 

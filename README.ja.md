@@ -24,7 +24,6 @@ Language: **日本語**
 ## 目次
 
 - [統計](#statistics)
-- [関連リポジトリ](#related-repositories)
 - [このリポジトリの使い方](#how-to-use-this-repository)
 - [注目の Prompt](#featured-prompts)
 - [Prompt カテゴリ](#prompt-categories)
@@ -48,12 +47,6 @@ Language: **日本語**
 | Prompt 総数 | 139 |
 | ソース言語数 | 4 |
 | 最新ソース日 | `05 Apr 2026` |
-
-## 関連リポジトリ
-
-- [`EvoLinkAI/Seedance-2.0-API`](https://github.com/EvoLinkAI/Seedance-2.0-API) - Seedance 2.0 の API リファレンス、価格の文脈、リクエスト例、統合の詳細。
-- [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw) - workflow automation 内で Seedance 2.0 generation を実行するための OpenClaw skill wrapper。
-- [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide) - 生の prompt を超えて、機能、テクニック、ユースケース解説を扱う、より広い Seedance 2.0 ガイド。
 
 ## このリポジトリの使い方
 

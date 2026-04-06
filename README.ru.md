@@ -24,7 +24,6 @@
 ## Содержание
 
 - [Статистика](#статистика)
-- [Связанные репозитории](#связанные-репозитории)
 - [Как использовать этот репозиторий](#как-использовать-этот-репозиторий)
 - [Избранные промпты](#избранные-промпты)
 - [Категории промптов](#категории-промптов)
@@ -48,12 +47,6 @@
 | Всего промптов | 139 |
 | Языки источников | 4 |
 | Дата последнего источника | `05 Apr 2026` |
-
-## Связанные репозитории
-
-- [`EvoLinkAI/Seedance-2.0-API`](https://github.com/EvoLinkAI/Seedance-2.0-API) - API reference, pricing context, request examples, and integration details for Seedance 2.0.
-- [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw) - OpenClaw skill wrapper for running Seedance 2.0 generation inside workflow automation.
-- [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide) - broader Seedance 2.0 guide covering capabilities, techniques, and use-case explanations beyond raw промпты.
 
 ## Как использовать этот репозиторий
 

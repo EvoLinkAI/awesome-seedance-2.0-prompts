@@ -24,7 +24,6 @@ Este repositório foca em **prompts utilizáveis** do Seedance 2.0, não em come
 ## Índice
 
 - [Estatísticas](#estatísticas)
-- [Repositórios Relacionados](#repositórios-relacionados)
 - [Como Usar Este Repositório](#como-usar-este-repositório)
 - [Prompts em Destaque](#prompts-em-destaque)
 - [Categorias de Prompts](#categorias-de-prompts)
@@ -48,12 +47,6 @@ Este repositório foca em **prompts utilizáveis** do Seedance 2.0, não em come
 | Total de prompts | 139 |
 | Idiomas de origem | 4 |
 | Data da fonte mais recente | `05 Abr 2026` |
-
-## Repositórios Relacionados
-
-- [`EvoLinkAI/Seedance-2.0-API`](https://github.com/EvoLinkAI/Seedance-2.0-API) - Referência de API, contexto de preços, exemplos de requisição e detalhes de integração do Seedance 2.0.
-- [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw) - Skill wrapper do OpenClaw para executar geração com Seedance 2.0 dentro de automações de workflow.
-- [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide) - guia mais amplo do Seedance 2.0 cobrindo capacidades, técnicas e explicações de casos de uso além de prompts brutos.
 
 ## Como Usar Este Repositório
 
