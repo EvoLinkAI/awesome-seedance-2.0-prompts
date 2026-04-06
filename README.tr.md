@@ -2,7 +2,7 @@
 
 # Awesome Seedance 2.0 Prompts
 
-[![Awesome](https://img.shields.io/badge/Awesome-Seedance%202.0%20Prompts-black?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts) [![GitHub stars](https://img.shields.io/github/stars/EvoLinkAI/awesome-seedance-2.0-prompts?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts/stargazers) [![Prompt count](https://img.shields.io/badge/prompts-122-blue?style=flat-square)](./README.md)
+[![Awesome](https://img.shields.io/badge/Awesome-Seedance%202.0%20Prompts-black?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts) [![GitHub stars](https://img.shields.io/github/stars/EvoLinkAI/awesome-seedance-2.0-prompts?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts/stargazers) [![Prompt count](https://img.shields.io/badge/prompts-139-blue?style=flat-square)](./README.md)
 
 <p align="center">
   <img src="./public/banner.jpg" alt="Awesome Seedance 2.0 Prompts banner" width="100%" />
@@ -12,13 +12,9 @@ Sinematik video uretimi icin yuksek kaliteli Seedance 2.0 prompt'larindan olusan
 
 Dil: **Turkce**
 
-> Seedance 2.0 ekosistemini daha genis kapsamda kesfedin:
->
-> API dokumantasyonu ve entegrasyon referansi: [`EvoLinkAI/Seedance-2.0-API`](https://github.com/EvoLinkAI/Seedance-2.0-API)
->
-> OpenClaw workflow entegrasyonu: [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
->
-> Uctan uca kullanim rehberi ve ornekler: [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
+- API dokumani: [`EvoLinkAI/Seedance-2.0-API`](https://github.com/EvoLinkAI/Seedance-2.0-API)
+- OpenClaw skill'i: [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
+- Tam rehber: [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
 
 ## Aciklama
 
@@ -49,7 +45,7 @@ Bu depo, prompt'lar hakkindaki yorumlara degil, Seedance 2.0 icin **kullanilabil
 
 | Metrik | Deger |
 | --- | --- |
-| Toplam prompt | 122 |
+| Toplam prompt | 139 |
 | Kaynak dilleri | 4 |
 | En son kaynak tarihi | `05 Apr 2026` |
 

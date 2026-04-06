@@ -2,7 +2,7 @@
 
 # Awesome Seedance 2.0 Prompts
 
-[![Awesome](https://img.shields.io/badge/Awesome-Seedance%202.0%20Prompts-black?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts) [![GitHub stars](https://img.shields.io/github/stars/EvoLinkAI/awesome-seedance-2.0-prompts?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts/stargazers) [![Prompt count](https://img.shields.io/badge/prompts-122-blue?style=flat-square)](./README.md)
+[![Awesome](https://img.shields.io/badge/Awesome-Seedance%202.0%20Prompts-black?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts) [![GitHub stars](https://img.shields.io/github/stars/EvoLinkAI/awesome-seedance-2.0-prompts?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts/stargazers) [![Prompt count](https://img.shields.io/badge/prompts-139-blue?style=flat-square)](./README.md)
 
 <p align="center">
   <img src="./public/banner.jpg" alt="Awesome Seedance 2.0 Prompts banner" width="100%" />
@@ -12,13 +12,9 @@ Una colección curada de prompts de alta calidad de Seedance 2.0 para generació
 
 Idioma: **Español**
 
-> Explora el ecosistema más amplio de Seedance 2.0:
->
-> Documentación de la API y referencia de integración: [`EvoLinkAI/Seedance-2.0-API`](https://github.com/EvoLinkAI/Seedance-2.0-API)
->
-> Integración de workflow de OpenClaw: [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
->
-> Guía de uso de extremo a extremo y ejemplos: [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
+- Documentación API: [`EvoLinkAI/Seedance-2.0-API`](https://github.com/EvoLinkAI/Seedance-2.0-API)
+- Skill de OpenClaw: [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
+- Guía completa: [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
 
 ## Descripción
 
@@ -49,7 +45,7 @@ Este repositorio se centra en **prompts utilizables** de Seedance 2.0, no en com
 
 | Métrica | Valor |
 | --- | --- |
-| Prompts totales | 122 |
+| Prompts totales | 139 |
 | Idiomas de origen | 4 |
 | Fecha de origen más reciente | `05 Abr 2026` |
 

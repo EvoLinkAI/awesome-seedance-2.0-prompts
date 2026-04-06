@@ -2,7 +2,7 @@
 
 # Awesome Seedance 2.0 Prompts
 
-[![Awesome](https://img.shields.io/badge/Awesome-Seedance%202.0%20Prompts-black?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts) [![GitHub stars](https://img.shields.io/github/stars/EvoLinkAI/awesome-seedance-2.0-prompts?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts/stargazers) [![Prompt count](https://img.shields.io/badge/prompts-122-blue?style=flat-square)](./README.md)
+[![Awesome](https://img.shields.io/badge/Awesome-Seedance%202.0%20Prompts-black?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts) [![GitHub stars](https://img.shields.io/github/stars/EvoLinkAI/awesome-seedance-2.0-prompts?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts/stargazers) [![Prompt count](https://img.shields.io/badge/prompts-139-blue?style=flat-square)](./README.md)
 
 <p align="center">
   <img src="./public/banner.jpg" alt="Awesome Seedance 2.0 Prompts banner" width="100%" />
@@ -12,13 +12,9 @@
 
 语言: **简体中文**
 
-> 探索更广泛的 Seedance 2.0 生态：
->
-> API 文档与集成参考: [`EvoLinkAI/Seedance-2.0-API`](https://github.com/EvoLinkAI/Seedance-2.0-API)
->
-> OpenClaw 工作流集成: [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
->
-> 端到端使用指南与示例: [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
+- API 文档: [`EvoLinkAI/Seedance-2.0-API`](https://github.com/EvoLinkAI/Seedance-2.0-API)
+- OpenClaw Skill: [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
+- 完整指南: [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
 
 ## 说明
 
@@ -49,7 +45,7 @@
 
 | 指标 | 数值 |
 | --- | --- |
-| 提示词总数 | 122 |
+| 提示词总数 | 139 |
 | 源语言 | 4 |
 | 最新来源日期 | `05 Apr 2026` |
 

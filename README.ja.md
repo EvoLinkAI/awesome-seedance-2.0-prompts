@@ -2,7 +2,7 @@
 
 # Awesome Seedance 2.0 Prompts
 
-[![Awesome](https://img.shields.io/badge/Awesome-Seedance%202.0%20Prompts-black?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts) [![GitHub stars](https://img.shields.io/github/stars/EvoLinkAI/awesome-seedance-2.0-prompts?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts/stargazers) [![Prompt count](https://img.shields.io/badge/prompts-122-blue?style=flat-square)](./README.md)
+[![Awesome](https://img.shields.io/badge/Awesome-Seedance%202.0%20Prompts-black?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts) [![GitHub stars](https://img.shields.io/github/stars/EvoLinkAI/awesome-seedance-2.0-prompts?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts/stargazers) [![Prompt count](https://img.shields.io/badge/prompts-139-blue?style=flat-square)](./README.md)
 
 <p align="center">
   <img src="./public/banner.jpg" alt="Awesome Seedance 2.0 Prompts banner" width="100%" />
@@ -12,13 +12,9 @@ cinematic video generation 向けの高品質な Seedance 2.0 prompt を厳選�
 
 Language: **日本語**
 
-> より広い Seedance 2.0 ecosystem を見る:
->
-> API ドキュメントと統合リファレンス: [`EvoLinkAI/Seedance-2.0-API`](https://github.com/EvoLinkAI/Seedance-2.0-API)
->
-> OpenClaw workflow 統合: [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
->
-> エンドツーエンドの利用ガイドと例: [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
+- API ドキュメント: [`EvoLinkAI/Seedance-2.0-API`](https://github.com/EvoLinkAI/Seedance-2.0-API)
+- OpenClaw Skill: [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
+- 完全ガイド: [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
 
 ## 説明
 
@@ -49,7 +45,7 @@ Language: **日本語**
 
 | 指標 | 値 |
 | --- | --- |
-| Prompt 総数 | 122 |
+| Prompt 総数 | 139 |
 | ソース言語数 | 4 |
 | 最新ソース日 | `05 Apr 2026` |
 

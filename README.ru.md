@@ -2,7 +2,7 @@
 
 # Awesome Seedance 2.0 Prompts
 
-[![Awesome](https://img.shields.io/badge/Awesome-Seedance%202.0%20Промпты-black?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-промпты) [![GitHub stars](https://img.shields.io/github/stars/EvoLinkAI/awesome-seedance-2.0-промпты?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-промпты/stargazers) [![Промпт count](https://img.shields.io/badge/промпты-125-blue?style=flat-square)](./README.md)
+[![Awesome](https://img.shields.io/badge/Awesome-Seedance%202.0%20Промпты-black?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-промпты) [![GitHub stars](https://img.shields.io/github/stars/EvoLinkAI/awesome-seedance-2.0-промпты?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-промпты/stargazers) [![Промпт count](https://img.shields.io/badge/промпты-139-blue?style=flat-square)](./README.md)
 
 <p align="center">
   <img src="./public/banner.jpg" alt="Awesome Seedance 2.0 Промпты banner" width="100%" />
@@ -12,13 +12,9 @@
 
 Язык: **Русский**
 
-> Изучите более широкую экосистему Seedance 2.0:
->
-> API документация и интеграционный reference: [`EvoLinkAI/Seedance-2.0-API`](https://github.com/EvoLinkAI/Seedance-2.0-API)
->
-> Интеграция OpenClaw workflow: [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
->
-> End-to-end руководство по использованию и примеры: [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
+- Документация API: [`EvoLinkAI/Seedance-2.0-API`](https://github.com/EvoLinkAI/Seedance-2.0-API)
+- Skill для OpenClaw: [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
+- Полный гайд: [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
 
 ## Описание
 
@@ -49,7 +45,7 @@
 
 | Метрика | Значение |
 | --- | --- |
-| Всего промптов | 122 |
+| Всего промптов | 139 |
 | Языки источников | 4 |
 | Дата последнего источника | `05 Apr 2026` |
 
