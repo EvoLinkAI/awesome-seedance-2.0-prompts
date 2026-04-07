@@ -12,7 +12,7 @@ Eine kuratierte Sammlung hochwertiger Seedance-2.0-Prompts für die cinematische
 
 Sprache: **Deutsch**
 
-- API-Dokumentation: [`EvoLinkAI/Seedance-2.0-API`](https://github.com/EvoLinkAI/Seedance-2.0-API)
+- API-Dokumentation: [`EvoLinkAI/Seedance-2.0-Gateway-Service`](https://github.com/EvoLinkAI/Seedance-2.0-Gateway-Service)
 - OpenClaw-Skill: [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
 - Vollständiger Guide: [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
 
@@ -3951,7 +3951,7 @@ Audio: low eerie hum, distant wind, wooden kam
 
 - Leitfaden zum Mitwirken: [`./CONTRIBUTING.md`](./CONTRIBUTING.md)
 - Referenz zur Repository-Planung: [`../repo-structure.md`](../repo-structure.md)
-- API-Referenz: [`EvoLinkAI/Seedance-2.0-API`](https://github.com/EvoLinkAI/Seedance-2.0-API)
+- API-Referenz: [`EvoLinkAI/Seedance-2.0-Gateway-Service`](https://github.com/EvoLinkAI/Seedance-2.0-Gateway-Service)
 - OpenClaw-Skill: [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
 - Praktischer Guide: [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
 
