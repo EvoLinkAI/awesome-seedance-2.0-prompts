@@ -71,6 +71,19 @@ Source: [Post](https://x.com/aimikoda/status/2040752436780961971) · Publié: 05
 
 [![](./public/seedance_2_prompt_images/126.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
+```text
+TIMELINE:
+
+1. Low wide 24mm, camera orbiting through grass. Warrior already spinning, both hands locked at the end of the handle. The hammer head stays wide and pulls her through each turn by centrifugal force. Beast stays far in background. Revolutions grow faster, runes brighten, grass bends outward. SFX: wind, scrape, metal groan, rune hum.
+2. Same shot, orbit tightening. Warrior plants both feet, shoulders whip through, fingers peel from the handle in heavy slow motion. Full hammer and handle stay visible leaving both hands. SFX: stretched launch crack, wind drag, suspended rune tone.
+3. Same shot, no cut, camera pulled into hammer-follow POV behind the spinning head. Speed returns. Hammer flies low, slams into the beast's brow ridge, and the shockwave flattens grass outward. Beast is hurled backward and starts to topple. SFX: wind roar, thunderclap, silence.
+4. Same shot, camera rises with the impact wave and arcs back to the warrior. In the distance the beast crashes onto its side. The hammer rips free, curves back through the sky, and lands in the warrior's hand before end. SFX: delayed boom, rune whine, ground tremor, settling air.
+
+MOOD: Mythic force, clear cause and effect.
+COLOR LOGIC: Naturalistic Film Print Emulation
+STYLE: Fantasy realism
+```
+
 #### Orbiting Carnival Objects
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Un prompt de motion design propre, basé sur une large orbite circulaire, des objets flottants et une chorégraphie contrôlée.
@@ -78,6 +91,18 @@ Un prompt de motion design propre, basé sur une large orbite circulaire, des ob
 Source: [Post](https://x.com/ShadeLurk/status/2040748166212157568) · Publié: 05 Apr 2026
 
 [![](./public/seedance_2_prompt_images/123.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+```text
+prompt:
+Dark navy background. A few small objects drift along a wide circular orbit — the rotation center sits in the upper right of the frame, the camera watches from the outer edge. A decorated box, a striped ball, and a couple of carnival items arc past one by one, curving leftward across the view. Sparse confetti strips and gold coins float through the air.
+Three cream-colored rectangular talismans appear on the same orbital path, each bearing a different painted emblem. They approach one at a time, sweeping across the camera in a wide arc.
+A glowing golden-framed card carrying a character illustration enters along the orbit. It drifts to center screen and the camera pushes in. The golden frame swells beyond the screen edges and vanishes — only the character remains. Gold sparkles and cross-shaped flares surround the reveal.
+Red talismans orbit the character in irregular circular paths. Flame-colored ribbons weave through the hair. A fireball ignites near the outstretched hand, swelling until it fills nearly half the screen with white-hot light. The fireball contracts back toward the hands. Energy converts — flames dissolve into crackling purple arcs. The talismans transform into large glowing red rectangles covered in flame-crest patterns, fanning out in formation.
+The character spins with the talismans fanning wider. Camera drives in — golden light ignites in both eyes, a held beat of charge. Pull back to full body. White-gold explosion erupts outward. The talismans launch toward the camera — one large talisman surges forward, dark surface swirling with magenta crests, growing until it covers the entire frame. Black.
+New scene. No character visible. Red glowing rectangles streak across dark space in a wide circular arc, trailing fire. They converge on a single point at center screen. On impact, red flash fills the screen — hot pink wash expands, then fades.
+Red-orange glowing core at the center with spiral energy arcs rotating around it. More red rectangles converge from all sides onto the central energy sphere. Everything compresses to a single bright point — total whiteout.
+Fireball detonates outward with radial god rays. It expands to half the screen, then disperses. Red rectangle debris drifts through the flames. The color shifts — red bleeds to magenta, magenta to purple. In one frame, cold blue-purple replaces everything. New scene.
+```
 
 #### Space Colony Dawn Heroine
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
@@ -87,6 +112,30 @@ Source: [Post](https://x.com/MiraMusic_AI/status/2040744022294335604) · Publié
 
 [![](./public/seedance_2_prompt_images/124.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
+```text
+prompt：
+【开场镜头序列·总时长15秒·共7个切换镜头】
+■ 镜头1（0:00–0:02）无人机超广角·宇宙殖民地全景
+以超广角无人机镜头从宇宙殖民地外壳切入。巨大的环形殖民地内部徐徐展现——晨光穿透弧形透明穹顶，斜射进入殖民地内部的近未来都市。城市天际线在金色晨雾中若隐若现，悬浮建筑群与发光轨道交错排列。镜头以极慢速度向内推进，营造出宏大的史诗感开场。画面色调：冷蓝主调，金色晨光为点缀。
+■ 镜头2（0:02–0:04）俯瞰垂直下降·高台上的女性全身
+镜头从正上方俯视，捕捉站在高台边缘的女性全身。她身着白色与红色机甲战衣，肩部装甲宽大且具攻击性线条，裙摆由多层刀状装甲板构成。黑色长发在高处的风中轻轻飘动。镜头以缓慢的垂直下降（crane down）方式靠近，白色机甲在晨光下反射出耀眼的金属光泽，红色回路纹路隐约发出微弱的光芒。高台下方是深邃的未来城市峡谷，悬浮车辆如星点般穿梭。
+■ 镜头3（0:04–0:06）极近地面·足部特写
+镜头切换至极近地面的低角度仰拍，聚焦于她白色高跟机甲靴的靴尖，精准立于高台边缘。镜头缓缓向后拉开，露出靴身的红色发光线条纹路与小腿部位的白色装甲片。靴尖之下是无尽的城市深处，模糊的霓虹光与建筑轮廓形成强烈的高度感与紧张感。风声与城市低频嗡鸣作为音效层。
+■ 镜头4（0:06–0:09）侧面横向追踪·腰部至肩部
+镜头从她的腰侧开始，以流畅的横向追踪（tracking shot）缓缓向上移动。经过多层刀状装甲裙摆的细节——每片装甲边缘锋利、有光泽；沿着腰部向上，红色能量纹路在白色装甲上蜿蜒延伸；到达宽大的肩甲，顶端有棱角分明的突起结构。整个追踪过程背景为虚化的城市天际线，浅景深突出机甲质感。镜头运动速度配合慢拍电子节奏，流畅而充满张力。
+■ 镜头5（0:09–0:11）手部极致特写·赛博机械手
+切换至手部特写。她的一只手（赛博机械义手）搭放于高台金属栏杆之上。镜头极近，捕捉机械关节的精密结构——白色骨架、红色发光关节点、指尖处细微的传感器纹路。红色光点以脉冲节奏缓慢闪烁，仿佛心跳。栏杆下方城市的反射光在机械手表面形成流动的光影。音效：微弱的电流嗡鸣声与城市风声交叠。
+■ 镜头6（0:11–0:13）侧颜极近特写·晨光轮廓光
+镜头切换为极近侧颜特写。白色面具从侧面看，边缘线条流畅且具攻击性；黑色长发顺着肩甲垂落，在微风中轻柔摆动。晨光从画面右侧打来，精准地勾勒出面具边缘与发丝轮廓，形成金色的逆光轮廓（rim light）。面具侧面隐约可见一双眼睛的轮廓，凝视远方的城市。表情无法判读，充满神秘感与力量感。背景极度虚化为橙金色的晨光光晕。
+■ 镜头7（0:13–0:15）无人机后退上升·都市全景收尾
+镜头以无人机方式向后拉升，女性的轮廓在画面中央逐渐缩小——从全身到半身到剪影，最终成为殖民地城市天际线前的一个微小黑色剪影。晨光将整个画面渲染成金橙色调。镜头继续上升至殖民地内部全景，都市的宏大规模完整呈现，以此结束开场序列。整体结尾节奏放缓，为后续音乐高潮蓄力。
+【全局视觉设定】
+色调：冷蓝与金橙的强烈对比，机甲以白色为主色调，红色为能量强调色。
+光线：晨光斜射、金属反射光、红色能量发光。
+画质：8K电影级，超高细节，景深层次丰富，胶片颗粒质感。
+氛围：史诗、神秘、力量感、孤独的未来主义。
+```
+
 #### Sunny Pool Party Montage
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Un montage lumineux de pool party estivale, axé sur l’énergie sociale, le mouvement au soleil et un cadrage lifestyle commercial.
@@ -94,6 +143,12 @@ Un montage lumineux de pool party estivale, axé sur l’énergie sociale, le mo
 Source: [Post](https://x.com/ivanka_humeniuk/status/2040415406297374734) · Publié: 05 Apr 2026
 
 [![](./public/seedance_2_prompt_images/125.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+```text
+Admit it who wouldn’t want to be here right now and forget all their problems?😎
+
+Main cue words. Overall intent: A vibrant, sunny college pool party montage. The scene is chaotic, euphoric, and cinematic, featuring a variety of beautiful girls in stylish swimwear. The sequence relies on fast-paced, rhythmic editing to capture the raw emotions, youthful rebellion, and energetic atmosphere of a crazy summer party, complete with splashing water, giant inflatable toys, and endless dynamic movement. Sequence list: Shot 1 (0-1.5 seconds) Close-up Camera movement: Sharp pullback Motion dynamics: An explosive pullback starting directly from a drop of water falling from sunglasses, rapidly expanding to frame the subject's energetic reaction. Core action: A girl in a bright neon bikini suddenly bursts out of the water, tossing her wet hair. She laughs wildly directly at the camera. Natural fluid dynamics, water physics, energetic movement, breaking the surface tension. (Cut to) Shot 2 (1.5-3 seconds) Low-angle shot. Camera movement: right pan. Motion dynamics: a smooth horizontal glide at waist height, moving parallel to the subject to emphasize their confident strides along the poolside. Core action: Three girls in various stylish swimsuits confidently walk along the wet tiled edge of the pool, holding classic red plastic cups. Natural movement, intricate fabric simulation of sheer overcoats billowing in the wind, and interactive landings. (Cut to) Shot 3 (3-4.5 seconds) Medium shot from the Dutch corner. Camera movement: camera rolls to the right. Motion dynamics: a disorienting 30-degree tilt, physically mimicking the feeling of losing balance during a playful shove. Core action: A girl in a metallic onesie playfully pushes her friend into the pool. Realistic conservation of momentum, dynamic movement, and realistic physics of the splash. (Cut to) Shot 4 (4.5-6 seconds) FPV (First Person Perspective) Camera Movement: FPV Drone Motion Dynamics: A fast, swooping aerial descent directly above the water, weaving through party participants and inflatable toys. Core Action: Flying over a crowded pool where a group of girls laugh and relax on a giant pink flamingo float. Fluid movement, realistic human behavior patterns, natural fluid dynamics. (Cut to) Shot 5 (6-7 seconds) Macro Camera Movement: Still Shot Motion Dynamics: Absolute stillness to create a microsecond of visual tension before the rhythm falls. Core Action: Extreme detail of an ice cube falling into a red glass filled with liquid, held by a tanned hand wearing a colorful bracelet. Viscous liquid behavior, particle collisions, water splash physics. (Cut to) Shot 6 (7-8.5 seconds) Medium Shot Camera Movement: Tracking Shot Motion Dynamics: A dynamic, backward-following camera locked on the subject's face as she moves through a crowded area. Core Action: A beautiful girl with wet, wavy hair and a knitted bikini top dances through a crowded group of dancing college students, smiling radiantly. Confident movement, authentic human behavior. (Cut to) Shot 7 (8.5-10 seconds) Insect-eye view Camera movement: Push-in Motion dynamics: An aggressive upward push from the ground amplifies the scale and energy of the action above. Core Action: A girl leaps from a diving board into the air under a bright blue summer sky, her silhouette framed by solar flares. Vibrant movement, realistic conservation of momentum, and authentic physics governing all the action. (Cut to) Shot 8 (10-11.5 seconds) Close-up Camera movement: Pan to the left Motion dynamics: A rapid pan transition matching the head turn speed instantly shifts the focus from one subject to another. Core Action: Two girls in mismatched bikinis clink their red cups together in a toast, splashing water in the air, their faces beaming with genuine, joyful smiles. Natural fluid dynamics, vibrant movement, and pure, excited micro-expressions. (Cut to) Shot 9 (11.5-13 seconds) Over-the-shoulder shot (OTS) Camera movement: Pull-in motion Dynamics: Slow, deliberate movement over the foreground subject to focus on the chaotic, joyful interaction in the background. Core action: Over the shoulder of a DJ at the edge of the pool, the composition shows a group of girls splashing water wildly to the rhythm of the music. Fluid movement, water physics, and time consistency. (Cut to) Shot 10 (13-15 seconds) Extreme long shot (EWS) Camera movement: Rising and falling motion Dynamics: A rapid vertical ascent reveals the sheer scale of the chaotic pool party in the golden hour sunlight. Core action: The entire pool area is filled with dancing, swimming, and splashing water. Inflatable toys bounce on the water's surface. Seamless motion continuity, realistic physics governing all the movement, and highly dynamic motion culminate in a montage that reaches its climax.
+```
 
 <!-- latest-additions:end -->
 
