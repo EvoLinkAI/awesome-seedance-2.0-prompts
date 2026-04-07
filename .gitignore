@@ -1,7 +1,7 @@
 __pycache__/
 .DS_Store
+scripts/
+result/
 seedance-prompt-update/
 seedance_2_prompt.json
-result/
 .env
-scripts/
