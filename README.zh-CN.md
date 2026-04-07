@@ -2,7 +2,7 @@
 
 # Awesome Seedance 2.0 Prompts
 
-[![Awesome](https://img.shields.io/badge/Awesome-Seedance%202.0%20Prompts-black?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts) [![GitHub stars](https://img.shields.io/github/stars/EvoLinkAI/awesome-seedance-2.0-prompts?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts/stargazers) [![Prompt count](https://img.shields.io/badge/prompts-125-blue?style=flat-square)](./README.md)
+[![Awesome](https://img.shields.io/badge/Awesome-Seedance%202.0%20Prompts-black?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts) [![GitHub stars](https://img.shields.io/github/stars/EvoLinkAI/awesome-seedance-2.0-prompts?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts/stargazers) [![Prompt count](https://img.shields.io/badge/prompts-164-blue?style=flat-square)](./README.md)
 
 <p align="center">
   <img src="./public/banner.jpg" alt="Awesome Seedance 2.0 Prompts banner" width="100%" />
@@ -49,9 +49,9 @@
 
 | 指标 | 数值 |
 | --- | --- |
-| 提示词总数 | 125 |
+| 提示词总数 | 164 |
 | 源语言 | 4 |
-| 最新来源日期 | `05 Apr 2026` |
+| 最新来源日期 | `2026年04月07日` |
 
 ## 相关仓库
 
@@ -3059,6 +3059,586 @@ Scene: Black stand-up stage, strong spotlight illuminating the person, blurred s
 ```
 
 **[立即试用 ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
+
+
+
+
+## 最新新增（2026年04月07日）
+
+### 深渊实体祭坛刻印 — 黑暗奇幻
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
+<img src="./public/seedance_2_prompt_images/2041050710721339521.jpg" width="400" />
+
+一个黑暗奇幻片段：深渊实体在祭坛上刻下分形几何纹样，裂缝中喷涌出血肉触须。
+
+来源: [帖子](https://x.com/Adam38363368936/status/2041050710721339521) · 发布时间: 06 04 2026
+
+```text
+提示词 (Prompt)： 0-3s · 异界铭刻 低角度仰拍。深渊实体右手嵌入（Embedded）祭坛，暗黑脉络呈分形几何状（Fractal Geometry）在石板上疯狂寄生。裂缝喷涌出粘稠血肉触须，地面如肺部般大幅度搏动。背景宗门古建筑随之发生视觉上的横向位移震颤。 3-6s · 骨质畸变 环绕升降镜头。实体的脊椎如连锁反应般炸裂扭曲，黑曜石角冠从颅骨深处穿出。双臂缠绕液态黑烟，所经之处空气产生高温电弧感，悬挂灯笼因能量过载瞬间发生视觉坍塌式爆裂。 6-9s · 物质解构 拉远镜头。实体表皮呈现瓷器般的碎裂纹路，内部是蠕动的暗物质核心。指尖异化为长达半米的影刃，触碰木柱瞬间引发超速风化（Accelerated Decay），建筑结构化为黑烟升腾。 9-12s · 影潮吞噬 高空俯拍。实体振臂，身后黑暗塌缩后猛然爆发，形成千米级的黑红浪潮（Corrupted Tsunami）。阴影洪流所过之处，青石板路、石狮、楼阁全部被像素化撕裂并吞噬。 12-15s · 虚空终焉 脸部特写。背景中巨大的山门在黑洞引力下向中心拧麻花状折断。实体在死寂中缓步走近，瞳孔内是旋转的星云（Void Nebula）。它凝视镜头，画面产生强烈的胶片烧灼感与信号故障感（Glitch），最终归于绝对黑暗。
+```
+
+**[立即体验 ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
+
+### 悬浮 UI 色环场景变换
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
+<img src="./public/seedance_2_prompt_images/2041001869435158629.jpg" width="400" />
+
+年轻女性通过滑动悬浮全息色环，在 15 秒 VFX 短片中丝滑切换场景与服装。
+
+来源: [帖子](https://x.com/johnAGI168/status/2041001869435158629) · 发布时间: 06 04 2026
+
+```text
+即可得到同款视频！
+
+Seedance 2.0 prompt 👇
+
+生成一段15秒的高质量实拍风格特效短片，核心展示一位年轻女性通过滑动悬浮UI色环，实现场景与服装的无缝丝滑切换。注意分镜编排与转场节奏，画面需具备极佳的景深效果（Depth of field），人物面部始终保持清晰且光影立体。 【人物特征锁定】 全程锁定核心人物特征：年轻女性，标志性的金黄色短发，佩戴圆形金属边框眼镜。 【分镜与动作设计】 00:00-00:05：室内卧室夜景，背景有暖黄色的星星形状散景氛围灯串。人物头发微微扎起，穿浅米色长袖家居睡衣坐在床上。画面正前方悬浮着完整的半透明渐变彩色色环（UI交互元素）。人物微笑着看向镜头，伸出手自然地触碰并向右滑动发光的色环。 00:05-00:07：随着色环转动，无缝转场至明亮的室内窗边日景，阳光温暖。人物短发自然散落，瞬间换上鲜艳的亮橙色无袖紧身上衣和白色休闲裤，单手托腮，笑容灿烂。色环悬浮在画面右侧，光标高亮显示黄橙色区域。 00:07-00:09：无缝转场至户外公园日景，背景是高曝光的明亮绿树。人物靠在粗壮树干旁，换上薄荷绿色方领泡泡袖露脐短上衣和浅色高腰短裤，右手戴黑色半截皮手套，对着镜头俏皮眨眼，手指轻触嘴唇。色环悬浮右侧，光标高亮亮绿色。 00:09-00:11：无缝转场至户外开阔草地，背景蓝天白云。人物靠在灰白水泥矮墙上，穿简约深蓝紫色细吊带上衣，单手托下巴，表情慵懒清冷。色环移至画面左侧，光标高亮深紫色。 00:11-00:13：无缝转场至阳光明媚的户外樱花林，背景满是盛开的粉色樱花。人物换粉色细吊带上衣，单手轻轻撩动头顶头发，展现甜美治愈微笑。色环悬浮左侧，光标高亮粉红色。 00:13-00:15：无缝转场至户外传统中式建筑前，背景有虚化的红色柱子和古建飞檐。人物穿深红色偏焦糖色的露肩改良版中式旗袍上衣（带传统盘扣），姿态端庄优雅，单手放于锁骨处，眼神微垂看向镜头。色环悬浮左侧，光标高亮红色。 【特殊控制指令】 必须保证场景与服装的每次切换平滑无跳切感（丝滑转场），保持人物动作的延续性。每次切换时，人物的情绪微表情必须与当前的服装色彩氛围完美契合。配合画面色彩切换，可自动生成带有轻巧科技感UI音效及动感节奏的BGM。
+```
+
+**[立即体验 ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
+
+### 神佛之城 — 东方奇幻一镜到底飞行
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
+<img src="./public/seedance_2_prompt_images/2041000256930763046.jpg" width="400" />
+
+一镜到底穿越宏大的东方奇幻都城，掠过巨型佛像、运河与武者军阵。
+
+来源: [帖子](https://x.com/john87445528/status/2041000256930763046) · 发布时间: 06 04 2026
+
+```text
+神佛之城·宗师登台】
+镜头以一镜到底的方式，在巨型东方奇幻神都中俯仰、翻滚、旋转、飞驰。
+【起始帧 - 图1场景】：镜头从天空俯冲而下，掠过悬浮的巨大苍白月球，快速接近两尊耸立云端的巨型佛像立掌雕塑（高度超过百米），穿过佛像指缝间缭绕的薄雾与红色灯笼串。镜头急速下降，俯瞰脚下青绿色运河纵横的东方奇幻水上都城，密集的木质古建筑、吊脚楼、石桥、灯火通明的船坞在雾气中若隐若现。
+镜头穿过佛像掌心的雕花装饰，沿着盘绕佛像基座的螺旋木质栈道急速下坠，闪避悬挂的红灯笼、飘扬的经幡、朝拜的僧侣与香火烟雾。镜头俯冲掠过运河水面，激起水花，穿过一艘悬挂红灯的乌篷船顶，滑入水下。
+水下镜头轻盈穿过透明的玻璃观景廊道，看到两侧深邃的水底古城废墟、沉没的石柱与浮游的锦鲤。镜头向上突破水面，冲出中心祭祀广场的喷泉，水珠四溅。
+镜头在半空翻转，横扫过广场上整齐列队的数百名黑衣武者（如图2所示），他们双手抱拳、静默肃立，形成人墙。镜头穿过武者之间的缝隙，贴地滑行，掠过刻有云雷纹的巨型石质祭坛台阶。
+【过渡段】：镜头沿着台阶螺旋上升，闪避两侧燃烧的巨型青铜香炉、摇曳的火光与飘散的香烟。镜头急速旋转360度，展现背景中两尊巨佛雕像、悬浮的苍白月球、雾气弥漫的天际线。
+【结束帧 - 图2场景】：镜头最终稳定在祭坛顶端平台，正对着一位身穿白色长袍、腰束米色腰带、肩披黑色机械护甲的中年东方武者（参考图3角色）。他双手自然垂于身侧，手持两柄交叉的银色机械长刀，面带淡然微笑，站在台阶尽头的中心位置。
+镜头缓缓后拉，展现他身后两尊巨型佛像立掌雕塑、下方密密麻麻的黑衣武者方阵、以及远处雾气中的水上古城全景。天空苍白月球巨大悬挂，薄雾缭绕，氛围庄严肃穆、史诗感十足。
+￼
+无剪辑、不可思议的镜头运动、无缝衔接，充满东方神秘、史诗宏大、极具电影感。8K高清画质，高品质影像素材。
+```
+
+**[立即体验 ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
+
+### 顶视角时尚 Lookbook — 换装序列
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
+<img src="./public/seedance_2_prompt_images/2040767631213363656.jpg" width="400" />
+
+一个鸟瞰视角的时尚 Lookbook，包含快速换装、吊扇前景虚化与卡点服装切换。
+
+来源: [帖子](https://x.com/johnAGI168/status/2040767631213363656) · 发布时间: 05 04 2026
+
+```text
+prompt 👇
+
+【风格】时尚杂志固定俯拍变装卡点（Top-Down Fashion Lookbook），电影质感，8K超清，丝滑卡点，极具冲击力的视觉节奏
+
+【时长】13秒
+
+【场景】固定俯拍视角（Bird's Eye View），镜头锁定正下方不移动。前景：模糊深棕色木质吊扇叶片缓慢旋转，偶尔遮挡镜头，营造空间景深。灰白纹理地毯，棕色方形靠垫。
+
+【角色】年轻亚洲女性，黑色长直发，始终平躺地毯同一位置头枕靠垫，换装时主体位置固定，仅服装配饰道具和手部姿态丝滑闪切，@人物
+
+[00:00-00:03] 造型1：慵懒丝绸（Silk Robe）
+
+黑色丝绸吊带短裙与长袖睡袍，丝绸反射柔光。右侧地板放一杯红酒，右手举黑色遥控器指向镜头上方，神态慵懒。
+
+[00:03-00:05] 造型2：纯白优雅（All White｜瞬间闪切）
+
+全白系：白色挂脖上衣、白色百褶短裙、半透明袖套、白色细皮带。双手手腕交叉轻放胸前，姿态优雅。
+
+[00:05-00:06] 造型3：狂野猫耳（Leopard Cat｜极速闪变）
+
+豹纹紧身吊带上衣配白色百褶裙，黑色猫耳发饰，缎带choker，白色长袜与高跟鞋。双手随意举过头顶放靠垫边缘。
+
+[00:06-00:08] 造型4：冷峻豹纹（Leopard Dress｜丝滑切换）
+
+紧身豹纹连衣短裙，黑色长袜。双手自然放身体两侧地板，眼神冷峻直视镜头。
+
+[00:08-00:09] 造型5：职场特工（Office Tie｜硬切）
+
+白色修身短袖衬衫、黑色领带、豹纹短裙。左侧地板出现白色平板电脑，右侧出现银色小方包，左手轻放腹部上方。
+
+[00:09-00:10] 造型6：暗黑摇滚（Rock Black｜瞬间变身）
+
+全黑：黑皮夹克、黑背心、黑皮短裤、黑色过膝长筒袜、半指皮手套。怀里斜抱浅色木吉他。
+
+[00:10-00:13] 造型7：复古惊艳（Vintage Qipao｜定格收束）
+
+红黑印花复古无袖短款旗袍，左侧发际别一朵红花，黑色过膝长筒袜。右手持半开黑色折扇置于胸前，右侧地板摆红色高跟鞋。红黑配色收束全片。
+```
+
+**[立即体验 ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
+
+### 古风跑酷变装序列
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
+<img src="./public/seedance_2_prompt_images/2040980673851506798.jpg" width="400" />
+
+写实古风跑酷变装场景，女主在传统建筑之间高速穿梭。
+
+来源: [帖子](https://x.com/Adam38363368936/status/2040980673851506798) · 发布时间: 06 04 2026
+
+```text
+在下面，来试试！
+
+Seedance2.0提示词
+
+写实古风跑酷变装。女主【@图1】写实风格，面容白净，黑色波浪长发，黑色连衣裙，面部微汗眼神凌厉。15秒一镜到底手持跟拍。
+场景：黄昏古镇，青石湿滑，冷暖影调。
+动作逻辑：0-3s 踩翻茶摊，顺手扯下白衫披身，老板尖叫；3-6s 踩车空翻，空掉牛仔裤落入蒸笼，强抓路人马面裙，少女摔倒；6-9s 扶手滑翔穿袖，掠走银簪并滑跪挽发，老伯愣神；9-12s 窄巷墙跑系腰带，抄起红油纸伞带倒伞架，学徒绊倒；12-15s 桥顶定格，俯视众人，猛烈开伞遮面，眼神回眸转为凌厉。
+质感：ARRI胶片质感，物理风阻逻辑，极致市井烟火气，路人反应真实，暴力跑酷美学。
+```
+
+**[立即体验 ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
+
+### 电影感北京文化广告 — 8K 第一人称
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
+<img src="./public/seedance_2_prompt_images/2040826411783762286.jpg" width="400" />
+
+一支以 8K 第一人称掠过老北京的电影感文化广告，展现传统建筑、街头生活与治愈氛围。
+
+来源: [帖子](https://x.com/crayon1267/status/2040826411783762286) · 发布时间: 05 04 2026
+
+```text
+电影级国风城市文化创意广告，超写实 8K，第一人称舒缓追随镜头，丝滑慢节奏运镜，北京古都氛围浓厚，治愈人文感，强代入感，建筑与自然细节清晰真实。整片时长 15 秒内，整体节奏放缓，镜头停留更从容，核心主体为一朵带晨露的白色蒲公英，镜头始终轻柔追随绒球。全程无背景音乐，仅保留环境拟音 + 极简地点旁白。 【0-4s】晨雾中的北京胡同，蒲公英被清风托起，镜头轻柔掠过瓦顶、院门与晨练残影。旁白：胡同 【4-8s】蒲公英缓缓飘行，掠过故宫角楼、天坛祈年殿。旁白：故宫、天坛 【8-12s】蒲公英继续轻飘，掠过颐和园十七孔桥、八达岭长城。旁白：颐和园、长城 【12-15s】蒲公英轻落什刹海湖面，镜头缓缓拉出城市全景。旁白（提前 1 秒出现）：风过北京，万物有灵。画面定格治愈收尾，不拖尾。 音效设计 全程无背景音乐，仅保留微风声、环境自然音、蒲公英飘飞轻响，旁白清晰干净，无多余嘈杂音效。
+```
+
+**[立即体验 ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
+
+### 发动机内部 — 活塞机械细节
+![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square)
+<img src="./public/seedance_2_prompt_images/2041068828457877598.jpg" width="400" />
+
+对发动机内部与活塞结构的精细机械可视化，展示 Seedance 2.0 更高的结构准确性。
+
+来源: [帖子](https://x.com/YaReYaRu30Life/status/2041068828457877598) · 发布时间: 06 04 2026
+
+```text
+の要素から少し知見が増して反映している印象
+→エンジン内部、ピストン
+プロンプトに入っていますが
+それっぽい構造が増してます。
+もう少しエンジンに関しての要素を出してオンにするとより良くなるかなーという気がします。
+
+〇デメリットもある
+ハンドル周りがちらっと映るシーンでの
+不要なメーターが増える。
+
+認識的にこれが車のハンドル周りって
+いうものを検索すると何かとそれっぽくしてしまう可能性あり
+```
+
+**[立即体验 ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
+
+### 图片驱动提示词：歌唱小猫
+![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square)
+<img src="./public/seedance_2_prompt_images/2040921171059752988.jpg" width="400" />
+
+一种让模型直接读取视觉参考的图片驱动提示词思路，以歌唱小猫动画为例展示。
+
+来源: [帖子](https://x.com/pan_soramame_da/status/2040921171059752988) · 发布时间: 05 04 2026
+
+```text
+に記述じゃなくて
+画像で成功確率上がるかも🐈
+
+ちなみに……
+プロンプトに
+反映させる文字を書かなくてOK！
+画像から読み取ってくれる👍
+歌も画像見て歌ってくれる😸
+
+――――――――――
+🤖確率が上がるコツ📝
+
+・映像に反映したい日本語の画像を用意
+・字幕系は1行ずつ反映してくれる
+・字幕系以外は、1行＝1カットが無難
+∟だけど1カットに複数表示したい場合は
+複数行指定でOK！
+※『蕎麦屋、コメ旨』のように
+『、』を入れるとそれも反映されちゃう
+――――――――――
+🤖プロンプト例📝
+
+＠図1はシーン内に登場する店の看板の文字参照。＠図1に書かれている文字の字形をそのまま忠実に再現して看板に使用すること。1行目の文字は1軒目の看板、2行目の文字は2軒目の看板、3行目の文字は3軒目の看板、4行目の文字は4軒目の看板に使用する。
+～
+～
+通りの左右に1軒目と2軒目の店がある。左の店の看板に＠図1の1行目の文字、右の店の看板に＠図1の2行目の文字がそのまま書かれている。
+――――――――――
+```
+
+**[立即体验 ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
+
+### 90 年代日式恋爱模拟 — 赛璐珞动画风
+![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square)
+<img src="./public/seedance_2_prompt_images/2040814307487916415.jpg" width="400" />
+
+用清晰轮廓与复古 UI 元素，呈现 90 年代日式恋爱模拟游戏画面的赛璐珞动画风格。
+
+来源: [帖子](https://x.com/kinopioai_ai/status/2040814307487916415) · 发布时间: 05 04 2026
+
+```text
+のみ
+右　画像➕プロンプト
+
+プロンプト公開
+————————————————————-
+
+90年代日本の恋愛シミュレーションゲーム画面、セル画調アニメ、くっきり輪郭線、桜色と暖色パステルカラー、画面下部に半透明ADVテキストウィンドウ常設、ノスタルジックで甘酸っぱい雰囲気。
+
+ヒロイン：17歳、腰までの栗色ストレートロングヘア、前髪ぱっつん、琥珀色の大きな瞳、白セーラー服に紺スカーフとプリーツスカート、色白、頬にうっすら紅。全カットで顔と衣装の一貫性を維持。
+
+[0-4s] 春の朝、満開の桜並木の高校校門。柔らかい朝陽、花びらがゆっくり舞う。画面奥からヒロインが歩いてくる。画面下部にテキストウィンドウ「4月——新しい季節が始まる」。淡いゴッドレイ。Camera: slow dolly in, smooth gimbal, wide to medium.
+
+[4-8s] 午後の教室、窓から斜めに陽光。ヒロインが窓際でゆっくり振り返り、首をかしげてはにかんだ笑顔。画面下部にダイアログボックス、名前欄「藤宮 ひなた」。柔らかいディフューズドライティング。Camera: static medium shot, eye level, fixed framing.
+
+[8-12s] 放課後の屋上、夕焼けのオレンジ空。ヒロインがフェンス越しに夕陽を見つめ、夕風が髪を揺らす。ゆっくり振り向き頬を赤らめる。ダイアログ「……来てくれたんだ」。golden hour逆光、髪にリムライト。Camera: slow dolly in, waist to bust, low angle.
+
+[12-15s] 校庭の大きな桜の樹の下、magic hourの金色の光。ヒロインが胸の前で手を重ねうつむき、ゆっくり顔を上げて潤んだ瞳で微笑む。画面下部にゲーム選択肢ウィンドウ2つ。桜が舞う。金色レンズフレア、淡いボケ。Camera: slow dolly in to close-up, eye level, gentle smooth.
+
+4K, Ultra HD, no deformation, natural smooth movements, stable picture, no flickering, no ghosting, sharp details. Generate video without subtitles.
+```
+
+**[立即体验 ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
+
+### 史诗奇幻大战 — 电影感 10 秒序列
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+<img src="./public/seedance_2_prompt_images/2041431226507051027.jpg" width="400" />
+
+由单条提示词生成的电影感 10 秒史诗奇幻战斗片段，展现戏剧化光影与动作编排。
+
+来源: [帖子](https://x.com/a_shimanski/status/2041431226507051027) · 发布时间: 07 04 2026
+
+```text
+I just generated this with a single prompt
+Prompt👇
+Cinematic 10-second epic fantasy battle sequence in the style of Lord of the Rings, opening with a sweeping aerial crane shot pulling back over a massive ruined battlefield where thousands of armored Norse warriors charge through ash and smoke toward three colossal stone giants crackling with blue lightning, then cutting to a low ground-level tracking shot racing between the boots of sprinting soldiers as a giant's massive stone foot slams into the earth sending warriors flying in slow motion through dust and embers, then cutting to a medium dutch angle shot of a purple-robed female mage and a male sorcerer unleashing violet and blue arc lightning into the giants faces lit dramatically from below, then a whip pan over-the-shoulder shot from the giant's perspective as his enormous clawed hand sweeps across the battlefield scattering warriors like leaves with fire exploding to the right, finally ending on an extreme slow-motion close-up of a blood-soaked Norse warrior's determined face raising his sword and charging directly at the camera before the frame freezes in a blinding white lightning flash and smashes to black, desaturated steel blue and volcanic orange color grade, photorealistic, 8K, cinematic motion blur, epic orchestral atmosphere
+```
+
+**[立即体验 ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
+
+### 电影导演技法 — 多镜头提示词
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+<img src="./public/seedance_2_prompt_images/2041409914954973216.jpg" width="400" />
+
+演示 2 到 3 个精心设计的提示词技巧，如何把 AI 视频从普通生成提升到具有导演感的专业画面。
+
+来源: [帖子](https://x.com/noman23761/status/2041409914954973216) · 发布时间: 07 04 2026
+
+```text
+The difference between “AI slop” and “this looks directed” is literally 2–3 prompt changes.
+Seedance 2 Global access api :-
+If you are just looking for an app to run Seedance 2 without business email and geo restrictions check out VadooAI
+The “4-Part Prompt Formula” 🎬
+Most people write vibes. Seedance wants structure.
+Use this every time:
+Subject → Action → Camera → Style
+If you skip camera → you get random motion
+If you skip action → you get stiff clips
+2. The “Camera is King” rule 🎥
+Seedance is basically a camera simulator.
+Instead of: “girl walking in city”
+Say: “tracking shot, slow dolly-in, 35mm lens, shallow depth of field”
+That alone upgrades output quality massively
+3. The “Don’t Describe the Image” hack 🖼️
+If you’re using a reference image:
+DO NOT re-describe it
+Only describe motion + changes
+Otherwise the model “reinterprets” your image and ruins it
+4. The “Motion Intensity” trick ⚡
+Seedance doesn’t infer speed.
+“car drives” = boring
+“car accelerates aggressively, motion blur, tires screeching” = cinematic
+You have to explicitly define energy levels
+```
+
+**[立即体验 ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
+
+### 东亚女性肖像 — 自然微笑
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+<img src="./public/seedance_2_prompt_images/2041408928215408931.jpg" width="400" />
+
+一条东亚女性近景肖像提示词：栗棕波浪发、大耳饰与温暖自然光。
+
+来源: [帖子](https://x.com/noman23761/status/2041408928215408931) · 发布时间: 07 04 2026
+
+```text
+"beautiful young East Asian woman, long wavy chestnut brown hair, big smile, earphones in ears, wearing oversized white knit cardigan, denim shorts, white sneakers, holding red Coca-Cola can in right hand, playful and confident vibe, walking and dancing energetically down a sunny Paris cobblestone street, low angle dynamic camera, sudden surreal chaos: floating businessmen in black suits flying through the air with briefcases and white papers scattering everywhere, one businessman lying on the ground, girl completely unfazed and keeps dancing joyfully, pointing at camera, spinning, laughing, cinematic color grading, soft daylight, shallow depth of field, beautiful European architecture background, cafes and parked cars, final shot: girl walks away from camera down the long street, buildings suddenly light up with vibrant rainbow neon colors (pink, purple, blue, green, yellow) glowing on windows and balconies, dreamy atmosphere, highly detailed, 8k, masterpiece, smooth motion, perfect anatomy, natural physics"
+
+Instead of reacting to chaos, she becomes the only stable element in the frame.
+Everything else feels temporary, almost like background noise.
+
+What’s interesting is how that changes the perception of the scene:
+the chaos doesn’t feel dominant anymore — it feels irrelevant.
+
+Same structure, completely different feeling.
+```
+
+**[立即体验 ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
+
+### 女性战士 — 结构化主体提示词
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+<img src="./public/seedance_2_prompt_images/2041406971484815564.jpg" width="400" />
+
+一条为动态女性战士角色编写的结构化提示词，明确指定主体、环境与镜头运动。
+
+来源: [帖子](https://x.com/noman23761/status/2041406971484815564) · 发布时间: 07 04 2026
+
+```text
+"SUBJECTS: A female warrior with shoulder-length hair, the ends naturally flipping outward, pressed backward and slightly disheveled by air resistance during high-speed movement. She wears a dark, form-fitting tactical suit combining real fabric and worn metal elements, with visible water stains, dust, and signs of use. A dual mechanical grappling hook system mounted on her back, capable of firing steel cables that retract to generate pulling force. The hook tips are metal impact heads used for attaching to or striking solid structures. The cable only triggers when support is lost or during a fall, and must latch onto a solid object before generating tension. Movement relies on: sliding, stepping, grappling pull, swinging, contact, and displacement through reaction forces. A massive stone hand connected to a giant’s body (not severed, the arm extending upward into the clouds), descending vertically into frame from the cloud layer. Enormous in scale, with a weathered, rough surface, no glow, no regular structure. Each downward press carries clear weight, acceleration, air compression, and impact inertia. ENVIRONMENT: A high-altitude fractured bridge structure with wet, slippery concrete surfaces, showing water traces, cracks, and scattered debris. The bridge is heavily damaged, with irregular टूट sections, exposed and bent rebar, and hanging steel cables. Below the bridge is an empty abyss, swallowed by fog, with no visible ground. A distant city appears low and ruined, with r
+```
+
+**[立即体验 ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
+
+### 末日生存 — 电影级设定
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+<img src="./public/seedance_2_prompt_images/2041405260762419692.jpg" width="400" />
+
+一个粗粝的末日生存场景，包含紧张氛围、强烈动作感，以及对类型、灯光和镜头的详细电影级设定。
+
+来源: [帖子](https://x.com/noman23761/status/2041405260762419692) · 发布时间: 07 04 2026
+
+```text
+"[CINEMATIC SETUP] Genre & Mood: Gritty Post-Apocalyptic Survival. Tense, visceral, and hyper-realistic. Film Stock & Lens: Shot on 35mm anamorphic lens, f/2.8 for shallow depth of field. Teal-orange desaturated color grade with earthy, dusty undertones. Lighting & Atmosphere: Dramatic volumetric Golden Hour light with heavy dust motes and heat haze. Character Description: An athletic woman in her late 20s, wearing weathered tactical leather armor and dirt-smudged skin. Her hair is wind-blown and messy; her expression is one of intense, lethal focus. Audio Style: Immersive spatial sound design. Detailed SFX of bowstring tension, rhythmic heavy breathing, wind howling through the canyon, and a high-velocity "thwack" on impact. [TIMELINE SECOND BY SECOND] 0-3s: [Extreme Close-up (ECU)] High-angle shot of the woman's face as she aims a mechanical compound bow. The bowstring is pulled taut against her cheek. Movie-level realistic facial features, no deformation, stable throughout. 3-4s: [Macro Cut] Extreme close-up of her iris. The pupil dilates sharply as she locks onto her target. Realistic light reflections in the eye. 4-8s: [Over-the-shoulder (OTS) Shot] The camera sits behind her shoulder on a jagged cliff edge. In the valley below, a herd of mutated, post-apocalyptic Cape Buffalo with thickened grey hide and jagged horns graze peacefully. Smooth camera push-in. 8-10s: [The Release & POV] She releases the arrow. Fast Tracking POV shot following the arrowhead at maximum veloc
+```
+
+**[立即体验 ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
+
+### Pixar 风森林空地 — 3D 动画场景
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+<img src="./public/seedance_2_prompt_images/2041393724622795014.jpg" width="400" />
+
+一个 Pixar 风格的 3D 森林空地场景，拥有耶稣光、晴朗氛围与富有童趣的角色动画。
+
+来源: [帖子](https://x.com/SPEEDAI07/status/2041393724622795014) · 发布时间: 07 04 2026
+
+```text
+Seedance 2.0 Prompt
+
+Pixar 3D animated forest clearing. Sunny day, god rays through trees, green grass, flowers. CHARACTERS: - Giant armored wolf: black fur, gold sword, yellow eyes, furious and humiliated, attacks with full rage - Tiny rooster: red comb, completely unbothered, bored expression, deflects everything with casual wing flaps SEQUENCE: 0-3s — Wolf roars, raises sword overhead, brings it down with full force. Rooster glances up, sighs, flicks one wing — sword deflects sideways. Sparks fly. Wolf stumbles forward from own momentum. Rooster examines wing casually, unbothered. 3-6s — Wolf swings horizontal slash. Rooster ducks under it yawning, taps sword away with wingtip. Wolf spins, overhead strike — rooster sidesteps one inch, sword hits ground, shockwave crater. Rooster hasn't changed expression once. 6-9s — Wolf goes berserk — rapid five-hit combo, sword blur. Rooster deflects each strike with alternating wings — tap, tap, tap, tap, tap. Casual rhythm like swatting flies. Last strike — rooster catches blade between two feathers. Stops it cold. Wolf strains, shaking. Can't move it. 9-12s — Rooster releases blade, wolf stumbles backward. Wolf charges with shoulder slam — rooster steps aside, wolf face plants into grass. Wolf up instantly, wild overhead — rooster flicks it away with tail feather. Sword spins out of wolf's grip, lands in tree trunk. 12-15s — Wolf stares at empty hands. Rooster turns, walks away slowly, doesn't look back. Scratches ground with one cla
+```
+
+**[立即体验 ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
+
+### 高级生活方式广告 — Vlog 自拍风
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
+<img src="./public/seedance_2_prompt_images/2041374063243800793.jpg" width="400" />
+
+以前置镜头 Vlog 视角拍摄的高级生活方式广告，将电影写实感与随性自拍美学融合在一起。
+
+来源: [帖子](https://x.com/johnAGI168/status/2041374063243800793) · 发布时间: 07 04 2026
+
+```text
+prompt 👇
+
+【风格】高级商业氛围短片（Premium Lifestyle Commercial），高清手机前置镜头质感（Vlog互动视角），电影写实色彩，面部柔光打光，注意分镜编排和对口型，单人出镜
+
+【时长】15秒
+
+【场景】卧室+调酒区一体空间，温馨台灯与紫黄霓虹氛围光交织，微醺暖调
+
+【角色】完全参考@ 的人物外貌特征（顶级亚洲明艳神颜），穿深蓝蕾丝吊带裙、长卷发，全程形象高度一致
+
+[00:00-00:03] 镜头1：POV慵懒起床（POV → Medium Shot 丝滑转场）
+
+主观视角（POV），镜头从第一人称俯视角度对准床上盖着毯子的双腿，手伸入画面掀开被子，双腿落地起身。镜头随起身动作自然抬起并快速切至中景——女主已站在床边面对镜头，慵懒又带一丝霸道地说："睡什么睡，起来喝酒。"（中文口型精准同步）
+
+[00:03-00:06] 镜头2：优雅倒酒（Medium Shot）
+
+中景，机位切至卧室调酒区，背景台灯暖光与紫黄霓虹光映在墙面。女主拿起白酒瓶，手腕微倾，透明酒液沿瓶口流入银色量酒器，随后将量酒器中的酒液倒入杯中并加入橙汁，液体混合的色彩层次清晰可见。
+
+[00:06-00:09] 镜头3：挤柠檬特写（Close-up）
+
+近景动作特写。女主双手各持半个切开的青柠，用力对挤，柠檬汁水真实地滴落进调酒壶，汁液飞溅的细节清晰，随后抓起一把冰块丢入壶中，冰块碰撞发出清脆声响。
+
+[00:09-00:12] 镜头4：摇酒（Close-up / Shake）
+
+近景。女主双手持调酒壶举至脸侧，有节奏地快速摇晃，长卷发随动作轻微摆动，壶内冰块撞击声清脆卡点。她保持迷人微笑注视镜头，眼神明亮带笑。
+
+[00:12-00:15] 镜头5：品尝与收尾（Medium Shot）
+
+中景。女主手持一杯蓝黄渐变的精致鸡尾酒，杯中气泡缓缓上升。她轻抿一口，眉眼舒展露出满意的微醺神情，随后对镜头开心挥手，定格。
+```
+
+**[立即体验 ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
+
+### 小猫躲在被窝里偷吃零食
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+<img src="./public/seedance_2_prompt_images/2041334660173852807.jpg" width="400" />
+
+一只可爱小猫在夜里躲在被窝里偷吃零食，配合温馨灯光与俏皮表情。
+
+来源: [帖子](https://x.com/lynneatyoumind/status/2041334660173852807) · 发布时间: 07 04 2026
+
+```text
+prompt: A cute kitten secretly eating snacks under the covers in bed at night. Hears footsteps, panics, hides the snacks, and fakes sleep with soft purring. Owner opens the door, peeks in, then leaves. Coast clear — the kitten pulls the snacks back out and keeps munching. Dark cozy bedroom, moonlight, cinematic lighting, smooth animation.
+```
+
+**[立即体验 ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
+
+### 极致微距 FPV — 精灵翅膀跟拍镜头
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+<img src="./public/seedance_2_prompt_images/2041132328655954201.jpg" width="400" />
+
+极致微距 FPV 镜头紧贴精灵背部，在魔法森林中与翅膀振动同步飞行。
+
+来源: [帖子](https://x.com/EHuanglu/status/2041132328655954201) · 发布时间: 06 04 2026
+
+```text
+extreme macro FPV tracking shot, camera tightly attached to the fairy's back, synchronized with wing flapping frequency
+```
+
+**[立即体验 ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
+
+### 黑暗东方奇幻变身
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
+<img src="./public/seedance_2_prompt_images/2041146946681721113.jpg" width="400" />
+
+一个带有戏剧化光影变化与神秘视觉特效的黑暗东方奇幻变身片段。
+
+来源: [帖子](https://x.com/johnAGI168/status/2041146946681721113) · 发布时间: 06 04 2026
+
+```text
+也可以生成同款视频📺
+
+Seedance 2.0 prompt 👇
+
+【风格】暗黑东方奇幻变身（Dark Fantasy Transformation），电影质感，8K超清，真实摄影（Photorealistic），达芬奇高级调色 【时长】12秒 【场景】明亮现代居家走廊（镜头1）→ 昏暗客厅·深色丝绒沙发（镜头2-3） 【角色】年轻亚洲女性，黑色长发，
+图片1
+[00:00-00:01] 镜头1：粒子化解体（Particle Dissolve） 中景，明亮居家走廊。女性居中站立直视镜头，身穿深蓝色短袖与黑色短裤。 一道耀眼红色魔法光环从脚底升起，由下至上急速包裹全身（Red Magic Ring FX）。光环扫过之处，身体瞬间碎裂为极速旋转的红色光辉粒子（Particle Burst），整个人化作一团高速旋转的红色粒子球体。 [00:01-00:04] 镜头2：九尾狐凝形（Fox Materialization） 红色粒子球体从走廊门口飞速穿梭进入昏暗客厅（Particle Travel），拖出一条红色光尾轨迹。 粒子撞上深色丝绒沙发表面，炸开后迅速向内收缩聚拢，光影汇聚凝实，幻化为一只巨大的暗黑色九尾狐趴卧于沙发之上。 狐狸周身燃烧红紫相间的魔法火焰（Realistic Fire Simulation），火焰贴着毛发翻涌。体表金色发光符文缓慢流转明灭。九条蓬松巨尾自然散开，尾尖带红色微光。镜头缓推至狐狸面部，琥珀色瞳孔在暗光中发亮。 [00:04-00:12] 镜头3：狐灵化人（Slow Dolly In） 九尾狐全身泛起金色光芒，化作漫天金色火光粒子向上消散（Golden Dissolve FX）。金光散尽，沙发上丝滑显现侧卧的女性身影。 双丸子头发型，身穿紫红色抹胸紧身裙，外搭黑色薄纱披肩。赤足，白皙肤色，深红唇妆，眼神冷艳凌厉直视镜头。 冷色侧光（Cold Side Lighting），一侧明一侧暗。镜头从中景极缓推进至面部特写（Ultra Slow Dolly In），最终定格于双眼，瞳孔中隐约映出一丝残留的红色火光。
+```
+
+**[立即体验 ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
+
+### Seedance 2.0 T2V 自然说话测试
+![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square)
+<img src="./public/seedance_2_prompt_images/2041328307267088580.jpg" width="400" />
+
+一项文生视频说话测试，展示出超出预期的自然口型同步与声音表现。
+
+来源: [帖子](https://x.com/tanabe_fragm/status/2041328307267088580) · 发布时间: 07 04 2026
+
+```text
+の問題でした😅
+試しにt2vで喋らせたら、むしろKling 3.0より自然で驚きました。
+
+Seedance 2.0はとにかくプロンプト依存が強いモデルですね📝
+ここまで出力が変わるのは正直初めてです。
+使用したプロンプトはこちら👇
+-----------------------------------------
+可愛らしいふっくらとした赤いトマトのキャラクターが、カメラに向かって直接話しかけている。完璧なリップシンクで「みんな、僕たちトマトを冷蔵庫に入れてない？実はそれ、NGなんだ！寒さで甘みが飛んじゃうから、常温で保存してね！食べる直前に少し冷やすのが一番美味しいよ！」と元気な声で喋っている。言葉のテンポに合わせて少し弾むような動きをする。ピクサー風の高品質な3Dアニメーションスタイル。背景は少しぼけたキッチン。
+```
+
+**[立即体验 ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
+
+### 角色参考动漫提示词
+![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square)
+<img src="./public/seedance_2_prompt_images/2041118339393826933.jpg" width="400" />
+
+一条以 @Image1 作为角色参考的动漫风提示词，强调发型、耳朵与整体设计在多帧中的一致性。
+
+来源: [帖子](https://x.com/Reiria123/status/2041118339393826933) · 发布时间: 06 04 2026
+
+```text
+は↓
+
+Use @Image1 as the character reference. Keep character design, hairstyle, ears, tail, outfit, and colors perfectly consistent.
+
+【主体 / Subject】
+
+A blue-haired fox girl with long flowing hair, large fluffy fox ears, and a huge fluffy tail.
+She wears a shrine-maiden inspired outfit with loose sleeves and a short skirt.
+She stands in a Japanese shrine setting with a red torii gate, autumn leaves falling around her.
+Her expression is playful, energetic, slightly teasing.
+
+【アクション / Action】
+
+She performs an energetic, bouncy dance with frequent jumping motions.
+
+Repeated light jumps in rhythm (ぴょんぴょん)
+Knees bend deeply before each jump for natural motion
+Hair, sleeves, and tail bounce dynamically with physics
+Tail sways with exaggerated follow-through motion
+Spins mid-jump once (360° quick spin)
+Lands softly and immediately transitions into next jump
+Arms swing wide, then pull inward for momentum
+Ends with a high jump and playful pose on landing
+
+👉 重要安定化指示
+
+Clear leg bending and landing weight control
+Natural gravity and smooth jump arcs
+No body distortion during airtime
+Tail follows delayed secondary motion
+【カメラ / Camera】
+Landscape 16:9, 15 seconds
+Start: full-body wide shot (全身見せてジャンプ確認)
+Slight low-angle to emphasize jump height
+Gentle tracking to follow vertical movement
+Subtle handheld bounce synced with jumps
+Mid-section zoom during spin jump
+End: slight push-in as she lands final pose
+【スタイル / Style】
+High quality 2D anime animation
+Smooth, high frame consistency
+Bright autu
+```
+
+**[立即体验 ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
+
+### 纸偶恐怖动画
+![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square)
+<img src="./public/seedance_2_prompt_images/2041409381162689021.jpg" width="400" />
+
+一段纸偶风恐怖动画场景，具有平面纸偶质感、粗糙纹理、暗沉配色与令人不安的定格动画氛围。
+
+来源: [帖子](https://x.com/TomaAIbijo/status/2041409381162689021) · 发布时间: 07 04 2026
+
+```text
+Scene 1
+horror animation. Flat paper-puppet look, rough textures, dark muted colors, slight projector flicker. 15-second vertical video (9:16), 5 cuts.
+
+Cut1 (0-3s)
+Night Japanese street, flickering streetlight. Young woman alone at bus stop. Paper cut-out style, slow push-in.
+
+Cut2 (3-6s)
+Behind the woman. Across the road a strange shadow figure stands. Its head slowly tilts.
+
+Cut3 (6-9s)
+Woman turns, close-up. Eyes widen. Background darkens like sliding kamishibai panel.
+
+Cut4 (9-12s)
+The shadow figure is suddenly much closer behind the bus stop sign. Face hidden, pale eyes glowing.
+
+Cut5 (12-15s)
+Extreme close-up of the figure. Screen flickers like old film. Whisper: “Miteita yo…” → cut to black.
+
+Audio: low eerie hum, wind, wooden clack, whisper echo.
+
+Scene 2
+horror animation. Flat paper puppet look, rough paper texture, dark muted colors, slight projector flicker. 15-second vertical video (9:16), 5 cuts.
+
+Cut1 (0-3s)
+Black screen fades in to the same bus stop. The woman is gone. The streetlight flickers.
+
+Cut2 (3-6s)
+Camera slowly pans. The shadow figure now stands where the woman was.
+
+Cut3 (6-9s)
+Close-up of the ground. The woman’s phone lies on the pavement, screen still glowing.
+
+Cut4 (9-12s)
+Phone screen shows the camera app open. In the screen reflection, the shadow figure stands behind the viewer.
+
+Cut5 (12-15s)
+The figure suddenly fills the frame from behind the camera. Whisper: “Tsugi wa… kimi da.” → cut to black.
+
+Audio: low eerie hum, distant wind, wooden kam
+```
+
+**[立即体验 ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ## 资源
 
