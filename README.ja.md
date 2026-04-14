@@ -5,7 +5,9 @@
 [![Awesome](https://img.shields.io/badge/Awesome-Seedance%202.0%20Prompts-black?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts) [![GitHub stars](https://img.shields.io/github/stars/EvoLinkAI/awesome-seedance-2.0-prompts?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts/stargazers) [![Prompt count](https://img.shields.io/badge/prompts-164-blue?style=flat-square)](./README.md)
 
 <p align="center">
-  <img src="./public/banner.jpg" alt="Awesome Seedance 2.0 Prompts banner" width="100%" />
+  <a href="https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2-0-prompts">
+    <img src="./public/banner.jpg" alt="Awesome Seedance 2.0 Prompts banner" width="100%" />
+  </a>
 </p>
 
 cinematic video generation 向けの高品質な Seedance 2.0 prompt を厳選して集めたコレクションです。公開コミュニティ投稿から整理し、README で読みやすいよう英訳し、GitHub 上で素早く辿れるよう構成しています。
