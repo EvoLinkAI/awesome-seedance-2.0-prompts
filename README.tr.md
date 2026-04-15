@@ -12,7 +12,9 @@
 
 <p align="center">
   <strong>Seedance 2.0<br>Human Face Now Available<br>Try Now</strong>
-</p>Sinematik video uretimi icin yuksek kaliteli Seedance 2.0 prompt'larindan olusan derlenmis bir koleksiyon — herkese acik topluluk gonderilerinden temizlenmis, README okunabilirligi icin Ingilizceye cevrilmis ve GitHub icinde hizli gezinme icin duzenlenmistir.
+</p>
+
+Sinematik video uretimi icin yuksek kaliteli Seedance 2.0 prompt'larindan olusan derlenmis bir koleksiyon — herkese acik topluluk gonderilerinden temizlenmis, README okunabilirligi icin Ingilizceye cevrilmis ve GitHub icinde hizli gezinme icin duzenlenmistir.
 
 Dil: **Turkce**
 
@@ -23,7 +25,6 @@ Dil: **Turkce**
 ## Aciklama
 
 Bu depo, prompt'lar hakkindaki yorumlara degil, Seedance 2.0 icin **kullanilabilir prompt**'lara odaklanir. 
-
 
 ## Icindekiler
 
@@ -3370,9 +3371,6 @@ Scene: Black stand-up stage, strong spotlight illuminating the person, blurred s
 ```
 
 **[Dene ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
-
-
-
 
 ## Son eklenenler (07 Nis 2026)
 

@@ -12,7 +12,9 @@
 
 <p align="center">
   <strong>Seedance 2.0<br>Human Face Now Available<br>Try Now</strong>
-</p>cinematic video generation 向けの高品質な Seedance 2.0 prompt を厳選して集めたコレクションです。公開コミュニティ投稿から整理し、README で読みやすいよう英訳し、GitHub 上で素早く辿れるよう構成しています。
+</p>
+
+cinematic video generation 向けの高品質な Seedance 2.0 prompt を厳選して集めたコレクションです。公開コミュニティ投稿から整理し、README で読みやすいよう英訳し、GitHub 上で素早く辿れるよう構成しています。
 
 Language: **日本語**
 
@@ -23,7 +25,6 @@ Language: **日本語**
 ## 説明
 
 このリポジトリは、prompt に関する解説ではなく、Seedance 2.0 の **実用的な prompt** に焦点を当てています。
-
 
 ## 目次
 
@@ -3370,9 +3371,6 @@ Scene: Black stand-up stage, strong spotlight illuminating the person, blurred s
 ```
 
 **[試す ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
-
-
-
 
 ## 最新追加分 (2026年04月07日)
 

@@ -12,7 +12,9 @@
 
 <p align="center">
   <strong>Seedance 2.0<br>Human Face Now Available<br>Try Now</strong>
-</p>Uma coleção curada de prompts Seedance 2.0 de alta qualidade para geração de vídeo cinematográfico — limpa a partir de posts públicos da comunidade, traduzida para o inglês para melhorar a legibilidade do README e organizada para navegação rápida nativa do GitHub.
+</p>
+
+Uma coleção curada de prompts Seedance 2.0 de alta qualidade para geração de vídeo cinematográfico — limpa a partir de posts públicos da comunidade, traduzida para o inglês para melhorar a legibilidade do README e organizada para navegação rápida nativa do GitHub.
 
 Idioma: **Português**
 
@@ -23,7 +25,6 @@ Idioma: **Português**
 ## Descrição
 
 Este repositório foca em **prompts utilizáveis** do Seedance 2.0, não em comentários sobre prompts. 
-
 
 ## Índice
 
@@ -3370,9 +3371,6 @@ Scene: Black stand-up stage, strong spotlight illuminating the person, blurred s
 ```
 
 **[Experimente ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
-
-
-
 
 ## Últimas adições (07 Abr 2026)
 

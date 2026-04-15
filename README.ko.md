@@ -12,7 +12,9 @@
 
 <p align="center">
   <strong>Seedance 2.0<br>Human Face Now Available<br>Try Now</strong>
-</p>영화 같은 비디오 생성을 위한 고품질 Seedance 2.0 프롬프트를 엄선해 모은 컬렉션입니다. 공개 커뮤니티 게시물에서 정제하고, README 가독성을 위해 영어로 번역했으며, GitHub에서 빠르게 탐색할 수 있도록 구성했습니다.
+</p>
+
+영화 같은 비디오 생성을 위한 고품질 Seedance 2.0 프롬프트를 엄선해 모은 컬렉션입니다. 공개 커뮤니티 게시물에서 정제하고, README 가독성을 위해 영어로 번역했으며, GitHub에서 빠르게 탐색할 수 있도록 구성했습니다.
 
 언어: **한국어**
 
@@ -23,7 +25,6 @@
 ## 설명
 
 이 저장소는 프롬프트에 대한 해설이 아니라 Seedance 2.0의 **실제로 사용할 수 있는 프롬프트**에 초점을 맞춥니다.
-
 
 ## 목차
 
@@ -3370,9 +3371,6 @@ Scene: Black stand-up stage, strong spotlight illuminating the person, blurred s
 ```
 
 **[바로 사용해보기 ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
-
-
-
 
 ## 최신 추가 항목 (2026년 04월 07일)
 

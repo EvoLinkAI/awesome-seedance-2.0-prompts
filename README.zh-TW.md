@@ -12,7 +12,9 @@
 
 <p align="center">
   <strong>Seedance 2.0<br>Human Face Now Available<br>Try Now</strong>
-</p>精選的高品質 Seedance 2.0 提示詞合集，專注於電影級影片生成；內容整理自公開社群貼文，為了提升 README 可讀性已翻譯為英文，並依照適合 GitHub 原生瀏覽的方式重新編排。
+</p>
+
+精選的高品質 Seedance 2.0 提示詞合集，專注於電影級影片生成；內容整理自公開社群貼文，為了提升 README 可讀性已翻譯為英文，並依照適合 GitHub 原生瀏覽的方式重新編排。
 
 語言：**English**
 
@@ -23,7 +25,6 @@
 ## 說明
 
 此儲存庫聚焦於 Seedance 2.0 的 **usable prompts**，而不是圍繞提示詞的評論。
-
 
 ## 目錄
 
@@ -3370,9 +3371,6 @@ Scene: Black stand-up stage, strong spotlight illuminating the person, blurred s
 ```
 
 **[立即試用 ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
-
-
-
 
 ## 最新新增（2026年04月07日）
 

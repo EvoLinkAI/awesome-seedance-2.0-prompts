@@ -26,7 +26,6 @@ Language: **English**
 
 This repository focuses on Seedance 2.0  **usable prompts**, not commentary about prompts. 
 
-
 ## Table of Contents
 
 - [Statistics](#statistics)
@@ -3372,10 +3371,6 @@ Scene: Black stand-up stage, strong spotlight illuminating the person, blurred s
 ```
 
 **[Try It ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
-
-
-
-
 
 ## Latest Additions (07 Apr 2026)
 
