@@ -5,12 +5,14 @@
 [![Awesome](https://img.shields.io/badge/Awesome-Seedance%202.0%20Промпты-black?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-промпты) [![GitHub stars](https://img.shields.io/github/stars/EvoLinkAI/awesome-seedance-2.0-промпты?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-промпты/stargazers) [![Промпт count](https://img.shields.io/badge/промпты-164-blue?style=flat-square)](./README.md)
 
 <p align="center">
-  <a href="https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2-0-prompts">
-    <img src="./public/banner.jpg" alt="Awesome Seedance 2.0 Промпты banner" width="100%" />
+  <a href="https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2.0-prompts">
+    <img src="./public/banner.jpg" alt="Seedance 2.0 Human Face Now Available Try Now" width="100%" />
   </a>
 </p>
 
-Курируемая коллекция высококачественных промптов Seedance 2.0 для кинематографической генерации видео — очищенная от публичных постов сообщества, переведенная на English для удобства чтения README и организованная для быстрой GitHub-native навигации.
+<p align="center">
+  <strong>Seedance 2.0<br>Human Face Now Available<br>Try Now</strong>
+</p>Курируемая коллекция высококачественных промптов Seedance 2.0 для кинематографической генерации видео — очищенная от публичных постов сообщества, переведенная на English для удобства чтения README и организованная для быстрой GitHub-native навигации.
 
 Язык: **Русский**
 
