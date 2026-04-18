@@ -74,6 +74,8 @@ A Japanese anime fight prompt with ring choreography, aggressive counterattacks,
 
 Source: [Post](https://x.com/KanaWorks_AI/status/2045098229847716305) · Published: 17 04 2026
 
+[![](./public/seedance_2_prompt_images/iILeAyierBn5imMB.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
 ```text
 Japanese anime style with the exhilarating feel of a competitive fighting game. Set in a boxing ring, 15 seconds, 30fps, no subtitles. High-contrast cinematic lighting, volumetric light, atmospheric particles and smoke, with a strong audience presence. The overall pacing is clean and sharp, with decisive and powerful camera movement, no dragging. High dynamic range with realistic physical feedback.
 [Entrance 0–5s]
@@ -93,11 +95,15 @@ The crowd erupts in thunderous cheers. The Black Swan slowly settles her stance,
 本プロンプトでは対戦相手をボクサーに設定していますが、ムエタイ、テコンドー、キックボクシング、相撲などにも置き換え可能です。お好みに合わせて自由にカスタマイズしてお楽しみください😋
 ```
 
+**[Try It ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
+
 #### Ground Crack Superman Launch
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A grounded ascension shot focused on impact weight, earth fracture buildup, and a violent vertical takeoff.
 
 Source: [Post](https://x.com/techprophett/status/2045091209417249026) · Published: 17 04 2026
+
+[![](./public/seedance_2_prompt_images/JnftRXbRJtRUNj2a.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
 ```text
 [SCENE SETUP] An open rugged landscape. Rocky ground, overcast sky, wide and cinematic.
@@ -113,11 +119,15 @@ Source: [Post](https://x.com/techprophett/status/2045091209417249026) · Publish
 [STYLE] Cinematic. Photoreal. 4K. Natural lighting. Grounded and raw. No energy beams, no glowing effects. Gravity and weight drive everything.
 ```
 
+**[Try It ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
+
 #### Stridex Sneaker Commercial
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A premium product-ad storyboard with macro texture shots, side-profile reveals, and a polished hero frame.
 
 Source: [Post](https://x.com/ShamsAmin56/status/2045084636695650511) · Published: 17 04 2026
+
+[![](./public/seedance_2_prompt_images/K1jRd7vJAePuYplT.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
 ```text
 Create a 15-second ultra-premium cinematic commercial for futuristic sneakers branded ‘Stridex’, using the provided reference image. Maintain exact design fidelity (materials, structure, colors).
@@ -151,11 +161,15 @@ Logo appears cleanly (fade or subtle scale-in, no flashy effects)
 Lighting: balanced, high-end studio look, crisp shadows, premium finish.
 ```
 
+**[Try It ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
+
 #### Travel Suitcase Buddy Montage
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A rhythmic travel commercial built from match cuts, destination jumps, and object-character comedy.
 
 Source: [Post](https://x.com/ChaseAIx/status/2045080469533057252) · Published: 17 04 2026
+
+[![](./public/seedance_2_prompt_images/sAVFzyGI01SXuQGa.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
 ```text
 SHOT 1: ECU, 85mm push-in / 04:00 on a digital watch screen. A hand slams it. / SFX: alarm beep, palm slap.
@@ -190,11 +204,15 @@ SHOT 15: WS, 50mm pull-out / L-cut with a match from the floor to the bed. The m
 
 ```
 
+**[Try It ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
+
 #### Creative Director Dimension Walk
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A frontal walking prompt that jumps through creative eras while keeping motion, framing, and pace locked.
 
 Source: [Post](https://x.com/lukasersil/status/2045070342553493833) · Published: 17 04 2026
+
+[![](./public/seedance_2_prompt_images/KmTYi8555NBQZpyJ.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
 ```text
 CHARACTER: attached image — confident creative director, late 30s, slim build,
@@ -226,6 +244,8 @@ START: white photography infinity studio, already mid-stride, looks directly int
 
 FINAL: one last snap → seamless loop back to white studio, identical opening shot
 ```
+
+**[Try It ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
 
 #### Parametric Fight Template
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
@@ -322,6 +342,42 @@ Chapter 1 (0-15 seconds): Rooftop Awakening · Running and Leaping Down (Front t
 Chapter 2 (0-15 seconds): Freefall · Purple AITO M7 Enters the Frame. Style: rugged realism, 35mm handheld camera, natural grain, subtle organic shake. Camera: primarily handheld follow shots, with quick cuts between the protagonist's falling perspective and the ground car-chase perspective to create extreme tension. Maintain full real-time speed, with no slow motion. Lighting: dazzling high-contrast sunlight at Chongqing noon, strong reflections on the glass curtain walls of Raffles City, and heat haze rising from the road. Sound effects: wind-cutting shriek intensifies continuously -> engine roar approaching from a distance -> sharp tire friction on asphalt -> cyber-energy hum -> metallic thud at the moment of impact -> dull compression as four wheels land -> engine roar continues and grows stronger. [Visual Reference / Description] The protagonist remains the same female character from the reference image, preserving all details. Scene: on the Chongqing ramp road below Raffles City, a purple AITO M7 drives at high speed. It uses the upward slope of the ramp to launch naturally and precisely catch the protagonist as she falls from the rooftop. No slow-motion close-ups at any point; keep the rhythm realistic, high-speed, and cinematic. [Timeline per Second] Continuing from Video 1 and extending by 15 seconds. 0-4s: [Extreme Speed Fall · Overlooking the Ground] Protagonist Image 1 falls at high speed while maintaining a balanced gliding posture with both arms spread. The camera locks onto her back. The curtain walls of Raffles City streak upward on both sides, the ground rapidly expands, and motion blur becomes extreme. The frame quickly inserts a ground view: a purple AITO M7 races along the ramp road below Raffles City. The car emits a cyber blue-purple glow, the engine roars, and the tires leave two black marks on the asphalt. 4-9s: [Ramp Launch · Trajectory Intersection] The purple AITO M7 charges to the top of the ramp. Using the ramp's inertia, the front of the car lifts into the air and the sunroof slides open instantly. The camera alternates rapidly between the falling protagonist and the climbing AITO M7. She keeps a high-speed falling posture with arms spread, and the AITO M7 keeps accelerating up the ramp. The two trajectories converge rapidly, compressing time to the limit and maximizing tension. 9-11s: [Last Second · Posture Change · Precise Entry] With only one second left before the sunroof, the protagonist instantly pulls in her outstretched arms and sharply changes from a horizontal gliding posture to a vertical upright posture. Her legs point straight down toward the open sunroof of the airborne purple AITO M7. The action is swift, decisive, and completely without hesitation. In the next instant, she drops vertically into the open sunroof and lands in the driver's seat at extremely high speed. No slow motion at any point; the impact is realistic and violent. 11-13s: [Four Wheels Landing · Maintaining Drive] The body of the car compresses slightly under the force of catching her. All four wheels slam back to the asphalt. The suspension violently absorbs the double impact. Immediately after landing, the engine roar rises further. Without slowing or stopping, all four tires scrape the asphalt, leaving new black marks, and continue driving at full speed. 13-15s: [Stable Inside Car · Energy Accumulation] The AITO M7 continues high-speed driving. The camera tracks close to the side from a low angle as blue-purple energy patterns spread from the four wheels across the body. The sound of mechanical transmission rises subtly from the underside and keeps strengthening. The body vibrates slightly during the high-speed run. The precursor energy of the coming transformation surges and churns beneath the paint. [Style and Quality Enhancement] Realistic 8K quality, ultra-fine mechanical details and energy-light textures, cinematic volumetric light and heat haze, perfect speed blur, HDR glow, no artifacts, full real-time speed, no slow motion.
 
 Chapter 3 (0-15 seconds): AITO M7 Transforms -> Becomes an F-14 -> Protagonist Stands on the Aircraft Back and Takes Off. Style: rugged realism, 35mm handheld film aesthetic, natural grain, subtle shake. Camera: multi-angle follow coverage including ground tracking, low angle close to the ground, aircraft side view, and protagonist first-person view, all following the aircraft tightly throughout the transformation. Transformation details must remain clearly visible. Atmosphere: light smoke and heat haze drift across the Chongqing road. Cyber blue-purple light refracts between buildings. Noon sunlight produces dazzling reflections and strong shadows across the metal surfaces. Sound effects: engine roar surges -> metal skin bursts and folds -> deep hydraulic tremor as the wings unfold -> metallic gripping sound as the protagonist climbs the exterior -> cockpit seal pops and is immediately drowned by wind noise -> explosive ignition of twin engines -> piercing shriek as the F-14 takes off and breaks the air -> powerful high-altitude wind overtakes the entire soundscape. [Visual Reference / Description] The purple AITO M7 completes a full transformation while driving on the Chongqing road, changing from a car into an F-14 fighter jet, as shown in Image 2. During the transformation, the protagonist clings to and climbs along the aircraft exterior in a dangerous and exposed position. She finally stands centered on the back of the F-14, legs slightly apart to stabilize her balance. Her white suit and ponytail whip violently in the extreme airflow. The F-14 takes off directly from the Chongqing road, and the protagonist remains standing firmly on its back. [Timeline per Second] 0-4s: [Road Acceleration · Transformation Start] The AITO M7 accelerates rapidly along the Chongqing road. Body panels burst open one after another and unfold. The hood rolls upward and becomes mechanical structure. The doors fold outward. The metal skin cracks along structural lines, revealing the cold mechanical interior. The protagonist climbs dangerously toward the top of the aircraft while gripping the transforming metal skeleton. She jumps and shifts position in sync with the aircraft's changing shape. The camera tracks every detail from close to the side of the aircraft. 4-6s: [Wings Unfold · Engines Fully Reassemble] The F-14's iconic swept wings snap open from the folded state and lock into place. The camera captures a low-angle near-ground full view of the wing deployment. Heat haze and dust are blasted up by the airflow from the wings. The twin engine nacelles violently reassemble into jet structures, emitting blue-purple thrust flames. The exhaust scorches the road surface. By now, the protagonist has climbed to the center of the aircraft's back, feet planted firmly, standing upright as the transformation completes. 6-8s: [Protagonist Stands on Aircraft Back · Takes Off] The instant the transformation completes, the protagonist stands fully upright on the back of the F-14. The hem of her white suit flies up in the strong airflow, and her ponytail extends horizontally. The silver mechanical parts reflect the noon sun intensely. The F-14's twin engines ignite at full power. The aircraft surges forward, the front wheel lifts, and the rear wheels leave the asphalt at the last possible moment. The nose pitches upward, carrying the protagonist into the Chongqing sky while she remains standing on its back. 8-15s: [Takeoff and Low City Skim · Protagonist Holds Position] The F-14 climbs vertically, then abruptly lowers its nose and skims over Chongqing at ultra-low altitude.
+```
+
+**[Try It ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
+
+### Birthday Betrayal Restaurant Drama
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+A short-form restaurant drama that escalates from celebration to betrayal reveal and quiet revenge.
+
+Source: [Post](https://x.com/Lighterkissan33/status/2045023927412637712) · Published: 17 04 2026
+
+[![](./public/seedance_2_prompt_images/KT84c2TqktCYBHye.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+```text
+Prompt: 15-second modern short drama, upscale restaurant scene, warm gold tones contrasting with a
+cold mood.
+
+0-3 seconds: Medium shot, fixed angle. A beautiful girl is celebrating her birthday with friends,
+raising a glass and laughing joyfully. Suddenly, the restaurant door is pushed open—her most trusted
+best friend walks in arm-in-arm with her boyfriend. The laughter stops abruptly, and the girl's
+hand, holding the glass, freezes in mid-air, her smile captivated.
+
+4-8 seconds: The best friend's expression becomes awkward upon seeing the girl. She tries to pull
+her boyfriend to move to another seat, but he shakes her hand and walks straight to the girl,
+placing a gift box in front of her and saying "Happy Birthday." The best friend's face turns pale.
+The girl looks at her boyfriend, then at her best friend, finally focusing on their hands—the best
+friend is wearing the same bracelet her boyfriend said he "lost" a few days ago.
+
+9-12 seconds: The girl doesn't speak, but quietly picks up her glass and drinks it all in one gulp.
+Then she stands up and walks to her best friend. Everyone holds their breath, waiting. The girl
+smiles and slowly pours the wine onto her best friend's limited-edition bag. The best friend's eyes
+widen, as if she's about to scream. The girl holds her shoulder;
+
+13-15 seconds: The girl leans close to her best friend's ear and whispers, "Next time you're
+cheating, remember to hide what you shouldn't show first." The best friend turns pale, and the girl
+turns and leaves gracefully. The camera pulls back to show the best friend standing there stiffly,
+her boyfriend full of regret, ending with a low background music and whispers around them.
 ```
 
 **[Try It ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
@@ -764,6 +820,30 @@ Camera: fast cuts, whip pans, strong motion blur, 0.6–1.2s pacing, ending in s
 
 **[Try It ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
 
+### Giant Ninja Tokusatsu Battle
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+A retro tokusatsu battle prompt with giant-scale ninja combat, miniature-city staging, and suit-actor physics.
+
+Source: [Post](https://x.com/EarthGigantea/status/2044026356984623194) · Published: 14 04 2026
+
+[![](./public/seedance_2_prompt_images/OPGJe_kwdEgXZcfi.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+```text
+A high-energy giant ninja battle in 1980s Japanese Tokusatsu style. The fight features two humanoid ninjas battling in a miniature city.
+
+Characters:
+- Blue Ninja (Replacing Hero): A male ninja with blue skin, short blue hair, and a single horn on his forehead. He has piercing red eyes and wears a sleek, dark blue shinobi outfit. He is agile and uses swift martial arts.
+- Red Ninja (Replacing Enemy): A male ninja with red skin, medium-length gray hair, and two gray horns. He has red eyes and wears a dark red scarf that flutters in the wind. He is heavily built and wears red-themed shinobi armor.
+
+Action:
+The Blue Ninja performs a rapid series of karate strikes and a high-speed backflip to dodge a heavy punch from the Red Ninja. The Red Ninja counters with aggressive, powerful strikes. The camera uses a low-angle perspective to make them look like 50-meter-tall giants fighting among miniature buildings and power lines.
+
+Visual Style:
+1980s film aesthetic, 35mm film grain, vibrant retro colors. The movement has the weight and physics of suit-actors performing on a miniature set. Dramatic pyrotechnic sparks fly on impact. Clear blue sky with soft, old-school studio lighting. Close-up on the Blue Ninja's face at the end, showing his red eyes and single horn.
+```
+
+**[Try It ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
+
 ### Japanese anime
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Japanese anime. Dialogue in Japanese. Flowing clouds. A girl walks, jumps cutely, and hits a red switch. At the moment of the explosion, it briefly becomes...
@@ -896,6 +976,40 @@ A daring aerial rogue diving on a bio-mechanical glider through a chaotic floati
 
 **[Try It ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
 
+### Zero-G Mech Scramble Sequence
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+A cockpit-to-mech launch prompt with zero-G prep, hard mechanical beats, and industrial combat energy.
+
+Source: [Post](https://x.com/Dheepanratnam/status/2044338893764383111) · Published: 15 04 2026
+
+[![](./public/seedance_2_prompt_images/ofW5CfXPYCWpNX7M.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+```text
+ENVIRONMENT: Cramped zero-G berth, flickering red emergency strobes, rusted airlock, cramped cockpit, stark black void of space with laser fire.
+MOOD: Adrenaline shock, desperate scramble, high-G physical strain, exhausted deflation.
+MUSIC: Aggressive industrial synth-metal.
+COLOR LOGIC: Gritty Cyber-Industrial Look.
+STYLE: Ultra-Realistic.
+LOGIC RULE: Keep logical consistency in wardrobe, props, locations, and action continuity across all shots.
+SHOT 1: ECU, 85mm push-in / Flashing red warning light reflecting in a dilated pupil as the eye snaps open. / SFX: klaxon blare, heavy inhale.
+SHOT 2: WS, 35mm handheld jolt / Rhythmic cut into the pilot kicking off the metal bulkhead, floating violently across the zero-G berth, thermal undergarments clinging to sweat. / SFX: metal clang, fabric rip, fast breath.
+SHOT 3: MCU, 50mm slide / Cut on action into a magnetic boot locking onto a steel deck plate, sparks kicking up from the impact. / SFX: heavy mechanical clack, spark hiss.
+SHOT 4: Insert shot, 85mm rack focus / Match cut into pressure gloves snapping onto wrist seals, twisting violently to lock, green indicator light flaring. / SFX: pneumatic hiss, plastic click.
+SHOT 5: Interior locker view, 24mm wide / Object pass into the camera inside the gear locker looking out as the heavy helmet is ripped from the rack, red strobe light illuminating a panicked grimace. / SFX: metal rattle, heavy scrape.
+SHOT 6: Insert shot, 50mm handheld / Rhythmic cut into the helmet slamming over the head, latches snapping shut beneath the chin. / SFX: heavy thud, air pressurization whine.
+SHOT 7: MCU, centered 50mm push-in / Match cut into a violent thrust forward, hand slamming a yellow airlock release button. / SFX: solid smack, pneumatic release.
+SHOT 8: Bird's-eye insert, 35mm overhead / Cut on action into heavy thruster pack igniting, blue flame violently scorching the deck. / SFX: thruster roar, metal groan.
+SHOT 9: MS, 35mm pivot / Camera wipe into a chaotic trajectory through the airlock, thermal suit completely covered by the scratched pressure suit, tearing through floating debris. / SFX: wind rush, debris clatter.
+SHOT 10: Insert shot, 50mm overhead / Match cut into a thick throttle lever being yanked entirely backward in one aggressive pull. / SFX: mechanical clank, heavy friction.
+SHOT 11: WS, 24mm parallax / Whip pan transition into the massive rusted mech tearing out of the hangar bay into the black void of space, thrusters leaving a hard white trail. / SFX: vacuum silence, low bass rumble.
+SHOT 12: MS to CU, 35mm glide into 85mm push-in / Sound bridge into the cockpit interior as the pilot grips the dual joysticks, body vibrating with G-force, eyes darting across radar pings, dodging a blinding green laser blast that chars the hull outside the glass. / SFX: radar ping, hull creak, heavy breathing, laser sizzle.
+SHOT 13: Insert to MCU, 50mm snap zoom / Smash cut to the primary weapon trigger as a thumb crushes the red button, recoil shaking the frame violently. / SFX: cannon boom, metallic recoil.
+SHOT 14: OTS, 35mm handheld / Rhythmic cut into targeting reticles locking, warning screens flashing yellow, sweat violently flinging from the pilot's brow as the cockpit violently rolls. / SFX: warning buzzer, violent thruster hiss.
+SHOT 15: WS, 50mm pull-out / L-cut with a match from the targeting screen close to the berth re-entry as the pressure suit drops, helmet rolls across the deck, and the pilot floats backward in thermal wear, collapsing into the netting in the opening frame shape. / SFX: airlock hiss, heavy thud, deep exhale, room tone.
+```
+
+**[Try It ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
+
 ### A super high-speed flight action scene of a girl riding a dragon
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A super high-speed flight action scene of a girl riding a dragon. High number of frames, 24FPS Japanese full-color anime. Two dragons, one blue and one red,...
@@ -921,6 +1035,36 @@ Source: [Post](https://x.com/NimEshed/status/2039816152222949829) · Published: 
 
 ```text
 15-second Original Desert Martial Arts Short Film: A black cat warrior in light armor stands alone in a desert where yellow sand is flying all over the sky, facing the pursuers. The shots combine slow motion and fast editing; under backlight, the yellow sand rolls like ink mist. The character’s movements are elegant yet ferocious, with tattered but flowing robes. Holding a short weapon, he shuttles and counterattacks at high speed. The overall tone is cold, lonely and oppressive, with high-end colors and obvious shallow depth of field, just like a high-quality oriental martial arts movie.
+```
+
+**[Try It ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
+
+### Canyon Airstrike Sequence
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+A military strike storyboard with cockpit realism, bomb-release mechanics, and grounded explosion physics.
+
+Source: [Post](https://x.com/Mr_TuanDoan/status/2044750468849729604) · Published: 16 04 2026
+
+[![](./public/seedance_2_prompt_images/RpLzRvgpJopkYzwc.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+```text
+ultra-realistic military strike sequence, shot on ARRI Alexa 65, natural lighting, high contrast, subtle film grain, grounded physics, no CGI feel, intense sound design (NO MUSIC — only raw SFX)
+
+LOCATION: vast desert canyon with rocky ridges, abandoned structures, heat haze, harsh midday sunlight, dust in the atmosphere
+
+SHOT 01 (0-2s) ultra long lens aerial shot — fighter jet already at extreme speed slicing across canyon camera: compressed perspective, heavy heat distortion, slight handheld shake jet crosses frame in milliseconds SFX: distant jet roar building fast
+
+SHOT 02 (2-4s) cockpit interior — tight, shaky handheld realism pilot locked in, oxygen mask, visor reflecting terrain rushing below HUD elements faintly visible (subtle, realistic) camera vibrates with jet turbulence SFX: engine scream, radio static, breathing through mask
+
+SHOT 03 (4-6s) targeting POV — ground rushing fast beneath crosshair locks onto structures below camera: digital zoom feel but realistic optics, slight lag and jitter SFX: targeting beep... wind shear
+
+SHOT 04 (6-8s) under-wing close-up — bomb release mechanism mechanical clamps open — bomb drops cleanly camera: attached rigid cam, no cinematic movement SFX: metallic clunk + air tearing as bomb falls
+
+SHOT 05 (8-11s) bomb falling — tracking shot from above and slightly behind no slow motion, pure gravity acceleration air distortion, subtle spin stabilization fins working ground rushing up fast SFX: air screaming louder
+
+SHOT 06 (11-13s) impact — massive grounded explosion shockwave kicks dust outward realistically, debris heavy and weighty no overdone fireball — dense dust and rock flying camera: distant long lens, shakes from pressure wave SFX: delayed boom, ground rumble
+
+SHOT 07 (13-15s) wide aerial — jet exits frame at insane speed, heat haze trailing smoke column rising from canyon camera: slow pull-back, scale emphasized SFX: jet fades... wind + distant crackling debris
 ```
 
 **[Try It ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
@@ -2263,6 +2407,99 @@ Chapter 3 (0-15 seconds): AITO M7 Transforms -> Becomes an F-14 -> Protagonist S
 
 **[Try It ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
 
+### Armor Assembly Street Counterattack
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+A reference-driven one-take action prompt with modular armor assembly, grounded creature combat, and heavy physical impacts.
+
+Source: [Post](https://x.com/egeberkina/status/2044809303878693242) · Published: 16 04 2026
+
+[![](./public/seedance_2_prompt_images/TfQ7cL05pwwcaq06.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+```text
+100% real-life filmed texture, iPhone cinematic realism, handheld aggressive tracking, natural daylight with harsh shadows, motion blur on fast movement, micro camera shake from impacts, subtle lens dirt, grounded physics, no stylization, no fantasy glow everything must feel physically real.
+Character Reference
+Use @ image1 as exact human reference.
+Face, body, proportions, clothing must remain identical.
+No stylization drift.
+Armor System
+A modular high-tech combat suit (fictional, original design) assembles onto the body in real-time.
+Design language:
+industrial, mechanical, exposed joints, titanium + carbon fiber textures
+subtle internal energy lines (amber/orange, NOT glowing like sci-fi magic)
+all parts are PHYSICAL modules (no teleporting, no nanotech fantasy)
+Environment
+Destroyed urban street
+cracked asphalt, burning cars, smoke, sparks, debris
+cars abandoned, bus in background
+dust particles reacting to movement
+realistic chaos, no cinematic exaggeration
+Enemies
+Pack of 4–6 creatures
+grey-black skin, rough organic texture
+long limbs, aggressive animalistic movement
+no fantasy glow, no stylized design
+pure physical threat
+TIMELINE 15s ONE TAKE
+0–1s HOOK
+Hero sprinting toward camera.
+Monsters chasing from behind.
+Suddenly
+four armor modules fly in at extreme speed from off-screen.
+SFX metallic WHOOSH + air displacement
+1–2.5s FOOT ASSEMBLY
+Boot modules SLAM onto feet mid-run.
+He stomps a creature’s head and launches forward ~8 meters.
+Camera shakes on impact.
+2.5–4s LEG ASSEMBLY
+Leg armor locks around thighs and hips while running.
+He jumps onto a wall, runs 2 steps, pushes off.
+4–5.5s WAIST CORE
+Hip + core modules snap in.
+He pivots mid-air, dodging a claw strike.
+5.5–7s TORSO
+Chest + spine plates LOCK together.
+Heavy metallic clicks.
+He slides under a truck while armor completes.
+7–8s BACK IMPACT MOMENT
+A creature attacks
+He blocks with newly formed armor.
+Impact feels HEAVY.
+SFX metal hit + bone crack
+8–9s ARMS
+Arm + shoulder modules slam on.
+He clenches fist.
+Camera pushes in slightly.
+9–10s HELMET
+Helmet assembles in pieces over face.
+Seals tight.
+Eyes activate with subtle amber glow (NOT neon, NOT stylized)
+10–12s COUNTERATTACK
+Creatures leap.
+He spins, blocks, grabs one
+throws it ~20 meters into a burning car.
+Explosion reacts physically.
+12–15s FINAL STRIKE
+He dashes forward.
+Grabs creature’s limb.
+Delivers a brutal palm strike
+Creature crashes hard to ground.
+No exaggerated blood keep it grounded.
+ENDING SHOT
+Hero slides into half-kneeling pose
+Fire + smoke rising behind him.
+Camera settles.
+Breathing sound.
+Cut to black.
+Audio Direction
+SFX
+metal impacts, air displacement, footsteps, debris
+no sci-fi sounds all grounded
+Music
+low cinematic pulse builds cuts abruptly at end
+```
+
+**[Try It ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
+
 ### Character reference @Image 1, convert to real-person live-action style
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Character reference @Image 1, convert to real-person live-action style. Model figure, cool white skin, slender arms, prominent bust and hips. 15-second...
@@ -3455,6 +3692,36 @@ Source: [Post](https://x.com/cdexsta/status/2039559243284844649) · Published: 0
 ```text
 2.35:1 widescreen, 24fps, cinematic quality.
 Exterior of an ancient temple in the deep mountains. The camera overlooks the temple roof amidst surging clouds, with mottled tiles and rising mist. The scene cuts to the interior, where a middle-aged monk sits cross-legged, with an ancient Buddha statue and flickering candlelight behind him. The camera slowly rotates 360 degrees, panning from the monk's side to a front close-up, capturing his slightly closed eyes and calm breathing.
+```
+
+**[Try It ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
+
+### Statue of Liberty Sunrise Storyboard
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+A landmark cinematography storyboard built from sunrise coverage, monument detail shots, and heritage scale.
+
+Source: [Post](https://x.com/MrDasOnX/status/2045065813628186733) · Published: 17 04 2026
+
+[![](./public/seedance_2_prompt_images/urrfA6BwbCGtYgie.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+
+```text
+Shot list sequence:
+1. Aerial establishing shot of the majestic Statue of Liberty standing tall on Liberty Island with Manhattan skyline and New York Harbor backdrop at sunrise
+2. Slow push-in across the harbor waters toward the statue's base and pedestal
+3. Wide shot of the full figure with flowing robes, tablet in left hand, and torch raised high catching first golden light
+4. Close-up of the detailed copper crown with seven spikes and stern facial features in warm dawn glow
+5. Pan up along the outstretched right arm to the illuminated torch with subtle flame flicker
+6. Elegant long shot of the statue's profile against the rising sun and rippling harbor water
+7. Smooth slide around the pedestal revealing inscribed tablet with "July IV MDCCLXXVI" date
+8. Close-up of intricate folds in the copper robes and broken chains at the feet symbolizing freedom
+9. Wide view from the water showing ferry boats in the distance and Ellis Island nearby
+10. Serene shot of the star-shaped Fort Wood foundation and surrounding plaza with American flags
+11. Tilt-up from the base along the massive structure emphasizing scale and grandeur
+12. Golden sunrise rays piercing through light harbor mist with water reflections
+13. Elevated angle capturing the perfect symmetry and iconic silhouette against the sky
+14. Warm light transition as the sun rises higher, bathing the green patina copper in glowing tones
+15. Final hero pull-back aerial shot revealing the full Statue of Liberty with New York City awakening in the background
+Fast cinematic cuts, smooth micro camera movements per shot (push, pan, slide, tilt, orbit), physically accurate sunrise lighting and gentle water motion, realistic copper patina textures with subtle sheen and oxidation details, soft shadows and mist, ultra-realistic materials (copper, stone pedestal, water, sky), consistent exposure and warm color grading, no flicker, stable geometry, real-world motion blur, shallow depth of field where appropriate, HDR, ultra high definition, film-quality American historical and heritage cinematography.
 ```
 
 **[Try It ->](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)**
