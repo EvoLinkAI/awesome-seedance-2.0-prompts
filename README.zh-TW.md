@@ -62,9 +62,13 @@
 
 來源: [Post](https://x.com/aimikoda/status/2040752436780961971) · 發佈: 05 Apr 2026
 
-[![](./public/seedance_2_prompt_images/126.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/126.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 TIMELINE:
 
 1. Low wide 24mm, camera orbiting through grass. Warrior already spinning, both hands locked at the end of the handle. The hammer head stays wide and pulls her through each turn by centrifugal force. Beast stays far in background. Revolutions grow faster, runes brighten, grass bends outward. SFX: wind, scrape, metal groan, rune hum.
@@ -83,9 +87,13 @@ STYLE: Fantasy realism
 
 來源: [Post](https://x.com/ShadeLurk/status/2040748166212157568) · 發佈: 05 Apr 2026
 
-[![](./public/seedance_2_prompt_images/123.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/123.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 prompt:
 Dark navy background. A few small objects drift along a wide circular orbit — the rotation center sits in the upper right of the frame, the camera watches from the outer edge. A decorated box, a striped ball, and a couple of carnival items arc past one by one, curving leftward across the view. Sparse confetti strips and gold coins float through the air.
 Three cream-colored rectangular talismans appear on the same orbital path, each bearing a different painted emblem. They approach one at a time, sweeping across the camera in a wide arc.
@@ -103,9 +111,13 @@ Fireball detonates outward with radial god rays. It expands to half the screen, 
 
 來源: [Post](https://x.com/MiraMusic_AI/status/2040744022294335604) · 發佈: 05 Apr 2026
 
-[![](./public/seedance_2_prompt_images/124.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/124.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 prompt：
 【开场镜头序列·总时长15秒·共7个切换镜头】
 ■ 镜头1（0:00–0:02）无人机超广角·宇宙殖民地全景
@@ -135,9 +147,13 @@ prompt：
 
 來源: [Post](https://x.com/ivanka_humeniuk/status/2040415406297374734) · 發佈: 05 Apr 2026
 
-[![](./public/seedance_2_prompt_images/125.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/125.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Admit it who wouldn’t want to be here right now and forget all their problems?😎
 
 Main cue words. Overall intent: A vibrant, sunny college pool party montage. The scene is chaotic, euphoric, and cinematic, featuring a variety of beautiful girls in stylish swimwear. The sequence relies on fast-paced, rhythmic editing to capture the raw emotions, youthful rebellion, and energetic atmosphere of a crazy summer party, complete with splashing water, giant inflatable toys, and endless dynamic movement. Sequence list: Shot 1 (0-1.5 seconds) Close-up Camera movement: Sharp pullback Motion dynamics: An explosive pullback starting directly from a drop of water falling from sunglasses, rapidly expanding to frame the subject's energetic reaction. Core action: A girl in a bright neon bikini suddenly bursts out of the water, tossing her wet hair. She laughs wildly directly at the camera. Natural fluid dynamics, water physics, energetic movement, breaking the surface tension. (Cut to) Shot 2 (1.5-3 seconds) Low-angle shot. Camera movement: right pan. Motion dynamics: a smooth horizontal glide at waist height, moving parallel to the subject to emphasize their confident strides along the poolside. Core action: Three girls in various stylish swimsuits confidently walk along the wet tiled edge of the pool, holding classic red plastic cups. Natural movement, intricate fabric simulation of sheer overcoats billowing in the wind, and interactive landings. (Cut to) Shot 3 (3-4.5 seconds) Medium shot from the Dutch corner. Camera movement: camera rolls to the right. Motion dynamics: a disorienting 30-degree tilt, physically mimicking the feeling of losing balance during a playful shove. Core action: A girl in a metallic onesie playfully pushes her friend into the pool. Realistic conservation of momentum, dynamic movement, and realistic physics of the splash. (Cut to) Shot 4 (4.5-6 seconds) FPV (First Person Perspective) Camera Movement: FPV Drone Motion Dynamics: A fast, swooping aerial descent directly above the water, weaving through party participants and inflatable toys. Core Action: Flying over a crowded pool where a group of girls laugh and relax on a giant pink flamingo float. Fluid movement, realistic human behavior patterns, natural fluid dynamics. (Cut to) Shot 5 (6-7 seconds) Macro Camera Movement: Still Shot Motion Dynamics: Absolute stillness to create a microsecond of visual tension before the rhythm falls. Core Action: Extreme detail of an ice cube falling into a red glass filled with liquid, held by a tanned hand wearing a colorful bracelet. Viscous liquid behavior, particle collisions, water splash physics. (Cut to) Shot 6 (7-8.5 seconds) Medium Shot Camera Movement: Tracking Shot Motion Dynamics: A dynamic, backward-following camera locked on the subject's face as she moves through a crowded area. Core Action: A beautiful girl with wet, wavy hair and a knitted bikini top dances through a crowded group of dancing college students, smiling radiantly. Confident movement, authentic human behavior. (Cut to) Shot 7 (8.5-10 seconds) Insect-eye view Camera movement: Push-in Motion dynamics: An aggressive upward push from the ground amplifies the scale and energy of the action above. Core Action: A girl leaps from a diving board into the air under a bright blue summer sky, her silhouette framed by solar flares. Vibrant movement, realistic conservation of momentum, and authentic physics governing all the action. (Cut to) Shot 8 (10-11.5 seconds) Close-up Camera movement: Pan to the left Motion dynamics: A rapid pan transition matching the head turn speed instantly shifts the focus from one subject to another. Core Action: Two girls in mismatched bikinis clink their red cups together in a toast, splashing water in the air, their faces beaming with genuine, joyful smiles. Natural fluid dynamics, vibrant movement, and pure, excited micro-expressions. (Cut to) Shot 9 (11.5-13 seconds) Over-the-shoulder shot (OTS) Camera movement: Pull-in motion Dynamics: Slow, deliberate movement over the foreground subject to focus on the chaotic, joyful interaction in the background. Core action: Over the shoulder of a DJ at the edge of the pool, the composition shows a group of girls splashing water wildly to the rhythm of the music. Fluid movement, water physics, and time consistency. (Cut to) Shot 10 (13-15 seconds) Extreme long shot (EWS) Camera movement: Rising and falling motion Dynamics: A rapid vertical ascent reveals the sheer scale of the chaotic pool party in the golden hour sunlight. Core action: The entire pool area is filled with dancing, swimming, and splashing water. Inflatable toys bounce on the water's surface. Seamless motion continuity, realistic physics governing all the movement, and highly dynamic motion culminate in a montage that reaches its climax.
@@ -151,9 +167,13 @@ Main cue words. Overall intent: A vibrant, sunny college pool party montage. The
 
 來源：[貼文](https://x.com/john87445528/status/2039496153641660508) · 發佈： 02 Apr 2026
 
-[![](./public/seedance_2_prompt_images/088.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/088.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Chapter 1 (0-15 seconds): Rooftop Awakening · Running and Leaping Down (Front to Back View). Style: rugged primitive realism using a 35mm handheld film camera, with natural grain and subtle shake. The dazzling direct sunlight of Chongqing noon creates high-contrast shadows and lens flares. Camera: a single continuous third-person handheld follow shot with no cuts, starting from a low front angle and smoothly transitioning to an over-the-shoulder / back view, following the protagonist Image 1 throughout. Atmosphere: high-altitude winds howl, dust and mist fly, and cloth, hair, and mechanical parts all show realistic physical motion. Sound effects: metallic echoes of mechanical high heels striking concrete, heavy rhythmic breathing, howling wind, operating mechanical joints, violent fabric flapping, sudden silence at the instant of the leap, followed by a high-speed wind-cutting shriek during descent. [Visual Reference / Description]: fully preserve the elegant female character from the reference image, wearing a white suit, silver mechanical chest plate and neck collar, silver mechanical hands, and silver high-heeled boots, with long straight black ponytail, delicate facial features, and large earrings. Physical features and clothing details must remain fully consistent. The scene takes place on the rooftop of Raffles City Chongqing, surrounded by skyscrapers, with the broad Yangtze River visible in the distance. [Timeline per Second] 0-4s: [Front Start] The handheld camera captures her full body from a low front angle. She stands at the rooftop edge, looking directly into the camera with a calm, determined expression. The mechanical cervical spine catches the noon sunlight, and her ponytail lifts in the high wind. She slowly turns around. 4-9s: [Over-the-Shoulder Follow · Full Sprint] The camera switches to an over-the-shoulder perspective and follows closely. She sprints across the concrete platform. Her mechanical high heels spark against metal with each step. The hem of the suit and the mechanical spine exoskeleton whip violently in the airflow. Dust kicks up from the roof, and the cloth simulation stays highly realistic. 9-12s: [Leaping Down] She suddenly jumps off. The instant her feet leave the ground, the camera dips slightly and switches to a fast downward tracking view. Her suit billows violently in the extreme airflow. The glass curtain walls of Raffles City streak upward on both sides, and motion blur erupts intensely. [Style and Quality Enhancement] Realistic 8K quality, ultra-fine mechanical texture and cloth physics, cinematic lighting and contrast, perfect motion blur, high dynamic range, no artifacts, coherent multimodal physical effects, stable cinematic image.
 
 Chapter 2 (0-15 seconds): Freefall · Purple AITO M7 Enters the Frame. Style: rugged realism, 35mm handheld camera, natural grain, subtle organic shake. Camera: primarily handheld follow shots, with quick cuts between the protagonist's falling perspective and the ground car-chase perspective to create extreme tension. Maintain full real-time speed, with no slow motion. Lighting: dazzling high-contrast sunlight at Chongqing noon, strong reflections on the glass curtain walls of Raffles City, and heat haze rising from the road. Sound effects: wind-cutting shriek intensifies continuously -> engine roar approaching from a distance -> sharp tire friction on asphalt -> cyber-energy hum -> metallic thud at the moment of impact -> dull compression as four wheels land -> engine roar continues and grows stronger. [Visual Reference / Description] The protagonist remains the same female character from the reference image, preserving all details. Scene: on the Chongqing ramp road below Raffles City, a purple AITO M7 drives at high speed. It uses the upward slope of the ramp to launch naturally and precisely catch the protagonist as she falls from the rooftop. No slow-motion close-ups at any point; keep the rhythm realistic, high-speed, and cinematic. [Timeline per Second] Continuing from Video 1 and extending by 15 seconds. 0-4s: [Extreme Speed Fall · Overlooking the Ground] Protagonist Image 1 falls at high speed while maintaining a balanced gliding posture with both arms spread. The camera locks onto her back. The curtain walls of Raffles City streak upward on both sides, the ground rapidly expands, and motion blur becomes extreme. The frame quickly inserts a ground view: a purple AITO M7 races along the ramp road below Raffles City. The car emits a cyber blue-purple glow, the engine roars, and the tires leave two black marks on the asphalt. 4-9s: [Ramp Launch · Trajectory Intersection] The purple AITO M7 charges to the top of the ramp. Using the ramp's inertia, the front of the car lifts into the air and the sunroof slides open instantly. The camera alternates rapidly between the falling protagonist and the climbing AITO M7. She keeps a high-speed falling posture with arms spread, and the AITO M7 keeps accelerating up the ramp. The two trajectories converge rapidly, compressing time to the limit and maximizing tension. 9-11s: [Last Second · Posture Change · Precise Entry] With only one second left before the sunroof, the protagonist instantly pulls in her outstretched arms and sharply changes from a horizontal gliding posture to a vertical upright posture. Her legs point straight down toward the open sunroof of the airborne purple AITO M7. The action is swift, decisive, and completely without hesitation. In the next instant, she drops vertically into the open sunroof and lands in the driver's seat at extremely high speed. No slow motion at any point; the impact is realistic and violent. 11-13s: [Four Wheels Landing · Maintaining Drive] The body of the car compresses slightly under the force of catching her. All four wheels slam back to the asphalt. The suspension violently absorbs the double impact. Immediately after landing, the engine roar rises further. Without slowing or stopping, all four tires scrape the asphalt, leaving new black marks, and continue driving at full speed. 13-15s: [Stable Inside Car · Energy Accumulation] The AITO M7 continues high-speed driving. The camera tracks close to the side from a low angle as blue-purple energy patterns spread from the four wheels across the body. The sound of mechanical transmission rises subtly from the underside and keeps strengthening. The body vibrates slightly during the high-speed run. The precursor energy of the coming transformation surges and churns beneath the paint. [Style and Quality Enhancement] Realistic 8K quality, ultra-fine mechanical details and energy-light textures, cinematic volumetric light and heat haze, perfect speed blur, HDR glow, no artifacts, full real-time speed, no slow motion.
@@ -169,9 +189,13 @@ Chapter 3 (0-15 seconds): AITO M7 Transforms -> Becomes an F-14 -> Protagonist S
 
 來源：[貼文](https://x.com/JiahaoYang_art/status/2033119940216344616) · 發佈： 15 Mar 2026
 
-[![](./public/seedance_2_prompt_images/022.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/022.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 15-second cinematic Japanese drama pure love ambiguous short film, ultra-realistic quality, warm golden sunlight in an empty classroom in the afternoon, spilling through the blinds onto the side-by-side desks, fine dust motes slowly floating in the light beams, old wooden desks, extremely natural subtle movements, breathing, and eye tension, characters maintain consistent faces, clothing, and hairstyles throughout without deformation, drift, or artifacts, real slight chest rise and fall synchronized with breathing, shallow depth of field, creamy blurred background, warm film grain, 8K sharp, Japanese youth restrained heart-fluttering suffocating atmosphere.
 0-4 seconds: Extremely slow push-in shot from a medium shot of the desktop to a close-up of the two people's side profiles sitting side-by-side. A pure girl in a summer school uniform is focused on writing notes with her head down, long black hair and stray hairs by her ears are gently lifted by a slight breeze, long eyelashes cast subtle shadows, skin is naturally pink and tender, a slight, unintentional upturn of the corner of her mouth in concentration, light and even breathing.
 4-9 seconds: Switch to a close-up of the boy. His school uniform collar is slightly loose, he props his elbow on the desk and secretly turns his head to gaze at her, his eyes filled with gentle, restrained affection and tenderness, pupils slightly dilated, his Adam's apple gently rolls. Suddenly noticing her pen pause, he quickly and flusteredly turns his head to pretend to look at his own notes, his earlobes quickly turn slightly red, his fingertips tremble slightly as he grips the pen, occasionally glancing at her from under his bangs, his breathing is slightly disordered, and his lips are tightly pressed in an effort to remain calm.
@@ -189,9 +213,13 @@ Character identity is maintained throughout, real subtle head tilts, eye movemen
 
 來源：[貼文](https://x.com/Adam38363368936/status/2039932977287979053) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/030.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/030.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Supercar commercial cinematography storyboard
 
 Shot 1 (1.5s): Opening frame on the supercar from the front, showcasing its signature aggressive face.
@@ -229,9 +257,13 @@ Highest image quality: 8K.
 
 來源：[貼文](https://x.com/TechTalkNAVI/status/2039941029265355123) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/061.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/061.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 {
  "location": "Tokyo Cityscape (Night)",
  "duration": "10s",
@@ -252,9 +284,13 @@ Highest image quality: 8K.
 
 來源：[貼文](https://x.com/ChrisTheNerv/status/2040043939109953944) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/075.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/075.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 100% real-life shooting texture, Hollywood IMAX blockbuster quality, natural light and shadow, cold documentary style, natural light on a cloudy day, handheld one-shot throughout, breathing shake, random focus shift, 16:9 widescreen.
 【Scene Environment】
 A destroyed city street extending into the distance. On both sides are ruined concrete buildings, exposed rebar, shattered windows, and some buildings are still burning, with orange flames and black smoke rising. Abandoned cars are scattered on the cracked asphalt road, several of which are burning. The sky is gloomy gray, with smoke and dust suspended in the air. Multiple meteorites streak across the sky with long trails of fire and dense smoke. In the background, terrified civilians scatter among the ruins, some falling, others dragging the injured.
@@ -287,9 +323,13 @@ Layered progression from the scream activation to the explosive mechanical erupt
 
 來源：[貼文](https://x.com/Adam38363368936/status/2039865857179013318) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/081.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/081.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 [Cloud Cave Sword Shadow · Heavenly Gate Bloody Battle]
 — One-shot sequence at Tianmen Mountain, Zhangjiajie
 Core Style: Tsui Hark's new style Wuxia blockbuster, one-shot sequence, high frame rate, 4K ultra-clear.
@@ -345,9 +385,13 @@ Freeze Frame: The camera pushes in for an extreme close-up. A drop of blood drip
 
 來源：[貼文](https://x.com/YaReYaRu30Life/status/2039474680235741681) · 發佈： 01 Apr 2026
 
-[![](./public/seedance_2_prompt_images/114.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/114.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 [Basic Settings]
 structure: Single continuous shot (no cuts)
 progression: Morphing 7 images sequentially
@@ -419,9 +463,13 @@ seamless transformation flow
 
 來源：[貼文](https://x.com/Adam38363368936/status/2039157138002780202) · 發佈： 01 Apr 2026
 
-[![](./public/seedance_2_prompt_images/121.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/121.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Product: Color-shifting gradient foldable smartphone (e.g., light purple to ice blue gradient)
 
 Style: Trendy fashion, energetic fast pace, high-end texture, no people, minimalist light and shadow, fashionable trend style
@@ -462,9 +510,13 @@ Requirements: Fast pace, tight transitions, high-end fashion, youthful energy, n
 
 來源：[貼文](https://x.com/songguoxiansen/status/2033175478765289598) · 發佈： 15 Mar 2026
 
-[![](./public/seedance_2_prompt_images/021.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/021.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 16:9 horizontal screen, street rap MV style, neon purple and blue cool tones, explosive cool and fierce atmosphere. 0-3 seconds: Medium shot push-in, city street night scene with flashing neon lights, an 80-year-old silver-haired woman stands in front of a graffiti wall, short silver-white hair styled in a neat slick-back, distinct square face contour, sword-like eyebrows slanting towards the temples, eyes sharp like electricity, wrinkles at the corners of her eyes like badges of time, a confident smile on the corner of her mouth, wearing a black leather jacket over a white printed T-shirt (large black letters "YOLO" on the chest) + black cargo pants + white high-top sneakers, a thick gold chain necklace around her neck, silver bracelet on her wrist, holding up a microphone with both hands, strong drum beats of the BGM start, the old woman's eyes sharpen, and her lips open to start Rap. 3-7 seconds: Medium shot + close-up switch, the old woman starts rapping, with an extremely strong sense of rhythm, her silver hair flying with her head-nodding movements, one hand holding the microphone, the other hand making gestures to match the rhythm—index finger pointing at the camera, palm cutting the rhythm up and down, making hip-hop gestures, movements are smooth and flowing, eyes sharp and looking directly at the camera, wrinkles vividly jumping with her expression, lips opening and closing rapidly to spit out lyrics: [Rap Lyrics] "Eighty-year-old legs, can jump better than you! Silver hair flowing, this is my pride! Don't call me old, my Flow is better than yours, when you were playing rap, I was listening to disco!" (Fast speed, strong rhythm, fierce attitude) Quick cuts: facial close-ups, hand movements, full-body swaying, side silhouettes, synchronized with the BGM beat. 7-11 seconds: Dance segment, the camera pulls back to show the full body, the old woman starts dancing—first the classic hip-hop bounce, then a neat street dance freeze, followed by a body wave transmitting from the shoulders to the toes, and then a quick footwork workout, movements are clean and sharp, silver hair flies under the neon lights, the leather jacket flutters in the air, she continues to Rap while dancing: [Rap Lyrics] "Legs and feet are nimble, speed is not slow, my lyrics are carved in time! You play with phones, I play with beats, eighty years of life, written into this verse!" (Faster rhythm, stronger tone) Low-angle upward shot + 360-degree surrounding shot, capturing the old woman's cool and fierce dance moves. 11-15 seconds: Climax ending, the old woman makes a cool turn, her silver hair arcs in the air, she faces the camera and makes a "shush" gesture with her finger, then her lips move closer to the microphone, singing the last line in a low, magnetic voice: [Reality Lyrics] "Time never defeats a beauty, I just changed the way I experience youth..." (Slow rhythm, deep emotion, lingering finish) The camera slowly pushes in for a close-up of the old woman's eyes, the wrinkles at the corners of her eyes are all stories, her gaze is still sharp yet with a hint of kindness, the BGM abruptly stops at the climax, the frame freezes on the old woman's cool yet slightly gentle smile, vignetting + neon purple light halo.
 ```
 
@@ -476,9 +528,13 @@ Requirements: Fast pace, tight transitions, high-end fashion, youthful energy, n
 
 來源：[貼文](https://x.com/nopinduoduo/status/2039915824216261101) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/031.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/031.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 15-second Original Desert Martial Arts Short Film: A black cat warrior in light armor stands alone in a desert where yellow sand is flying all over the sky, facing the pursuers. The shots combine slow motion and fast editing; under backlight, the yellow sand rolls like ink mist. The character's movements are elegant yet ferocious, with tattered but flowing robes. Holding a short weapon, he shuttles and counterattacks at high speed. The overall tone is cold, lonely and oppressive, with high-end colors and obvious shallow depth of field, just like a high-quality oriental martial arts movie.
 ```
 
@@ -490,9 +546,13 @@ Requirements: Fast pace, tight transitions, high-end fashion, youthful energy, n
 
 來源：[貼文](https://x.com/johnAGI168/status/2021610292979876208) · 發佈： 11 Feb 2026
 
-[![](./public/seedance_2_prompt_images/035.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/035.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Live-Action Anime Adaptation · Breathing Technique Decisive Battle (15 seconds · Super Burning Special Effects Version)
 【Core Focus】: Water Breathing (Blue Water Dragon) VS Thunder Breathing (Golden Lightning), live-action extreme speed duel.
 
@@ -524,9 +584,13 @@ Anime 高速剪輯測試：10 秒內 20 個硬切（每個鏡頭 0.5 秒，無�
 
 來源：[貼文](https://x.com/tebasaki3D/status/2039903531415552048) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/039.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/039.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Anime high-speed cut test — 20 hard cuts in 10 seconds (0.5 seconds per cut, no fade-in/fade-out, no transitions).
 [0.0 seconds to 0.5 seconds]: Cut 1 — Close-up. Anime Girl A: Long crimson hair, vivid green eyes. Winks at the camera.
 ```
@@ -539,9 +603,13 @@ Anime high-speed cut test — 20 hard cuts in 10 seconds (0.5 seconds per cut, n
 
 來源：[貼文](https://x.com/sebatheepan/status/2040079840754205010) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/041.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/041.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Watch a grease-stained mechanic fix 
 a violently rattling junker like it’s a martial arts fight. 
 
@@ -558,9 +626,13 @@ From rusty disaster to purring monster in seconds.
 
 來源：[貼文](https://x.com/sailorv321/status/2040127822908596305) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/042.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/042.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 A short film about a samurai who loses his life on a burning battlefield and wakes up as a baby in another world.
 The first half is a fierce battle on a battlefield covered in mud and flames. The young samurai challenges his final duel, seems to win for a moment, but is ultimately cut down and falls. His vision tilts low, and his consciousness fades as he is enveloped in fire and smoke.
 ```
@@ -573,9 +645,13 @@ The first half is a fierce battle on a battlefield covered in mud and flames. Th
 
 來源：[貼文](https://x.com/johnAGI168/status/2039924160567058725) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/047.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/047.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Stylized 3D animation with exaggerated proportions, sharp kung-fu-soccer choreography, and controlled rhythmic energy. CHARACTERS - Football master: an impeccably focused martial-arts soccer prodigy in a fitted training top, wrapped wrists, tapered athletic pants, and classic football boots. Piercing gaze. Every movement follows a precise rhythm: pause -> burst -> lock. Theatrical, hypnotic, absolute master of the field. - Opponent goalkeeper: tense, exhausted, intimidated, standing before the goal line under immense pressure. ENVIRONMENT Futuristic night football stadium with glowing floodlights, wet grass, drifting mist, roaring crowd silhouettes, dramatic contrast. MOOD Aggressive precision. Football master = total control. Goalkeeper = anxious, overwhelmed. TIMELINE 0:00-0:02 (Close-up) The ball rests at the player's feet. He taps it lightly once, then rolls his ankle and snaps into a low martial stance, one hand extended, one foot pinning the ball, energy coiling before release. 0:02-0:05 (Action sequence) He flicks the ball high into the air. Launching upward, he strikes it in mid-air with a flurry of kung-fu kicks and spinning leg strikes, each impact perfectly controlled. The ball accelerates, glowing with spiraling energy trails like a dragon sphere. 0:05-0:08 (Tracking shot) He lands and sprints forward with impossible precision footwork, dribbling through multiple defenders in braided arcs, body feints, sweeping turns, and explosive step-overs. The camera tracks low and fast as the glowing ball never leaves his control. 0:08-0:11 He plants his foot, twists his waist, and unleashes a violent, rhythmic power shot. The kick lands with a percussive burst, grass and mist exploding outward, the ball becoming a blazing comet with frosted vapor and shockwave ripples. 0:11-0:13 The goalkeeper dives desperately as the ball curves through the air in a smoking arc, slicing through the frame with dragon-fire energy, then smashes into the top corner of the net. 0:13-0:15 FINAL REVEAL The net whips violently. Smoke and light dissipate. The glowing ball settles in the goal. The goalkeeper lies stunned. The football master stands in silence, turns away calmly, and flicks his wrist as the crowd erupts. Epic, ultra-detailed, cinematic, premium animation, powerful lighting, heroic finish.
 ```
 
@@ -587,9 +663,13 @@ Stylized 3D animation with exaggerated proportions, sharp kung-fu-soccer choreog
 
 來源：[貼文](https://x.com/drjoetw/status/2039905967597613558) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/050.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/050.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 A fast-paced comedic parody Seedance 2 short set in an ancient imperial study. An orange cat dressed as Qin Shi Huang in Han-style golden dragon robes sits behind a large desk. Gray mice in minister outfits line up, each stepping forward with scrolls. The cat barely looks and scribbles messy, meaningless brush strokes, moving faster and faster.
 
 Dialogue (overlapping): Mice: “Your Majesty, urgent matter!” “National crisis!” Cat: “Approved. Next. Whatever.”
@@ -607,9 +687,13 @@ Camera: fast cuts, whip pans, strong motion blur, 0.6–1.2s pacing, ending in s
 
 來源：[貼文](https://x.com/_3912657840/status/2040018529441730815) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/056.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/056.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Japanese anime. Dialogue in Japanese. Flowing clouds. A girl walks, jumps cutely, and hits a red switch. At the moment of the explosion, it briefly becomes black and white high contrast, then flame-colored high contrast. The tower in the background explodes violently, creating a flame backlight high contrast. The girl says, "Haa~!?" Surprised by the explosion.
 ```
 
@@ -621,9 +705,13 @@ Japanese anime. Dialogue in Japanese. Flowing clouds. A girl walks, jumps cutely
 
 來源：[貼文](https://x.com/ZikinArt/status/2040006818953322644) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/058.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/058.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 15-second Original Elemental Battle Short Film: On an ice-covered volcanic mountain range, a warrior in lava obsidian armor collides head-on with an opponent who controls cold crystal power. Under their feet are snow-covered cracked lava; in the air, there are simultaneous flame roars, ice crystal shatters, steam eruptions and storm howls. The camera quickly switches between close-ups of armor textures, ice crystals, ground cracks and the ultimate collision moment, and finally ends with a steam explosion engulfing the screen, featuring a strong "fire vs. ice" visual conflict.
 ```
 
@@ -635,9 +723,13 @@ Japanese anime. Dialogue in Japanese. Flowing clouds. A girl walks, jumps cutely
 
 來源：[貼文](https://x.com/ShamiWeb3/status/2040096061835059412) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/064.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/064.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Highly detailed cinematic 4K animated video, precious enchanted Faberge-style Easter eggs floating in a dreamy ethereal space, ornate golden filigree and glowing runes on creamy porcelain and jewel-toned shells, semi-transparent eggs revealing intricate animated miniature fantasy
 ```
 
@@ -649,9 +741,13 @@ Highly detailed cinematic 4K animated video, precious enchanted Faberge-style Ea
 
 來源：[貼文](https://x.com/David_eficaz/status/2039966320414937236) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/074.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/074.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Original 15-second short film about an elemental battle: In a volcanic mountain range covered in ice, a warrior in volcanic obsidian armor clashes head-on with an opponent who controls the power of cold crystal. Cracked, snow-covered lava stretches beneath their feet; in the air, flames roar, ice crystals shatter, steam erupts, and storms howl. The camera rapidly alternates close-ups of the armor textures, ice crystals, cracks in the ground, and the culminating moment of the clash, finally ending with an explosion of steam that floods the screen, creating a strong visual conflict between fire and ice.
 ```
 
@@ -663,9 +759,13 @@ Original 15-second short film about an elemental battle: In a volcanic mountain 
 
 來源：[貼文](https://x.com/CharaspowerAI/status/2040013966986957144) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/076.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/076.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 ultra cinematic sci-fi fantasy duel in daylight, a warrior wielding a glowing energy blade stands facing a massive terrifying creature, calm and focused, ready for an intense high-speed confrontation
 
 Dynamic cinematic system, mix of tracking shots + fast orbit moves + whip pans, seamless transitions masked by blade motion, impacts, and energy bursts, fluid continuous sequence with alternating real-time and slow motion highlights
@@ -688,9 +788,13 @@ Ultra realistic, high-end cinematic action, precise choreography, glowing energy
 
 來源：[貼文](https://x.com/Artedeingenio/status/2039997977897435190) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/078.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/078.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 15-second continuous single-shot action sequence.
 No cuts. No scene transitions.
 
@@ -711,9 +815,13 @@ Dense forest → cliff edge → open valley
 
 來源：[貼文](https://x.com/Alin_Reaper05/status/2040042931172655384) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/079.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/079.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 A lone samurai stands on a cliff overlooking cherry blossom mountains at sunset, wind blowing petals around him, he slowly draws his katana for the last time, single tear on his face, slow cinematic crane shot rising above him as sun sets, emotional widescreen, ultra-realistic, like Ghost of Tsushima + The Last Samurai, warm golden tones, heartbreaking moment
 ```
 
@@ -725,9 +833,13 @@ A lone samurai stands on a cliff overlooking cherry blossom mountains at sunset,
 
 來源：[貼文](https://x.com/sebatheepan/status/2039723026124575231) · 發佈： 02 Apr 2026
 
-[![](./public/seedance_2_prompt_images/085.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/085.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 A daring aerial rogue diving on a bio-mechanical glider through a chaotic floating-island bazaar, weaving effortlessly through airborne merchants, dodging passing airships, flocking griffins, and tethered trading posts. He plummets past crumbling stone arches, busy rope bridges, and cascading waterfalls, barrel-rolling through narrow gaps with precision and style. Cinematic tracking shots follow his descent, enhanced by dynamic motion blur and ethereal dappled sunlight reflecting off crystal formations and mist. The sky-city pulses with an energetic fantasy vibe—flapping wings, shouting vendors, and nonstop vertical motion. Ultra-realistic detail with an epic high-fantasy action aesthetic, capturing speed, agility, and fearless momentum through the clouds.
 ```
 
@@ -739,9 +851,13 @@ A daring aerial rogue diving on a bio-mechanical glider through a chaotic floati
 
 來源：[貼文](https://x.com/naoyuki_okada/status/2039573038392614995) · 發佈： 02 Apr 2026
 
-[![](./public/seedance_2_prompt_images/086.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/086.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 A super high-speed flight action scene of a girl riding a dragon. High number of frames, 24FPS Japanese full-color anime.
 Two dragons, one blue and one red, are flying high above the clouds. They are flying faster than 100 km/h, cutting through the wind and passing between the clouds. A sense of freedom, liberation from anything that might interfere, and speed.
 ```
@@ -754,9 +870,13 @@ Two dragons, one blue and one red, are flying high above the clouds. They are fl
 
 來源：[貼文](https://x.com/NimEshed/status/2039816152222949829) · 發佈： 02 Apr 2026
 
-[![](./public/seedance_2_prompt_images/091.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/091.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 15-second Original Desert Martial Arts Short Film: A black cat warrior in light armor stands alone in a desert where yellow sand is flying all over the sky, facing the pursuers. The shots combine slow motion and fast editing; under backlight, the yellow sand rolls like ink mist. The character’s movements are elegant yet ferocious, with tattered but flowing robes. Holding a short weapon, he shuttles and counterattacks at high speed. The overall tone is cold, lonely and oppressive, with high-end colors and obvious shallow depth of field, just like a high-quality oriental martial arts movie.
 ```
 
@@ -768,9 +888,13 @@ Two dragons, one blue and one red, are flying high above the clouds. They are fl
 
 來源：[貼文](https://x.com/john87445528/status/2039348028574744685) · 發佈： 01 Apr 2026
 
-[![](./public/seedance_2_prompt_images/110.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/110.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 A 15-second hyper-realistic epic war blockbuster. Style: rugged realism, 35mm handheld film aesthetic, natural grain, subtle shake. Xiang Yu, the Hegemon-King of Western Chu, wearing the armor from Image 2, riding the horse from Image 1, holding a 13-foot 7-inch Overlord Spear, in a famous scene of slaughter on an ancient battlefield, leading a small number of soldiers against thousands of enemy troops in a display of lonely bravery. Scene 1: One-shot, low-angle ground-level slow follow of the horse's hooves, panning up to a close-up of Xiang Yu's face, showing bloodstains, resolute eyes, and a roaring expression as he shouts: “Zhai Xiaoniao,” give me back my money; Scene 2: Low-angle follow shot of Xiang Yu charging on horseback, leading the way; Generate only fighting sound effects and environmental sounds, no background music.
 ```
 
@@ -782,9 +906,13 @@ A 15-second hyper-realistic epic war blockbuster. Style: rugged realism, 35mm ha
 
 來源：[貼文](https://x.com/Dheepanratnam/status/2039387346706001941) · 發佈： 01 Apr 2026
 
-[![](./public/seedance_2_prompt_images/117.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/117.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Office Coffee Break Gone WrongShot 1: Tired office worker in a button-up shirt sips coffee at his desk in a modern open-plan office. Calm medium shot, fluorescent lights, papers everywhere.Shot 2: He spills a drop — the coffee suddenly animates into a hyper-caffeinated coffee monster with espresso eyes and foam tentacles.Shot 3: Low-angle shot: The monster rampages across desks, flinging staplers and keyboards in realistic arcs while the worker dodges in panic.Shot 4: Fast-paced tracking shot through the office as coworkers scream and dive under tables, papers flying like confetti with accurate physics.Shot 5: Climax: Worker grabs a fire extinguisher and blasts the monster, turning it back into harmless foam. He sits exhausted, now covered in foam, as everyone claps slowly
 ```
 
@@ -796,9 +924,13 @@ Office Coffee Break Gone WrongShot 1: Tired office worker in a button-up shirt s
 
 來源：[貼文](https://x.com/Artedeingenio/status/2039333445403287777) · 發佈： 01 Apr 2026
 
-[![](./public/seedance_2_prompt_images/119.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/119.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 15-second continuous single-shot action sequence.
 No cuts. No scene transitions.
 
@@ -819,9 +951,13 @@ Weighty creature movement, believable scale,
 
 來源：[貼文](https://x.com/kuranoayashi/status/2040055299835650266) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/045.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/045.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Modern Japan. A 15-second live-action documentary-style video set during a high-rise building fire in Tokyo Bay. 
 No BGM. No subtitles. Only environmental sounds, radio, wind, fire, and people's voices from the scene.
 ---
@@ -835,9 +971,13 @@ No BGM. No subtitles. Only environmental sounds, radio, wind, fire, and people's
 
 來源：[貼文](https://x.com/Dheepanratnam/status/2039982273076810119) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/073.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/073.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 [0-5s] Dynamic low-angle tracking shot pacing a female downhill longboarder in a deep aerodynamic tuck speeding down a steep mountain pass. Blinding, intense directional sunlight hits her profile, generating stark, elongated, pitch-black shadows onto the sheer, rough-hewn ancient stone cliff walls to her right. The atmosphere is adrenaline-fueled with high-contrast, dramatic lighting. 
 
 [5-10s] The camera smoothly tilts up and racks focus entirely to the cliff face, filling the frame with her razor-sharp shadow mimicking her fluid slalom carves across the weathered, pitted limestone architecture, creating a mesmerizing optical illusion of a dark silhouette dancing along the ancient masonry. 
@@ -857,9 +997,13 @@ No BGM. No subtitles. Only environmental sounds, radio, wind, fire, and people's
 
 來源：[貼文](https://x.com/genel_ai/status/2039538309790404797) · 發佈： 02 Apr 2026
 
-[![](./public/seedance_2_prompt_images/004.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/004.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 A hyper-realistic, 8K resolution, adrenaline-fueled single-take POV action sequence. The camera is chest-mounted on a man wearing camouflage joggers and worn-out black-and-white sneakers. He stands on the dizzying edge of a rusted skyscraper, 1000 feet above a crystalline turquoise ocean. No clouds, no haze—just a sheer, terrifying vertical drop into the deep blue.
 [The Initial Freefall]
 The sequence begins with a sudden, heart-stopping leap into a 20-meter vertical freefall. The camera points directly at his feet as the sea surface rushes toward the lens. A deafening, high-pitched whistling 'Hyuo' wind screams past the microphone. Just before the impact, he catches a lower rusted horizontal bar with both hands—white wristband visible—and swings his body forward to land on a tiny vertical pole.
@@ -882,9 +1026,13 @@ The camera remains in a low, fetal position on the final bar, shaking from the a
 
 來源：[貼文](https://x.com/Adam38363368936/status/2039498800801398911) · 發佈： 02 Apr 2026
 
-[![](./public/seedance_2_prompt_images/005.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/005.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 You can try this:
 
 A 15-second Hollywood-level Shanghai city fast-cut video. Style: a fusion of cyberpunk and modern Haipai aesthetics, cinematic teal-and-orange color grading, 8K ultra-HD.
@@ -908,9 +1056,13 @@ Mood: energetic, futuristic, premium, fast-paced. Combine wide city views with f
 
 來源：[貼文](https://x.com/Just_sharon7/status/2040685931858907646) · 發佈： 05 Apr 2026
 
-[![](./public/seedance_2_prompt_images/006.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/006.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Strictly follow the reference character’s face, hairstyle, outfit silhouette, and body proportions. Do not change identity or facial structure. Fixed appearance: glowing dark eyes, torn black samurai kimono, traditional katana, black cursed smoke slowly leaking from the body, flowing shadow energy aura, calm but cruel expression, supernatural high-speed movement, consistent identity and physical appearance throughout the entire scene. Strictly follow the reference character’s face, hairstyle, outfit silhouette, and body proportions. Do not change identity or facial structure. Fixed appearance: glowing dark eyes, torn black samurai kimono, traditional katana, black cursed smoke slowly leaking from the body, flowing shadow energy aura, calm but cruel expression, supernatural high-speed movement, consistent identity and physical appearance throughout the entire scene. Hyper-realistic cinematic action, Unreal Engine quality, fast-paced 12s sequence. Cursed lone samurai (strict consistency: female Japanese, long tied black hair, pale skin, glowing dark eyes, torn black kimono armor, katana, black cursed smoke, shadow aura, calm ruthless expression). Environment: abandoned temple shrine at night, broken torii gates, shattered statues, debris, moonlight + dim lanterns, dust and wind, dozens of enemies, dark gritty tone. Camera: aggressive tracking, whip pans, blade POV, high-speed motion, no slow motion. Action: 0–3s: Samurai stands surrounded → instant iaijutsu draw → dark energy slash cuts multiple enemies. 3–6s: High-speed dashes, shadow afterimages, rapid slashes, enemies fall, debris flying. 6–9s: Close combat, parries, teleport-like strikes, circular slashes clearing groups. 9–12s: Final spinning slash → massive dark wave → enemies freeze then collapse → silence, smoke fading.
 ```
 
@@ -922,9 +1074,13 @@ Strictly follow the reference character’s face, hairstyle, outfit silhouette, 
 
 來源：[貼文](https://x.com/drjoetw/status/2040661051948323129) · 發佈： 05 Apr 2026
 
-[![](./public/seedance_2_prompt_images/009.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/009.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Cinematic hyper-dynamic fast-paced multi-shot sequence, epic mythological battlefield, IMAX film simulation, 35mm Panavision lens, f/4, heavy cinematic color grading, dramatic contrast between dark necrotic tones and radiant golden divine light.
 Shot 1: Extreme close-up on Sun Wukong’s face, covered in dirt and blood, golden eyes flickering with exhaustion yet defiance. His fur is matted, his breathing heavy. He kneels in the center of a ruined battlefield, his golden staff cracked and planted into the ground for support. Around him, countless skeletal warriors slowly close in, their hollow eyes glowing with eerie green fire.
 Shot 2: Rapid shaky handheld shot circling Wukong. The skeletal army tightens its formation, bones clattering, rusted weapons scraping. Wukong struggles to stand, gripping his staff, as the undead swarm prepares to strike from all directions.
@@ -944,9 +1100,13 @@ Shot 8: Wide epic drone pull-back. Wukong stands silhouett
 
 來源：[貼文](https://x.com/johnAGI168/status/2040628800422322359) · 發佈： 05 Apr 2026
 
-[![](./public/seedance_2_prompt_images/010.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/010.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 [Style] Millennium retro pool party (Y2K Pool Party), MiniDV camcorder texture, overexposed warm yellow highlights, film grain, VHS interference lines, fast beat-synced editing.
 [Duration] 15 seconds.
 [Scene] A 2000s American backyard pool party under blazing sun, with glaring light reflections on the water, folding lounge chairs, a silver CD player, rainbow inflatable floats, and a plastic whale.
@@ -981,9 +1141,13 @@ A rapid crane rise opens the entire pool party in golden-hour warm light, full o
 
 來源：[貼文](https://x.com/xingsthatmatter/status/2040190310043812035) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/038.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/038.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Cinematic CG ad quality, ultra-realistic, first-person POV, high-speed one-take camera movement, strong visual impact.
 
 The camera bursts out from inside image1, the Tesla card, as the card spins forward at high speed. The camera stays tight to its edge, tracking it through city
@@ -996,9 +1160,13 @@ The camera bursts out from inside image1, the Tesla card, as the card spins forw
 
 來源：[貼文](https://x.com/drjoetw/status/2040036596897222773) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/049.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/049.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 A highly dramatic, fast-cut anime MV with exaggerated cinematic tension and comedic payoff. 1930s Tokyo rice paddies, muddy textures, stormy sky. Extreme sense of falling urgency using rapid cuts, POV distortion, speed ramps, spinning camera, impact zooms. Dramatic orchestral music escalating non-stop, then sudden comedic release at the end. No dialogue, no voice-over. Each shot 0.6–1.2s.
 
 0–0.8s (HOOK)
@@ -1069,9 +1237,13 @@ Freeze frame → dramatic music abruptly cuts.
 
 來源：[貼文](https://x.com/aisavvy1/status/2040054688054382972) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/052.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/052.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Create a fast, seamless 16:9 flying POV sequence with five linked shots.
 Shot 1: Start inside a dark ancient stone corridor with a wooden door at the far end. Fly straight toward it at high speed. As the camera reaches the door, it begins to swing open, revealing a gap of bright blue ocean behind it. End mid-opening.
 Shot 2: Continue through the opening door into the ocean. Fly forward through fish, bubbles, light rays, and underwater plants. A giant fish approaches and opens its mouth directly in front of the camera. End inside its mouth.
@@ -1089,9 +1261,13 @@ Fast, smooth, continuous movement. No flying device, shadow, or reflection. Cine
 
 來源：[貼文](https://x.com/LudovicCreator/status/2039983776206344231) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/069.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/069.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 **Environment:**
 
 A massive medieval-fantasy city under siege at dusk. Stone towers, cathedral spires, and narrow streets stretch toward the horizon while fire spreads through rooftops and smoke rises into the orange evening sky. Wind currents swirl between the tall buildings.
@@ -1125,9 +1301,13 @@ Photorealistic fire simulation, volumetric smoke, cinematic sunset lighting, rea
 
 來源：[貼文](https://x.com/LudovicCreator/status/2039623813080416486) · 發佈： 02 Apr 2026
 
-[![](./public/seedance_2_prompt_images/093.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/093.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 First-person POV of an ice cube dropped into a glass of soda.
 
 The cube crashes into a bubbling ocean of carbonated liquid.
@@ -1151,9 +1331,13 @@ Macro drink environment POV, carbonation bubble storms, melting ice transformati
 
 來源：[貼文](https://x.com/AngelNwoha/status/2039792884841591009) · 發佈： 02 Apr 2026
 
-[![](./public/seedance_2_prompt_images/102.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/102.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Gritty, raw handheld 35mm film aesthetic with natural film grain. Bright early-morning sunlight streaming through windows, creating sharp indoor shadows. Controlled handheld tracking shot (3rd person POV, over-the-shoulder), stabilized cinematic motion with subtle natural shake.
 ```
 
@@ -1165,9 +1349,13 @@ Gritty, raw handheld 35mm film aesthetic with natural film grain. Bright early-m
 
 來源：[貼文](https://x.com/umitsuru_fire/status/2039295650039554051) · 發佈： 01 Apr 2026
 
-[![](./public/seedance_2_prompt_images/105.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/105.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 10-second photorealistic cinematic POV video. A Japanese woman in her early 20s with a black short bob hairstyle, straight hair, natural refined makeup, and a white blouse sits inside a Ferris wheel gondola at night near the top. Outside the window is a beautiful city nightscape
 ```
 
@@ -1179,9 +1367,13 @@ Gritty, raw handheld 35mm film aesthetic with natural film grain. Bright early-m
 
 來源：[貼文](https://x.com/johnAGI168/status/2039380975801471305) · 發佈： 01 Apr 2026
 
-[![](./public/seedance_2_prompt_images/108.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/108.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 A super futuristic megacity after the apocalypse awakens in a storm. Dark clouds press down on the city. Giant battleships slowly descend from the sky, piercing through thunderclouds. The city's high-rise buildings are interwoven with neon lights and fire. Countless drones and armored vehicles shuttle rapidly through the streets. A distant energy tower erupts with dazzling blue electric arcs. The camera dives from high altitude into the city canyon, then rapidly pushes through falling debris and flames, finally settling on the back of a lonely hero wearing a black trench coat, standing on the edge of a skyscraper overlooking the entire burning city. Cinematic lighting, IMAX epic feel, ultra-high detail, stunning composition, strong volumetric light, realistic explosion smoke and dust, epic disaster movie atmosphere, extreme realism, top Hollywood visual effects.
 ```
 
@@ -1193,9 +1385,13 @@ Style：超寫實工業縮時 Pace：極快（hyperlapse 感） Camera：以固�
 
 來源：[貼文](https://x.com/craftian_keskin/status/2039415621960499603) · 發佈： 01 Apr 2026
 
-[![](./public/seedance_2_prompt_images/111.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/111.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Style: Ultra-realistic industrial timelapse
 Pacing: Extremely fast (hyperlapse feel)
 Camera: Mostly fixed with slight cinematic motion (slider/drone feel)
@@ -1263,9 +1459,13 @@ Camera holds briefly as car exits frame
 
 來源：[貼文](https://x.com/Yuupapa_free/status/2039329682492121547) · 發佈： 01 Apr 2026
 
-[![](./public/seedance_2_prompt_images/113.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/113.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 cinematic, heavy action blockbuster film, Japanese city center, collapsed main street at dusk. A giant monster is knocking down buildings, dust, sparks, rubble, and black smoke are flying, and a Japanese high school girl in a uniform is desperately running towards the camera. Cut 1 (0.0s-2.5s): low angle tracking shot following the high school girl from the front as she retreats. Her hair and skirt are violently fluttering, the ground shakes from the monster's footsteps behind her, cars overturn, and window glass shatters. Her face shows determination amidst fear. Cut 2 (2.5s-3.7s): close-up of her feet. With every step she runs, black metal frames and pink glowing lines deploy onto her legs, rapidly equipping from her thighs to her shins and boots. Sparks and fine energy particles, mechanical transformation. Cut 3 (3.7s-4.8s): close-up of her hands. As she swings her arms, armor forms around her forearms, wrists, and fingertips, with pink light strips running through the gaps in the black armor. Cut 4 (4.8s-6.0s): close-up of her abdomen and chest. Abdominal inner wear, chest armor, and shoulder units lock sequentially, and the central core pulses pink with her breathing. Rack focus shows the detail of the armor. Cut 5 (6.0s-7.0s): close-up of her head. As her hair flies, a helmet deploys from the sides and back, enveloping her face line, and finally the visor closes while glowing. eyes visible through translucent visor. whip pan completes the transformation. Cut 6 (7.0s-8.8s): wide shot. After running a few steps at high speed, the transformed girl skids to a halt, scattering sparks and fragments, twists her body, and faces the monster. She thrusts one hand forward, and a pink spherical energy vortex converges on the device on the back of her hand, drawing in surrounding rubble. Cut 7 (8.8s-10.5s): over-the-shoulder shot capturing the monster, and she silently fires an energy blast all at once. A thick pink shockwave runs straight through, piercing the monster's chest. Cut 8 (10.5s-12.0s): super large explosion. The monster is blown to smithereens, fragments and smoke fly into the sky, and the giant body collapses. The final shot is a hero shot, the high school girl in a black and pink powered suit standing with the explosion behind her. dramatic backlight, debris, heat haze, high contrast, realistic destruction, dynamic motion blur, no BGM, no dialogue
 ```
 
@@ -1281,9 +1481,13 @@ cinematic, heavy action blockbuster film, Japanese city center, collapsed main s
 
 來源：[貼文](https://x.com/ShadeLurk/status/2040671186984796632) · 發佈： 05 Apr 2026
 
-[![](./public/seedance_2_prompt_images/007.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/007.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 PR [Topview]
 #TopviewAI #Seedance2
 Dance
@@ -1300,9 +1504,13 @@ Three anime girls perform Perfume-style formation dance on an illuminated stage.
 
 來源：[貼文](https://x.com/ZaraIrahh/status/2040667542390190245) · 發佈： 05 Apr 2026
 
-[![](./public/seedance_2_prompt_images/008.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/008.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-clad warrior and a black-armored opponent launch their final battle amid an atmosphere like a chorus. Stained glass shatters, moonlight penetrates the smoke and dust, and benches are overturned. The camera switches between high-angle overhead shots and low-angle upward shots, focusing on showing the sense of space of the religious building, the sense of oppression of the characters, and the temperament of a fateful decisive battle, just like the climax segment of an original fantasy animated film. A strong hook in the first 2 seconds, stable main body, coherent actions, movie-level composition, real light and shadow, epic sense, strong emotion, high-definition details, suitable for social media communication, avoiding copyrighted characters, avoiding brand logos, and completely original design.
 ```
 
@@ -1314,9 +1522,13 @@ Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-cl
 
 來源：[貼文](https://x.com/MiraMusic_AI/status/2040595365096034700) · 發佈： 05 Apr 2026
 
-[![](./public/seedance_2_prompt_images/012.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/012.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Original Japanese-Style Dark Fantasy Action Short Film:
 Inside a dilapidated shrine hall, a white-robed warrior and a black-armored samurai engage in their final battle amid an atmosphere reminiscent of ritual chanting. Wooden beams creak, paper screens tear apart, and fragments scatter as moonlight filters through drifting dust and smoke. Tatami mats are disrupted and scattered across the floor.
 The camera alternates between high-angle overhead shots and low-angle upward perspectives, emphasizing the spatial depth of traditional Japanese architecture, the oppressive tension surrounding the characters, and the solemn intensity of a fateful duel—evoking the climactic moment of an original Japanese fantasy animated film.
@@ -1331,9 +1543,13 @@ A strong hook within the first 2 seconds, followed by a stable and cohesive prog
 
 來源：[貼文](https://x.com/aigeboku/status/2040562471027782017) · 發佈： 04 Apr 2026
 
-[![](./public/seedance_2_prompt_images/014.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/014.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Here it is.
 
 A 15-second Japanese snack commercial.
@@ -1352,9 +1568,13 @@ Seedance 2 的電影感武術序列 PROMPT：大白天的電影感武術對決�
 
 來源：[貼文](https://x.com/CharaspowerAI/status/2040376349504815467) · 發佈： 04 Apr 2026
 
-[![](./public/seedance_2_prompt_images/017.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/017.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Cinematic Martial Art Sequence for Seedance 2
 PROMPT
 cinematic martial arts confrontation in broad daylight, a blind shaolin monk wearing a dark, stylized combat outfit inspired by legendary fighters stands calm and centered, eyes closed, surrounded by multiple hostile creatures emerging from a traditional Japanese landscape
@@ -1377,9 +1597,13 @@ Ultra realistic, high-end martial arts film choreography, precise body mechanics
 
 來源：[貼文](https://x.com/Viafin23/status/2025901411221774788) · 發佈： 23 Feb 2026
 
-[![](./public/seedance_2_prompt_images/020.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/020.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 I asked Grok to produce the same video, but the result wasn't convincing. Grok's rendering lacks a certain "realism."
 Seedance 2.0 is by far the best video generator.
 💡PROMPT:
@@ -1398,9 +1622,13 @@ Maintain stable temporal continuity. Avoid unnatural frame interpolation. No exa
 
 來源：[貼文](https://x.com/JiahaoYang_art/status/2033119940216344616) · 發佈： 15 Mar 2026
 
-[![](./public/seedance_2_prompt_images/022.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/022.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 15-second cinematic Japanese drama pure love ambiguous short film, ultra-realistic quality, warm golden sunlight in an empty classroom in the afternoon, spilling through the blinds onto the side-by-side desks, fine dust motes slowly floating in the light beams, old wooden desks, extremely natural subtle movements, breathing, and eye tension, characters maintain consistent faces, clothing, and hairstyles throughout without deformation, drift, or artifacts, real slight chest rise and fall synchronized with breathing, shallow depth of field, creamy blurred background, warm film grain, 8K sharp, Japanese youth restrained heart-fluttering suffocating atmosphere.
 0-4 seconds: Extremely slow push-in shot from a medium shot of the desktop to a close-up of the two people's side profiles sitting side-by-side. A pure girl in a summer school uniform is focused on writing notes with her head down, long black hair and stray hairs by her ears are gently lifted by a slight breeze, long eyelashes cast subtle shadows, skin is naturally pink and tender, a slight, unintentional upturn of the corner of her mouth in concentration, light and even breathing.
 4-9 seconds: Switch to a close-up of the boy. His school uniform collar is slightly loose, he props his elbow on the desk and secretly turns his head to gaze at her, his eyes filled with gentle, restrained affection and tenderness, pupils slightly dilated, his Adam's apple gently rolls. Suddenly noticing her pen pause, he quickly and flusteredly turns his head to pretend to look at his own notes, his earlobes quickly turn slightly red, his fingertips tremble slightly as he grips the pen, occasionally glancing at her from under his bangs, his breathing is slightly disordered, and his lips are tightly pressed in an effort to remain calm.
@@ -1418,9 +1646,13 @@ Character identity is maintained throughout, real subtle head tilts, eye movemen
 
 來源：[貼文](https://x.com/MiraMusic_AI/status/2039096342749016145) · 發佈： 31 Mar 2026
 
-[![](./public/seedance_2_prompt_images/025.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/025.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 [Recommended Settings] Mode: Standard | Resolution: 720p | Duration: 15 seconds. 100% real-person animation. Bright daytime. City square. Fast lighting. High energy. Explosive atmosphere. Strong rhythm. High-energy version of three-person street dance. Fast dancing. Show-off moves. Quick rhythm. Full participation. Jumps and rolls. Explosive power. Intense three-person performance. [0-1s: Overhead view, quick cut-in] Camera: Fast shot. Full view of the square. Three people in the center. Strong music explosion. Dynamic shot. [1-4s: Medium shot, quick circling] Camera: Fast rotating circle. High-energy basic moves. Quick rhythm starts. Fast switching between high and low angles. [4-7s: Multi-angle low angle] Camera: Rapid switching of multiple angles. Knee-high ↔ wide angle. Fast footwork. Complex high-difficulty stepping. [7-9s: Character 1 burst] Camera: Fast zoom. Close-up of the face. Character 1 intense solo. Explosive power. Fast rotation. [9-11s: Character 2 burst] Camera: Fast angle switch. Close-up of the face. Character 2 intense solo. Show-off moves. High energy. [11-13s: Character 3 burst] Camera: Ultra-fast shot. Close-up of the face. Character 3 intense solo. Highest energy. Jumps and rolls. [13-15s: Wide shot, explosive ending] Camera: Fast zoom out. Full view of the square. Three people synchronize explosively. Climax. Music climax. Freeze-frame smile. [Features] Fast rhythm. Multi-angle rapid switching. High-energy music. Explosive power. Excited audience. Suitable for a party.
 ```
 
@@ -1432,9 +1664,13 @@ Character identity is maintained throughout, real subtle head tilts, eye movemen
 
 來源：[貼文](https://x.com/Adam38363368936/status/2039932977287979053) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/030.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/030.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Supercar commercial cinematography storyboard
 
 Shot 1 (1.5s): Opening frame on the supercar from the front, showcasing its signature aggressive face.
@@ -1472,9 +1708,13 @@ Highest image quality: 8K.
 
 來源：[貼文](https://x.com/gkxspace/status/2039894982434111716) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/032.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/032.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Tested it:
 
 Original Hot-Blooded Duel Anime Short Film: Two top warriors launch their final duel against the backdrop of aerial ruins and thunderstorms. The camera emphasizes extreme speed, intense energy collisions and a sense of oppression from the characters. When moves are released, the surrounding buildings, clouds and debris are simultaneously affected by the force. The actions are like the top-level battle animation of TV anime, with theater-level color grading and lens language, focusing on highlighting the "highly intense, exciting, and blockbuster-like" vibe. A strong hook in the first 2 seconds, with a stable main body, coherent actions, movie-level composition and light and shadow, real texture, epic sense, strong emotion, high-definition details, suitable for social media communication. Completely original characters, worldview, costumes, weapons and moves, no copyright risks, and no use of well-known IPs, celebrity faces, brand logos or existing elements.
@@ -1488,9 +1728,13 @@ Style Hollywood Haute Couture Fantasy 大片，8K 超清，Photorealistic，高�
 
 來源：[貼文](https://x.com/johnAGI168/status/2025849650654122348) · 發佈： 23 Feb 2026
 
-[![](./public/seedance_2_prompt_images/033.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/033.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 [Style] Hollywood Haute Couture Fantasy blockbuster, 8K ultra-clear, Photorealistic, High-fashion Editorial Style, Unreal Engine 5 fluid rendering, visual illusion. [Duration] 15 seconds. [Scene] An endless, real-life Salar de Uyuni (Sky Mirror) salt flat. The sky is filled with oppressive dark clouds, and the ground perfectly reflects everything like a mirror, with the overall picture presenting a minimalist, cool tone. [00:00-00:05] Shot 1: Haute Couture Entrance and Porcelain Skin. Camera position: Extremely low-angle upward shot, ultra-telephoto lens zoom-in. Action: An Asian female model with a highly recognizable, high-fashion face walks coolly on the water surface. Effect: She is wearing not fabric, but a long dress made of flowing, real Liquid Blue-and-White Porcelain. As she walks, the skirt makes a crisp collision sound like real ceramic, with a flowing luster on the surface. The traditional blue-and-white patterns move across the white porcelain-textured skirt as if alive. [00:05-00:10] Shot 2: Physical Shattering and Ink-wash Descent. Camera position: Extreme close-up of the face, focus rapidly pulls back. Action: The model suddenly stops, stares coldly at the camera, and snaps her fingers crisply. Effect: The moment the fingers snap, her blue-and-white porcelain dress does not fall, but instantly explodes into thousands of extremely photorealistic Ink-wash Swallows. These swallows carry real water droplets and ink marks, dragging black fluid afterimages in the air, spinning frantically around her. [00:10-00:15] Shot 3: Dimensional Dissolution and Abyss Reflection. Camera position: High-altitude overhead shot, camera rapidly rotates and descends. Action: The swarm of ink-wash swallows plunges into the mirrored lake water beneath the model's feet. Effect: The surface tension of the originally solid salt lake instantly disappears. The entire extremely realistic world begins to violently bleed and dissolve like concentrated ink dropped into clear water. The real dark clouds and the model's figure transform entirely into an extremely grand 3D Fluid Ink Vortex, completely swallowing the camera into a black and white interwoven abyss.
 ```
 
@@ -1502,9 +1746,13 @@ Style 現代鄉村美學、電影感商業品質，使用 Sony A7S3 / cinema cam
 
 來源：[貼文](https://x.com/johnAGI168/status/2021818021354848258) · 發佈： 12 Feb 2026
 
-[![](./public/seedance_2_prompt_images/034.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/034.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 [Style]
 Modern Rural Aesthetics, Cinematic Commercial quality, shot with Sony A7S3/cinema camera, 4K/8K ultra-clear, Extreme Macro, natural transparent lighting, healing ASMR, no historical costume drama feel.
 
@@ -1539,9 +1787,13 @@ Atmosphere: Steam slowly rises against the backlight, the scene is so quiet you 
 
 來源：[貼文](https://x.com/CharaspowerAI/status/2039651574297792688) · 發佈： 02 Apr 2026
 
-[![](./public/seedance_2_prompt_images/036.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/036.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 cinematic street racing sequence at night, a focused driver inside a high-performance car grips the steering wheel, intense eye focus, city lights reflecting on windshield, tension building before sudden acceleration
 
 camera: rapid multi-angle system with seamless transitions, interior close-up → over-the-shoulder → exterior tracking → low ground shots, ultra dynamic camera movement, whip pans + speed ramp transitions + motion blur masking cuts, continuous flow illusion
@@ -1565,9 +1817,13 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 來源：[貼文](https://x.com/johnAGI168/status/2039984306085327298) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/046.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/046.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Generate a visual blockbuster featuring an Asian supermodel and luxury sports cars with top-tier commercial quality, requiring director-level storyboard arrangement and a fast-paced, high-end rhythm. 0-2 seconds: [Macro to Micro] The opening uses an extreme push-in shot, instantly cutting from the sharp headlights of the sports car with delayed afterimages to a close-up of the pupils of the top Asian supermodel, showcasing the ultimate Oriental charm. 2-5 seconds: [LOCKED-ON SHOT] The camera locks onto the model's profile, tracking her with a lateral pan (Tracking Shot) as she walks confidently and elegantly. The model wears a high-fashion silk evening gown, her hair slightly moving in the wind, against a background of a blurred neon urban viaduct. 5-8 seconds: [360-degree Orbit Shot] The model stands at the center intersection of three sports cars, and the camera quickly orbits around her at a low angle. Use slow motion (slow-motion processing) to capture her cold, stunning glance back, with eyes possessing strong aggression and high-end appeal. 8-10 seconds: [Low-angle Hero Shot] The camera quickly pulls back from a ground perspective to a full view. The model stands proudly in the center of the luxury car cluster. The composition presents perfect symmetrical aesthetics, with light focusing on the face, displaying queen-like dominance. Visual Style: Extreme cinematic realism, 2.35:1 widescreen. The overall color tone leans towards cool Teal & Orange, with natural film grain and soft highlights. The character's skin texture is delicate and natural, possessing the makeup and styling quality of a top luxury magazine. Sound Design: Heavy bass electronic ambient music. Sound effects must sync with the camera cuts (Swish sound effects), and the visual rhythm should breathe with the music beats. Control Instructions: Lock the facial features and high-end makeup of the Asian model, ensuring character consistency across various shots; action transitions must be smooth without stuttering; light and shadow should produce real-time physical reflections as the model moves.
 ```
 
@@ -1579,9 +1835,13 @@ Generate a visual blockbuster featuring an Asian supermodel and luxury sports ca
 
 來源：[貼文](https://x.com/aiehon_aya/status/2040187587889905861) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/054.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/054.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 An android girl malfunctions and proceeds to destroy an evil research lab one after another. The evil boss, a doctor with a bad face, chases the girl, shouting, "Waaah! Stop it! Please stop it!!" but the girl doesn't stop and continues to destroy things while laughing. In the end, there is a big explosion, and the lab is destroyed without a trace. The girl yawns and says, "Job complete," and falls asleep right there. The doctor kneels down, utterly dejected.
 ```
 
@@ -1593,9 +1853,13 @@ An android girl malfunctions and proceeds to destroy an evil research lab one af
 
 來源：[貼文](https://x.com/adrianaia_/status/2039972811067031657) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/055.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/055.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Positive Prompt: Original action game concept trailer. The protagonist travels through a neon ruined city, where the debris by the road emits faulty advertising lights, and mechanical guards fall from the faults of high-rise buildings. After dodging with a slide, the protagonist pulls out a folding energy blade. The camera is like an AAA game debut trailer, with third-person follow, rapid switching between close-up and ultra-wide shots, strong rhythm and distinct scene layers. It finally stops at the silhouette of the boss's appearance, creating a strong feeling of "wanting to play this game". Negative Restrictions: No Cyberpunk 2077 logos, no well-known game UI, no existing game character outlines. A strong hook in the first 2 seconds, stable main body, coherent actions, movie-level composition, real light and shadow, epic sense, strong emotion, high-definition details, suitable for social media communication, avoiding copyrighted characters, avoiding brand logos, and completely original design.
 ```
 
@@ -1607,9 +1871,13 @@ Positive Prompt: Original action game concept trailer. The protagonist travels t
 
 來源：[貼文](https://x.com/Rufus87078959/status/2039949879607197828) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/066.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/066.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-clad warrior and a black-armored opponent launch their final battle amid an atmosphere like a chorus. Stained glass shatters, moonlight penetrates the smoke and dust, and benches are overturned. The camera switches between high-angle overhead shots and low-angle upward shots, focusing on showing the sense of space of the religious building, the sense of oppression of the characters, and the temperament of a fateful decisive battle, just like the climax segment of an original fantasy animated film. A strong hook in the first 2 seconds, stable main body, coherent actions, movie-level composition, real light and shadow, epic sense, strong emotion, high-definition details, suitable for social media communication, avoiding copyrighted characters, avoiding brand logos, and completely original design.
 ```
 
@@ -1621,9 +1889,13 @@ Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-cl
 
 來源：[貼文](https://x.com/IamEmily2050/status/2040213294443847933) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/070.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/070.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 [00:00-00:04] Shot 1: Follow shot. In a smoky underground rave club, a female cyborg with an exposed red mechanical spine walks through the crowd. She suddenly turns around, her delicate white porcelain face beginning to convulse violently. [00:04-00:10] Shot 2: Close-up to mid-shot. The cyborg's porcelain face doesn't just split; it is violently shattered from the inside like an eggshell. A massive amount of thick, black viscous fluid erupts outward as an alien head with rusted metallic fangs and multiple mandibles forces its way out of her neck. Simultaneously, her red mechanical spine violently tears through her back, mutating into a giant, multi-jointed metallic scorpion tail dripping with corrosive acid. [00:10-00:15] Shot 3: Wide shot. The club's lighting turns a sickly fluorescent green. The alien tail violently impales the dance floor, suspending the cyborg's ruined body in mid-air as it emits an ear-piercing, non-human shriek. The surrounding crowd is paralyzed with absolute terror, pinned against the walls by webs of black organic matter. Extreme biomechanical horror, terrifying VFX mixing flesh and metal.
 ```
 
@@ -1635,9 +1907,13 @@ Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-cl
 
 來源：[貼文](https://x.com/ChrisTheNerv/status/2040043939109953944) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/075.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/075.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 100% real-life shooting texture, Hollywood IMAX blockbuster quality, natural light and shadow, cold documentary style, natural light on a cloudy day, handheld one-shot throughout, breathing shake, random focus shift, 16:9 widescreen.
 【Scene Environment】
 A destroyed city street extending into the distance. On both sides are ruined concrete buildings, exposed rebar, shattered windows, and some buildings are still burning, with orange flames and black smoke rising. Abandoned cars are scattered on the cracked asphalt road, several of which are burning. The sky is gloomy gray, with smoke and dust suspended in the air. Multiple meteorites streak across the sky with long trails of fire and dense smoke. In the background, terrified civilians scatter among the ruins, some falling, others dragging the injured.
@@ -1670,9 +1946,13 @@ Layered progression from the scream activation to the explosive mechanical erupt
 
 來源：[貼文](https://x.com/Adam38363368936/status/2039865857179013318) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/081.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/081.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 [Cloud Cave Sword Shadow · Heavenly Gate Bloody Battle]
 — One-shot sequence at Tianmen Mountain, Zhangjiajie
 Core Style: Tsui Hark's new style Wuxia blockbuster, one-shot sequence, high frame rate, 4K ultra-clear.
@@ -1728,9 +2008,13 @@ Freeze Frame: The camera pushes in for an extreme close-up. A drop of blood drip
 
 來源：[貼文](https://x.com/ImperfectEngel/status/2039796558238286329) · 發佈： 02 Apr 2026
 
-[![](./public/seedance_2_prompt_images/095.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/095.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 "Dramatic low-angle tracking shot speeding along rain-slicked train tracks through a narrow mountain gorge. Dark rocky cliff walls rise on both sides, with overhead bridges and power lines crossing above. Moody overcast sky. The camera rushes forward at high speed. Two women — one with pink hair in all-black tactical gear, the other in a white bodysuit — fight on top of the moving train, exchanging martial arts blows as sparks fly. Dynamic action choreography, dark teal-grey color grade, cinematic speed and motion blur, sci-fi action film aesthetic."
 ```
 
@@ -1742,9 +2026,13 @@ Hollywood 電影級商業大片品質、手持攝影、輕微晃動、快節奏 
 
 來源：[貼文](https://x.com/johnAGI168/status/2039277115690877430) · 發佈： 01 Apr 2026
 
-[![](./public/seedance_2_prompt_images/109.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/109.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Hollywood movie-level commercial blockbuster quality, handheld photography, slight camera shake, fast-paced montage editing, the scene is full of energy and oppression, no subtitles appear.
 The open-plan office hall of a luxurious securities company in Manhattan, USA, in the 1990s. Hundreds of young male brokers in suits densely fill the entire space. American flags hang around, ribbons fall in the air, and the entire hall is plunged into a religious ritual-like collective frenzy.
 00:00-00:04 Wide-frame panoramic push-in shot: A powerful middle-aged male protagonist in a suit stands on top of a desk, arms spread, cheering loudly, shouting: "I am not leaving! We are not leaving!" Hundreds of employees below him respond wildly, waving their arms, pounding desks, hugging each other, the hall roaring and shaking. Handheld camera powerfully pushes towards the crowd, creating an overwhelming sense of presence.
@@ -1760,9 +2048,13 @@ The open-plan office hall of a luxurious securities company in Manhattan, USA, i
 
 來源：[貼文](https://x.com/ChrisGwinnLA/status/2039456415111393356) · 發佈： 01 Apr 2026
 
-[![](./public/seedance_2_prompt_images/118.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/118.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 (Poliziottesco Wednesday): Detective Rossi: Deep Heat (Commissario Rossi: la polizia in crisi nera). 
 A crime wave has hit the city and the cops can't seem to get it together. Detective Rossi has had enough of the bureaucracy and the politicians tying his men's hands (and freeing the criminals to terrorize the city again!) - but can one hardnosed cop make a difference in a world gone mad? Maybe this nosey journalist can become an important ally!
 ```
@@ -1775,9 +2067,13 @@ A crime wave has hit the city and the cops can't seem to get it together. Detect
 
 來源：[貼文](https://x.com/Adam38363368936/status/2039157138002780202) · 發佈： 01 Apr 2026
 
-[![](./public/seedance_2_prompt_images/121.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/121.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Product: Color-shifting gradient foldable smartphone (e.g., light purple to ice blue gradient)
 
 Style: Trendy fashion, energetic fast pace, high-end texture, no people, minimalist light and shadow, fashionable trend style
@@ -1805,9 +2101,13 @@ Requirements: Fast pace, tight transitions, high-end fashion, youthful energy, n
 
 來源：[貼文](https://x.com/tea_story_hoshi/status/2040614786933887043) · 發佈： 05 Apr 2026
 
-[![](./public/seedance_2_prompt_images/011.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/011.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 I tried adapting it. The details still need more tuning, but the fact that it produced a good result in one pass is impressive.
 
 <prompt>
@@ -1831,9 +2131,13 @@ Timeline:
 
 來源：[貼文](https://x.com/applete77191758/status/2040450526819807277) · 發佈： 04 Apr 2026
 
-[![](./public/seedance_2_prompt_images/015.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/015.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 This might not be perfect, but I thought it could still be useful, so I'm sharing it.
 (Feel free to modify it.)
 
@@ -1909,9 +2213,13 @@ Motion blur + light streaks
 
 來源：[貼文](https://x.com/MiraMusic_AI/status/2040281710957666770) · 發佈： 04 Apr 2026
 
-[![](./public/seedance_2_prompt_images/019.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/019.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Title: "Maid Blade Dance - Mei vs. Coco"
 Duration: "15 seconds"
 Input:
@@ -1989,9 +2297,13 @@ Notes:
 
 來源：[貼文](https://x.com/liyue_ai/status/2040062803076341872) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/028.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/028.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Core theme: realism | grand epic scale | apocalyptic aesthetics | live-action performance
 [Character and basic setup]
 Character: use [@Image 1] as the reference. Reproduce the facial features, face shape, and hairstyle 100 percent. No beautification. Height: 1.75 meters.
@@ -2023,9 +2335,13 @@ Color and tonality: Hollywood teal-and-orange tone, low saturation. Generate the
 
 來源：[貼文](https://x.com/itsPixieVerse/status/2040030453298811099) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/048.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/048.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 [CINEMATIC] 8mm Fisheye lens, FPV racing drone camera, hyper-fluid motion. [@Image 1] (Lanky Knight, red coat) on a longboard. [@Image 2] (Steep coastal mountain road).
 0-3s: [Extreme high-speed follow] [@Image 1] carves down the steep asphalt. The camera mimics an FPV drone, flying inches from the ground at blinding speed. The red coat whips violently in the wind.
 3-6s: [360-degree barrel roll] [@Image 1] hits a hairpin turn, leaning horizontally. The camera executes a dizzying, hyper-fluid 360-degree roll over his head, maintaining focus on his armor reflecting the bright sky.
@@ -2041,9 +2357,13 @@ Color and tonality: Hollywood teal-and-orange tone, low saturation. Generate the
 
 來源：[貼文](https://x.com/YaReYaRu30Life/status/2039971048305930643) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/059.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/059.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Subject:@Image 1 Photorealistic
 Image reference. A professional stuntman and kung-fu master performing full-body, high-speed, functional kung-fu.
 
@@ -2060,9 +2380,13 @@ Constant full-speed forward
 
 來源：[貼文](https://x.com/Gwsubsa/status/2040193631341174792) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/071.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/071.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Ray tracing, Unreal Engine render, small town in heavy rain. @image1 character with identical hairstyle, outfit, realistic skin, dim lighting, IMAX cinematic, 35mm lens, 4:3 ratio, grey-blue low saturation, film grain, soft god-rays, cold expression, smooth motion, glowing sword trail. 1–3s: Camera tilts up from feet to full body; rain splashes burst under steps. 3–6s: Close-up feet stepping forward, blue shockwave spreads; world desaturates, rain freezes mid-air; camera pulls back, blue aura flows from body. 6–9s: Upper-body close-up; hands gather at chest, suspended rain forms water sword; blue light converges, droplets create massive sphere. 9–12s: Side face close-up; faint blue glow, slash upward; sword dissolves, arc energy explodes with rain; camera follows sky cut, clouds split; golden dragon and fire dragon emerge flying.
 ```
 
@@ -2074,9 +2398,13 @@ Ray tracing, Unreal Engine render, small town in heavy rain. @image1 character w
 
 來源：[貼文](https://x.com/zasuko_michiksa/status/2039650311212872036) · 發佈： 02 Apr 2026
 
-[![](./public/seedance_2_prompt_images/084.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/084.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Use `real-zasuko-2.0-character-sheet-dx.png` as the character reference. Start with a wide cinematic shot of the lonely convenience store on the moon before cutting inside. Create a photorealistic 15-second surreal live-action video of Michikusa Zasuko working a night shift at a convenience store.
 ```
 
@@ -2088,9 +2416,13 @@ Use `real-zasuko-2.0-character-sheet-dx.png` as the character reference. Start w
 
 來源：[貼文](https://x.com/john87445528/status/2039496153641660508) · 發佈： 02 Apr 2026
 
-[![](./public/seedance_2_prompt_images/088.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/088.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Chapter 1 (0-15 seconds): Rooftop Awakening · Running and Leaping Down (Front to Back View). Style: rugged primitive realism using a 35mm handheld film camera, with natural grain and subtle shake. The dazzling direct sunlight of Chongqing noon creates high-contrast shadows and lens flares. Camera: a single continuous third-person handheld follow shot with no cuts, starting from a low front angle and smoothly transitioning to an over-the-shoulder / back view, following the protagonist Image 1 throughout. Atmosphere: high-altitude winds howl, dust and mist fly, and cloth, hair, and mechanical parts all show realistic physical motion. Sound effects: metallic echoes of mechanical high heels striking concrete, heavy rhythmic breathing, howling wind, operating mechanical joints, violent fabric flapping, sudden silence at the instant of the leap, followed by a high-speed wind-cutting shriek during descent. [Visual Reference / Description]: fully preserve the elegant female character from the reference image, wearing a white suit, silver mechanical chest plate and neck collar, silver mechanical hands, and silver high-heeled boots, with long straight black ponytail, delicate facial features, and large earrings. Physical features and clothing details must remain fully consistent. The scene takes place on the rooftop of Raffles City Chongqing, surrounded by skyscrapers, with the broad Yangtze River visible in the distance. [Timeline per Second] 0-4s: [Front Start] The handheld camera captures her full body from a low front angle. She stands at the rooftop edge, looking directly into the camera with a calm, determined expression. The mechanical cervical spine catches the noon sunlight, and her ponytail lifts in the high wind. She slowly turns around. 4-9s: [Over-the-Shoulder Follow · Full Sprint] The camera switches to an over-the-shoulder perspective and follows closely. She sprints across the concrete platform. Her mechanical high heels spark against metal with each step. The hem of the suit and the mechanical spine exoskeleton whip violently in the airflow. Dust kicks up from the roof, and the cloth simulation stays highly realistic. 9-12s: [Leaping Down] She suddenly jumps off. The instant her feet leave the ground, the camera dips slightly and switches to a fast downward tracking view. Her suit billows violently in the extreme airflow. The glass curtain walls of Raffles City streak upward on both sides, and motion blur erupts intensely. [Style and Quality Enhancement] Realistic 8K quality, ultra-fine mechanical texture and cloth physics, cinematic lighting and contrast, perfect motion blur, high dynamic range, no artifacts, coherent multimodal physical effects, stable cinematic image.
 
 Chapter 2 (0-15 seconds): Freefall · Purple AITO M7 Enters the Frame. Style: rugged realism, 35mm handheld camera, natural grain, subtle organic shake. Camera: primarily handheld follow shots, with quick cuts between the protagonist's falling perspective and the ground car-chase perspective to create extreme tension. Maintain full real-time speed, with no slow motion. Lighting: dazzling high-contrast sunlight at Chongqing noon, strong reflections on the glass curtain walls of Raffles City, and heat haze rising from the road. Sound effects: wind-cutting shriek intensifies continuously -> engine roar approaching from a distance -> sharp tire friction on asphalt -> cyber-energy hum -> metallic thud at the moment of impact -> dull compression as four wheels land -> engine roar continues and grows stronger. [Visual Reference / Description] The protagonist remains the same female character from the reference image, preserving all details. Scene: on the Chongqing ramp road below Raffles City, a purple AITO M7 drives at high speed. It uses the upward slope of the ramp to launch naturally and precisely catch the protagonist as she falls from the rooftop. No slow-motion close-ups at any point; keep the rhythm realistic, high-speed, and cinematic. [Timeline per Second] Continuing from Video 1 and extending by 15 seconds. 0-4s: [Extreme Speed Fall · Overlooking the Ground] Protagonist Image 1 falls at high speed while maintaining a balanced gliding posture with both arms spread. The camera locks onto her back. The curtain walls of Raffles City streak upward on both sides, the ground rapidly expands, and motion blur becomes extreme. The frame quickly inserts a ground view: a purple AITO M7 races along the ramp road below Raffles City. The car emits a cyber blue-purple glow, the engine roars, and the tires leave two black marks on the asphalt. 4-9s: [Ramp Launch · Trajectory Intersection] The purple AITO M7 charges to the top of the ramp. Using the ramp's inertia, the front of the car lifts into the air and the sunroof slides open instantly. The camera alternates rapidly between the falling protagonist and the climbing AITO M7. She keeps a high-speed falling posture with arms spread, and the AITO M7 keeps accelerating up the ramp. The two trajectories converge rapidly, compressing time to the limit and maximizing tension. 9-11s: [Last Second · Posture Change · Precise Entry] With only one second left before the sunroof, the protagonist instantly pulls in her outstretched arms and sharply changes from a horizontal gliding posture to a vertical upright posture. Her legs point straight down toward the open sunroof of the airborne purple AITO M7. The action is swift, decisive, and completely without hesitation. In the next instant, she drops vertically into the open sunroof and lands in the driver's seat at extremely high speed. No slow motion at any point; the impact is realistic and violent. 11-13s: [Four Wheels Landing · Maintaining Drive] The body of the car compresses slightly under the force of catching her. All four wheels slam back to the asphalt. The suspension violently absorbs the double impact. Immediately after landing, the engine roar rises further. Without slowing or stopping, all four tires scrape the asphalt, leaving new black marks, and continue driving at full speed. 13-15s: [Stable Inside Car · Energy Accumulation] The AITO M7 continues high-speed driving. The camera tracks close to the side from a low angle as blue-purple energy patterns spread from the four wheels across the body. The sound of mechanical transmission rises subtly from the underside and keeps strengthening. The body vibrates slightly during the high-speed run. The precursor energy of the coming transformation surges and churns beneath the paint. [Style and Quality Enhancement] Realistic 8K quality, ultra-fine mechanical details and energy-light textures, cinematic volumetric light and heat haze, perfect speed blur, HDR glow, no artifacts, full real-time speed, no slow motion.
@@ -2106,9 +2438,13 @@ Chapter 3 (0-15 seconds): AITO M7 Transforms -> Becomes an F-14 -> Protagonist S
 
 來源：[貼文](https://x.com/Adam38363368936/status/2039646077230698743) · 發佈： 02 Apr 2026
 
-[![](./public/seedance_2_prompt_images/103.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/103.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Character reference @[Image 1], convert to real-person live-action style. Model figure, cool white skin, slender arms, prominent bust and hips.
 15-second handheld video with a sense of breathing, Japanese film style, warm orange backlight at dusk, slight film grain, low saturation color tone, no subtitles, no dialogue.
 Environment: Sunset, under a concrete overpass, occasional vehicles passing on the road, pedestrian overpass, elevated road, main road traffic, warm orange backlight at dusk, flowing light and shadow from traffic.
@@ -2139,9 +2475,13 @@ FORMAT：15s / 自由節奏 / 1 個 MATCH CUT / 在 MATCH CUT 前持續運鏡 + 
 
 來源：[貼文](https://x.com/aimikoda/status/2039380910278115454) · 發佈： 01 Apr 2026
 
-[![](./public/seedance_2_prompt_images/112.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/112.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 FORMAT: 15s / free rhythm / 1 MATCH CUT / CONTINUOUS MOVE UNTIL MATCH CUT + IMMEDIATE ACTION FROM FIRST FRAME
 
 SUBJECTS: A lone sword-bearing woman in weathered fur and leather fights a massive polar bear with desperate,
@@ -2155,9 +2495,13 @@ SUBJECTS: A lone sword-bearing woman in weathered fur and leather fights a massi
 
 來源：[貼文](https://x.com/YaReYaRu30Life/status/2039474680235741681) · 發佈： 01 Apr 2026
 
-[![](./public/seedance_2_prompt_images/114.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/114.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 [Basic Settings]
 structure: Single continuous shot (no cuts)
 progression: Morphing 7 images sequentially
@@ -2233,9 +2577,13 @@ Seedance 2.0 零重力戰鬥場景。如果你也參考音樂，它甚至能出�
 
 來源：[貼文](https://x.com/MiraMusic_AI/status/2040584525781364874) · 發佈： 05 Apr 2026
 
-[![](./public/seedance_2_prompt_images/013.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/013.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Seedance 2.0
 
 Zero-gravity combat scene.
@@ -2279,9 +2627,13 @@ She regains balance, floating motionless as the scene holds on a final frame.
 
 來源：[貼文](https://x.com/chaosdotjpg/status/2040203827249398086) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/051.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/051.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Whale in the Clouds — A cinematic surreal epic short film, ultra-realistic magical realism. Late afternoon, a coastal city. Warm sunlight, sea mist swirling, towering cumulus clouds. Everything is calm… until the sky suddenly grows heavy.
 Aerial shot: skyline,
 ```
@@ -2294,9 +2646,13 @@ Aerial shot: skyline,
 
 來源：[貼文](https://x.com/AIARTGALLARY/status/2039964736419479576) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/082.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/082.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 A diver floats motionless in pitch-black ocean depth, a single beam of light cutting through the dark. Bioluminescent veins begin threading across their body in accelerated time, skin shifting to iridescent obsidian scales, limbs fusing into massive finned appendages. The figure swells to monstrous proportions, displacing water in shockwave pulses. Final shot: a colossal sea creature dissolving into the abyss. WETA-level underwater VFX, deep teal and void-black tones.
 ```
 
@@ -2308,9 +2664,13 @@ A diver floats motionless in pitch-black ocean depth, a single beam of light cut
 
 來源：[貼文](https://x.com/LudovicCreator/status/2039768597241725132) · 發佈： 02 Apr 2026
 
-[![](./public/seedance_2_prompt_images/092.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/092.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 A towering humanoid entity made of shifting translucent geometry appears above a megacity skyline, its body composed of overlapping dimensional planes reflecting alternate realities — hook at second two: the entity opens both hands and a vertical dimensional tear slices through the city.
 
 Reality splits.
@@ -2350,9 +2710,13 @@ Diegetic prismatic dimensional light reflecting through fractured architecture a
 
 來源：[貼文](https://x.com/Dheepanratnam/status/2039796932562838010) · 發佈： 02 Apr 2026
 
-[![](./public/seedance_2_prompt_images/096.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/096.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Rainy Underground Alley Merge
 15-second surreal horror in a narrow rainy underground service alley, neon signs reflecting on puddles, steam rising from grates. 
 [0-1.5s] Shot 1: Wide tracking shot, young woman in black leather jacket walks cautiously through rain, breath visible,
@@ -2366,9 +2730,13 @@ Rainy Underground Alley Merge
 
 來源：[貼文](https://x.com/Dheepanratnam/status/2039651240909435242) · 發佈： 02 Apr 2026
 
-[![](./public/seedance_2_prompt_images/097.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/097.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Video prompt
 
 Quantum Reality Fracture on City Street (Interdimensional Rift VFX)
@@ -2386,9 +2754,13 @@ Cinematic 15-second high-budget sci-fi horror sequence on a rain-slicked downtow
 
 來源：[貼文](https://x.com/roco_kn_roco/status/2039323186127630710) · 發佈： 01 Apr 2026
 
-[![](./public/seedance_2_prompt_images/106.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/106.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 cinematic anime close-up shot of a character's eye, extreme macro, eyelashes and skin texture visible, soft breathing motion, eye slowly closing, calm and silent atmosphere, subtle ambient light reflection on eyelid
 
 the eye is fully closed, slight twitch, micro camera push-in, tension building, no effects yet, natural realism
@@ -2414,9 +2786,13 @@ ultra detailed anime style, cinematic lighting, high contrast, no cartoon exagge
 
 來源：[貼文](https://x.com/LudovicCreator/status/2039258991809773666) · 發佈： 01 Apr 2026
 
-[![](./public/seedance_2_prompt_images/116.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/116.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 A surreal volcanic sky realm where islands of black rock float above rivers of molten lava flowing through the air like suspended waterfalls. The sky burns with deep crimson clouds illuminated by lightning storms.
 
 **Action:**
@@ -2448,9 +2824,13 @@ Photorealistic fire simulation, volumetric storm clouds, ray-traced lava glow, c
 
 來源：[貼文](https://x.com/johnAGI168/status/2040432247094870343) · 發佈： 04 Apr 2026
 
-[![](./public/seedance_2_prompt_images/016.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/016.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 How does it look?
 
 Seedance 2.0 text-to-video prompt below:
@@ -2466,9 +2846,13 @@ Seedance 2.0 text-to-video prompt below:
 
 來源：[貼文](https://x.com/TechTalkNAVI/status/2040327899606306840) · 發佈： 04 Apr 2026
 
-[![](./public/seedance_2_prompt_images/018.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/018.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 {
  "effect_id": "ethereal_02",
  "title": "Reconstruction of Memory Shards",
@@ -2495,9 +2879,13 @@ Seedance 2.0 text-to-video prompt below:
 
 來源：[貼文](https://x.com/craftian_keskin/status/2039053365666037902) · 發佈： 31 Mar 2026
 
-[![](./public/seedance_2_prompt_images/024.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/024.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 {
  "video_prompt": {
  "duration": "15 seconds",
@@ -2560,9 +2948,13 @@ Seedance 2.0 text-to-video prompt below:
 
 來源：[貼文](https://x.com/Adam38363368936/status/2037359552849666514) · 發佈： 27 Mar 2026
 
-[![](./public/seedance_2_prompt_images/027.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/027.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 SUBJECTS:
 Character: a female haute couture tailor with an extremely lean build, arm muscles taut like steel wire, and eyes as cold and sharp as needles.
 Wardrobe: a dark tactical vest incorporating qipao elements, bare arms, forearms wrapped with dark red silk bracers to increase friction, long slender fingers with metallic fingertip guards.
@@ -2596,9 +2988,13 @@ FORMAT：15s / 145 BPM / 15 SHOTS / 節拍同步 routine SUBJECT：@image1。WAR
 
 來源：[貼文](https://x.com/aimikoda/status/2040200435986817039) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/053.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/053.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 FORMAT: 15s / 145 BPM / 15 SHOTS / beat-synced routine
 
 SUBJECT: @[image1].
@@ -2613,9 +3009,13 @@ WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top, trou
 
 來源：[貼文](https://x.com/TechTalkNAVI/status/2039941029265355123) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/061.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/061.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 {
  "location": "Tokyo Cityscape (Night)",
  "duration": "10s",
@@ -2636,9 +3036,13 @@ WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top, trou
 
 來源：[貼文](https://x.com/TechTalkNAVI/status/2039928267323658399) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/062.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/062.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 {
  "location": "Nishi-Shinjuku Skyscraper District (near Tokyo Metropolitan Government Building)",
  "duration": "10s",
@@ -2659,9 +3063,13 @@ WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top, trou
 
 來源：[貼文](https://x.com/TechTalkNAVI/status/2039904725639037110) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/063.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/063.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 {
  "scene_id": 4,
  "title": "Starlight Shadow / Stardust Silhouette",
@@ -2691,9 +3099,13 @@ SUBJECTS：主體：以 POV 視角呈現的 parkour 專家，畫面可見手臂�
 
 來源：[貼文](https://x.com/0xbisc/status/2040041171460968728) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/083.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/083.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 SUBJECTS:
 
 Main Subject: A parkour expert in POV perspective, defined by visible arms, hands, forearms, shoe tips, lower knees, grips, hand placements, wall runs, precise landings, slides, landing cushioning, and weight shifts.
@@ -2709,9 +3121,13 @@ FORMAT：15s / 180 BPM / 單一連續鏡頭 / 360 度 POV 下坡樓梯衝刺，�
 
 來源：[貼文](https://x.com/aimikoda/status/2039827756083540361) · 發佈： 02 Apr 2026
 
-[![](./public/seedance_2_prompt_images/090.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/090.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 FORMAT: 15s / 180 BPM / ONE CONTINUOUS SHOT / 360 POV downhill stair run, viral energy, max chaos
 
 SUBJECTS: First-person cyclist, handlebars and front wheel flashing low in frame during drops and hard turns. Vendors, laundry, scooters, dogs, chickens, cars, and
@@ -2725,9 +3141,13 @@ SUBJECTS: First-person cyclist, handlebars and front wheel flashing low in frame
 
 來源：[貼文](https://x.com/Just_sharon7/status/2039725656393875580) · 發佈： 02 Apr 2026
 
-[![](./public/seedance_2_prompt_images/094.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/094.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 {
  "prompt": "Cinematic, hyper-realistic or stylized 3D/2.5D rendering of food and characters, with strong motion and dynamic camera work. Vibrant, saturated color grading with warm food tones (reds, oranges, yellows) contrasted by dramatic shadows or neon accents. Sweeping pans, close-ups on textures, slow-motion impacts, quick cuts. High detail on food surfaces including glossy sauces, steam, crumbs, splashes, and expressive character faces. Short, loopable or 'wait-for-it' format with satisfying payoff. Ultra-realistic textures, volumetric lighting, film grain, cinematic composition.",
  "style": {
@@ -2753,9 +3173,13 @@ FORMAT：15s / 單一連續不可能鏡頭運動 / 無對白 STYLE：晚餐高�
 
 來源：[貼文](https://x.com/Dheepanratnam/status/2039568902481387645) · 發佈： 02 Apr 2026
 
-[![](./public/seedance_2_prompt_images/098.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/098.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 FORMAT: 15s / single continuous impossible camera move / no dialogue STYLE: High-end commercial kitchen during dinner rush, gleaming stainless steel, flying ingredients, photorealistic micro-to-macro cinematic 8K 
 
 Shot 01 (0:00–2:00): Camera starts at floor level on anti-slip
@@ -2769,9 +3193,13 @@ Shot 01 (0:00–2:00): Camera starts at floor level on anti-slip
 
 來源：[貼文](https://x.com/CharaspowerAI/status/2039704453784191201) · 發佈： 02 Apr 2026
 
-[![](./public/seedance_2_prompt_images/099.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/099.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 {
  "shot": {
  "composition": "POV time-freeze with hands moving through frozen environment",
@@ -2815,9 +3243,13 @@ FORMAT：15s / 手持近景 + 慢切 / 5 個節拍 / sci-fi 劇情片 — 太空
 
 來源：[貼文](https://x.com/BrennanErbz/status/2039579736301781215) · 發佈： 02 Apr 2026
 
-[![](./public/seedance_2_prompt_images/100.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/100.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 FORMAT: 15s / handheld close + slow cuts / 5 beats / sci-fi drama — astronaut's first spacewalk, orbital silence SUBJECTS: An astronaut, 40s, in a white EVA suit with a gold-visored helmet, tethered to the exterior of a space station, performing the first moments of a spacewalk.
 ```
 
@@ -2829,9 +3261,13 @@ SUBJECTS：主體 1：成年男性，西式日常居家與外出休閒穿搭，�
 
 來源：[貼文](https://x.com/0xbisc/status/2039673040787956123) · 發佈： 02 Apr 2026
 
-[![](./public/seedance_2_prompt_images/104.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/104.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 SUBJECTS:
 Subject 1: Adult male, Western casual everyday home and outing attire, short jacket, basic T-shirt, long pants, everyday shoes; lean build, natural and efficient movements.
 Subject 2: Golden Retriever, large head, broad chest, thick, fluffy fur; overall short and round
@@ -2845,9 +3281,13 @@ Subject 2: Golden Retriever, large head, broad chest, thick, fluffy fur; overall
 
 來源：[貼文](https://x.com/ShamiWeb3/status/2039372124079669655) · 發佈： 01 Apr 2026
 
-[![](./public/seedance_2_prompt_images/115.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/115.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 {
  "title": "Stylized 3D Barbershop Transformation Sequence",
  "style": "Stylized 3D animation with exaggerated cartoon proportions, cinematic martial-arts-inspired choreography, rhythmic musical energy, ultra-smooth motion, expressive physics",
@@ -2913,9 +3353,13 @@ SUBJECTS：主體 1：第一人稱視角雙手（以 Monet 印象派油畫筆觸
 
 來源：[貼文](https://x.com/0xbisc/status/2039332336643248317) · 發佈： 01 Apr 2026
 
-[![](./public/seedance_2_prompt_images/122.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/122.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 SUBJECTS:
 Subject 1: First-person perspective hands (rendered in Monet impressionist oil painting brushwork, soft skin tones with no hard edges; both hands continuously hold the oar and perform extremely slow and even rowing motions, with stretched rhythm and natural pauses)
 ```
@@ -2932,9 +3376,13 @@ Subject 1: First-person perspective hands (rendered in Monet impressionist oil p
 
 來源：[貼文](https://x.com/liyue_ai/status/2038993496225591731) · 發佈： 31 Mar 2026
 
-[![](./public/seedance_2_prompt_images/001.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/001.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Overall style: fresh and healing, warm nostalgic mood, with warm green and light blue as the main palette. Soft, clear light and shadow, gentle and delicate atmosphere.
 Background music: soft instrumental music (piano + bamboo flute), slow rhythm, emotions building layer by layer.
 1. Wide shot. A summer afternoon. Sunlight filters through leaves and casts dappled shadows. Beside a clear stream, a group of barefoot children chase and play, splashing water as laughter echoes across the fields. Slow lateral move. Sound: crisp children's laughter, flowing water, soft wind.
@@ -2957,9 +3405,13 @@ Background music: soft instrumental music (piano + bamboo flute), slow rhythm, e
 
 來源：[貼文](https://x.com/TingFengAIAI/status/2038904225548149011) · 發佈： 31 Mar 2026
 
-[![](./public/seedance_2_prompt_images/002.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/002.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Beauty beat-sync sequence:
 
 0.0-1.3 seconds: close-up of nude CL high heels at the ankle on a marble floor, wrapped in premium gray sheer stockings that fit smoothly without wrinkles. A single sharp heel tap sound lands at 0.1 seconds. One 35-year-old Chinese woman wears premium gray ultra-thin stockings, nude Christian Louboutin heels, and a black satin long dress. She performs an ankle extension for 0.6 seconds and a heel-tap beat move for 0.2 seconds, timed precisely to 0.1-second accuracy.
@@ -2977,9 +3429,13 @@ Beauty beat-sync sequence:
 
 來源：[貼文](https://x.com/anson7956/status/2038846411253657939) · 發佈： 31 Mar 2026
 
-[![](./public/seedance_2_prompt_images/003.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/003.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 On the floor of a child's bedroom, a miniature girl rides a tiny skateboard at high speed, skimming just above the ground. Everything is scaled so massively that full-size toys and furniture feel gigantic. The camera follows closely from a low angle in a near one-take style, continuously moving deeper into the background. The video uses an ultra-wide lens, motion blur, depth of field, and cinematic lighting.
 The speed increases in three stages.
 In the first stage, she races through narrow passages like canyons between Lego city buildings, weaving agilely through blocks.
@@ -3004,9 +3460,13 @@ This is a thrilling, heart-pounding video packed with near escapes. The setting 
 
 來源：[貼文](https://x.com/techhalla/status/2039114930461549008) · 發佈： 31 Mar 2026
 
-[![](./public/seedance_2_prompt_images/023.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/023.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Raw mobile phone footage, vertical handheld shot, shaky cam, grainy texture. At the legendary Rucker Park basketball court at dusk, a heavy-set elderly woman in a floral dress and sneakers is dribbling a basketball against
 ```
 
@@ -3018,9 +3478,13 @@ Raw mobile phone footage, vertical handheld shot, shaky cam, grainy texture. At 
 
 來源：[貼文](https://x.com/AITalesNBH/status/2039072522650423445) · 發佈： 31 Mar 2026
 
-[![](./public/seedance_2_prompt_images/026.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/026.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 The firefighter is entering the house, at the 3-second mark the firefighter is walking inside the house with furniture in fire around him, at the 5-second mark a burning tree piece falls in front of him, at the 8-second mark he finds a 3 old baby in a baby bed, the baby is coughing, the firefighter lifts the baby and hugs it, the firefighter gets out of the house, he gives the baby to an ambulance personnel
 ```
 
@@ -3032,9 +3496,13 @@ The firefighter is entering the house, at the 3-second mark the firefighter is w
 
 來源：[貼文](https://x.com/johnAGI168/status/2040058721158467975) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/029.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/029.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 You can generate the same style of video without using the @ symbol as well.
 
 Seedance 2.0 all-purpose reference prompt below:
@@ -3053,9 +3521,13 @@ Seedance 2.0 all-purpose reference prompt below:
 
 來源：[貼文](https://x.com/ChiakiAkagi/status/2040232705477255363) · 發佈： 04 Apr 2026
 
-[![](./public/seedance_2_prompt_images/037.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/037.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Ginza at night, future cyberpunk.
 A female ninja is hiding, made transparent by optical camouflage.
 She defeats an enemy ninja.
@@ -3073,9 +3545,13 @@ hopper 的故事。一名可以在任何時候、隨心所欲從一個地點跳�
 
 來源：[貼文](https://x.com/starks_arq/status/2040036602018451721) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/040.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/040.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 stories of a hopper. 
 
 1 astronaut that's able to hop from location to location, anytime he wants.
@@ -3089,9 +3565,13 @@ stories of a hopper.
 
 來源：[貼文](https://x.com/roco_kn_roco/status/2039962871149584691) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/043.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/043.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 A suspicious man stands in the center of Shibuya scramble crossing. People around the man walk and cross like a time-lapse, centered around him. When he raises his right hand straight up and snaps his fingers, a wave occurs, and everyone except him stops moving like a mannequin.
 
 Used Prompt 2
@@ -3106,9 +3586,13 @@ Protagonist: Hiromu, Age 19
 
 來源：[貼文](https://x.com/maxescu/status/2040095139511636166) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/044.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/044.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 aesthetic: phone held up in the middle of a packed crowd on the deck of a fishing boat
  audio: bass competing with ocean wind, waves crashing against the hull
  timeline:
@@ -3123,9 +3607,13 @@ aesthetic: phone held up in the middle of a packed crowd on the deck of a fishin
 
 來源：[貼文](https://x.com/_3912657840/status/2039911660656484590) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/057.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/057.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 A girl falls rapidly through a digital tunnel. The girl is panicking and flailing. She passes through a tunnel that twists and turns up, down, left, and right, then falls straight down. She lands softly on a rainbow cloud in a fancy world overflowing with light. She looks up and sees a large, rainbow-shining sun glowing in the sky. Backlight.
 ```
 
@@ -3137,9 +3625,13 @@ A girl falls rapidly through a digital tunnel. The girl is panicking and flailin
 
 來源：[貼文](https://x.com/TechTalkNAVI/status/2040100728627454339) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/060.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/060.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Scene: The Skytree transforms into a "super massive railgun" and fires a light projectile towards space.
 
 Visuals:
@@ -3161,9 +3653,13 @@ Lighting/Color: Cold white, purple discharge. Contrast between silence and roar.
 
 來源：[貼文](https://x.com/SSSS_CRYPTOMAN/status/2040217171918516475) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/065.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/065.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 A Hollywood movie trailer. A Marvel-style action movie where an ordinary American high school student transforms into a hero and fights. I want to create various scenes with multi-cuts. The title is CRYPTOMAN
 ```
 
@@ -3175,9 +3671,13 @@ A Hollywood movie trailer. A Marvel-style action movie where an ordinary America
 
 來源：[貼文](https://x.com/Mayz1169/status/2039982387703296044) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/067.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/067.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Cinematic vertical 9:16 video. Two versions of Rapunzel from Tangled walk side by side toward the camera on a forest dirt path. On the LEFT: the original Disney 3D animated Rapunzel — large expressive cartoon eyes, stylized face with Disney animation proportions, luminous long
 ```
 
@@ -3189,9 +3689,13 @@ Cinematic vertical 9:16 video. Two versions of Rapunzel from Tangled walk side b
 
 來源：[貼文](https://x.com/LudovicCreator/status/2040100791822721300) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/068.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/068.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 A giant glacier wall collapses into a fjord beside a coastal city.
 
 The falling ice triggers a massive water displacement wave that surges toward the harbor.
@@ -3211,9 +3715,13 @@ Glacier collapse megaflood, iceberg destruction chaos, cinematic polar disaster 
 
 來源：[貼文](https://x.com/Dheepanratnam/status/2040060221733609969) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/072.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/072.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 A moonlit piano chase where the mouse
 turns the whole instrument into a trap.
 
@@ -3234,9 +3742,13 @@ The cat crashes into the keyboard section, causing a chaotic musical explosion. 
 
 來源：[貼文](https://x.com/Artedeingenio/status/2040054705183723711) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/077.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/077.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 15-second continuous single-shot cartoon sequence.
 
 No cuts. No scene transitions.
@@ -3256,9 +3768,13 @@ A small animal character walking through a quiet meadow.
 
 來源：[貼文](https://x.com/Alin_Reaper05/status/2040017612105556403) · 發佈： 03 Apr 2026
 
-[![](./public/seedance_2_prompt_images/080.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/080.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Victorian-era flying airships with brass gears and giant propellers battling over a cloudy mountain range at sunset, cannons firing, pirates swinging on ropes between ships, intricate mechanical details, sweeping aerial tracking shot with parallax, warm steampunk color palette, ultra-detailed, like Howl’s Moving Castle meets Pirates of the Caribbean, epic action.
 ```
 
@@ -3270,9 +3786,13 @@ Victorian-era flying airships with brass gears and giant propellers battling ove
 
 來源：[貼文](https://x.com/maxescu/status/2039639805592502504) · 發佈： 02 Apr 2026
 
-[![](./public/seedance_2_prompt_images/087.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/087.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 aesthetic: Raw 35mm handheld, high altitude sun haze. One unbroken continuous tracking shot. No cuts. All real time. audio: Full constant jet engine roar, wind blast, no other sound. 
 
 timeline: 
@@ -3287,9 +3807,13 @@ timeline:
 
 來源：[貼文](https://x.com/cdexsta/status/2039559243284844649) · 發佈： 02 Apr 2026
 
-[![](./public/seedance_2_prompt_images/089.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/089.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 2.35:1 widescreen, 24fps, cinematic quality.
 Exterior of an ancient temple in the deep mountains. The camera overlooks the temple roof amidst surging clouds, with mottled tiles and rising mist. The scene cuts to the interior, where a middle-aged monk sits cross-legged, with an ancient Buddha statue and flickering candlelight behind him. The camera slowly rotates 360 degrees, panning from the monk's side to a front close-up, capturing his slightly closed eyes and calm breathing.
 ```
@@ -3302,9 +3826,13 @@ Exterior of an ancient temple in the deep mountains. The camera overlooks the te
 
 來源：[貼文](https://x.com/AskVenice/status/2039570736239595726) · 發佈： 02 Apr 2026
 
-[![](./public/seedance_2_prompt_images/101.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/101.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 Historical scene with dramatic lighting.
 
 [0-3 seconds]
@@ -3322,9 +3850,13 @@ ROCKET SURF。STYLE：粗獷 Cine Verite、35mm 手持、自然晃動。連續�
 
 來源：[貼文](https://x.com/maxescu/status/2039308020006396033) · 發佈： 01 Apr 2026
 
-[![](./public/seedance_2_prompt_images/107.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/107.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 ROCKET SURF.
 STYLE: Gritty Cine Verite, 35mm handheld, natural shake. Continuous tracking shot. No cuts. All real-time.
 
@@ -3343,9 +3875,13 @@ TIMELINE: 0-3s:
 
 來源：[貼文](https://x.com/Adam38363368936/status/2039286911265800297) · 發佈： 01 Apr 2026
 
-[![](./public/seedance_2_prompt_images/120.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts)
+| Output |
+| :----: |
+| [![](./public/seedance_2_prompt_images/120.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
 
-```text
+**Prompt:**
+
+```
 A single stand-up comedian @[Image 1] with black hair, wearing a textured red dress, standing on a spotlighted stage @[Image 2]. Exaggerated and humorous expression, lively eyes, confident and rhythmic tone.
 Dialogue: Have you noticed that people nowadays say they are 'lying flat,' but their bodies are more competitive than anyone else's! My friend constantly claims to be 'Buddhist-style'—not fighting or competing—yet their speed when grabbing red envelopes is so fast I can't even see it clearly! I just want to ask: Is your 'Buddhist-style' so effective that even the Buddha would want to send you a rocket?
 Actions and Expressions:
@@ -3370,7 +3906,7 @@ Scene: Black stand-up stage, strong spotlight illuminating the person, blurred s
 
 來源: [貼文](https://x.com/Adam38363368936/status/2041050710721339521) · 發布時間: 06 04 2026
 
-```text
+```
 提示词 (Prompt)： 0-3s · 异界铭刻 低角度仰拍。深渊实体右手嵌入（Embedded）祭坛，暗黑脉络呈分形几何状（Fractal Geometry）在石板上疯狂寄生。裂缝喷涌出粘稠血肉触须，地面如肺部般大幅度搏动。背景宗门古建筑随之发生视觉上的横向位移震颤。 3-6s · 骨质畸变 环绕升降镜头。实体的脊椎如连锁反应般炸裂扭曲，黑曜石角冠从颅骨深处穿出。双臂缠绕液态黑烟，所经之处空气产生高温电弧感，悬挂灯笼因能量过载瞬间发生视觉坍塌式爆裂。 6-9s · 物质解构 拉远镜头。实体表皮呈现瓷器般的碎裂纹路，内部是蠕动的暗物质核心。指尖异化为长达半米的影刃，触碰木柱瞬间引发超速风化（Accelerated Decay），建筑结构化为黑烟升腾。 9-12s · 影潮吞噬 高空俯拍。实体振臂，身后黑暗塌缩后猛然爆发，形成千米级的黑红浪潮（Corrupted Tsunami）。阴影洪流所过之处，青石板路、石狮、楼阁全部被像素化撕裂并吞噬。 12-15s · 虚空终焉 脸部特写。背景中巨大的山门在黑洞引力下向中心拧麻花状折断。实体在死寂中缓步走近，瞳孔内是旋转的星云（Void Nebula）。它凝视镜头，画面产生强烈的胶片烧灼感与信号故障感（Glitch），最终归于绝对黑暗。
 ```
 
@@ -3384,7 +3920,7 @@ Scene: Black stand-up stage, strong spotlight illuminating the person, blurred s
 
 來源: [貼文](https://x.com/johnAGI168/status/2041001869435158629) · 發布時間: 06 04 2026
 
-```text
+```
 即可得到同款视频！
 
 Seedance 2.0 prompt 👇
@@ -3402,7 +3938,7 @@ Seedance 2.0 prompt 👇
 
 來源: [貼文](https://x.com/john87445528/status/2041000256930763046) · 發布時間: 06 04 2026
 
-```text
+```
 神佛之城·宗师登台】
 镜头以一镜到底的方式，在巨型东方奇幻神都中俯仰、翻滚、旋转、飞驰。
 【起始帧 - 图1场景】：镜头从天空俯冲而下，掠过悬浮的巨大苍白月球，快速接近两尊耸立云端的巨型佛像立掌雕塑（高度超过百米），穿过佛像指缝间缭绕的薄雾与红色灯笼串。镜头急速下降，俯瞰脚下青绿色运河纵横的东方奇幻水上都城，密集的木质古建筑、吊脚楼、石桥、灯火通明的船坞在雾气中若隐若现。
@@ -3426,7 +3962,7 @@ Seedance 2.0 prompt 👇
 
 來源: [貼文](https://x.com/johnAGI168/status/2040767631213363656) · 發布時間: 05 04 2026
 
-```text
+```
 prompt 👇
 
 【风格】时尚杂志固定俯拍变装卡点（Top-Down Fashion Lookbook），电影质感，8K超清，丝滑卡点，极具冲击力的视觉节奏
@@ -3476,7 +4012,7 @@ prompt 👇
 
 來源: [貼文](https://x.com/Adam38363368936/status/2040980673851506798) · 發布時間: 06 04 2026
 
-```text
+```
 在下面，来试试！
 
 Seedance2.0提示词
@@ -3497,7 +4033,7 @@ Seedance2.0提示词
 
 來源: [貼文](https://x.com/crayon1267/status/2040826411783762286) · 發布時間: 05 04 2026
 
-```text
+```
 电影级国风城市文化创意广告，超写实 8K，第一人称舒缓追随镜头，丝滑慢节奏运镜，北京古都氛围浓厚，治愈人文感，强代入感，建筑与自然细节清晰真实。整片时长 15 秒内，整体节奏放缓，镜头停留更从容，核心主体为一朵带晨露的白色蒲公英，镜头始终轻柔追随绒球。全程无背景音乐，仅保留环境拟音 + 极简地点旁白。 【0-4s】晨雾中的北京胡同，蒲公英被清风托起，镜头轻柔掠过瓦顶、院门与晨练残影。旁白：胡同 【4-8s】蒲公英缓缓飘行，掠过故宫角楼、天坛祈年殿。旁白：故宫、天坛 【8-12s】蒲公英继续轻飘，掠过颐和园十七孔桥、八达岭长城。旁白：颐和园、长城 【12-15s】蒲公英轻落什刹海湖面，镜头缓缓拉出城市全景。旁白（提前 1 秒出现）：风过北京，万物有灵。画面定格治愈收尾，不拖尾。 音效设计 全程无背景音乐，仅保留微风声、环境自然音、蒲公英飘飞轻响，旁白清晰干净，无多余嘈杂音效。
 ```
 
@@ -3511,7 +4047,7 @@ Seedance2.0提示词
 
 來源: [貼文](https://x.com/YaReYaRu30Life/status/2041068828457877598) · 發布時間: 06 04 2026
 
-```text
+```
 の要素から少し知見が増して反映している印象
 →エンジン内部、ピストン
 プロンプトに入っていますが
@@ -3536,7 +4072,7 @@ Seedance2.0提示词
 
 來源: [貼文](https://x.com/pan_soramame_da/status/2040921171059752988) · 發布時間: 05 04 2026
 
-```text
+```
 に記述じゃなくて
 画像で成功確率上がるかも🐈
 
@@ -3576,7 +4112,7 @@ Seedance2.0提示词
 
 來源: [貼文](https://x.com/kinopioai_ai/status/2040814307487916415) · 發布時間: 05 04 2026
 
-```text
+```
 のみ
 右　画像➕プロンプト
 
@@ -3608,7 +4144,7 @@ Seedance2.0提示词
 
 來源: [貼文](https://x.com/a_shimanski/status/2041431226507051027) · 發布時間: 07 04 2026
 
-```text
+```
 I just generated this with a single prompt
 Prompt👇
 Cinematic 10-second epic fantasy battle sequence in the style of Lord of the Rings, opening with a sweeping aerial crane shot pulling back over a massive ruined battlefield where thousands of armored Norse warriors charge through ash and smoke toward three colossal stone giants crackling with blue lightning, then cutting to a low ground-level tracking shot racing between the boots of sprinting soldiers as a giant's massive stone foot slams into the earth sending warriors flying in slow motion through dust and embers, then cutting to a medium dutch angle shot of a purple-robed female mage and a male sorcerer unleashing violet and blue arc lightning into the giants faces lit dramatically from below, then a whip pan over-the-shoulder shot from the giant's perspective as his enormous clawed hand sweeps across the battlefield scattering warriors like leaves with fire exploding to the right, finally ending on an extreme slow-motion close-up of a blood-soaked Norse warrior's determined face raising his sword and charging directly at the camera before the frame freezes in a blinding white lightning flash and smashes to black, desaturated steel blue and volcanic orange color grade, photorealistic, 8K, cinematic motion blur, epic orchestral atmosphere
@@ -3624,7 +4160,7 @@ Cinematic 10-second epic fantasy battle sequence in the style of Lord of the Rin
 
 來源: [貼文](https://x.com/noman23761/status/2041409914954973216) · 發布時間: 07 04 2026
 
-```text
+```
 The difference between “AI slop” and “this looks directed” is literally 2–3 prompt changes.
 Seedance 2 Global access api :-
 If you are just looking for an app to run Seedance 2 without business email and geo restrictions check out VadooAI
@@ -3661,7 +4197,7 @@ You have to explicitly define energy levels
 
 來源: [貼文](https://x.com/noman23761/status/2041408928215408931) · 發布時間: 07 04 2026
 
-```text
+```
 "beautiful young East Asian woman, long wavy chestnut brown hair, big smile, earphones in ears, wearing oversized white knit cardigan, denim shorts, white sneakers, holding red Coca-Cola can in right hand, playful and confident vibe, walking and dancing energetically down a sunny Paris cobblestone street, low angle dynamic camera, sudden surreal chaos: floating businessmen in black suits flying through the air with briefcases and white papers scattering everywhere, one businessman lying on the ground, girl completely unfazed and keeps dancing joyfully, pointing at camera, spinning, laughing, cinematic color grading, soft daylight, shallow depth of field, beautiful European architecture background, cafes and parked cars, final shot: girl walks away from camera down the long street, buildings suddenly light up with vibrant rainbow neon colors (pink, purple, blue, green, yellow) glowing on windows and balconies, dreamy atmosphere, highly detailed, 8k, masterpiece, smooth motion, perfect anatomy, natural physics"
 
 Instead of reacting to chaos, she becomes the only stable element in the frame.
@@ -3683,7 +4219,7 @@ Same structure, completely different feeling.
 
 來源: [貼文](https://x.com/noman23761/status/2041406971484815564) · 發布時間: 07 04 2026
 
-```text
+```
 "SUBJECTS: A female warrior with shoulder-length hair, the ends naturally flipping outward, pressed backward and slightly disheveled by air resistance during high-speed movement. She wears a dark, form-fitting tactical suit combining real fabric and worn metal elements, with visible water stains, dust, and signs of use. A dual mechanical grappling hook system mounted on her back, capable of firing steel cables that retract to generate pulling force. The hook tips are metal impact heads used for attaching to or striking solid structures. The cable only triggers when support is lost or during a fall, and must latch onto a solid object before generating tension. Movement relies on: sliding, stepping, grappling pull, swinging, contact, and displacement through reaction forces. A massive stone hand connected to a giant’s body (not severed, the arm extending upward into the clouds), descending vertically into frame from the cloud layer. Enormous in scale, with a weathered, rough surface, no glow, no regular structure. Each downward press carries clear weight, acceleration, air compression, and impact inertia. ENVIRONMENT: A high-altitude fractured bridge structure with wet, slippery concrete surfaces, showing water traces, cracks, and scattered debris. The bridge is heavily damaged, with irregular टूट sections, exposed and bent rebar, and hanging steel cables. Below the bridge is an empty abyss, swallowed by fog, with no visible ground. A distant city appears low and ruined, with r
 ```
 
@@ -3697,7 +4233,7 @@ Same structure, completely different feeling.
 
 來源: [貼文](https://x.com/noman23761/status/2041405260762419692) · 發布時間: 07 04 2026
 
-```text
+```
 "[CINEMATIC SETUP] Genre & Mood: Gritty Post-Apocalyptic Survival. Tense, visceral, and hyper-realistic. Film Stock & Lens: Shot on 35mm anamorphic lens, f/2.8 for shallow depth of field. Teal-orange desaturated color grade with earthy, dusty undertones. Lighting & Atmosphere: Dramatic volumetric Golden Hour light with heavy dust motes and heat haze. Character Description: An athletic woman in her late 20s, wearing weathered tactical leather armor and dirt-smudged skin. Her hair is wind-blown and messy; her expression is one of intense, lethal focus. Audio Style: Immersive spatial sound design. Detailed SFX of bowstring tension, rhythmic heavy breathing, wind howling through the canyon, and a high-velocity "thwack" on impact. [TIMELINE SECOND BY SECOND] 0-3s: [Extreme Close-up (ECU)] High-angle shot of the woman's face as she aims a mechanical compound bow. The bowstring is pulled taut against her cheek. Movie-level realistic facial features, no deformation, stable throughout. 3-4s: [Macro Cut] Extreme close-up of her iris. The pupil dilates sharply as she locks onto her target. Realistic light reflections in the eye. 4-8s: [Over-the-shoulder (OTS) Shot] The camera sits behind her shoulder on a jagged cliff edge. In the valley below, a herd of mutated, post-apocalyptic Cape Buffalo with thickened grey hide and jagged horns graze peacefully. Smooth camera push-in. 8-10s: [The Release & POV] She releases the arrow. Fast Tracking POV shot following the arrowhead at maximum veloc
 ```
 
@@ -3711,7 +4247,7 @@ Same structure, completely different feeling.
 
 來源: [貼文](https://x.com/SPEEDAI07/status/2041393724622795014) · 發布時間: 07 04 2026
 
-```text
+```
 Seedance 2.0 Prompt
 
 Pixar 3D animated forest clearing. Sunny day, god rays through trees, green grass, flowers. CHARACTERS: - Giant armored wolf: black fur, gold sword, yellow eyes, furious and humiliated, attacks with full rage - Tiny rooster: red comb, completely unbothered, bored expression, deflects everything with casual wing flaps SEQUENCE: 0-3s — Wolf roars, raises sword overhead, brings it down with full force. Rooster glances up, sighs, flicks one wing — sword deflects sideways. Sparks fly. Wolf stumbles forward from own momentum. Rooster examines wing casually, unbothered. 3-6s — Wolf swings horizontal slash. Rooster ducks under it yawning, taps sword away with wingtip. Wolf spins, overhead strike — rooster sidesteps one inch, sword hits ground, shockwave crater. Rooster hasn't changed expression once. 6-9s — Wolf goes berserk — rapid five-hit combo, sword blur. Rooster deflects each strike with alternating wings — tap, tap, tap, tap, tap. Casual rhythm like swatting flies. Last strike — rooster catches blade between two feathers. Stops it cold. Wolf strains, shaking. Can't move it. 9-12s — Rooster releases blade, wolf stumbles backward. Wolf charges with shoulder slam — rooster steps aside, wolf face plants into grass. Wolf up instantly, wild overhead — rooster flicks it away with tail feather. Sword spins out of wolf's grip, lands in tree trunk. 12-15s — Wolf stares at empty hands. Rooster turns, walks away slowly, doesn't look back. Scratches ground with one cla
@@ -3727,7 +4263,7 @@ Pixar 3D animated forest clearing. Sunny day, god rays through trees, green gras
 
 來源: [貼文](https://x.com/johnAGI168/status/2041374063243800793) · 發布時間: 07 04 2026
 
-```text
+```
 prompt 👇
 
 【风格】高级商业氛围短片（Premium Lifestyle Commercial），高清手机前置镜头质感（Vlog互动视角），电影写实色彩，面部柔光打光，注意分镜编排和对口型，单人出镜
@@ -3769,7 +4305,7 @@ prompt 👇
 
 來源: [貼文](https://x.com/lynneatyoumind/status/2041334660173852807) · 發布時間: 07 04 2026
 
-```text
+```
 prompt: A cute kitten secretly eating snacks under the covers in bed at night. Hears footsteps, panics, hides the snacks, and fakes sleep with soft purring. Owner opens the door, peeks in, then leaves. Coast clear — the kitten pulls the snacks back out and keeps munching. Dark cozy bedroom, moonlight, cinematic lighting, smooth animation.
 ```
 
@@ -3783,7 +4319,7 @@ prompt: A cute kitten secretly eating snacks under the covers in bed at night. H
 
 來源: [貼文](https://x.com/EHuanglu/status/2041132328655954201) · 發布時間: 06 04 2026
 
-```text
+```
 extreme macro FPV tracking shot, camera tightly attached to the fairy's back, synchronized with wing flapping frequency
 ```
 
@@ -3797,7 +4333,7 @@ extreme macro FPV tracking shot, camera tightly attached to the fairy's back, sy
 
 來源: [貼文](https://x.com/johnAGI168/status/2041146946681721113) · 發布時間: 06 04 2026
 
-```text
+```
 也可以生成同款视频📺
 
 Seedance 2.0 prompt 👇
@@ -3817,7 +4353,7 @@ Seedance 2.0 prompt 👇
 
 來源: [貼文](https://x.com/tanabe_fragm/status/2041328307267088580) · 發布時間: 07 04 2026
 
-```text
+```
 の問題でした😅
 試しにt2vで喋らせたら、むしろKling 3.0より自然で驚きました。
 
@@ -3838,7 +4374,7 @@ Seedance 2.0はとにかくプロンプト依存が強いモデルですね📝
 
 來源: [貼文](https://x.com/Reiria123/status/2041118339393826933) · 發布時間: 06 04 2026
 
-```text
+```
 は↓
 
 Use @Image1 as the character reference. Keep character design, hairstyle, ears, tail, outfit, and colors perfectly consistent.
@@ -3893,7 +4429,7 @@ Bright autu
 
 來源: [貼文](https://x.com/TomaAIbijo/status/2041409381162689021) · 發布時間: 07 04 2026
 
-```text
+```
 Scene 1
 horror animation. Flat paper-puppet look, rough textures, dark muted colors, slight projector flicker. 15-second vertical video (9:16), 5 cuts.
 
