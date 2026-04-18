@@ -92,10 +92,6 @@ These prompts are highlighted for variety: long-form transformation, emotional r
 <!-- Case 1: Black Swan vs Boxer -->
 ### Case 1: [Black Swan vs Boxer](https://x.com/KanaWorks_AI/status/2045098229847716305) (17 04 2026)
 
-![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square)
-
-A Japanese anime fight prompt with ring choreography, aggressive counterattacks, and a clean K.O. finish.
-
 | Output |
 | :----: |
 | [![](./public/seedance_2_prompt_images/iILeAyierBn5imMB.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
@@ -124,10 +120,6 @@ The crowd erupts in thunderous cheers. The Black Swan slowly settles her stance,
 <!-- Case 2: Ground Crack Superman Launch -->
 ### Case 2: [Ground Crack Superman Launch](https://x.com/techprophett/status/2045091209417249026) (17 04 2026)
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-
-A grounded ascension shot focused on impact weight, earth fracture buildup, and a violent vertical takeoff.
-
 | Output |
 | :----: |
 | [![](./public/seedance_2_prompt_images/JnftRXbRJtRUNj2a.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
@@ -152,10 +144,6 @@ A grounded ascension shot focused on impact weight, earth fracture buildup, and 
 
 <!-- Case 3: Stridex Sneaker Commercial -->
 ### Case 3: [Stridex Sneaker Commercial](https://x.com/ShamsAmin56/status/2045084636695650511) (17 04 2026)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-
-A premium product-ad storyboard with macro texture shots, side-profile reveals, and a polished hero frame.
 
 | Output |
 | :----: |
@@ -200,10 +188,6 @@ Lighting: balanced, high-end studio look, crisp shadows, premium finish.
 <!-- Case 4: Travel Suitcase Buddy Montage -->
 ### Case 4: [Travel Suitcase Buddy Montage](https://x.com/ChaseAIx/status/2045080469533057252) (17 04 2026)
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-
-A rhythmic travel commercial built from match cuts, destination jumps, and object-character comedy.
-
 | Output |
 | :----: |
 | [![](./public/seedance_2_prompt_images/sAVFzyGI01SXuQGa.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
@@ -247,10 +231,6 @@ SHOT 15: WS, 50mm pull-out / L-cut with a match from the floor to the bed. The m
 <!-- Case 5: Creative Director Dimension Walk -->
 ### Case 5: [Creative Director Dimension Walk](https://x.com/lukasersil/status/2045070342553493833) (17 04 2026)
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-
-A frontal walking prompt that jumps through creative eras while keeping motion, framing, and pace locked.
-
 | Output |
 | :----: |
 | [![](./public/seedance_2_prompt_images/KmTYi8555NBQZpyJ.jpg)](https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-seedance-2.0-prompts) |
@@ -292,10 +272,6 @@ FINAL: one last snap → seamless loop back to white studio, identical opening s
 
 <!-- Case 6: Parametric Fight Template -->
 ### Case 6: [Parametric Fight Template](https://x.com/aimikoda/status/2044830615434854449) (16 04 2026)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-
-A reusable cinematic fight template with structure for character roles, environment logic, escalation, and finish beats.
 
 | Output |
 | :----: |
