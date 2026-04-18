@@ -93,7 +93,7 @@ These prompts are highlighted for variety: long-form transformation, emotional r
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square)
 A Japanese anime fight prompt with ring choreography, aggressive counterattacks, and a clean K.O. finish.
 
-**Source:** [Post](https://x.com/KanaWorks_AI/status/2045098229847716305))  
+**Source:** [Post](https://x.com/KanaWorks_AI/status/2045098229847716305)  
 **Published:** 17 04 2026
 
 | Output |
@@ -125,7 +125,7 @@ The crowd erupts in thunderous cheers. The Black Swan slowly settles her stance,
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A grounded ascension shot focused on impact weight, earth fracture buildup, and a violent vertical takeoff.
 
-**Source:** [Post](https://x.com/techprophett/status/2045091209417249026))  
+**Source:** [Post](https://x.com/techprophett/status/2045091209417249026)  
 **Published:** 17 04 2026
 
 | Output |
@@ -154,7 +154,7 @@ A grounded ascension shot focused on impact weight, earth fracture buildup, and 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A premium product-ad storyboard with macro texture shots, side-profile reveals, and a polished hero frame.
 
-**Source:** [Post](https://x.com/ShamsAmin56/status/2045084636695650511))  
+**Source:** [Post](https://x.com/ShamsAmin56/status/2045084636695650511)  
 **Published:** 17 04 2026
 
 | Output |
@@ -201,7 +201,7 @@ Lighting: balanced, high-end studio look, crisp shadows, premium finish.
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A rhythmic travel commercial built from match cuts, destination jumps, and object-character comedy.
 
-**Source:** [Post](https://x.com/ChaseAIx/status/2045080469533057252))  
+**Source:** [Post](https://x.com/ChaseAIx/status/2045080469533057252)  
 **Published:** 17 04 2026
 
 | Output |
@@ -249,7 +249,7 @@ SHOT 15: WS, 50mm pull-out / L-cut with a match from the floor to the bed. The m
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A frontal walking prompt that jumps through creative eras while keeping motion, framing, and pace locked.
 
-**Source:** [Post](https://x.com/lukasersil/status/2045070342553493833))  
+**Source:** [Post](https://x.com/lukasersil/status/2045070342553493833)  
 **Published:** 17 04 2026
 
 | Output |
@@ -295,7 +295,7 @@ FINAL: one last snap → seamless loop back to white studio, identical opening s
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A reusable cinematic fight template with structure for character roles, environment logic, escalation, and finish beats.
 
-**Source:** [Post](https://x.com/aimikoda/status/2044830615434854449))  
+**Source:** [Post](https://x.com/aimikoda/status/2044830615434854449)  
 **Published:** 16 04 2026
 
 ```
@@ -373,7 +373,7 @@ Fluid, physical, cinematic fight with clear spatial logic, dynamic camera, envir
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
 A long-form transformation sequence that escalates from rooftop sprint, to freefall capture, to car-to-jet metamorphosis.
 
-**Source:** [Post](https://x.com/john87445528/status/2039496153641660508))  
+**Source:** [Post](https://x.com/john87445528/status/2039496153641660508)  
 **Published:** 02 04 2026
 
 | Output |
@@ -396,7 +396,7 @@ Chapter 3 (0-15 seconds): AITO M7 Transforms -> Becomes an F-14 -> Protagonist S
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A short-form restaurant drama that escalates from celebration to betrayal reveal and quiet revenge.
 
-**Source:** [Post](https://x.com/Lighterkissan33/status/2045023927412637712))  
+**Source:** [Post](https://x.com/Lighterkissan33/status/2045023927412637712)  
 **Published:** 17 04 2026
 
 | Output |
@@ -437,7 +437,7 @@ her boyfriend full of regret, ending with a low background music and whispers ar
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
 15-second cinematic Japanese drama pure love ambiguous short film, ultra-realistic quality, warm golden sunlight in an empty classroom in the afternoon,...
 
-**Source:** [Post](https://x.com/JiahaoYang_art/status/2033119940216344616))  
+**Source:** [Post](https://x.com/JiahaoYang_art/status/2033119940216344616)  
 **Published:** 15 03 2026
 
 | Output |
@@ -462,7 +462,7 @@ Character identity is maintained throughout, real subtle head tilts, eye movemen
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
 A shot-by-shot luxury supercar commercial storyboard focused on controlled camera movement and premium product surfaces.
 
-**Source:** [Post](https://x.com/Adam38363368936/status/2039932977287979053))  
+**Source:** [Post](https://x.com/Adam38363368936/status/2039932977287979053)  
 **Published:** 03 04 2026
 
 | Output |
@@ -507,7 +507,7 @@ Highest image quality: 8K.
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
 "location": "Tokyo Cityscape (Night)", "duration": "10s", "prompt": "A cinematic POV shot riding an invisible rollercoaster through Tokyo at night. A...
 
-**Source:** [Post](https://x.com/TechTalkNAVI/status/2039941029265355123))  
+**Source:** [Post](https://x.com/TechTalkNAVI/status/2039941029265355123)  
 **Published:** 03 04 2026
 
 | Output |
@@ -535,7 +535,7 @@ Highest image quality: 8K.
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
 100% real-life shooting texture, Hollywood IMAX blockbuster quality, natural light and shadow, cold documentary style, natural light on a cloudy day,...
 
-**Source:** [Post](https://x.com/ChrisTheNerv/status/2040043939109953944))  
+**Source:** [Post](https://x.com/ChrisTheNerv/status/2040043939109953944)  
 **Published:** 03 04 2026
 
 | Output |
@@ -575,7 +575,7 @@ Layered progression from the scream activation to the explosive mechanical erupt
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
 A wuxia one-shot spectacle at Tianmen Mountain designed for speed, impact, and large-scale mythic martial-arts energy.
 
-**Source:** [Post](https://x.com/Adam38363368936/status/2039865857179013318))  
+**Source:** [Post](https://x.com/Adam38363368936/status/2039865857179013318)  
 **Published:** 03 04 2026
 
 | Output |
@@ -638,7 +638,7 @@ Freeze Frame: The camera pushes in for an extreme close-up. A drop of blood drip
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
 A reusable morphing template for turning seven still images into one controlled continuous transformation shot.
 
-**Source:** [Post](https://x.com/YaReYaRu30Life/status/2039474680235741681))  
+**Source:** [Post](https://x.com/YaReYaRu30Life/status/2039474680235741681)  
 **Published:** 01 04 2026
 
 | Output |
@@ -717,7 +717,7 @@ seamless transformation flow
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
 A commercial fashion-tech prompt for a gradient foldable smartphone with macro details, sharp cuts, and premium motion language.
 
-**Source:** [Post](https://x.com/Adam38363368936/status/2039157138002780202))  
+**Source:** [Post](https://x.com/Adam38363368936/status/2039157138002780202)  
 **Published:** 01 04 2026
 
 | Output |
@@ -765,7 +765,7 @@ Combat, chase, anime, wuxia, creature, and large-scale cinematic spectacle promp
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 16:9 horizontal screen, street rap MV style, neon purple and blue cool tones, explosive cool and fierce atmosphere. 0-3 seconds: Medium shot push-in, city...
 
-**Source:** [Post](https://x.com/songguoxiansen/status/2033175478765289598))  
+**Source:** [Post](https://x.com/songguoxiansen/status/2033175478765289598)  
 **Published:** 15 03 2026
 
 | Output |
@@ -784,7 +784,7 @@ Combat, chase, anime, wuxia, creature, and large-scale cinematic spectacle promp
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 15-second Original Desert Martial Arts Short Film: A black cat warrior in light armor stands alone in a desert where yellow sand is flying all over the sky,...
 
-**Source:** [Post](https://x.com/nopinduoduo/status/2039915824216261101))  
+**Source:** [Post](https://x.com/nopinduoduo/status/2039915824216261101)  
 **Published:** 03 04 2026
 
 | Output |
@@ -803,7 +803,7 @@ Combat, chase, anime, wuxia, creature, and large-scale cinematic spectacle promp
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Live-Action Anime Adaptation · Breathing Technique Decisive Battle (15 seconds · Super Burning Special Effects Version) 【Core Focus】: Water Breathing (Blue...
 
-**Source:** [Post](https://x.com/johnAGI168/status/2021610292979876208))  
+**Source:** [Post](https://x.com/johnAGI168/status/2021610292979876208)  
 **Published:** 11 02 2026
 
 | Output |
@@ -842,7 +842,7 @@ Special Effects Spectacle: The blue water dragon and the golden lightning instan
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Anime high-speed cut test — 20 hard cuts in 10 seconds (0.5 seconds per cut, no fade-in/fade-out, no transitions). 0.0 seconds to 0.5 seconds: Cut 1 —...
 
-**Source:** [Post](https://x.com/tebasaki3D/status/2039903531415552048))  
+**Source:** [Post](https://x.com/tebasaki3D/status/2039903531415552048)  
 **Published:** 03 04 2026
 
 | Output |
@@ -862,7 +862,7 @@ Anime high-speed cut test — 20 hard cuts in 10 seconds (0.5 seconds per cut, n
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Watch a grease-stained mechanic fix a violently rattling junker like it’s a martial arts fight. Wrenches flying, spark plugs thrown like knives, hood...
 
-**Source:** [Post](https://x.com/sebatheepan/status/2040079840754205010))  
+**Source:** [Post](https://x.com/sebatheepan/status/2040079840754205010)  
 **Published:** 03 04 2026
 
 | Output |
@@ -886,7 +886,7 @@ From rusty disaster to purring monster in seconds.
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A short film about a samurai who loses his life on a burning battlefield and wakes up as a baby in another world. The first half is a fierce battle on a...
 
-**Source:** [Post](https://x.com/sailorv321/status/2040127822908596305))  
+**Source:** [Post](https://x.com/sailorv321/status/2040127822908596305)  
 **Published:** 03 04 2026
 
 | Output |
@@ -906,7 +906,7 @@ The first half is a fierce battle on a battlefield covered in mud and flames. Th
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Stylized 3D animation with exaggerated proportions, sharp kung-fu-soccer choreography, and controlled rhythmic energy. CHARACTERS - Football master: an...
 
-**Source:** [Post](https://x.com/johnAGI168/status/2039924160567058725))  
+**Source:** [Post](https://x.com/johnAGI168/status/2039924160567058725)  
 **Published:** 03 04 2026
 
 | Output |
@@ -925,7 +925,7 @@ Stylized 3D animation with exaggerated proportions, sharp kung-fu-soccer choreog
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A fast-paced comedic parody Seedance 2 short set in an ancient imperial study. An orange cat dressed as Qin Shi Huang in Han-style golden dragon robes sits...
 
-**Source:** [Post](https://x.com/drjoetw/status/2039905967597613558))  
+**Source:** [Post](https://x.com/drjoetw/status/2039905967597613558)  
 **Published:** 03 04 2026
 
 | Output |
@@ -950,7 +950,7 @@ Camera: fast cuts, whip pans, strong motion blur, 0.6–1.2s pacing, ending in s
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A retro tokusatsu battle prompt with giant-scale ninja combat, miniature-city staging, and suit-actor physics.
 
-**Source:** [Post](https://x.com/EarthGigantea/status/2044026356984623194))  
+**Source:** [Post](https://x.com/EarthGigantea/status/2044026356984623194)  
 **Published:** 14 04 2026
 
 | Output |
@@ -979,7 +979,7 @@ Visual Style:
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Japanese anime. Dialogue in Japanese. Flowing clouds. A girl walks, jumps cutely, and hits a red switch. At the moment of the explosion, it briefly becomes...
 
-**Source:** [Post](https://x.com/_3912657840/status/2040018529441730815))  
+**Source:** [Post](https://x.com/_3912657840/status/2040018529441730815)  
 **Published:** 03 04 2026
 
 | Output |
@@ -998,7 +998,7 @@ Japanese anime. Dialogue in Japanese. Flowing clouds. A girl walks, jumps cutely
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 15-second Original Elemental Battle Short Film: On an ice-covered volcanic mountain range, a warrior in lava obsidian armor collides head-on with an...
 
-**Source:** [Post](https://x.com/ZikinArt/status/2040006818953322644))  
+**Source:** [Post](https://x.com/ZikinArt/status/2040006818953322644)  
 **Published:** 03 04 2026
 
 | Output |
@@ -1017,7 +1017,7 @@ Japanese anime. Dialogue in Japanese. Flowing clouds. A girl walks, jumps cutely
 ![Language-ES](https://img.shields.io/badge/Language-ES-blue?style=flat-square)
 Highly detailed cinematic 4K animated video, precious enchanted Faberge-style Easter eggs floating in a dreamy ethereal space, ornate golden filigree and...
 
-**Source:** [Post](https://x.com/ShamiWeb3/status/2040096061835059412))  
+**Source:** [Post](https://x.com/ShamiWeb3/status/2040096061835059412)  
 **Published:** 03 04 2026
 
 | Output |
@@ -1036,7 +1036,7 @@ Highly detailed cinematic 4K animated video, precious enchanted Faberge-style Ea
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Original 15-second short film about an elemental battle: In a volcanic mountain range covered in ice, a warrior in volcanic obsidian armor clashes head-on...
 
-**Source:** [Post](https://x.com/David_eficaz/status/2039966320414937236))  
+**Source:** [Post](https://x.com/David_eficaz/status/2039966320414937236)  
 **Published:** 03 04 2026
 
 | Output |
@@ -1055,7 +1055,7 @@ Original 15-second short film about an elemental battle: In a volcanic mountain 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 ultra cinematic sci-fi fantasy duel in daylight, a warrior wielding a glowing energy blade stands facing a massive terrifying creature, calm and focused,...
 
-**Source:** [Post](https://x.com/CharaspowerAI/status/2040013966986957144))  
+**Source:** [Post](https://x.com/CharaspowerAI/status/2040013966986957144)  
 **Published:** 03 04 2026
 
 | Output |
@@ -1085,7 +1085,7 @@ Ultra realistic, high-end cinematic action, precise choreography, glowing energy
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 15-second continuous single-shot action sequence. No cuts. No scene transitions. Dark cinematic fantasy realism, dense forest shadows, fog layers, dynamic...
 
-**Source:** [Post](https://x.com/Artedeingenio/status/2039997977897435190))  
+**Source:** [Post](https://x.com/Artedeingenio/status/2039997977897435190)  
 **Published:** 03 04 2026
 
 | Output |
@@ -1113,7 +1113,7 @@ Dense forest → cliff edge → open valley
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A lone samurai stands on a cliff overlooking cherry blossom mountains at sunset, wind blowing petals around him, he slowly draws his katana for the last...
 
-**Source:** [Post](https://x.com/Alin_Reaper05/status/2040042931172655384))  
+**Source:** [Post](https://x.com/Alin_Reaper05/status/2040042931172655384)  
 **Published:** 03 04 2026
 
 | Output |
@@ -1132,7 +1132,7 @@ A lone samurai stands on a cliff overlooking cherry blossom mountains at sunset,
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A daring aerial rogue diving on a bio-mechanical glider through a chaotic floating-island bazaar, weaving effortlessly through airborne merchants, dodging...
 
-**Source:** [Post](https://x.com/sebatheepan/status/2039723026124575231))  
+**Source:** [Post](https://x.com/sebatheepan/status/2039723026124575231)  
 **Published:** 02 04 2026
 
 | Output |
@@ -1151,7 +1151,7 @@ A daring aerial rogue diving on a bio-mechanical glider through a chaotic floati
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A cockpit-to-mech launch prompt with zero-G prep, hard mechanical beats, and industrial combat energy.
 
-**Source:** [Post](https://x.com/Dheepanratnam/status/2044338893764383111))  
+**Source:** [Post](https://x.com/Dheepanratnam/status/2044338893764383111)  
 **Published:** 15 04 2026
 
 | Output |
@@ -1190,7 +1190,7 @@ SHOT 15: WS, 50mm pull-out / L-cut with a match from the targeting screen close 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A super high-speed flight action scene of a girl riding a dragon. High number of frames, 24FPS Japanese full-color anime. Two dragons, one blue and one red,...
 
-**Source:** [Post](https://x.com/naoyuki_okada/status/2039573038392614995))  
+**Source:** [Post](https://x.com/naoyuki_okada/status/2039573038392614995)  
 **Published:** 02 04 2026
 
 | Output |
@@ -1210,7 +1210,7 @@ Two dragons, one blue and one red, are flying high above the clouds. They are fl
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 15-second Original Desert Martial Arts Short Film: A black cat warrior in light armor stands alone in a desert where yellow sand is flying all over the sky,...
 
-**Source:** [Post](https://x.com/NimEshed/status/2039816152222949829))  
+**Source:** [Post](https://x.com/NimEshed/status/2039816152222949829)  
 **Published:** 02 04 2026
 
 | Output |
@@ -1229,7 +1229,7 @@ Two dragons, one blue and one red, are flying high above the clouds. They are fl
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A military strike storyboard with cockpit realism, bomb-release mechanics, and grounded explosion physics.
 
-**Source:** [Post](https://x.com/Mr_TuanDoan/status/2044750468849729604))  
+**Source:** [Post](https://x.com/Mr_TuanDoan/status/2044750468849729604)  
 **Published:** 16 04 2026
 
 | Output |
@@ -1264,7 +1264,7 @@ SHOT 07 (13-15s) wide aerial — jet exits frame at insane speed, heat haze trai
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A 15-second hyper-realistic epic war blockbuster. Style: rugged realism, 35mm handheld film aesthetic, natural grain, subtle shake. Xiang Yu, the...
 
-**Source:** [Post](https://x.com/john87445528/status/2039348028574744685))  
+**Source:** [Post](https://x.com/john87445528/status/2039348028574744685)  
 **Published:** 01 04 2026
 
 | Output |
@@ -1283,7 +1283,7 @@ A 15-second hyper-realistic epic war blockbuster. Style: rugged realism, 35mm ha
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Office Coffee Break Gone WrongShot 1: Tired office worker in a button-up shirt sips coffee at his desk in a modern open-plan office. Calm medium shot,...
 
-**Source:** [Post](https://x.com/Dheepanratnam/status/2039387346706001941))  
+**Source:** [Post](https://x.com/Dheepanratnam/status/2039387346706001941)  
 **Published:** 01 04 2026
 
 | Output |
@@ -1302,7 +1302,7 @@ Office Coffee Break Gone WrongShot 1: Tired office worker in a button-up shirt s
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 15-second continuous single-shot action sequence. No cuts. No scene transitions. Cinematic fantasy realism, large-scale creature animation, fire simulation,...
 
-**Source:** [Post](https://x.com/Artedeingenio/status/2039333445403287777))  
+**Source:** [Post](https://x.com/Artedeingenio/status/2039333445403287777)  
 **Published:** 01 04 2026
 
 | Output |
@@ -1330,7 +1330,7 @@ Grounded live-action prompts focused on mood, body language, practical light, an
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Modern Japan. A 15-second live-action documentary-style video set during a high-rise building fire in Tokyo Bay. No BGM. No subtitles. Only environmental...
 
-**Source:** [Post](https://x.com/kuranoayashi/status/2040055299835650266))  
+**Source:** [Post](https://x.com/kuranoayashi/status/2040055299835650266)  
 **Published:** 03 04 2026
 
 | Output |
@@ -1351,7 +1351,7 @@ No BGM. No subtitles. Only environmental sounds, radio, wind, fire, and people's
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 0-5s Dynamic low-angle tracking shot pacing a female downhill longboarder in a deep aerodynamic tuck speeding down a steep mountain pass. Blinding, intense...
 
-**Source:** [Post](https://x.com/Dheepanratnam/status/2039982273076810119))  
+**Source:** [Post](https://x.com/Dheepanratnam/status/2039982273076810119)  
 **Published:** 03 04 2026
 
 | Output |
@@ -1378,7 +1378,7 @@ First-person, drone-like, body-mounted, and immersion-first prompts built around
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A hyper-realistic, 8K resolution, adrenaline-fueled single-take POV action sequence. The camera is chest-mounted on a man wearing camouflage joggers and...
 
-**Source:** [Post](https://x.com/genel_ai/status/2039538309790404797))  
+**Source:** [Post](https://x.com/genel_ai/status/2039538309790404797)  
 **Published:** 02 04 2026
 
 | Output |
@@ -1408,7 +1408,7 @@ The camera remains in a low, fetal position on the final bar, shaking from the a
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 A premium Shanghai city montage blending cyberpunk energy, FPV movement, food macro shots, and commercial polish.
 
-**Source:** [Post](https://x.com/Adam38363368936/status/2039498800801398911))  
+**Source:** [Post](https://x.com/Adam38363368936/status/2039498800801398911)  
 **Published:** 02 04 2026
 
 | Output |
@@ -1439,7 +1439,7 @@ Mood: energetic, futuristic, premium, fast-paced. Combine wide city views with f
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Strictly follow the reference character’s face, hairstyle, outfit silhouette, and body proportions. Do not change identity or facial structure. Fixed...
 
-**Source:** [Post](https://x.com/Just_sharon7/status/2040685931858907646))  
+**Source:** [Post](https://x.com/Just_sharon7/status/2040685931858907646)  
 **Published:** 05 04 2026
 
 | Output |
@@ -1458,7 +1458,7 @@ Strictly follow the reference character’s face, hairstyle, outfit silhouette, 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Cinematic hyper-dynamic fast-paced multi-shot sequence, epic mythological battlefield, IMAX film simulation, 35mm Panavision lens, f/4, heavy cinematic...
 
-**Source:** [Post](https://x.com/drjoetw/status/2040661051948323129))  
+**Source:** [Post](https://x.com/drjoetw/status/2040661051948323129)  
 **Published:** 05 04 2026
 
 | Output |
@@ -1485,7 +1485,7 @@ Shot 8: Wide epic drone pull-back. Wukong stands silhouett
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A Y2K pool-party camcorder sequence with MiniDV texture, playful party beats, and fast nostalgic montage energy.
 
-**Source:** [Post](https://x.com/johnAGI168/status/2040628800422322359))  
+**Source:** [Post](https://x.com/johnAGI168/status/2040628800422322359)  
 **Published:** 05 04 2026
 
 | Output |
@@ -1527,7 +1527,7 @@ A rapid crane rise opens the entire pool party in golden-hour warm light, full o
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Cinematic CG ad quality, ultra-realistic, first-person POV, high-speed one-take camera movement, strong visual impact. The camera bursts out from inside...
 
-**Source:** [Post](https://x.com/xingsthatmatter/status/2040190310043812035))  
+**Source:** [Post](https://x.com/xingsthatmatter/status/2040190310043812035)  
 **Published:** 03 04 2026
 
 | Output |
@@ -1547,7 +1547,7 @@ The camera bursts out from inside image1, the Tesla card, as the card spins forw
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A highly dramatic, fast-cut anime MV with exaggerated cinematic tension and comedic payoff. 1930s Tokyo rice paddies, muddy textures, stormy sky. Extreme...
 
-**Source:** [Post](https://x.com/drjoetw/status/2040036596897222773))  
+**Source:** [Post](https://x.com/drjoetw/status/2040036596897222773)  
 **Published:** 03 04 2026
 
 | Output |
@@ -1625,7 +1625,7 @@ Freeze frame → dramatic music abruptly cuts.
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Create a fast, seamless 16:9 flying POV sequence with five linked shots. Shot 1: Start inside a dark ancient stone corridor with a wooden door at the far...
 
-**Source:** [Post](https://x.com/aisavvy1/status/2040054688054382972))  
+**Source:** [Post](https://x.com/aisavvy1/status/2040054688054382972)  
 **Published:** 03 04 2026
 
 | Output |
@@ -1650,7 +1650,7 @@ Fast, smooth, continuous movement. No flying device, shadow, or reflection. Cine
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Environment: A massive medieval-fantasy city under siege at dusk. Stone towers, cathedral spires, and narrow streets stretch toward the horizon while fire...
 
-**Source:** [Post](https://x.com/LudovicCreator/status/2039983776206344231))  
+**Source:** [Post](https://x.com/LudovicCreator/status/2039983776206344231)  
 **Published:** 03 04 2026
 
 | Output |
@@ -1691,7 +1691,7 @@ Photorealistic fire simulation, volumetric smoke, cinematic sunset lighting, rea
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 First-person POV of an ice cube dropped into a glass of soda. The cube crashes into a bubbling ocean of carbonated liquid. Gigantic bubbles rise like...
 
-**Source:** [Post](https://x.com/LudovicCreator/status/2039623813080416486))  
+**Source:** [Post](https://x.com/LudovicCreator/status/2039623813080416486)  
 **Published:** 02 04 2026
 
 | Output |
@@ -1722,7 +1722,7 @@ Macro drink environment POV, carbonation bubble storms, melting ice transformati
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Gritty, raw handheld 35mm film aesthetic with natural film grain. Bright early-morning sunlight streaming through windows, creating sharp indoor shadows....
 
-**Source:** [Post](https://x.com/AngelNwoha/status/2039792884841591009))  
+**Source:** [Post](https://x.com/AngelNwoha/status/2039792884841591009)  
 **Published:** 02 04 2026
 
 | Output |
@@ -1741,7 +1741,7 @@ Gritty, raw handheld 35mm film aesthetic with natural film grain. Bright early-m
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 10-second photorealistic cinematic POV video. A Japanese woman in her early 20s with a black short bob hairstyle, straight hair, natural refined makeup, and...
 
-**Source:** [Post](https://x.com/umitsuru_fire/status/2039295650039554051))  
+**Source:** [Post](https://x.com/umitsuru_fire/status/2039295650039554051)  
 **Published:** 01 04 2026
 
 | Output |
@@ -1760,7 +1760,7 @@ Gritty, raw handheld 35mm film aesthetic with natural film grain. Bright early-m
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A super futuristic megacity after the apocalypse awakens in a storm. Dark clouds press down on the city. Giant battleships slowly descend from the sky,...
 
-**Source:** [Post](https://x.com/johnAGI168/status/2039380975801471305))  
+**Source:** [Post](https://x.com/johnAGI168/status/2039380975801471305)  
 **Published:** 01 04 2026
 
 | Output |
@@ -1779,7 +1779,7 @@ A super futuristic megacity after the apocalypse awakens in a storm. Dark clouds
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Style: Ultra-realistic industrial timelapse Pacing: Extremely fast (hyperlapse feel) Camera: Mostly fixed with slight cinematic motion (slider/drone feel)...
 
-**Source:** [Post](https://x.com/craftian_keskin/status/2039415621960499603))  
+**Source:** [Post](https://x.com/craftian_keskin/status/2039415621960499603)  
 **Published:** 01 04 2026
 
 | Output |
@@ -1854,7 +1854,7 @@ Camera holds briefly as car exits frame
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 cinematic, heavy action blockbuster film, Japanese city center, collapsed main street at dusk. A giant monster is knocking down buildings, dust, sparks,...
 
-**Source:** [Post](https://x.com/Yuupapa_free/status/2039329682492121547))  
+**Source:** [Post](https://x.com/Yuupapa_free/status/2039329682492121547)  
 **Published:** 01 04 2026
 
 | Output |
@@ -1877,7 +1877,7 @@ Advertising, fashion, lifestyle, product, and premium brand-style prompts.
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A synchronized anime idol-dance stage prompt driven by mechanical precision, rapid cuts, and blue-purple concert lighting.
 
-**Source:** [Post](https://x.com/ShadeLurk/status/2040671186984796632))  
+**Source:** [Post](https://x.com/ShadeLurk/status/2040671186984796632)  
 **Published:** 05 04 2026
 
 | Output |
@@ -1901,7 +1901,7 @@ Three anime girls perform Perfume-style formation dance on an illuminated stage.
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-clad warrior and a black-armored opponent launch their final battle amid an...
 
-**Source:** [Post](https://x.com/ZaraIrahh/status/2040667542390190245))  
+**Source:** [Post](https://x.com/ZaraIrahh/status/2040667542390190245)  
 **Published:** 05 04 2026
 
 | Output |
@@ -1920,7 +1920,7 @@ Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-cl
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Original Japanese-Style Dark Fantasy Action Short Film: Inside a dilapidated shrine hall, a white-robed warrior and a black-armored samurai engage in their...
 
-**Source:** [Post](https://x.com/MiraMusic_AI/status/2040595365096034700))  
+**Source:** [Post](https://x.com/MiraMusic_AI/status/2040595365096034700)  
 **Published:** 05 04 2026
 
 | Output |
@@ -1942,7 +1942,7 @@ A strong hook within the first 2 seconds, followed by a stable and cohesive prog
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square)
 Here it is. A 15-second Japanese snack commercial. Shot 1 (3s): A man walks through a shopping street. As he passes, two housewives whisper, "It's out."...
 
-**Source:** [Post](https://x.com/aigeboku/status/2040562471027782017))  
+**Source:** [Post](https://x.com/aigeboku/status/2040562471027782017)  
 **Published:** 04 04 2026
 
 | Output |
@@ -1968,7 +1968,7 @@ Shot 5 (3s): Close-up of the new snack package. Narration: "It's out! New releas
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Cinematic Martial Art Sequence for Seedance 2 PROMPT cinematic martial arts confrontation in broad daylight, a blind shaolin monk wearing a dark, stylized...
 
-**Source:** [Post](https://x.com/CharaspowerAI/status/2040376349504815467))  
+**Source:** [Post](https://x.com/CharaspowerAI/status/2040376349504815467)  
 **Published:** 04 04 2026
 
 | Output |
@@ -1998,7 +1998,7 @@ Ultra realistic, high-end martial arts film choreography, precise body mechanics
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 I asked Grok to produce the same video, but the result wasn't convincing. Grok's rendering lacks a certain "realism." Seedance 2.0 is by far the best video...
 
-**Source:** [Post](https://x.com/Viafin23/status/2025901411221774788))  
+**Source:** [Post](https://x.com/Viafin23/status/2025901411221774788)  
 **Published:** 23 02 2026
 
 | Output |
@@ -2024,7 +2024,7 @@ Maintain stable temporal continuity. Avoid unnatural frame interpolation. No exa
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 15-second cinematic Japanese drama pure love ambiguous short film, ultra-realistic quality, warm golden sunlight in an empty classroom in the afternoon,...
 
-**Source:** [Post](https://x.com/JiahaoYang_art/status/2033119940216344616))  
+**Source:** [Post](https://x.com/JiahaoYang_art/status/2033119940216344616)  
 **Published:** 15 03 2026
 
 | Output |
@@ -2049,7 +2049,7 @@ Character identity is maintained throughout, real subtle head tilts, eye movemen
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Recommended Settings Mode: Standard | Resolution: 720p | Duration: 15 seconds. 100% real-person animation. Bright daytime. City square. Fast lighting. High...
 
-**Source:** [Post](https://x.com/MiraMusic_AI/status/2039096342749016145))  
+**Source:** [Post](https://x.com/MiraMusic_AI/status/2039096342749016145)  
 **Published:** 31 03 2026
 
 | Output |
@@ -2068,7 +2068,7 @@ Recommended Settings Mode: Standard | Resolution: 720p | Duration: 15 seconds. 1
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 A shot-by-shot luxury supercar commercial storyboard focused on controlled camera movement and premium product surfaces.
 
-**Source:** [Post](https://x.com/Adam38363368936/status/2039932977287979053))  
+**Source:** [Post](https://x.com/Adam38363368936/status/2039932977287979053)  
 **Published:** 03 04 2026
 
 | Output |
@@ -2113,7 +2113,7 @@ Highest image quality: 8K.
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 Tested it: Original Hot-Blooded Duel Anime Short Film: Two top warriors launch their final duel against the backdrop of aerial ruins and thunderstorms. The...
 
-**Source:** [Post](https://x.com/gkxspace/status/2039894982434111716))  
+**Source:** [Post](https://x.com/gkxspace/status/2039894982434111716)  
 **Published:** 03 04 2026
 
 | Output |
@@ -2134,7 +2134,7 @@ Original Hot-Blooded Duel Anime Short Film: Two top warriors launch their final 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Style Hollywood Haute Couture Fantasy blockbuster, 8K ultra-clear, Photorealistic, High-fashion Editorial Style, Unreal Engine 5 fluid rendering, visual...
 
-**Source:** [Post](https://x.com/johnAGI168/status/2025849650654122348))  
+**Source:** [Post](https://x.com/johnAGI168/status/2025849650654122348)  
 **Published:** 23 02 2026
 
 | Output |
@@ -2153,7 +2153,7 @@ Style Hollywood Haute Couture Fantasy blockbuster, 8K ultra-clear, Photorealisti
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Style Modern Rural Aesthetics, Cinematic Commercial quality, shot with Sony A7S3/cinema camera, 4K/8K ultra-clear, Extreme Macro, natural transparent...
 
-**Source:** [Post](https://x.com/johnAGI168/status/2021818021354848258))  
+**Source:** [Post](https://x.com/johnAGI168/status/2021818021354848258)  
 **Published:** 12 02 2026
 
 | Output |
@@ -2195,7 +2195,7 @@ Atmosphere: Steam slowly rises against the backlight, the scene is so quiet you 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 cinematic street racing sequence at night, a focused driver inside a high-performance car grips the steering wheel, intense eye focus, city lights...
 
-**Source:** [Post](https://x.com/CharaspowerAI/status/2039651574297792688))  
+**Source:** [Post](https://x.com/CharaspowerAI/status/2039651574297792688)  
 **Published:** 02 04 2026
 
 | Output |
@@ -2226,7 +2226,7 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Generate a visual blockbuster featuring an Asian supermodel and luxury sports cars with top-tier commercial quality, requiring director-level storyboard...
 
-**Source:** [Post](https://x.com/johnAGI168/status/2039984306085327298))  
+**Source:** [Post](https://x.com/johnAGI168/status/2039984306085327298)  
 **Published:** 03 04 2026
 
 | Output |
@@ -2245,7 +2245,7 @@ Generate a visual blockbuster featuring an Asian supermodel and luxury sports ca
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 An android girl malfunctions and proceeds to destroy an evil research lab one after another. The evil boss, a doctor with a bad face, chases the girl,...
 
-**Source:** [Post](https://x.com/aiehon_aya/status/2040187587889905861))  
+**Source:** [Post](https://x.com/aiehon_aya/status/2040187587889905861)  
 **Published:** 03 04 2026
 
 | Output |
@@ -2264,7 +2264,7 @@ An android girl malfunctions and proceeds to destroy an evil research lab one af
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Positive Prompt: Original action game concept trailer. The protagonist travels through a neon ruined city, where the debris by the road emits faulty...
 
-**Source:** [Post](https://x.com/adrianaia_/status/2039972811067031657))  
+**Source:** [Post](https://x.com/adrianaia_/status/2039972811067031657)  
 **Published:** 03 04 2026
 
 | Output |
@@ -2283,7 +2283,7 @@ Positive Prompt: Original action game concept trailer. The protagonist travels t
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-clad warrior and a black-armored opponent launch their final battle amid an...
 
-**Source:** [Post](https://x.com/Rufus87078959/status/2039949879607197828))  
+**Source:** [Post](https://x.com/Rufus87078959/status/2039949879607197828)  
 **Published:** 03 04 2026
 
 | Output |
@@ -2302,7 +2302,7 @@ Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-cl
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 00:00-00:04 Shot 1: Follow shot. In a smoky underground rave club, a female cyborg with an exposed red mechanical spine walks through the crowd. She...
 
-**Source:** [Post](https://x.com/IamEmily2050/status/2040213294443847933))  
+**Source:** [Post](https://x.com/IamEmily2050/status/2040213294443847933)  
 **Published:** 03 04 2026
 
 | Output |
@@ -2321,7 +2321,7 @@ Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-cl
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 100% real-life shooting texture, Hollywood IMAX blockbuster quality, natural light and shadow, cold documentary style, natural light on a cloudy day,...
 
-**Source:** [Post](https://x.com/ChrisTheNerv/status/2040043939109953944))  
+**Source:** [Post](https://x.com/ChrisTheNerv/status/2040043939109953944)  
 **Published:** 03 04 2026
 
 | Output |
@@ -2361,7 +2361,7 @@ Layered progression from the scream activation to the explosive mechanical erupt
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A wuxia one-shot spectacle at Tianmen Mountain designed for speed, impact, and large-scale mythic martial-arts energy.
 
-**Source:** [Post](https://x.com/Adam38363368936/status/2039865857179013318))  
+**Source:** [Post](https://x.com/Adam38363368936/status/2039865857179013318)  
 **Published:** 03 04 2026
 
 | Output |
@@ -2424,7 +2424,7 @@ Freeze Frame: The camera pushes in for an extreme close-up. A drop of blood drip
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 "Dramatic low-angle tracking shot speeding along rain-slicked train tracks through a narrow mountain gorge. Dark rocky cliff walls rise on both sides, with...
 
-**Source:** [Post](https://x.com/ImperfectEngel/status/2039796558238286329))  
+**Source:** [Post](https://x.com/ImperfectEngel/status/2039796558238286329)  
 **Published:** 02 04 2026
 
 | Output |
@@ -2443,7 +2443,7 @@ Freeze Frame: The camera pushes in for an extreme close-up. A drop of blood drip
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Hollywood movie-level commercial blockbuster quality, handheld photography, slight camera shake, fast-paced montage editing, the scene is full of energy and...
 
-**Source:** [Post](https://x.com/johnAGI168/status/2039277115690877430))  
+**Source:** [Post](https://x.com/johnAGI168/status/2039277115690877430)  
 **Published:** 01 04 2026
 
 | Output |
@@ -2466,7 +2466,7 @@ The open-plan office hall of a luxurious securities company in Manhattan, USA, i
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 (Poliziottesco Wednesday): Detective Rossi: Deep Heat (Commissario Rossi: la polizia in crisi nera). A crime wave has hit the city and the cops can't seem...
 
-**Source:** [Post](https://x.com/ChrisGwinnLA/status/2039456415111393356))  
+**Source:** [Post](https://x.com/ChrisGwinnLA/status/2039456415111393356)  
 **Published:** 01 04 2026
 
 | Output |
@@ -2486,7 +2486,7 @@ A crime wave has hit the city and the cops can't seem to get it together. Detect
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A commercial fashion-tech prompt for a gradient foldable smartphone with macro details, sharp cuts, and premium motion language.
 
-**Source:** [Post](https://x.com/Adam38363368936/status/2039157138002780202))  
+**Source:** [Post](https://x.com/Adam38363368936/status/2039157138002780202)  
 **Published:** 01 04 2026
 
 | Output |
@@ -2521,7 +2521,7 @@ Prompts that rely on image references, character consistency, or frame-to-frame 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A whimsical clay-animation piano performance starring a stylish skeleton girl in a miniature ghost-filled diorama.
 
-**Source:** [Post](https://x.com/tea_story_hoshi/status/2040614786933887043))  
+**Source:** [Post](https://x.com/tea_story_hoshi/status/2040614786933887043)  
 **Published:** 05 04 2026
 
 | Output |
@@ -2552,7 +2552,7 @@ Timeline:
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square)
 A storm-at-sea anime action prompt combining ship physics, kraken destruction, and a heroic sword strike sequence.
 
-**Source:** [Post](https://x.com/applete77191758/status/2040450526819807277))  
+**Source:** [Post](https://x.com/applete77191758/status/2040450526819807277)  
 **Published:** 04 04 2026
 
 | Output |
@@ -2635,7 +2635,7 @@ Motion blur + light streaks
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A structured duel prompt defining two characters, their weapons, movement logic, camera setup, and cut-by-cut choreography.
 
-**Source:** [Post](https://x.com/MiraMusic_AI/status/2040281710957666770))  
+**Source:** [Post](https://x.com/MiraMusic_AI/status/2040281710957666770)  
 **Published:** 04 04 2026
 
 | Output |
@@ -2720,7 +2720,7 @@ Notes:
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 An apocalyptic music-video prompt about a girl singing at a rooftop piano while meteors destroy the city around her.
 
-**Source:** [Post](https://x.com/liyue_ai/status/2040062803076341872))  
+**Source:** [Post](https://x.com/liyue_ai/status/2040062803076341872)  
 **Published:** 03 04 2026
 
 | Output |
@@ -2759,7 +2759,7 @@ Color and tonality: Hollywood teal-and-orange tone, low saturation. Generate the
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 CINEMATIC 8mm Fisheye lens, FPV racing drone camera, hyper-fluid motion. @Image 1 (Lanky Knight, red coat) on a longboard. @Image 2 (Steep coastal mountain...
 
-**Source:** [Post](https://x.com/itsPixieVerse/status/2040030453298811099))  
+**Source:** [Post](https://x.com/itsPixieVerse/status/2040030453298811099)  
 **Published:** 03 04 2026
 
 | Output |
@@ -2782,7 +2782,7 @@ CINEMATIC 8mm Fisheye lens, FPV racing drone camera, hyper-fluid motion. @Image 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Subject:@Image 1 Photorealistic Image reference. A professional stuntman and kung-fu master performing full-body, high-speed, functional kung-fu. Movement...
 
-**Source:** [Post](https://x.com/YaReYaRu30Life/status/2039971048305930643))  
+**Source:** [Post](https://x.com/YaReYaRu30Life/status/2039971048305930643)  
 **Published:** 03 04 2026
 
 | Output |
@@ -2806,7 +2806,7 @@ Constant full-speed forward
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Ray tracing, Unreal Engine render, small town in heavy rain. @image1 character with identical hairstyle, outfit, realistic skin, dim lighting, IMAX...
 
-**Source:** [Post](https://x.com/Gwsubsa/status/2040193631341174792))  
+**Source:** [Post](https://x.com/Gwsubsa/status/2040193631341174792)  
 **Published:** 03 04 2026
 
 | Output |
@@ -2825,7 +2825,7 @@ Ray tracing, Unreal Engine render, small town in heavy rain. @image1 character w
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square)
 Use real-zasuko-2.0-character-sheet-dx.png as the character reference. Start with a wide cinematic shot of the lonely convenience store on the moon before...
 
-**Source:** [Post](https://x.com/zasuko_michiksa/status/2039650311212872036))  
+**Source:** [Post](https://x.com/zasuko_michiksa/status/2039650311212872036)  
 **Published:** 02 04 2026
 
 | Output |
@@ -2844,7 +2844,7 @@ Use `real-zasuko-2.0-character-sheet-dx.png` as the character reference. Start w
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 A long-form transformation sequence that escalates from rooftop sprint, to freefall capture, to car-to-jet metamorphosis.
 
-**Source:** [Post](https://x.com/john87445528/status/2039496153641660508))  
+**Source:** [Post](https://x.com/john87445528/status/2039496153641660508)  
 **Published:** 02 04 2026
 
 | Output |
@@ -2867,7 +2867,7 @@ Chapter 3 (0-15 seconds): AITO M7 Transforms -> Becomes an F-14 -> Protagonist S
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A reference-driven one-take action prompt with modular armor assembly, grounded creature combat, and heavy physical impacts.
 
-**Source:** [Post](https://x.com/egeberkina/status/2044809303878693242))  
+**Source:** [Post](https://x.com/egeberkina/status/2044809303878693242)  
 **Published:** 16 04 2026
 
 | Output |
@@ -2965,7 +2965,7 @@ low cinematic pulse builds cuts abruptly at end
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Character reference @Image 1, convert to real-person live-action style. Model figure, cool white skin, slender arms, prominent bust and hips. 15-second...
 
-**Source:** [Post](https://x.com/Adam38363368936/status/2039646077230698743))  
+**Source:** [Post](https://x.com/Adam38363368936/status/2039646077230698743)  
 **Published:** 02 04 2026
 
 | Output |
@@ -3003,7 +3003,7 @@ Shot Breakdown (15 shots in 15 seconds):
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 FORMAT: 15s / free rhythm / 1 MATCH CUT / CONTINUOUS MOVE UNTIL MATCH CUT + IMMEDIATE ACTION FROM FIRST FRAME SUBJECTS: A lone sword-bearing woman in...
 
-**Source:** [Post](https://x.com/aimikoda/status/2039380910278115454))  
+**Source:** [Post](https://x.com/aimikoda/status/2039380910278115454)  
 **Published:** 01 04 2026
 
 | Output |
@@ -3024,7 +3024,7 @@ SUBJECTS: A lone sword-bearing woman in weathered fur and leather fights a massi
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square)
 A reusable morphing template for turning seven still images into one controlled continuous transformation shot.
 
-**Source:** [Post](https://x.com/YaReYaRu30Life/status/2039474680235741681))  
+**Source:** [Post](https://x.com/YaReYaRu30Life/status/2039474680235741681)  
 **Published:** 01 04 2026
 
 | Output |
@@ -3107,7 +3107,7 @@ Abstract, impossible, stylized, or effect-heavy prompts driven by transformation
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Seedance 2.0 Zero-gravity combat scene. If you also reference music, it can follow the beat surprisingly well. prompt:
 
-**Source:** [Post](https://x.com/MiraMusic_AI/status/2040584525781364874))  
+**Source:** [Post](https://x.com/MiraMusic_AI/status/2040584525781364874)  
 **Published:** 05 04 2026
 
 | Output |
@@ -3158,7 +3158,7 @@ She regains balance, floating motionless as the scene holds on a final frame.
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Whale in the Clouds — A cinematic surreal epic short film, ultra-realistic magical realism. Late afternoon, a coastal city. Warm sunlight, sea mist...
 
-**Source:** [Post](https://x.com/chaosdotjpg/status/2040203827249398086))  
+**Source:** [Post](https://x.com/chaosdotjpg/status/2040203827249398086)  
 **Published:** 03 04 2026
 
 | Output |
@@ -3178,7 +3178,7 @@ Aerial shot: skyline,
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A diver floats motionless in pitch-black ocean depth, a single beam of light cutting through the dark. Bioluminescent veins begin threading across their...
 
-**Source:** [Post](https://x.com/AIARTGALLARY/status/2039964736419479576))  
+**Source:** [Post](https://x.com/AIARTGALLARY/status/2039964736419479576)  
 **Published:** 03 04 2026
 
 | Output |
@@ -3197,7 +3197,7 @@ A diver floats motionless in pitch-black ocean depth, a single beam of light cut
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A towering humanoid entity made of shifting translucent geometry appears above a megacity skyline, its body composed of overlapping dimensional planes...
 
-**Source:** [Post](https://x.com/LudovicCreator/status/2039768597241725132))  
+**Source:** [Post](https://x.com/LudovicCreator/status/2039768597241725132)  
 **Published:** 02 04 2026
 
 | Output |
@@ -3244,7 +3244,7 @@ Diegetic prismatic dimensional light reflecting through fractured architecture a
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Rainy Underground Alley Merge 15-second surreal horror in a narrow rainy underground service alley, neon signs reflecting on puddles, steam rising from...
 
-**Source:** [Post](https://x.com/Dheepanratnam/status/2039796932562838010))  
+**Source:** [Post](https://x.com/Dheepanratnam/status/2039796932562838010)  
 **Published:** 02 04 2026
 
 | Output |
@@ -3265,7 +3265,7 @@ Rainy Underground Alley Merge
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Video prompt Quantum Reality Fracture on City Street (Interdimensional Rift VFX) Cinematic 15-second high-budget sci-fi horror sequence on a rain-slicked...
 
-**Source:** [Post](https://x.com/Dheepanratnam/status/2039651240909435242))  
+**Source:** [Post](https://x.com/Dheepanratnam/status/2039651240909435242)  
 **Published:** 02 04 2026
 
 | Output |
@@ -3290,7 +3290,7 @@ Cinematic 15-second high-budget sci-fi horror sequence on a rain-slicked downtow
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 cinematic anime close-up shot of a character's eye, extreme macro, eyelashes and skin texture visible, soft breathing motion, eye slowly closing, calm and...
 
-**Source:** [Post](https://x.com/roco_kn_roco/status/2039323186127630710))  
+**Source:** [Post](https://x.com/roco_kn_roco/status/2039323186127630710)  
 **Published:** 01 04 2026
 
 | Output |
@@ -3323,7 +3323,7 @@ ultra detailed anime style, cinematic lighting, high contrast, no cartoon exagge
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A surreal volcanic sky realm where islands of black rock float above rivers of molten lava flowing through the air like suspended waterfalls. The sky burns...
 
-**Source:** [Post](https://x.com/LudovicCreator/status/2039258991809773666))  
+**Source:** [Post](https://x.com/LudovicCreator/status/2039258991809773666)  
 **Published:** 01 04 2026
 
 | Output |
@@ -3362,7 +3362,7 @@ Reusable prompt skeletons, JSON-style specs, and highly structured prompt format
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 A military-disaster prompt focused on catastrophic carrier collapse, giant storm waves, and heavy practical destruction detail.
 
-**Source:** [Post](https://x.com/johnAGI168/status/2040432247094870343))  
+**Source:** [Post](https://x.com/johnAGI168/status/2040432247094870343)  
 **Published:** 04 04 2026
 
 | Output |
@@ -3385,7 +3385,7 @@ Seedance 2.0 text-to-video prompt below:
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 "effectid": "ethereal02", "title": "Reconstruction of Memory Shards", "visualstyle": "Abstract Cinematic / Art Installation", "duration": "10s",
 
-**Source:** [Post](https://x.com/TechTalkNAVI/status/2040327899606306840))  
+**Source:** [Post](https://x.com/TechTalkNAVI/status/2040327899606306840)  
 **Published:** 04 04 2026
 
 | Output |
@@ -3419,7 +3419,7 @@ Seedance 2.0 text-to-video prompt below:
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 "videoprompt": "duration": "15 seconds", "title": "Blueprint to Reality – Single-Story House Transformation", "style": "Architectural visualization,...
 
-**Source:** [Post](https://x.com/craftian_keskin/status/2039053365666037902))  
+**Source:** [Post](https://x.com/craftian_keskin/status/2039053365666037902)  
 **Published:** 31 03 2026
 
 | Output |
@@ -3489,7 +3489,7 @@ Seedance 2.0 text-to-video prompt below:
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 A high-fashion martial-arts tailoring prompt where couture craft is staged like precision combat inside a luxury studio.
 
-**Source:** [Post](https://x.com/Adam38363368936/status/2037359552849666514))  
+**Source:** [Post](https://x.com/Adam38363368936/status/2037359552849666514)  
 **Published:** 27 03 2026
 
 | Output |
@@ -3530,7 +3530,7 @@ TIMELINE:
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 FORMAT: 15s / 145 BPM / 15 SHOTS / beat-synced routine SUBJECT: @image1. WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top,...
 
-**Source:** [Post](https://x.com/aimikoda/status/2040200435986817039))  
+**Source:** [Post](https://x.com/aimikoda/status/2040200435986817039)  
 **Published:** 03 04 2026
 
 | Output |
@@ -3552,7 +3552,7 @@ WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top, trou
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 "location": "Tokyo Cityscape (Night)", "duration": "10s", "prompt": "A cinematic POV shot riding an invisible rollercoaster through Tokyo at night. A...
 
-**Source:** [Post](https://x.com/TechTalkNAVI/status/2039941029265355123))  
+**Source:** [Post](https://x.com/TechTalkNAVI/status/2039941029265355123)  
 **Published:** 03 04 2026
 
 | Output |
@@ -3580,7 +3580,7 @@ WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top, trou
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 "location": "Nishi-Shinjuku Skyscraper District (near Tokyo Metropolitan Government Building)", "duration": "10s", "prompt": "A wide cinematic shot of the...
 
-**Source:** [Post](https://x.com/TechTalkNAVI/status/2039928267323658399))  
+**Source:** [Post](https://x.com/TechTalkNAVI/status/2039928267323658399)  
 **Published:** 03 04 2026
 
 | Output |
@@ -3608,7 +3608,7 @@ WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top, trou
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 "sceneid": 4, "title": "Starlight Shadow / Stardust Silhouette", "duration": "10s", "visualstyle": "Fantasy / High-End Commercial",
 
-**Source:** [Post](https://x.com/TechTalkNAVI/status/2039904725639037110))  
+**Source:** [Post](https://x.com/TechTalkNAVI/status/2039904725639037110)  
 **Published:** 03 04 2026
 
 | Output |
@@ -3645,7 +3645,7 @@ WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top, trou
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 SUBJECTS: Main Subject: A parkour expert in POV perspective, defined by visible arms, hands, forearms, shoe tips, lower knees, grips, hand placements, wall...
 
-**Source:** [Post](https://x.com/0xbisc/status/2040041171460968728))  
+**Source:** [Post](https://x.com/0xbisc/status/2040041171460968728)  
 **Published:** 03 04 2026
 
 | Output |
@@ -3668,7 +3668,7 @@ Style: Painterly 3D, stylized on real human anatomy
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 FORMAT: 15s / 180 BPM / ONE CONTINUOUS SHOT / 360 POV downhill stair run, viral energy, max chaos SUBJECTS: First-person cyclist, handlebars and front wheel...
 
-**Source:** [Post](https://x.com/aimikoda/status/2039827756083540361))  
+**Source:** [Post](https://x.com/aimikoda/status/2039827756083540361)  
 **Published:** 02 04 2026
 
 | Output |
@@ -3689,7 +3689,7 @@ SUBJECTS: First-person cyclist, handlebars and front wheel flashing low in frame
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 "prompt": "Cinematic, hyper-realistic or stylized 3D/2.5D rendering of food and characters, with strong motion and dynamic camera work. Vibrant, saturated...
 
-**Source:** [Post](https://x.com/Just_sharon7/status/2039725656393875580))  
+**Source:** [Post](https://x.com/Just_sharon7/status/2039725656393875580)  
 **Published:** 02 04 2026
 
 | Output |
@@ -3722,7 +3722,7 @@ SUBJECTS: First-person cyclist, handlebars and front wheel flashing low in frame
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 FORMAT: 15s / single continuous impossible camera move / no dialogue STYLE: High-end commercial kitchen during dinner rush, gleaming stainless steel, flying...
 
-**Source:** [Post](https://x.com/Dheepanratnam/status/2039568902481387645))  
+**Source:** [Post](https://x.com/Dheepanratnam/status/2039568902481387645)  
 **Published:** 02 04 2026
 
 | Output |
@@ -3743,7 +3743,7 @@ Shot 01 (0:00–2:00): Camera starts at floor level on anti-slip
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 "shot": "composition": "POV time-freeze with hands moving through frozen environment", "lens": "ultra-wide cinematic lens with subtle distortion",...
 
-**Source:** [Post](https://x.com/CharaspowerAI/status/2039704453784191201))  
+**Source:** [Post](https://x.com/CharaspowerAI/status/2039704453784191201)  
 **Published:** 02 04 2026
 
 | Output |
@@ -3794,7 +3794,7 @@ Shot 01 (0:00–2:00): Camera starts at floor level on anti-slip
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 FORMAT: 15s / handheld close + slow cuts / 5 beats / sci-fi drama — astronaut's first spacewalk, orbital silence SUBJECTS: An astronaut, 40s, in a white EVA...
 
-**Source:** [Post](https://x.com/BrennanErbz/status/2039579736301781215))  
+**Source:** [Post](https://x.com/BrennanErbz/status/2039579736301781215)  
 **Published:** 02 04 2026
 
 | Output |
@@ -3813,7 +3813,7 @@ FORMAT: 15s / handheld close + slow cuts / 5 beats / sci-fi drama — astronaut'
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 SUBJECTS: Subject 1: Adult male, Western casual everyday home and outing attire, short jacket, basic T-shirt, long pants, everyday shoes; lean build,...
 
-**Source:** [Post](https://x.com/0xbisc/status/2039673040787956123))  
+**Source:** [Post](https://x.com/0xbisc/status/2039673040787956123)  
 **Published:** 02 04 2026
 
 | Output |
@@ -3834,7 +3834,7 @@ Subject 2: Golden Retriever, large head, broad chest, thick, fluffy fur; overall
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 "title": "Stylized 3D Barbershop Transformation Sequence", "style": "Stylized 3D animation with exaggerated cartoon proportions, cinematic...
 
-**Source:** [Post](https://x.com/ShamiWeb3/status/2039372124079669655))  
+**Source:** [Post](https://x.com/ShamiWeb3/status/2039372124079669655)  
 **Published:** 01 04 2026
 
 | Output |
@@ -3907,7 +3907,7 @@ Subject 2: Golden Retriever, large head, broad chest, thick, fluffy fur; overall
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 SUBJECTS: Subject 1: First-person perspective hands (rendered in Monet impressionist oil painting brushwork, soft skin tones with no hard edges; both hands...
 
-**Source:** [Post](https://x.com/0xbisc/status/2039332336643248317))  
+**Source:** [Post](https://x.com/0xbisc/status/2039332336643248317)  
 **Published:** 01 04 2026
 
 | Output |
@@ -3931,7 +3931,7 @@ Useful prompts that do not fit the tighter buckets above but remain strong gener
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 A nostalgic seasonal memory film that moves from playful childhood scenes to reflective lakeside melancholy and ends on a poetic title card.
 
-**Source:** [Post](https://x.com/liyue_ai/status/2038993496225591731))  
+**Source:** [Post](https://x.com/liyue_ai/status/2038993496225591731)  
 **Published:** 31 03 2026
 
 | Output |
@@ -3961,7 +3961,7 @@ Background music: soft instrumental music (piano + bamboo flute), slow rhythm, e
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 A highly controlled beat-synced fashion prompt built around close-up heel movement, stockings texture, and precise camera timing.
 
-**Source:** [Post](https://x.com/TingFengAIAI/status/2038904225548149011))  
+**Source:** [Post](https://x.com/TingFengAIAI/status/2038904225548149011)  
 **Published:** 31 03 2026
 
 | Output |
@@ -3986,7 +3986,7 @@ Beauty beat-sync sequence:
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 On the floor of a child's bedroom, a miniature girl rides a tiny skateboard at high speed, skimming just above the ground. Everything is scaled so massively...
 
-**Source:** [Post](https://x.com/anson7956/status/2038846411253657939))  
+**Source:** [Post](https://x.com/anson7956/status/2038846411253657939)  
 **Published:** 31 03 2026
 
 | Output |
@@ -4018,7 +4018,7 @@ Here it is: shot1 (3s): A futuristic office floor with a sci-fi atmosphere. An a
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Raw mobile phone footage, vertical handheld shot, shaky cam, grainy texture. At the legendary Rucker Park basketball court at dusk, a heavy-set elderly...
 
-**Source:** [Post](https://x.com/techhalla/status/2039114930461549008))  
+**Source:** [Post](https://x.com/techhalla/status/2039114930461549008)  
 **Published:** 31 03 2026
 
 | Output |
@@ -4037,7 +4037,7 @@ Raw mobile phone footage, vertical handheld shot, shaky cam, grainy texture. At 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 The firefighter is entering the house, at the 3-second mark the firefighter is walking inside the house with furniture in fire around him, at the 5-second...
 
-**Source:** [Post](https://x.com/AITalesNBH/status/2039072522650423445))  
+**Source:** [Post](https://x.com/AITalesNBH/status/2039072522650423445)  
 **Published:** 31 03 2026
 
 | Output |
@@ -4056,7 +4056,7 @@ The firefighter is entering the house, at the 3-second mark the firefighter is w
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 A multi-look ancient-costume transformation prompt staged as a rhythmic beauty showcase with hard-cut wardrobe transitions.
 
-**Source:** [Post](https://x.com/johnAGI168/status/2040058721158467975))  
+**Source:** [Post](https://x.com/johnAGI168/status/2040058721158467975)  
 **Published:** 03 04 2026
 
 | Output |
@@ -4082,7 +4082,7 @@ Seedance 2.0 all-purpose reference prompt below:
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Ginza at night, future cyberpunk. A female ninja is hiding, made transparent by optical camouflage. She defeats an enemy ninja. After the first attack, the...
 
-**Source:** [Post](https://x.com/ChiakiAkagi/status/2040232705477255363))  
+**Source:** [Post](https://x.com/ChiakiAkagi/status/2040232705477255363)  
 **Published:** 04 04 2026
 
 | Output |
@@ -4107,7 +4107,7 @@ The female ninja's punch sends the ninja flying, crashing into a neon sign high 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 stories of a hopper. 1 astronaut that's able to hop from location to location, anytime he wants.
 
-**Source:** [Post](https://x.com/starks_arq/status/2040036602018451721))  
+**Source:** [Post](https://x.com/starks_arq/status/2040036602018451721)  
 **Published:** 03 04 2026
 
 | Output |
@@ -4128,7 +4128,7 @@ stories of a hopper.
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A suspicious man stands in the center of Shibuya scramble crossing. People around the man walk and cross like a time-lapse, centered around him. When he...
 
-**Source:** [Post](https://x.com/roco_kn_roco/status/2039962871149584691))  
+**Source:** [Post](https://x.com/roco_kn_roco/status/2039962871149584691)  
 **Published:** 03 04 2026
 
 | Output |
@@ -4150,7 +4150,7 @@ Protagonist: Hiromu, Age 19
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 aesthetic: phone held up in the middle of a packed crowd on the deck of a fishing boat audio: bass competing with ocean wind, waves crashing against the...
 
-**Source:** [Post](https://x.com/maxescu/status/2040095139511636166))  
+**Source:** [Post](https://x.com/maxescu/status/2040095139511636166)  
 **Published:** 03 04 2026
 
 | Output |
@@ -4172,7 +4172,7 @@ aesthetic: phone held up in the middle of a packed crowd on the deck of a fishin
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A girl falls rapidly through a digital tunnel. The girl is panicking and flailing. She passes through a tunnel that twists and turns up, down, left, and...
 
-**Source:** [Post](https://x.com/_3912657840/status/2039911660656484590))  
+**Source:** [Post](https://x.com/_3912657840/status/2039911660656484590)  
 **Published:** 03 04 2026
 
 | Output |
@@ -4191,7 +4191,7 @@ A girl falls rapidly through a digital tunnel. The girl is panicking and flailin
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Scene: The Skytree transforms into a "super massive railgun" and fires a light projectile towards space. Visuals: First Stage: The exterior of the tower is...
 
-**Source:** [Post](https://x.com/TechTalkNAVI/status/2040100728627454339))  
+**Source:** [Post](https://x.com/TechTalkNAVI/status/2040100728627454339)  
 **Published:** 03 04 2026
 
 | Output |
@@ -4220,7 +4220,7 @@ Lighting/Color: Cold white, purple discharge. Contrast between silence and roar.
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A Hollywood movie trailer. A Marvel-style action movie where an ordinary American high school student transforms into a hero and fights. I want to create...
 
-**Source:** [Post](https://x.com/SSSS_CRYPTOMAN/status/2040217171918516475))  
+**Source:** [Post](https://x.com/SSSS_CRYPTOMAN/status/2040217171918516475)  
 **Published:** 03 04 2026
 
 | Output |
@@ -4239,7 +4239,7 @@ A Hollywood movie trailer. A Marvel-style action movie where an ordinary America
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Cinematic vertical 9:16 video. Two versions of Rapunzel from Tangled walk side by side toward the camera on a forest dirt path. On the LEFT: the original...
 
-**Source:** [Post](https://x.com/Mayz1169/status/2039982387703296044))  
+**Source:** [Post](https://x.com/Mayz1169/status/2039982387703296044)  
 **Published:** 03 04 2026
 
 | Output |
@@ -4258,7 +4258,7 @@ Cinematic vertical 9:16 video. Two versions of Rapunzel from Tangled walk side b
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A giant glacier wall collapses into a fjord beside a coastal city. The falling ice triggers a massive water displacement wave that surges toward the harbor....
 
-**Source:** [Post](https://x.com/LudovicCreator/status/2040100791822721300))  
+**Source:** [Post](https://x.com/LudovicCreator/status/2040100791822721300)  
 **Published:** 03 04 2026
 
 | Output |
@@ -4285,7 +4285,7 @@ Glacier collapse megaflood, iceberg destruction chaos, cinematic polar disaster 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A moonlit piano chase where the mouse turns the whole instrument into a trap. What happens The mouse runs across piano keys, making playful notes. The cat...
 
-**Source:** [Post](https://x.com/Dheepanratnam/status/2040060221733609969))  
+**Source:** [Post](https://x.com/Dheepanratnam/status/2040060221733609969)  
 **Published:** 03 04 2026
 
 | Output |
@@ -4313,7 +4313,7 @@ The cat crashes into the keyboard section, causing a chaotic musical explosion. 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 15-second continuous single-shot cartoon sequence. No cuts. No scene transitions. Soft watercolor illustration style, pastel colors, gentle textures,...
 
-**Source:** [Post](https://x.com/Artedeingenio/status/2040054705183723711))  
+**Source:** [Post](https://x.com/Artedeingenio/status/2040054705183723711)  
 **Published:** 03 04 2026
 
 | Output |
@@ -4340,7 +4340,7 @@ A small animal character walking through a quiet meadow.
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Victorian-era flying airships with brass gears and giant propellers battling over a cloudy mountain range at sunset, cannons firing, pirates swinging on...
 
-**Source:** [Post](https://x.com/Alin_Reaper05/status/2040017612105556403))  
+**Source:** [Post](https://x.com/Alin_Reaper05/status/2040017612105556403)  
 **Published:** 03 04 2026
 
 | Output |
@@ -4359,7 +4359,7 @@ Victorian-era flying airships with brass gears and giant propellers battling ove
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 aesthetic: Raw 35mm handheld, high altitude sun haze. One unbroken continuous tracking shot. No cuts. All real time. audio: Full constant jet engine roar,...
 
-**Source:** [Post](https://x.com/maxescu/status/2039639805592502504))  
+**Source:** [Post](https://x.com/maxescu/status/2039639805592502504)  
 **Published:** 02 04 2026
 
 | Output |
@@ -4381,7 +4381,7 @@ timeline:
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 2.35:1 widescreen, 24fps, cinematic quality. Exterior of an ancient temple in the deep mountains. The camera overlooks the temple roof amidst surging...
 
-**Source:** [Post](https://x.com/cdexsta/status/2039559243284844649))  
+**Source:** [Post](https://x.com/cdexsta/status/2039559243284844649)  
 **Published:** 02 04 2026
 
 | Output |
@@ -4401,7 +4401,7 @@ Exterior of an ancient temple in the deep mountains. The camera overlooks the te
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A landmark cinematography storyboard built from sunrise coverage, monument detail shots, and heritage scale.
 
-**Source:** [Post](https://x.com/MrDasOnX/status/2045065813628186733))  
+**Source:** [Post](https://x.com/MrDasOnX/status/2045065813628186733)  
 **Published:** 17 04 2026
 
 | Output |
@@ -4436,7 +4436,7 @@ Fast cinematic cuts, smooth micro camera movements per shot (push, pan, slide, t
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Historical scene with dramatic lighting. 0-3 seconds Opening shot: Venetian galley fleet approaches Constantinople at dawn, cannons blazing. Massive city...
 
-**Source:** [Post](https://x.com/AskVenice/status/2039570736239595726))  
+**Source:** [Post](https://x.com/AskVenice/status/2039570736239595726)  
 **Published:** 02 04 2026
 
 | Output |
@@ -4461,7 +4461,7 @@ Quick cut: Ottoman cannon
 ![Language-ES](https://img.shields.io/badge/Language-ES-blue?style=flat-square)
 ROCKET SURF. STYLE: Gritty Cine Verite, 35mm handheld, natural shake. Continuous tracking shot. No cuts. All real-time. LIGHTING: Bright, high-altitude sun,...
 
-**Source:** [Post](https://x.com/maxescu/status/2039308020006396033))  
+**Source:** [Post](https://x.com/maxescu/status/2039308020006396033)  
 **Published:** 01 04 2026
 
 | Output |
@@ -4487,7 +4487,7 @@ TIMELINE: 0-3s:
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A single stand-up comedian @Image 1 with black hair, wearing a textured red dress, standing on a spotlighted stage @Image 2. Exaggerated and humorous...
 
-**Source:** [Post](https://x.com/Adam38363368936/status/2039286911265800297))  
+**Source:** [Post](https://x.com/Adam38363368936/status/2039286911265800297)  
 **Published:** 01 04 2026
 
 | Output |
@@ -4519,7 +4519,7 @@ Scene: Black stand-up stage, strong spotlight illuminating the person, blurred s
 
 A dark fantasy sequence where an abyssal entity inscribes fractal geometry patterns into a sacrificial altar, with flesh tendrils erupting from cracks.
 
-**Source:** [Post](https://x.com/Adam38363368936/status/2041050710721339521))  
+**Source:** [Post](https://x.com/Adam38363368936/status/2041050710721339521)  
 **Published:** 06 04 2026
 
 ```
@@ -4534,7 +4534,7 @@ A dark fantasy sequence where an abyssal entity inscribes fractal geometry patte
 
 A young woman swipes a floating holographic color wheel to seamlessly switch scenes and outfits in a 15-second VFX short.
 
-**Source:** [Post](https://x.com/johnAGI168/status/2041001869435158629))  
+**Source:** [Post](https://x.com/johnAGI168/status/2041001869435158629)  
 **Published:** 06 04 2026
 
 ```
@@ -4553,7 +4553,7 @@ Seedance 2.0 prompt 👇
 
 An unbroken one-take camera flight through a massive oriental fantasy city, sweeping past giant Buddha statues, canals, and a martial arts army.
 
-**Source:** [Post](https://x.com/john87445528/status/2041000256930763046))  
+**Source:** [Post](https://x.com/john87445528/status/2041000256930763046)  
 **Published:** 06 04 2026
 
 ```
@@ -4578,7 +4578,7 @@ An unbroken one-take camera flight through a massive oriental fantasy city, swee
 
 A bird's-eye fashion lookbook with rapid outfit changes, ceiling fan foreground blur, and beat-synced wardrobe transitions.
 
-**Source:** [Post](https://x.com/johnAGI168/status/2040767631213363656))  
+**Source:** [Post](https://x.com/johnAGI168/status/2040767631213363656)  
 **Published:** 05 04 2026
 
 ```
@@ -4629,7 +4629,7 @@ prompt 👇
 
 A realistic ancient-style parkour run with seamless costume changes, featuring a determined heroine sprinting through traditional architecture.
 
-**Source:** [Post](https://x.com/Adam38363368936/status/2040980673851506798))  
+**Source:** [Post](https://x.com/Adam38363368936/status/2040980673851506798)  
 **Published:** 06 04 2026
 
 ```
@@ -4651,7 +4651,7 @@ Seedance2.0提示词
 
 A cinematic 8K first-person cultural ad gliding through old Beijing, capturing traditional architecture, street life, and healing atmosphere.
 
-**Source:** [Post](https://x.com/crayon1267/status/2040826411783762286))  
+**Source:** [Post](https://x.com/crayon1267/status/2040826411783762286)  
 **Published:** 05 04 2026
 
 ```
@@ -4666,7 +4666,7 @@ A cinematic 8K first-person cultural ad gliding through old Beijing, capturing t
 
 A detailed mechanical visualization of engine internals and piston structures, showcasing improved structural accuracy in Seedance 2.0.
 
-**Source:** [Post](https://x.com/YaReYaRu30Life/status/2041068828457877598))  
+**Source:** [Post](https://x.com/YaReYaRu30Life/status/2041068828457877598)  
 **Published:** 06 04 2026
 
 ```
@@ -4692,7 +4692,7 @@ A detailed mechanical visualization of engine internals and piston structures, s
 
 A creative image-driven prompt approach where the model reads visual references directly, demonstrated with a singing cat animation.
 
-**Source:** [Post](https://x.com/pan_soramame_da/status/2040921171059752988))  
+**Source:** [Post](https://x.com/pan_soramame_da/status/2040921171059752988)  
 **Published:** 05 04 2026
 
 ```
@@ -4733,7 +4733,7 @@ A creative image-driven prompt approach where the model reads visual references 
 
 A 90s Japanese romance simulation game screen rendered in cel animation style with crisp outlines and retro UI elements.
 
-**Source:** [Post](https://x.com/kinopioai_ai/status/2040814307487916415))  
+**Source:** [Post](https://x.com/kinopioai_ai/status/2040814307487916415)  
 **Published:** 05 04 2026
 
 ```
@@ -4766,7 +4766,7 @@ A 90s Japanese romance simulation game screen rendered in cel animation style wi
 
 A cinematic 10-second epic fantasy battle sequence generated from a single prompt, showcasing dramatic lighting and action choreography.
 
-**Source:** [Post](https://x.com/a_shimanski/status/2041431226507051027))  
+**Source:** [Post](https://x.com/a_shimanski/status/2041431226507051027)  
 **Published:** 07 04 2026
 
 ```
@@ -4783,7 +4783,7 @@ Cinematic 10-second epic fantasy battle sequence in the style of Lord of the Rin
 
 A demonstration of how 2-3 well-crafted prompt techniques elevate AI video from generic output to professional-looking directed footage.
 
-**Source:** [Post](https://x.com/noman23761/status/2041409914954973216))  
+**Source:** [Post](https://x.com/noman23761/status/2041409914954973216)  
 **Published:** 07 04 2026
 
 ```
@@ -4821,7 +4821,7 @@ You have to explicitly define energy levels
 
 A close-up portrait prompt of an East Asian woman with wavy chestnut hair, big earrings, and warm natural lighting.
 
-**Source:** [Post](https://x.com/noman23761/status/2041408928215408931))  
+**Source:** [Post](https://x.com/noman23761/status/2041408928215408931)  
 **Published:** 07 04 2026
 
 ```
@@ -4844,7 +4844,7 @@ Same structure, completely different feeling.
 
 A structured prompt with defined subjects, environment, and camera directions for a female warrior character in dynamic action.
 
-**Source:** [Post](https://x.com/noman23761/status/2041406971484815564))  
+**Source:** [Post](https://x.com/noman23761/status/2041406971484815564)  
 **Published:** 07 04 2026
 
 ```
@@ -4859,7 +4859,7 @@ A structured prompt with defined subjects, environment, and camera directions fo
 
 A gritty post-apocalyptic survival scene with tense mood, visceral action, and detailed cinematic setup including genre, lighting, and camera.
 
-**Source:** [Post](https://x.com/noman23761/status/2041405260762419692))  
+**Source:** [Post](https://x.com/noman23761/status/2041405260762419692)  
 **Published:** 07 04 2026
 
 ```
@@ -4874,7 +4874,7 @@ A gritty post-apocalyptic survival scene with tense mood, visceral action, and d
 
 A Pixar-style 3D animated forest clearing with god rays, sunny atmosphere, and whimsical character animation.
 
-**Source:** [Post](https://x.com/SPEEDAI07/status/2041393724622795014))  
+**Source:** [Post](https://x.com/SPEEDAI07/status/2041393724622795014)  
 **Published:** 07 04 2026
 
 ```
@@ -4891,7 +4891,7 @@ Pixar 3D animated forest clearing. Sunny day, god rays through trees, green gras
 
 A premium lifestyle commercial shot in front-camera vlog style, blending cinematic realism with casual selfie aesthetics.
 
-**Source:** [Post](https://x.com/johnAGI168/status/2041374063243800793))  
+**Source:** [Post](https://x.com/johnAGI168/status/2041374063243800793)  
 **Published:** 07 04 2026
 
 ```
@@ -4934,7 +4934,7 @@ prompt 👇
 
 A cute kitten secretly eating snacks under bedcovers at night, with cozy lighting and playful expressions.
 
-**Source:** [Post](https://x.com/lynneatyoumind/status/2041334660173852807))  
+**Source:** [Post](https://x.com/lynneatyoumind/status/2041334660173852807)  
 **Published:** 07 04 2026
 
 ```
@@ -4949,7 +4949,7 @@ prompt: A cute kitten secretly eating snacks under the covers in bed at night. H
 
 An extreme macro FPV tracking shot tightly attached to a fairy's back, synchronized with wing movements through a magical forest.
 
-**Source:** [Post](https://x.com/EHuanglu/status/2041132328655954201))  
+**Source:** [Post](https://x.com/EHuanglu/status/2041132328655954201)  
 **Published:** 06 04 2026
 
 ```
@@ -4964,7 +4964,7 @@ extreme macro FPV tracking shot, camera tightly attached to the fairy's back, sy
 
 A dark eastern fantasy transformation sequence with dramatic lighting shifts and mystical visual effects.
 
-**Source:** [Post](https://x.com/johnAGI168/status/2041146946681721113))  
+**Source:** [Post](https://x.com/johnAGI168/status/2041146946681721113)  
 **Published:** 06 04 2026
 
 ```
@@ -4985,7 +4985,7 @@ Seedance 2.0 prompt 👇
 
 A text-to-video speech test revealing surprisingly natural lip-sync and vocal delivery, outperforming expectations.
 
-**Source:** [Post](https://x.com/tanabe_fragm/status/2041328307267088580))  
+**Source:** [Post](https://x.com/tanabe_fragm/status/2041328307267088580)  
 **Published:** 07 04 2026
 
 ```
@@ -5007,7 +5007,7 @@ Seedance 2.0はとにかくプロンプト依存が強いモデルですね📝
 
 An anime-style prompt using @Image1 as character reference, preserving hairstyle, ears, and design consistency across frames.
 
-**Source:** [Post](https://x.com/Reiria123/status/2041118339393826933))  
+**Source:** [Post](https://x.com/Reiria123/status/2041118339393826933)  
 **Published:** 06 04 2026
 
 ```
@@ -5063,7 +5063,7 @@ Bright autu
 
 A horror animation scene with flat paper-puppet aesthetics, rough textures, dark muted colors, and unsettling stop-motion feel.
 
-**Source:** [Post](https://x.com/TomaAIbijo/status/2041409381162689021))  
+**Source:** [Post](https://x.com/TomaAIbijo/status/2041409381162689021)  
 **Published:** 07 04 2026
 
 ```
