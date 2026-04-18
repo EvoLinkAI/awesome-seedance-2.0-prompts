@@ -2,7 +2,7 @@
 
 # Awesome Seedance 2.0 Prompts
 
-[![Awesome](https://img.shields.io/badge/Awesome-Seedance%202.0%20Prompts-black?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts) [![GitHub stars](https://img.shields.io/github/stars/EvoLinkAI/awesome-seedance-2.0-prompts?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts/stargazers) [![Prompt count](https://img.shields.io/badge/prompts-164-blue?style=flat-square)](./README.md)
+[![Awesome](https://img.shields.io/badge/Awesome-Seedance%202.0%20Prompts-black?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts) [![GitHub stars](https://img.shields.io/github/stars/EvoLinkAI/awesome-seedance-2.0-prompts?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts/stargazers) [![Prompt count](https://img.shields.io/badge/prompts-178-blue?style=flat-square)](./README.md)
 
 <p align="center">
   <a href="https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2.0-prompts">
@@ -24,7 +24,7 @@ Language: **English**
 
 ## Description
 
-This repository focuses on Seedance 2.0  **usable prompts**, not commentary about prompts. 
+This repository focuses on Seedance 2.0 **usable prompts**, not commentary about prompts.
 
 ## Table of Contents
 
@@ -49,9 +49,9 @@ This repository focuses on Seedance 2.0  **usable prompts**, not commentary abou
 
 | Metric | Value |
 | --- | --- |
-| Total prompts | 164 |
+| Total prompts | 178 |
 | Source languages | 4 |
-| Latest source date | `07 Apr 2026` |
+| Latest source date | `17 Apr 2026` |
 
 ## How to Use This Repository
 
@@ -68,91 +68,242 @@ These prompts are highlighted for variety: long-form transformation, emotional r
 <!-- latest-additions:start -->
 ### Latest Additions
 
-#### Hammer That Never Misses
-![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-A mythic hammer-throw one-shot built around centrifugal force, hammer-follow POV, and a returning impact arc.
+#### Black Swan vs Boxer
+![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square)
+A Japanese anime fight prompt with ring choreography, aggressive counterattacks, and a clean K.O. finish.
 
-Source: [Post](https://x.com/aimikoda/status/2040752436780961971) · Published: 05 Apr 2026
-
-[![](./public/seedance_2_prompt_images/126.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+Source: [Post](https://x.com/KanaWorks_AI/status/2045098229847716305) · Published: 17 04 2026
 
 ```text
-TIMELINE:
+Japanese anime style with the exhilarating feel of a competitive fighting game. Set in a boxing ring, 15 seconds, 30fps, no subtitles. High-contrast cinematic lighting, volumetric light, atmospheric particles and smoke, with a strong audience presence. The overall pacing is clean and sharp, with decisive and powerful camera movement, no dragging. High dynamic range with realistic physical feedback.
+[Entrance 0–5s]
+Low-angle fast tracking shot with a steady push-in. A tall blonde, blue-eyed ballet dancer descends dramatically from above in a “Black Swan” form—more flamboyant and oppressive in presence. As she spins and lands, her movement carries clear aggression; the impact is heavier, sharper, with precise yet tension-filled body control. Feathers scatter through the air like black blades.
+Lighting shifts to a cold, high-contrast tone, with sharp highlights outlining her silhouette, creating a dangerous atmosphere. The crowd erupts in cheers mixed with gasps.
+Cut—
+A towering boxer stands at the center of the ring (red shorts, red gloves, beast-style mouthguard), radiating pressure. Like a gorilla, he pounds his chest, laughing arrogantly with disdain and provocation.
+[Fight 5–15s]
+Extreme close-up of the boxing bell as it rings sharply. Hard cut back to the ring.
+The boxer throws a heavy punch—the Black Swan dodges with an extreme backbend, then immediately unleashes a counterattack:
+A rapid upward high kick, followed by consecutive spinning kicks and slicing leg techniques. Her movements are sharper, more aggressive, with accelerated pacing and continuous, relentless attacks. Her motion is both elegant and feral.
+The boxer is completely overwhelmed, forced into a defensive state, retreating step by step as his movements grow disordered.
+Final move—after a high-speed spin, the Black Swan delivers a powerful horizontal whip kick (with strong kinetic force and air-tearing impact), launching the boxer high into the air before crashing heavily to the ground.
+K.O.
+The crowd erupts in thunderous cheers. The Black Swan slowly settles her stance, standing at the center of the spotlight. She gracefully bows like a noble black swan.
 
-1. Low wide 24mm, camera orbiting through grass. Warrior already spinning, both hands locked at the end of the handle. The hammer head stays wide and pulls her through each turn by centrifugal force. Beast stays far in background. Revolutions grow faster, runes brighten, grass bends outward. SFX: wind, scrape, metal groan, rune hum.
-2. Same shot, orbit tightening. Warrior plants both feet, shoulders whip through, fingers peel from the handle in heavy slow motion. Full hammer and handle stay visible leaving both hands. SFX: stretched launch crack, wind drag, suspended rune tone.
-3. Same shot, no cut, camera pulled into hammer-follow POV behind the spinning head. Speed returns. Hammer flies low, slams into the beast's brow ridge, and the shockwave flattens grass outward. Beast is hurled backward and starts to topple. SFX: wind roar, thunderclap, silence.
-4. Same shot, camera rises with the impact wave and arcs back to the warrior. In the distance the beast crashes onto its side. The hammer rips free, curves back through the sky, and lands in the warrior's hand before end. SFX: delayed boom, rune whine, ground tremor, settling air.
-
-MOOD: Mythic force, clear cause and effect.
-COLOR LOGIC: Naturalistic Film Print Emulation
-STYLE: Fantasy realism
+本プロンプトでは対戦相手をボクサーに設定していますが、ムエタイ、テコンドー、キックボクシング、相撲などにも置き換え可能です。お好みに合わせて自由にカスタマイズしてお楽しみください😋
 ```
 
-#### Orbiting Carnival Objects
+#### Ground Crack Superman Launch
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-A clean motion-design prompt with floating props, wide circular orbit motion, and controlled object choreography.
+A grounded ascension shot focused on impact weight, earth fracture buildup, and a violent vertical takeoff.
 
-Source: [Post](https://x.com/ShadeLurk/status/2040748166212157568) · Published: 05 Apr 2026
-
-[![](./public/seedance_2_prompt_images/123.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+Source: [Post](https://x.com/techprophett/status/2045091209417249026) · Published: 17 04 2026
 
 ```text
-prompt:
-Dark navy background. A few small objects drift along a wide circular orbit — the rotation center sits in the upper right of the frame, the camera watches from the outer edge. A decorated box, a striped ball, and a couple of carnival items arc past one by one, curving leftward across the view. Sparse confetti strips and gold coins float through the air.
-Three cream-colored rectangular talismans appear on the same orbital path, each bearing a different painted emblem. They approach one at a time, sweeping across the camera in a wide arc.
-A glowing golden-framed card carrying a character illustration enters along the orbit. It drifts to center screen and the camera pushes in. The golden frame swells beyond the screen edges and vanishes — only the character remains. Gold sparkles and cross-shaped flares surround the reveal.
-Red talismans orbit the character in irregular circular paths. Flame-colored ribbons weave through the hair. A fireball ignites near the outstretched hand, swelling until it fills nearly half the screen with white-hot light. The fireball contracts back toward the hands. Energy converts — flames dissolve into crackling purple arcs. The talismans transform into large glowing red rectangles covered in flame-crest patterns, fanning out in formation.
-The character spins with the talismans fanning wider. Camera drives in — golden light ignites in both eyes, a held beat of charge. Pull back to full body. White-gold explosion erupts outward. The talismans launch toward the camera — one large talisman surges forward, dark surface swirling with magenta crests, growing until it covers the entire frame. Black.
-New scene. No character visible. Red glowing rectangles streak across dark space in a wide circular arc, trailing fire. They converge on a single point at center screen. On impact, red flash fills the screen — hot pink wash expands, then fades.
-Red-orange glowing core at the center with spiral energy arcs rotating around it. More red rectangles converge from all sides onto the central energy sphere. Everything compresses to a single bright point — total whiteout.
-Fireball detonates outward with radial god rays. It expands to half the screen, then disperses. Red rectangle debris drifts through the flames. The color shifts — red bleeds to magenta, magenta to purple. In one frame, cold blue-purple replaces everything. New scene.
+[SCENE SETUP] An open rugged landscape. Rocky ground, overcast sky, wide and cinematic.
+
+[CHARACTER INTRO] The character descends slowly from above, landing firmly on the ground. The impact of his landing sends a small natural shudder through the dirt and loose rocks around his feet.
+
+[THE CROUCH] He slowly crouches down, pressing one fist firmly into the earth. Still. Composed. Eyes forward.
+
+[ENERGY BUILD] The ground around his fist begins cracking and splintering outward. Dirt, small rocks and dust vibrate and tremble. The air around him distorts slightly. Everything shakes — loose stones, dust lifting naturally off the ground around him.
+
+[THE TAKEOFF] He launches violently straight up, leaving a crater where he knelt. Dirt and rocks scatter naturally from the force. He cuts through the low hanging clouds and disappears into the open sky above.
+
+[STYLE] Cinematic. Photoreal. 4K. Natural lighting. Grounded and raw. No energy beams, no glowing effects. Gravity and weight drive everything.
 ```
 
-#### Space Colony Dawn Heroine
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
-A Chinese multi-shot sci-fi opener set inside a ring colony, combining epic aerial scale and heroine staging.
+#### Stridex Sneaker Commercial
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+A premium product-ad storyboard with macro texture shots, side-profile reveals, and a polished hero frame.
 
-Source: [Post](https://x.com/MiraMusic_AI/status/2040744022294335604) · Published: 05 Apr 2026
-
-[![](./public/seedance_2_prompt_images/124.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+Source: [Post](https://x.com/ShamsAmin56/status/2045084636695650511) · Published: 17 04 2026
 
 ```text
-prompt：
-【开场镜头序列·总时长15秒·共7个切换镜头】
-■ 镜头1（0:00–0:02）无人机超广角·宇宙殖民地全景
-以超广角无人机镜头从宇宙殖民地外壳切入。巨大的环形殖民地内部徐徐展现——晨光穿透弧形透明穹顶，斜射进入殖民地内部的近未来都市。城市天际线在金色晨雾中若隐若现，悬浮建筑群与发光轨道交错排列。镜头以极慢速度向内推进，营造出宏大的史诗感开场。画面色调：冷蓝主调，金色晨光为点缀。
-■ 镜头2（0:02–0:04）俯瞰垂直下降·高台上的女性全身
-镜头从正上方俯视，捕捉站在高台边缘的女性全身。她身着白色与红色机甲战衣，肩部装甲宽大且具攻击性线条，裙摆由多层刀状装甲板构成。黑色长发在高处的风中轻轻飘动。镜头以缓慢的垂直下降（crane down）方式靠近，白色机甲在晨光下反射出耀眼的金属光泽，红色回路纹路隐约发出微弱的光芒。高台下方是深邃的未来城市峡谷，悬浮车辆如星点般穿梭。
-■ 镜头3（0:04–0:06）极近地面·足部特写
-镜头切换至极近地面的低角度仰拍，聚焦于她白色高跟机甲靴的靴尖，精准立于高台边缘。镜头缓缓向后拉开，露出靴身的红色发光线条纹路与小腿部位的白色装甲片。靴尖之下是无尽的城市深处，模糊的霓虹光与建筑轮廓形成强烈的高度感与紧张感。风声与城市低频嗡鸣作为音效层。
-■ 镜头4（0:06–0:09）侧面横向追踪·腰部至肩部
-镜头从她的腰侧开始，以流畅的横向追踪（tracking shot）缓缓向上移动。经过多层刀状装甲裙摆的细节——每片装甲边缘锋利、有光泽；沿着腰部向上，红色能量纹路在白色装甲上蜿蜒延伸；到达宽大的肩甲，顶端有棱角分明的突起结构。整个追踪过程背景为虚化的城市天际线，浅景深突出机甲质感。镜头运动速度配合慢拍电子节奏，流畅而充满张力。
-■ 镜头5（0:09–0:11）手部极致特写·赛博机械手
-切换至手部特写。她的一只手（赛博机械义手）搭放于高台金属栏杆之上。镜头极近，捕捉机械关节的精密结构——白色骨架、红色发光关节点、指尖处细微的传感器纹路。红色光点以脉冲节奏缓慢闪烁，仿佛心跳。栏杆下方城市的反射光在机械手表面形成流动的光影。音效：微弱的电流嗡鸣声与城市风声交叠。
-■ 镜头6（0:11–0:13）侧颜极近特写·晨光轮廓光
-镜头切换为极近侧颜特写。白色面具从侧面看，边缘线条流畅且具攻击性；黑色长发顺着肩甲垂落，在微风中轻柔摆动。晨光从画面右侧打来，精准地勾勒出面具边缘与发丝轮廓，形成金色的逆光轮廓（rim light）。面具侧面隐约可见一双眼睛的轮廓，凝视远方的城市。表情无法判读，充满神秘感与力量感。背景极度虚化为橙金色的晨光光晕。
-■ 镜头7（0:13–0:15）无人机后退上升·都市全景收尾
-镜头以无人机方式向后拉升，女性的轮廓在画面中央逐渐缩小——从全身到半身到剪影，最终成为殖民地城市天际线前的一个微小黑色剪影。晨光将整个画面渲染成金橙色调。镜头继续上升至殖民地内部全景，都市的宏大规模完整呈现，以此结束开场序列。整体结尾节奏放缓，为后续音乐高潮蓄力。
-【全局视觉设定】
-色调：冷蓝与金橙的强烈对比，机甲以白色为主色调，红色为能量强调色。
-光线：晨光斜射、金属反射光、红色能量发光。
-画质：8K电影级，超高细节，景深层次丰富，胶片颗粒质感。
-氛围：史诗、神秘、力量感、孤独的未来主义。
+Create a 15-second ultra-premium cinematic commercial for futuristic sneakers branded ‘Stridex’, using the provided reference image. Maintain exact design fidelity (materials, structure, colors).
+
+Style: high-end sportswear campaign, cinematic, sharp, luxury-grade production, no motion blur, speed expressed through design only.
+
+00:00 – 00:03
+Extreme macro close-up of the sneaker surface (mesh, stitching, sculpted lines).
+Lighting: dramatic studio highlights, soft shadows on pure white seamless background.
+Camera: slow, controlled glide across textures.
+00:03 – 00:06
+Close-up tracking shot along the side profile, revealing aerodynamic curves and layered panels.
+Focus on sharp lines and directional design elements that imply speed through form.
+Camera: smooth lateral dolly, shallow depth of field.
+00:06 – 00:09
+Mid-shot rotation of the sneaker (angled 45°), showcasing sole engineering and silhouette.
+Highlight structured geometry and streamlined outsole.
+Lighting remains clean, premium, no visual effects.
+00:09 – 00:12
+Full product reveal. Sneaker centered on a white reflective surface.
+Subtle reflection beneath enhances depth.
+Camera: slow cinematic push-in toward the shoe.
+
+00:12 – 00:15
+Final hero frame:
+Sneaker perfectly centered, sharp and still
+Introduce bold ‘STRIDEX’ logo (modern sans-serif, slightly italicized)
+Add minimal tagline below (optional): “Engineered for Speed”
+
+Logo appears cleanly (fade or subtle scale-in, no flashy effects)
+Lighting: balanced, high-end studio look, crisp shadows, premium finish.
 ```
 
-#### Sunny Pool Party Montage
+#### Travel Suitcase Buddy Montage
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-A bright summer pool-party montage focused on social energy, sunlit motion, and lifestyle-commercial framing.
+A rhythmic travel commercial built from match cuts, destination jumps, and object-character comedy.
 
-Source: [Post](https://x.com/ivanka_humeniuk/status/2040415406297374734) · Published: 05 Apr 2026
-
-[![](./public/seedance_2_prompt_images/125.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
+Source: [Post](https://x.com/ChaseAIx/status/2045080469533057252) · Published: 17 04 2026
 
 ```text
-Admit it who wouldn’t want to be here right now and forget all their problems?😎
+SHOT 1: ECU, 85mm push-in / 04:00 on a digital watch screen. A hand slams it. / SFX: alarm beep, palm slap.
 
-Main cue words. Overall intent: A vibrant, sunny college pool party montage. The scene is chaotic, euphoric, and cinematic, featuring a variety of beautiful girls in stylish swimwear. The sequence relies on fast-paced, rhythmic editing to capture the raw emotions, youthful rebellion, and energetic atmosphere of a crazy summer party, complete with splashing water, giant inflatable toys, and endless dynamic movement. Sequence list: Shot 1 (0-1.5 seconds) Close-up Camera movement: Sharp pullback Motion dynamics: An explosive pullback starting directly from a drop of water falling from sunglasses, rapidly expanding to frame the subject's energetic reaction. Core action: A girl in a bright neon bikini suddenly bursts out of the water, tossing her wet hair. She laughs wildly directly at the camera. Natural fluid dynamics, water physics, energetic movement, breaking the surface tension. (Cut to) Shot 2 (1.5-3 seconds) Low-angle shot. Camera movement: right pan. Motion dynamics: a smooth horizontal glide at waist height, moving parallel to the subject to emphasize their confident strides along the poolside. Core action: Three girls in various stylish swimsuits confidently walk along the wet tiled edge of the pool, holding classic red plastic cups. Natural movement, intricate fabric simulation of sheer overcoats billowing in the wind, and interactive landings. (Cut to) Shot 3 (3-4.5 seconds) Medium shot from the Dutch corner. Camera movement: camera rolls to the right. Motion dynamics: a disorienting 30-degree tilt, physically mimicking the feeling of losing balance during a playful shove. Core action: A girl in a metallic onesie playfully pushes her friend into the pool. Realistic conservation of momentum, dynamic movement, and realistic physics of the splash. (Cut to) Shot 4 (4.5-6 seconds) FPV (First Person Perspective) Camera Movement: FPV Drone Motion Dynamics: A fast, swooping aerial descent directly above the water, weaving through party participants and inflatable toys. Core Action: Flying over a crowded pool where a group of girls laugh and relax on a giant pink flamingo float. Fluid movement, realistic human behavior patterns, natural fluid dynamics. (Cut to) Shot 5 (6-7 seconds) Macro Camera Movement: Still Shot Motion Dynamics: Absolute stillness to create a microsecond of visual tension before the rhythm falls. Core Action: Extreme detail of an ice cube falling into a red glass filled with liquid, held by a tanned hand wearing a colorful bracelet. Viscous liquid behavior, particle collisions, water splash physics. (Cut to) Shot 6 (7-8.5 seconds) Medium Shot Camera Movement: Tracking Shot Motion Dynamics: A dynamic, backward-following camera locked on the subject's face as she moves through a crowded area. Core Action: A beautiful girl with wet, wavy hair and a knitted bikini top dances through a crowded group of dancing college students, smiling radiantly. Confident movement, authentic human behavior. (Cut to) Shot 7 (8.5-10 seconds) Insect-eye view Camera movement: Push-in Motion dynamics: An aggressive upward push from the ground amplifies the scale and energy of the action above. Core Action: A girl leaps from a diving board into the air under a bright blue summer sky, her silhouette framed by solar flares. Vibrant movement, realistic conservation of momentum, and authentic physics governing all the action. (Cut to) Shot 8 (10-11.5 seconds) Close-up Camera movement: Pan to the left Motion dynamics: A rapid pan transition matching the head turn speed instantly shifts the focus from one subject to another. Core Action: Two girls in mismatched bikinis clink their red cups together in a toast, splashing water in the air, their faces beaming with genuine, joyful smiles. Natural fluid dynamics, vibrant movement, and pure, excited micro-expressions. (Cut to) Shot 9 (11.5-13 seconds) Over-the-shoulder shot (OTS) Camera movement: Pull-in motion Dynamics: Slow, deliberate movement over the foreground subject to focus on the chaotic, joyful interaction in the background. Core action: Over the shoulder of a DJ at the edge of the pool, the composition shows a group of girls splashing water wildly to the rhythm of the music. Fluid movement, water physics, and time consistency. (Cut to) Shot 10 (13-15 seconds) Extreme long shot (EWS) Camera movement: Rising and falling motion Dynamics: A rapid vertical ascent reveals the sheer scale of the chaotic pool party in the golden hour sunlight. Core action: The entire pool area is filled with dancing, swimming, and splashing water. Inflatable toys bounce on the water's surface. Seamless motion continuity, realistic physics governing all the movement, and highly dynamic motion culminate in a montage that reaches its climax.
+SHOT 2: WS, 35mm handheld jolt / Rhythmic cut into the man jolting upright, grabbing the suitcase by the handle like a hand-shake, and swinging it off the bed in one motion. / SFX: mattress spring, leather creak.
+
+SHOT 3: MCU, 50mm slide / Cut on action into a passport hitting a tray, followed by a pair of sunglasses. / SFX: plastic thud, metallic clink.
+
+SHOT 4: Insert shot, 85mm rack focus / Match cut into the suitcase zipper closing with a satisfying, high-speed "zip." / SFX: fast zipper slide.
+
+SHOT 5: Exterior Wide, 24mm low-angle / Object pass as the man and suitcase "sprint" into frame against the Great Pyramids. Sand kicks up. / SFX: desert wind, running footsteps in sand.
+
+SHOT 6: Insert shot, 50mm handheld / Rhythmic cut into a chilled coconut being cracked open, the suitcase "sitting" on a beach chair beside him. / SFX: coconut crack, liquid splash.
+
+SHOT 7: MCU, centered 50mm push-in / Match cut into a selfie-angle: The man leans his head against the suitcase like a best friend, the Eiffel Tower sparkling behind them. / SFX: camera shutter, city chatter.
+
+SHOT 8: Bird's-eye insert, 35mm overhead / Cut on action into the suitcase wheels spinning furiously across Andean stone. / SFX: wheel hum, stone rattle.
+
+SHOT 9: MS, 35mm pivot / Camera wipe into a chaotic market in Marrakech. The man maneuvers the suitcase through silk stalls; the suitcase "dodges" a vendor. / SFX: fabric rustle, distant flute, shouting.
+
+SHOT 10: Insert shot, 50mm overhead / Match cut into a stamp slamming down onto a passport page. / SFX: heavy ink thud.
+
+SHOT 11: WS, 24mm parallax / Whip pan transition into a speeding train window. The man’s reflection and the suitcase's reflection are side-by-side as mountains blur past. / SFX: train rhythm, wind whistle.
+
+SHOT 12: MS to CU, 35mm glide into 85mm push-in / Sound bridge into the airport lounge. He rests his feet on the suitcase; they both "exhale" as the sun sets through the terminal glass. / SFX: muffled PA system, deep sigh.
+
+SHOT 13: Insert to MCU, 50mm snap zoom / Smash cut to a front door lock turning. The man and suitcase "stumble" into the dark apartment, looking dusty but happy. / SFX: key turn, door creak.
+
+SHOT 14: OTS, 35mm handheld / Rhythmic cut into the man kicking off his boots and the suitcase falling onto its side with a heavy, tired "flop." / SFX: boot thud, leather heavy impact.
+
+SHOT 15: WS, 50mm pull-out / L-cut with a match from the floor to the bed. The man collapses onto the mattress; the suitcase "collapses" right next to him on the pillows. He flings an arm over the suitcase like a spouse. Lights fade. / SFX: mattress groan, collective exhale, silence.
+
+```
+
+#### Creative Director Dimension Walk
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+A frontal walking prompt that jumps through creative eras while keeping motion, framing, and pace locked.
+
+Source: [Post](https://x.com/lukasersil/status/2045070342553493833) · Published: 17 04 2026
+
+```text
+CHARACTER: attached image — confident creative director, late 30s, slim build,
+short dark hair, natural wide smile; walks with calm executive energy;
+outfit morphs each jump to reflect the creative era
+CAMERA: frontal tracking, eye-level, full-body, dolly backward with character,
+never cuts away from him
+COLOR GRADE: B&W flicker → warm gold → smoke grey → neon saturation →
+VHS bleed → CRT glow → ring-light pop → hypersaturated chaos →
+prompt-blue ambient → holographic cyan → code-green rain → pure white
+TRIGGER: finger snap mid-stride → instant dimension jump
+RULE: Era-appropriate outfit with each jump. Steady calm walk throughout — pace never changes, never runs, never slows.
+
+JUMP_MODE: creative dimension hopping
+SEQUENCE:
+START: white photography infinity studio, already mid-stride, looks directly into camera — casual snap → trigger
+1: 1920s silent film set — B&W grain, frozen actors around him, film reel flicker → trigger
+2: baroque theater stage — candlelit gold, velvet curtains, powdered wig extras scatter → trigger
+3: 1960s Madison Avenue agency — cigarette haze, Helvetica posters, typewriters clacking → trigger
+4: 1970s disco inferno — mirror ball overhead, polyester crowd parts, bass in the air → trigger
+5: 1980s MTV studio — neon grid floor, fog machines, VHS glitch at frame edges → trigger
+6: 1990s startup office — CRT glow, dial-up chaos, developers spin in chairs → trigger
+7: 2010s YouTube studio — ring light forest, green screens, vlogger mid-take loses his mind → trigger
+8: TikTok hyperreality — split screens multiply, emoji swarm, comments scroll the air → trigger
+9: AI generation space — prompt text rains vertically, landscapes bloom and dissolve around him → trigger
+10: holographic metaverse — glitching NPC crowds, architecture stutters, reality framerate drops → trigger
+11: data singularity — code waterfall, neurons fire, his outline becomes wireframe → trigger
+12: white void — silence, only footstep echo, wide smile, still walking forward
+
+FINAL: one last snap → seamless loop back to white studio, identical opening shot
+```
+
+#### Parametric Fight Template
+![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
+A reusable cinematic fight template with structure for character roles, environment logic, escalation, and finish beats.
+
+Source: [Post](https://x.com/aimikoda/status/2044830615434854449) · Published: 16 04 2026
+
+```text
+Created a parametric prompt for epic fight scenes. You can generate unlimited variations just by changing the parameters. Tested one generation in 1080p with Seedance 2.0 on Higgsfield.
+
+More examples with prompts are in the replies.
+
+Prompt Template:
+
+FORMAT: 15s / continuous fight
+
+CHARACTERS
+A: [character_A]
+B: [character_B]
+
+ENVIRONMENT
+[short description]
+
+FIGHT PROFILE
+STYLE: [brutal / elegant / tactical / chaotic / cinematic]
+ENERGY: [low / medium / high / explosive]
+WEAPONS: [none / melee / mixed]
+INTENT: [duel / assassination / survival / dominance / training]
+
+VISUAL
+Cinematic realism, physical lighting, shallow DOF, subtle grain, natural motion blur.
+
+DIRECTIVE
+No fixed choreography. Fight emerges dynamically from characters, environment, and momentum.
+
+BEHAVIOR
+- Use environment freely (walls, ground, objects)
+- Allow verticality (climb, wall-run, elevation shifts)
+- Encourage unexpected but physically valid actions
+
+RULES
+- Momentum chain only, no isolated actions
+- Clear positioning at all times
+- Continuous, motivated camera (POV / OTS / wide / low-high as needed)
+- Environment actively reacts (splashes, debris, sparks)
+
+IMPACT
+Strong contacts:
+2-frame hold + brightness spike + micro shake resume
+
+MOTION
+Secondary delay (~2 frames) on hair, fabric, environment.
+
+RHYTHM
+Fast exchanges + micro pauses + 1–2 slow-motion beats (0.5–1s)
+
+ESCALATION
+Intensity rises. Include:
+- one vertical/environment-driven move
+- one decisive high-impact action
+
+HERO MOMENT (CRITICAL)
+Generate one standout finishing beat:
+- visually dominant, clearly readable
+- uses environment or full-body motion
+- slow-motion entry → sharp impact → brief aftermath hold
+- ends with strong silhouette or positional advantage
+
+GUARDRAILS
+- Keep character identity and position consistent (no teleporting)
+- Respect weight and inertia (no floaty or impossible motion)
+- Ensure clear cause → effect in every action
+- Keep camera readable and motivated (no random spins or cuts)
+- Use environment logically (no clipping or mismatch)
+- Prioritize clarity and physical realism over complexity
+
+OUTPUT
+Fluid, physical, cinematic fight with clear spatial logic, dynamic camera, environmental interaction, and a memorable final highlight moment.
 ```
 
 <!-- latest-additions:end -->
@@ -161,7 +312,7 @@ Main cue words. Overall intent: A vibrant, sunny college pool party montage. The
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
 A long-form transformation sequence that escalates from rooftop sprint, to freefall capture, to car-to-jet metamorphosis.
 
-Source: [Post](https://x.com/john87445528/status/2039496153641660508) · Published: 02 Apr 2026
+Source: [Post](https://x.com/john87445528/status/2039496153641660508) · Published: 02 04 2026
 
 [![](./public/seedance_2_prompt_images/088.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -179,7 +330,7 @@ Chapter 3 (0-15 seconds): AITO M7 Transforms -> Becomes an F-14 -> Protagonist S
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
 15-second cinematic Japanese drama pure love ambiguous short film, ultra-realistic quality, warm golden sunlight in an empty classroom in the afternoon,...
 
-Source: [Post](https://x.com/JiahaoYang_art/status/2033119940216344616) · Published: 15 Mar 2026
+Source: [Post](https://x.com/JiahaoYang_art/status/2033119940216344616) · Published: 15 03 2026
 
 [![](./public/seedance_2_prompt_images/022.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -199,7 +350,7 @@ Character identity is maintained throughout, real subtle head tilts, eye movemen
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
 A shot-by-shot luxury supercar commercial storyboard focused on controlled camera movement and premium product surfaces.
 
-Source: [Post](https://x.com/Adam38363368936/status/2039932977287979053) · Published: 03 Apr 2026
+Source: [Post](https://x.com/Adam38363368936/status/2039932977287979053) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/030.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -239,7 +390,7 @@ Highest image quality: 8K.
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
 "location": "Tokyo Cityscape (Night)", "duration": "10s", "prompt": "A cinematic POV shot riding an invisible rollercoaster through Tokyo at night. A...
 
-Source: [Post](https://x.com/TechTalkNAVI/status/2039941029265355123) · Published: 03 Apr 2026
+Source: [Post](https://x.com/TechTalkNAVI/status/2039941029265355123) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/061.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -262,7 +413,7 @@ Source: [Post](https://x.com/TechTalkNAVI/status/2039941029265355123) · Publish
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
 100% real-life shooting texture, Hollywood IMAX blockbuster quality, natural light and shadow, cold documentary style, natural light on a cloudy day,...
 
-Source: [Post](https://x.com/ChrisTheNerv/status/2040043939109953944) · Published: 03 Apr 2026
+Source: [Post](https://x.com/ChrisTheNerv/status/2040043939109953944) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/075.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -297,7 +448,7 @@ Layered progression from the scream activation to the explosive mechanical erupt
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
 A wuxia one-shot spectacle at Tianmen Mountain designed for speed, impact, and large-scale mythic martial-arts energy.
 
-Source: [Post](https://x.com/Adam38363368936/status/2039865857179013318) · Published: 03 Apr 2026
+Source: [Post](https://x.com/Adam38363368936/status/2039865857179013318) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/081.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -355,7 +506,7 @@ Freeze Frame: The camera pushes in for an extreme close-up. A drop of blood drip
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
 A reusable morphing template for turning seven still images into one controlled continuous transformation shot.
 
-Source: [Post](https://x.com/YaReYaRu30Life/status/2039474680235741681) · Published: 01 Apr 2026
+Source: [Post](https://x.com/YaReYaRu30Life/status/2039474680235741681) · Published: 01 04 2026
 
 [![](./public/seedance_2_prompt_images/114.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -429,7 +580,7 @@ seamless transformation flow
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
 A commercial fashion-tech prompt for a gradient foldable smartphone with macro details, sharp cuts, and premium motion language.
 
-Source: [Post](https://x.com/Adam38363368936/status/2039157138002780202) · Published: 01 Apr 2026
+Source: [Post](https://x.com/Adam38363368936/status/2039157138002780202) · Published: 01 04 2026
 
 [![](./public/seedance_2_prompt_images/121.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -472,7 +623,7 @@ Combat, chase, anime, wuxia, creature, and large-scale cinematic spectacle promp
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 16:9 horizontal screen, street rap MV style, neon purple and blue cool tones, explosive cool and fierce atmosphere. 0-3 seconds: Medium shot push-in, city...
 
-Source: [Post](https://x.com/songguoxiansen/status/2033175478765289598) · Published: 15 Mar 2026
+Source: [Post](https://x.com/songguoxiansen/status/2033175478765289598) · Published: 15 03 2026
 
 [![](./public/seedance_2_prompt_images/021.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -486,7 +637,7 @@ Source: [Post](https://x.com/songguoxiansen/status/2033175478765289598) · Publi
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 15-second Original Desert Martial Arts Short Film: A black cat warrior in light armor stands alone in a desert where yellow sand is flying all over the sky,...
 
-Source: [Post](https://x.com/nopinduoduo/status/2039915824216261101) · Published: 03 Apr 2026
+Source: [Post](https://x.com/nopinduoduo/status/2039915824216261101) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/031.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -500,7 +651,7 @@ Source: [Post](https://x.com/nopinduoduo/status/2039915824216261101) · Publishe
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Live-Action Anime Adaptation · Breathing Technique Decisive Battle (15 seconds · Super Burning Special Effects Version) 【Core Focus】: Water Breathing (Blue...
 
-Source: [Post](https://x.com/johnAGI168/status/2021610292979876208) · Published: 11 Feb 2026
+Source: [Post](https://x.com/johnAGI168/status/2021610292979876208) · Published: 11 02 2026
 
 [![](./public/seedance_2_prompt_images/035.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -534,7 +685,7 @@ Special Effects Spectacle: The blue water dragon and the golden lightning instan
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Anime high-speed cut test — 20 hard cuts in 10 seconds (0.5 seconds per cut, no fade-in/fade-out, no transitions). 0.0 seconds to 0.5 seconds: Cut 1 —...
 
-Source: [Post](https://x.com/tebasaki3D/status/2039903531415552048) · Published: 03 Apr 2026
+Source: [Post](https://x.com/tebasaki3D/status/2039903531415552048) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/039.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -549,7 +700,7 @@ Anime high-speed cut test — 20 hard cuts in 10 seconds (0.5 seconds per cut, n
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Watch a grease-stained mechanic fix a violently rattling junker like it’s a martial arts fight. Wrenches flying, spark plugs thrown like knives, hood...
 
-Source: [Post](https://x.com/sebatheepan/status/2040079840754205010) · Published: 03 Apr 2026
+Source: [Post](https://x.com/sebatheepan/status/2040079840754205010) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/041.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -568,7 +719,7 @@ From rusty disaster to purring monster in seconds.
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A short film about a samurai who loses his life on a burning battlefield and wakes up as a baby in another world. The first half is a fierce battle on a...
 
-Source: [Post](https://x.com/sailorv321/status/2040127822908596305) · Published: 03 Apr 2026
+Source: [Post](https://x.com/sailorv321/status/2040127822908596305) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/042.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -583,7 +734,7 @@ The first half is a fierce battle on a battlefield covered in mud and flames. Th
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Stylized 3D animation with exaggerated proportions, sharp kung-fu-soccer choreography, and controlled rhythmic energy. CHARACTERS - Football master: an...
 
-Source: [Post](https://x.com/johnAGI168/status/2039924160567058725) · Published: 03 Apr 2026
+Source: [Post](https://x.com/johnAGI168/status/2039924160567058725) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/047.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -597,7 +748,7 @@ Stylized 3D animation with exaggerated proportions, sharp kung-fu-soccer choreog
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A fast-paced comedic parody Seedance 2 short set in an ancient imperial study. An orange cat dressed as Qin Shi Huang in Han-style golden dragon robes sits...
 
-Source: [Post](https://x.com/drjoetw/status/2039905967597613558) · Published: 03 Apr 2026
+Source: [Post](https://x.com/drjoetw/status/2039905967597613558) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/050.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -617,7 +768,7 @@ Camera: fast cuts, whip pans, strong motion blur, 0.6–1.2s pacing, ending in s
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Japanese anime. Dialogue in Japanese. Flowing clouds. A girl walks, jumps cutely, and hits a red switch. At the moment of the explosion, it briefly becomes...
 
-Source: [Post](https://x.com/_3912657840/status/2040018529441730815) · Published: 03 Apr 2026
+Source: [Post](https://x.com/_3912657840/status/2040018529441730815) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/056.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -631,7 +782,7 @@ Japanese anime. Dialogue in Japanese. Flowing clouds. A girl walks, jumps cutely
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 15-second Original Elemental Battle Short Film: On an ice-covered volcanic mountain range, a warrior in lava obsidian armor collides head-on with an...
 
-Source: [Post](https://x.com/ZikinArt/status/2040006818953322644) · Published: 03 Apr 2026
+Source: [Post](https://x.com/ZikinArt/status/2040006818953322644) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/058.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -645,7 +796,7 @@ Source: [Post](https://x.com/ZikinArt/status/2040006818953322644) · Published: 
 ![Language-ES](https://img.shields.io/badge/Language-ES-blue?style=flat-square)
 Highly detailed cinematic 4K animated video, precious enchanted Faberge-style Easter eggs floating in a dreamy ethereal space, ornate golden filigree and...
 
-Source: [Post](https://x.com/ShamiWeb3/status/2040096061835059412) · Published: 03 Apr 2026
+Source: [Post](https://x.com/ShamiWeb3/status/2040096061835059412) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/064.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -659,7 +810,7 @@ Highly detailed cinematic 4K animated video, precious enchanted Faberge-style Ea
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Original 15-second short film about an elemental battle: In a volcanic mountain range covered in ice, a warrior in volcanic obsidian armor clashes head-on...
 
-Source: [Post](https://x.com/David_eficaz/status/2039966320414937236) · Published: 03 Apr 2026
+Source: [Post](https://x.com/David_eficaz/status/2039966320414937236) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/074.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -673,7 +824,7 @@ Original 15-second short film about an elemental battle: In a volcanic mountain 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 ultra cinematic sci-fi fantasy duel in daylight, a warrior wielding a glowing energy blade stands facing a massive terrifying creature, calm and focused,...
 
-Source: [Post](https://x.com/CharaspowerAI/status/2040013966986957144) · Published: 03 Apr 2026
+Source: [Post](https://x.com/CharaspowerAI/status/2040013966986957144) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/076.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -698,7 +849,7 @@ Ultra realistic, high-end cinematic action, precise choreography, glowing energy
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 15-second continuous single-shot action sequence. No cuts. No scene transitions. Dark cinematic fantasy realism, dense forest shadows, fog layers, dynamic...
 
-Source: [Post](https://x.com/Artedeingenio/status/2039997977897435190) · Published: 03 Apr 2026
+Source: [Post](https://x.com/Artedeingenio/status/2039997977897435190) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/078.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -721,7 +872,7 @@ Dense forest → cliff edge → open valley
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A lone samurai stands on a cliff overlooking cherry blossom mountains at sunset, wind blowing petals around him, he slowly draws his katana for the last...
 
-Source: [Post](https://x.com/Alin_Reaper05/status/2040042931172655384) · Published: 03 Apr 2026
+Source: [Post](https://x.com/Alin_Reaper05/status/2040042931172655384) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/079.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -735,7 +886,7 @@ A lone samurai stands on a cliff overlooking cherry blossom mountains at sunset,
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A daring aerial rogue diving on a bio-mechanical glider through a chaotic floating-island bazaar, weaving effortlessly through airborne merchants, dodging...
 
-Source: [Post](https://x.com/sebatheepan/status/2039723026124575231) · Published: 02 Apr 2026
+Source: [Post](https://x.com/sebatheepan/status/2039723026124575231) · Published: 02 04 2026
 
 [![](./public/seedance_2_prompt_images/085.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -749,7 +900,7 @@ A daring aerial rogue diving on a bio-mechanical glider through a chaotic floati
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A super high-speed flight action scene of a girl riding a dragon. High number of frames, 24FPS Japanese full-color anime. Two dragons, one blue and one red,...
 
-Source: [Post](https://x.com/naoyuki_okada/status/2039573038392614995) · Published: 02 Apr 2026
+Source: [Post](https://x.com/naoyuki_okada/status/2039573038392614995) · Published: 02 04 2026
 
 [![](./public/seedance_2_prompt_images/086.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -764,7 +915,7 @@ Two dragons, one blue and one red, are flying high above the clouds. They are fl
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 15-second Original Desert Martial Arts Short Film: A black cat warrior in light armor stands alone in a desert where yellow sand is flying all over the sky,...
 
-Source: [Post](https://x.com/NimEshed/status/2039816152222949829) · Published: 02 Apr 2026
+Source: [Post](https://x.com/NimEshed/status/2039816152222949829) · Published: 02 04 2026
 
 [![](./public/seedance_2_prompt_images/091.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -778,7 +929,7 @@ Source: [Post](https://x.com/NimEshed/status/2039816152222949829) · Published: 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A 15-second hyper-realistic epic war blockbuster. Style: rugged realism, 35mm handheld film aesthetic, natural grain, subtle shake. Xiang Yu, the...
 
-Source: [Post](https://x.com/john87445528/status/2039348028574744685) · Published: 01 Apr 2026
+Source: [Post](https://x.com/john87445528/status/2039348028574744685) · Published: 01 04 2026
 
 [![](./public/seedance_2_prompt_images/110.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -792,7 +943,7 @@ A 15-second hyper-realistic epic war blockbuster. Style: rugged realism, 35mm ha
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Office Coffee Break Gone WrongShot 1: Tired office worker in a button-up shirt sips coffee at his desk in a modern open-plan office. Calm medium shot,...
 
-Source: [Post](https://x.com/Dheepanratnam/status/2039387346706001941) · Published: 01 Apr 2026
+Source: [Post](https://x.com/Dheepanratnam/status/2039387346706001941) · Published: 01 04 2026
 
 [![](./public/seedance_2_prompt_images/117.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -806,7 +957,7 @@ Office Coffee Break Gone WrongShot 1: Tired office worker in a button-up shirt s
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 15-second continuous single-shot action sequence. No cuts. No scene transitions. Cinematic fantasy realism, large-scale creature animation, fire simulation,...
 
-Source: [Post](https://x.com/Artedeingenio/status/2039333445403287777) · Published: 01 Apr 2026
+Source: [Post](https://x.com/Artedeingenio/status/2039333445403287777) · Published: 01 04 2026
 
 [![](./public/seedance_2_prompt_images/119.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -829,7 +980,7 @@ Grounded live-action prompts focused on mood, body language, practical light, an
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Modern Japan. A 15-second live-action documentary-style video set during a high-rise building fire in Tokyo Bay. No BGM. No subtitles. Only environmental...
 
-Source: [Post](https://x.com/kuranoayashi/status/2040055299835650266) · Published: 03 Apr 2026
+Source: [Post](https://x.com/kuranoayashi/status/2040055299835650266) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/045.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -845,7 +996,7 @@ No BGM. No subtitles. Only environmental sounds, radio, wind, fire, and people's
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 0-5s Dynamic low-angle tracking shot pacing a female downhill longboarder in a deep aerodynamic tuck speeding down a steep mountain pass. Blinding, intense...
 
-Source: [Post](https://x.com/Dheepanratnam/status/2039982273076810119) · Published: 03 Apr 2026
+Source: [Post](https://x.com/Dheepanratnam/status/2039982273076810119) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/073.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -867,7 +1018,7 @@ First-person, drone-like, body-mounted, and immersion-first prompts built around
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A hyper-realistic, 8K resolution, adrenaline-fueled single-take POV action sequence. The camera is chest-mounted on a man wearing camouflage joggers and...
 
-Source: [Post](https://x.com/genel_ai/status/2039538309790404797) · Published: 02 Apr 2026
+Source: [Post](https://x.com/genel_ai/status/2039538309790404797) · Published: 02 04 2026
 
 [![](./public/seedance_2_prompt_images/004.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -892,7 +1043,7 @@ The camera remains in a low, fetal position on the final bar, shaking from the a
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 A premium Shanghai city montage blending cyberpunk energy, FPV movement, food macro shots, and commercial polish.
 
-Source: [Post](https://x.com/Adam38363368936/status/2039498800801398911) · Published: 02 Apr 2026
+Source: [Post](https://x.com/Adam38363368936/status/2039498800801398911) · Published: 02 04 2026
 
 [![](./public/seedance_2_prompt_images/005.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -918,7 +1069,7 @@ Mood: energetic, futuristic, premium, fast-paced. Combine wide city views with f
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Strictly follow the reference character’s face, hairstyle, outfit silhouette, and body proportions. Do not change identity or facial structure. Fixed...
 
-Source: [Post](https://x.com/Just_sharon7/status/2040685931858907646) · Published: 05 Apr 2026
+Source: [Post](https://x.com/Just_sharon7/status/2040685931858907646) · Published: 05 04 2026
 
 [![](./public/seedance_2_prompt_images/006.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -932,7 +1083,7 @@ Strictly follow the reference character’s face, hairstyle, outfit silhouette, 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Cinematic hyper-dynamic fast-paced multi-shot sequence, epic mythological battlefield, IMAX film simulation, 35mm Panavision lens, f/4, heavy cinematic...
 
-Source: [Post](https://x.com/drjoetw/status/2040661051948323129) · Published: 05 Apr 2026
+Source: [Post](https://x.com/drjoetw/status/2040661051948323129) · Published: 05 04 2026
 
 [![](./public/seedance_2_prompt_images/009.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -954,7 +1105,7 @@ Shot 8: Wide epic drone pull-back. Wukong stands silhouett
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A Y2K pool-party camcorder sequence with MiniDV texture, playful party beats, and fast nostalgic montage energy.
 
-Source: [Post](https://x.com/johnAGI168/status/2040628800422322359) · Published: 05 Apr 2026
+Source: [Post](https://x.com/johnAGI168/status/2040628800422322359) · Published: 05 04 2026
 
 [![](./public/seedance_2_prompt_images/010.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -991,7 +1142,7 @@ A rapid crane rise opens the entire pool party in golden-hour warm light, full o
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Cinematic CG ad quality, ultra-realistic, first-person POV, high-speed one-take camera movement, strong visual impact. The camera bursts out from inside...
 
-Source: [Post](https://x.com/xingsthatmatter/status/2040190310043812035) · Published: 03 Apr 2026
+Source: [Post](https://x.com/xingsthatmatter/status/2040190310043812035) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/038.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -1006,7 +1157,7 @@ The camera bursts out from inside image1, the Tesla card, as the card spins forw
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A highly dramatic, fast-cut anime MV with exaggerated cinematic tension and comedic payoff. 1930s Tokyo rice paddies, muddy textures, stormy sky. Extreme...
 
-Source: [Post](https://x.com/drjoetw/status/2040036596897222773) · Published: 03 Apr 2026
+Source: [Post](https://x.com/drjoetw/status/2040036596897222773) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/049.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -1079,7 +1230,7 @@ Freeze frame → dramatic music abruptly cuts.
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Create a fast, seamless 16:9 flying POV sequence with five linked shots. Shot 1: Start inside a dark ancient stone corridor with a wooden door at the far...
 
-Source: [Post](https://x.com/aisavvy1/status/2040054688054382972) · Published: 03 Apr 2026
+Source: [Post](https://x.com/aisavvy1/status/2040054688054382972) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/052.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -1099,7 +1250,7 @@ Fast, smooth, continuous movement. No flying device, shadow, or reflection. Cine
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Environment: A massive medieval-fantasy city under siege at dusk. Stone towers, cathedral spires, and narrow streets stretch toward the horizon while fire...
 
-Source: [Post](https://x.com/LudovicCreator/status/2039983776206344231) · Published: 03 Apr 2026
+Source: [Post](https://x.com/LudovicCreator/status/2039983776206344231) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/069.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -1135,7 +1286,7 @@ Photorealistic fire simulation, volumetric smoke, cinematic sunset lighting, rea
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 First-person POV of an ice cube dropped into a glass of soda. The cube crashes into a bubbling ocean of carbonated liquid. Gigantic bubbles rise like...
 
-Source: [Post](https://x.com/LudovicCreator/status/2039623813080416486) · Published: 02 Apr 2026
+Source: [Post](https://x.com/LudovicCreator/status/2039623813080416486) · Published: 02 04 2026
 
 [![](./public/seedance_2_prompt_images/093.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -1161,7 +1312,7 @@ Macro drink environment POV, carbonation bubble storms, melting ice transformati
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Gritty, raw handheld 35mm film aesthetic with natural film grain. Bright early-morning sunlight streaming through windows, creating sharp indoor shadows....
 
-Source: [Post](https://x.com/AngelNwoha/status/2039792884841591009) · Published: 02 Apr 2026
+Source: [Post](https://x.com/AngelNwoha/status/2039792884841591009) · Published: 02 04 2026
 
 [![](./public/seedance_2_prompt_images/102.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -1175,7 +1326,7 @@ Gritty, raw handheld 35mm film aesthetic with natural film grain. Bright early-m
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 10-second photorealistic cinematic POV video. A Japanese woman in her early 20s with a black short bob hairstyle, straight hair, natural refined makeup, and...
 
-Source: [Post](https://x.com/umitsuru_fire/status/2039295650039554051) · Published: 01 Apr 2026
+Source: [Post](https://x.com/umitsuru_fire/status/2039295650039554051) · Published: 01 04 2026
 
 [![](./public/seedance_2_prompt_images/105.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -1189,7 +1340,7 @@ Source: [Post](https://x.com/umitsuru_fire/status/2039295650039554051) · Publis
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A super futuristic megacity after the apocalypse awakens in a storm. Dark clouds press down on the city. Giant battleships slowly descend from the sky,...
 
-Source: [Post](https://x.com/johnAGI168/status/2039380975801471305) · Published: 01 Apr 2026
+Source: [Post](https://x.com/johnAGI168/status/2039380975801471305) · Published: 01 04 2026
 
 [![](./public/seedance_2_prompt_images/108.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -1203,7 +1354,7 @@ A super futuristic megacity after the apocalypse awakens in a storm. Dark clouds
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Style: Ultra-realistic industrial timelapse Pacing: Extremely fast (hyperlapse feel) Camera: Mostly fixed with slight cinematic motion (slider/drone feel)...
 
-Source: [Post](https://x.com/craftian_keskin/status/2039415621960499603) · Published: 01 Apr 2026
+Source: [Post](https://x.com/craftian_keskin/status/2039415621960499603) · Published: 01 04 2026
 
 [![](./public/seedance_2_prompt_images/111.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -1273,7 +1424,7 @@ Camera holds briefly as car exits frame
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 cinematic, heavy action blockbuster film, Japanese city center, collapsed main street at dusk. A giant monster is knocking down buildings, dust, sparks,...
 
-Source: [Post](https://x.com/Yuupapa_free/status/2039329682492121547) · Published: 01 Apr 2026
+Source: [Post](https://x.com/Yuupapa_free/status/2039329682492121547) · Published: 01 04 2026
 
 [![](./public/seedance_2_prompt_images/113.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -1291,7 +1442,7 @@ Advertising, fashion, lifestyle, product, and premium brand-style prompts.
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A synchronized anime idol-dance stage prompt driven by mechanical precision, rapid cuts, and blue-purple concert lighting.
 
-Source: [Post](https://x.com/ShadeLurk/status/2040671186984796632) · Published: 05 Apr 2026
+Source: [Post](https://x.com/ShadeLurk/status/2040671186984796632) · Published: 05 04 2026
 
 [![](./public/seedance_2_prompt_images/007.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -1310,7 +1461,7 @@ Three anime girls perform Perfume-style formation dance on an illuminated stage.
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-clad warrior and a black-armored opponent launch their final battle amid an...
 
-Source: [Post](https://x.com/ZaraIrahh/status/2040667542390190245) · Published: 05 Apr 2026
+Source: [Post](https://x.com/ZaraIrahh/status/2040667542390190245) · Published: 05 04 2026
 
 [![](./public/seedance_2_prompt_images/008.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -1324,7 +1475,7 @@ Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-cl
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Original Japanese-Style Dark Fantasy Action Short Film: Inside a dilapidated shrine hall, a white-robed warrior and a black-armored samurai engage in their...
 
-Source: [Post](https://x.com/MiraMusic_AI/status/2040595365096034700) · Published: 05 Apr 2026
+Source: [Post](https://x.com/MiraMusic_AI/status/2040595365096034700) · Published: 05 04 2026
 
 [![](./public/seedance_2_prompt_images/012.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -1341,7 +1492,7 @@ A strong hook within the first 2 seconds, followed by a stable and cohesive prog
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square)
 Here it is. A 15-second Japanese snack commercial. Shot 1 (3s): A man walks through a shopping street. As he passes, two housewives whisper, "It's out."...
 
-Source: [Post](https://x.com/aigeboku/status/2040562471027782017) · Published: 04 Apr 2026
+Source: [Post](https://x.com/aigeboku/status/2040562471027782017) · Published: 04 04 2026
 
 [![](./public/seedance_2_prompt_images/014.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -1362,7 +1513,7 @@ Shot 5 (3s): Close-up of the new snack package. Narration: "It's out! New releas
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Cinematic Martial Art Sequence for Seedance 2 PROMPT cinematic martial arts confrontation in broad daylight, a blind shaolin monk wearing a dark, stylized...
 
-Source: [Post](https://x.com/CharaspowerAI/status/2040376349504815467) · Published: 04 Apr 2026
+Source: [Post](https://x.com/CharaspowerAI/status/2040376349504815467) · Published: 04 04 2026
 
 [![](./public/seedance_2_prompt_images/017.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -1387,7 +1538,7 @@ Ultra realistic, high-end martial arts film choreography, precise body mechanics
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 I asked Grok to produce the same video, but the result wasn't convincing. Grok's rendering lacks a certain "realism." Seedance 2.0 is by far the best video...
 
-Source: [Post](https://x.com/Viafin23/status/2025901411221774788) · Published: 23 Feb 2026
+Source: [Post](https://x.com/Viafin23/status/2025901411221774788) · Published: 23 02 2026
 
 [![](./public/seedance_2_prompt_images/020.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -1408,7 +1559,7 @@ Maintain stable temporal continuity. Avoid unnatural frame interpolation. No exa
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 15-second cinematic Japanese drama pure love ambiguous short film, ultra-realistic quality, warm golden sunlight in an empty classroom in the afternoon,...
 
-Source: [Post](https://x.com/JiahaoYang_art/status/2033119940216344616) · Published: 15 Mar 2026
+Source: [Post](https://x.com/JiahaoYang_art/status/2033119940216344616) · Published: 15 03 2026
 
 [![](./public/seedance_2_prompt_images/022.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -1428,7 +1579,7 @@ Character identity is maintained throughout, real subtle head tilts, eye movemen
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Recommended Settings Mode: Standard | Resolution: 720p | Duration: 15 seconds. 100% real-person animation. Bright daytime. City square. Fast lighting. High...
 
-Source: [Post](https://x.com/MiraMusic_AI/status/2039096342749016145) · Published: 31 Mar 2026
+Source: [Post](https://x.com/MiraMusic_AI/status/2039096342749016145) · Published: 31 03 2026
 
 [![](./public/seedance_2_prompt_images/025.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -1442,7 +1593,7 @@ Source: [Post](https://x.com/MiraMusic_AI/status/2039096342749016145) · Publish
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 A shot-by-shot luxury supercar commercial storyboard focused on controlled camera movement and premium product surfaces.
 
-Source: [Post](https://x.com/Adam38363368936/status/2039932977287979053) · Published: 03 Apr 2026
+Source: [Post](https://x.com/Adam38363368936/status/2039932977287979053) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/030.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -1482,7 +1633,7 @@ Highest image quality: 8K.
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 Tested it: Original Hot-Blooded Duel Anime Short Film: Two top warriors launch their final duel against the backdrop of aerial ruins and thunderstorms. The...
 
-Source: [Post](https://x.com/gkxspace/status/2039894982434111716) · Published: 03 Apr 2026
+Source: [Post](https://x.com/gkxspace/status/2039894982434111716) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/032.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -1498,7 +1649,7 @@ Original Hot-Blooded Duel Anime Short Film: Two top warriors launch their final 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Style Hollywood Haute Couture Fantasy blockbuster, 8K ultra-clear, Photorealistic, High-fashion Editorial Style, Unreal Engine 5 fluid rendering, visual...
 
-Source: [Post](https://x.com/johnAGI168/status/2025849650654122348) · Published: 23 Feb 2026
+Source: [Post](https://x.com/johnAGI168/status/2025849650654122348) · Published: 23 02 2026
 
 [![](./public/seedance_2_prompt_images/033.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -1512,7 +1663,7 @@ Source: [Post](https://x.com/johnAGI168/status/2025849650654122348) · Published
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Style Modern Rural Aesthetics, Cinematic Commercial quality, shot with Sony A7S3/cinema camera, 4K/8K ultra-clear, Extreme Macro, natural transparent...
 
-Source: [Post](https://x.com/johnAGI168/status/2021818021354848258) · Published: 12 Feb 2026
+Source: [Post](https://x.com/johnAGI168/status/2021818021354848258) · Published: 12 02 2026
 
 [![](./public/seedance_2_prompt_images/034.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -1549,7 +1700,7 @@ Atmosphere: Steam slowly rises against the backlight, the scene is so quiet you 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 cinematic street racing sequence at night, a focused driver inside a high-performance car grips the steering wheel, intense eye focus, city lights...
 
-Source: [Post](https://x.com/CharaspowerAI/status/2039651574297792688) · Published: 02 Apr 2026
+Source: [Post](https://x.com/CharaspowerAI/status/2039651574297792688) · Published: 02 04 2026
 
 [![](./public/seedance_2_prompt_images/036.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -1575,7 +1726,7 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Generate a visual blockbuster featuring an Asian supermodel and luxury sports cars with top-tier commercial quality, requiring director-level storyboard...
 
-Source: [Post](https://x.com/johnAGI168/status/2039984306085327298) · Published: 03 Apr 2026
+Source: [Post](https://x.com/johnAGI168/status/2039984306085327298) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/046.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -1589,7 +1740,7 @@ Generate a visual blockbuster featuring an Asian supermodel and luxury sports ca
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 An android girl malfunctions and proceeds to destroy an evil research lab one after another. The evil boss, a doctor with a bad face, chases the girl,...
 
-Source: [Post](https://x.com/aiehon_aya/status/2040187587889905861) · Published: 03 Apr 2026
+Source: [Post](https://x.com/aiehon_aya/status/2040187587889905861) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/054.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -1603,7 +1754,7 @@ An android girl malfunctions and proceeds to destroy an evil research lab one af
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Positive Prompt: Original action game concept trailer. The protagonist travels through a neon ruined city, where the debris by the road emits faulty...
 
-Source: [Post](https://x.com/adrianaia_/status/2039972811067031657) · Published: 03 Apr 2026
+Source: [Post](https://x.com/adrianaia_/status/2039972811067031657) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/055.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -1617,7 +1768,7 @@ Positive Prompt: Original action game concept trailer. The protagonist travels t
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-clad warrior and a black-armored opponent launch their final battle amid an...
 
-Source: [Post](https://x.com/Rufus87078959/status/2039949879607197828) · Published: 03 Apr 2026
+Source: [Post](https://x.com/Rufus87078959/status/2039949879607197828) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/066.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -1631,7 +1782,7 @@ Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-cl
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 00:00-00:04 Shot 1: Follow shot. In a smoky underground rave club, a female cyborg with an exposed red mechanical spine walks through the crowd. She...
 
-Source: [Post](https://x.com/IamEmily2050/status/2040213294443847933) · Published: 03 Apr 2026
+Source: [Post](https://x.com/IamEmily2050/status/2040213294443847933) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/070.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -1645,7 +1796,7 @@ Source: [Post](https://x.com/IamEmily2050/status/2040213294443847933) · Publish
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 100% real-life shooting texture, Hollywood IMAX blockbuster quality, natural light and shadow, cold documentary style, natural light on a cloudy day,...
 
-Source: [Post](https://x.com/ChrisTheNerv/status/2040043939109953944) · Published: 03 Apr 2026
+Source: [Post](https://x.com/ChrisTheNerv/status/2040043939109953944) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/075.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -1680,7 +1831,7 @@ Layered progression from the scream activation to the explosive mechanical erupt
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A wuxia one-shot spectacle at Tianmen Mountain designed for speed, impact, and large-scale mythic martial-arts energy.
 
-Source: [Post](https://x.com/Adam38363368936/status/2039865857179013318) · Published: 03 Apr 2026
+Source: [Post](https://x.com/Adam38363368936/status/2039865857179013318) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/081.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -1738,7 +1889,7 @@ Freeze Frame: The camera pushes in for an extreme close-up. A drop of blood drip
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 "Dramatic low-angle tracking shot speeding along rain-slicked train tracks through a narrow mountain gorge. Dark rocky cliff walls rise on both sides, with...
 
-Source: [Post](https://x.com/ImperfectEngel/status/2039796558238286329) · Published: 02 Apr 2026
+Source: [Post](https://x.com/ImperfectEngel/status/2039796558238286329) · Published: 02 04 2026
 
 [![](./public/seedance_2_prompt_images/095.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -1752,7 +1903,7 @@ Source: [Post](https://x.com/ImperfectEngel/status/2039796558238286329) · Publi
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Hollywood movie-level commercial blockbuster quality, handheld photography, slight camera shake, fast-paced montage editing, the scene is full of energy and...
 
-Source: [Post](https://x.com/johnAGI168/status/2039277115690877430) · Published: 01 Apr 2026
+Source: [Post](https://x.com/johnAGI168/status/2039277115690877430) · Published: 01 04 2026
 
 [![](./public/seedance_2_prompt_images/109.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -1770,7 +1921,7 @@ The open-plan office hall of a luxurious securities company in Manhattan, USA, i
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 (Poliziottesco Wednesday): Detective Rossi: Deep Heat (Commissario Rossi: la polizia in crisi nera). A crime wave has hit the city and the cops can't seem...
 
-Source: [Post](https://x.com/ChrisGwinnLA/status/2039456415111393356) · Published: 01 Apr 2026
+Source: [Post](https://x.com/ChrisGwinnLA/status/2039456415111393356) · Published: 01 04 2026
 
 [![](./public/seedance_2_prompt_images/118.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -1785,7 +1936,7 @@ A crime wave has hit the city and the cops can't seem to get it together. Detect
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A commercial fashion-tech prompt for a gradient foldable smartphone with macro details, sharp cuts, and premium motion language.
 
-Source: [Post](https://x.com/Adam38363368936/status/2039157138002780202) · Published: 01 Apr 2026
+Source: [Post](https://x.com/Adam38363368936/status/2039157138002780202) · Published: 01 04 2026
 
 [![](./public/seedance_2_prompt_images/121.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -1815,7 +1966,7 @@ Prompts that rely on image references, character consistency, or frame-to-frame 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A whimsical clay-animation piano performance starring a stylish skeleton girl in a miniature ghost-filled diorama.
 
-Source: [Post](https://x.com/tea_story_hoshi/status/2040614786933887043) · Published: 05 Apr 2026
+Source: [Post](https://x.com/tea_story_hoshi/status/2040614786933887043) · Published: 05 04 2026
 
 [![](./public/seedance_2_prompt_images/011.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -1841,7 +1992,7 @@ Timeline:
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square)
 A storm-at-sea anime action prompt combining ship physics, kraken destruction, and a heroic sword strike sequence.
 
-Source: [Post](https://x.com/applete77191758/status/2040450526819807277) · Published: 04 Apr 2026
+Source: [Post](https://x.com/applete77191758/status/2040450526819807277) · Published: 04 04 2026
 
 [![](./public/seedance_2_prompt_images/015.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -1919,7 +2070,7 @@ Motion blur + light streaks
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A structured duel prompt defining two characters, their weapons, movement logic, camera setup, and cut-by-cut choreography.
 
-Source: [Post](https://x.com/MiraMusic_AI/status/2040281710957666770) · Published: 04 Apr 2026
+Source: [Post](https://x.com/MiraMusic_AI/status/2040281710957666770) · Published: 04 04 2026
 
 [![](./public/seedance_2_prompt_images/019.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -1999,7 +2150,7 @@ Notes:
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 An apocalyptic music-video prompt about a girl singing at a rooftop piano while meteors destroy the city around her.
 
-Source: [Post](https://x.com/liyue_ai/status/2040062803076341872) · Published: 03 Apr 2026
+Source: [Post](https://x.com/liyue_ai/status/2040062803076341872) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/028.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -2033,7 +2184,7 @@ Color and tonality: Hollywood teal-and-orange tone, low saturation. Generate the
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 CINEMATIC 8mm Fisheye lens, FPV racing drone camera, hyper-fluid motion. @Image 1 (Lanky Knight, red coat) on a longboard. @Image 2 (Steep coastal mountain...
 
-Source: [Post](https://x.com/itsPixieVerse/status/2040030453298811099) · Published: 03 Apr 2026
+Source: [Post](https://x.com/itsPixieVerse/status/2040030453298811099) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/048.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -2051,7 +2202,7 @@ Source: [Post](https://x.com/itsPixieVerse/status/2040030453298811099) · Publis
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Subject:@Image 1 Photorealistic Image reference. A professional stuntman and kung-fu master performing full-body, high-speed, functional kung-fu. Movement...
 
-Source: [Post](https://x.com/YaReYaRu30Life/status/2039971048305930643) · Published: 03 Apr 2026
+Source: [Post](https://x.com/YaReYaRu30Life/status/2039971048305930643) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/059.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -2070,7 +2221,7 @@ Constant full-speed forward
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Ray tracing, Unreal Engine render, small town in heavy rain. @image1 character with identical hairstyle, outfit, realistic skin, dim lighting, IMAX...
 
-Source: [Post](https://x.com/Gwsubsa/status/2040193631341174792) · Published: 03 Apr 2026
+Source: [Post](https://x.com/Gwsubsa/status/2040193631341174792) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/071.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -2084,7 +2235,7 @@ Ray tracing, Unreal Engine render, small town in heavy rain. @image1 character w
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square)
 Use real-zasuko-2.0-character-sheet-dx.png as the character reference. Start with a wide cinematic shot of the lonely convenience store on the moon before...
 
-Source: [Post](https://x.com/zasuko_michiksa/status/2039650311212872036) · Published: 02 Apr 2026
+Source: [Post](https://x.com/zasuko_michiksa/status/2039650311212872036) · Published: 02 04 2026
 
 [![](./public/seedance_2_prompt_images/084.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -2098,7 +2249,7 @@ Use `real-zasuko-2.0-character-sheet-dx.png` as the character reference. Start w
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 A long-form transformation sequence that escalates from rooftop sprint, to freefall capture, to car-to-jet metamorphosis.
 
-Source: [Post](https://x.com/john87445528/status/2039496153641660508) · Published: 02 Apr 2026
+Source: [Post](https://x.com/john87445528/status/2039496153641660508) · Published: 02 04 2026
 
 [![](./public/seedance_2_prompt_images/088.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -2116,7 +2267,7 @@ Chapter 3 (0-15 seconds): AITO M7 Transforms -> Becomes an F-14 -> Protagonist S
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Character reference @Image 1, convert to real-person live-action style. Model figure, cool white skin, slender arms, prominent bust and hips. 15-second...
 
-Source: [Post](https://x.com/Adam38363368936/status/2039646077230698743) · Published: 02 Apr 2026
+Source: [Post](https://x.com/Adam38363368936/status/2039646077230698743) · Published: 02 04 2026
 
 [![](./public/seedance_2_prompt_images/103.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -2149,7 +2300,7 @@ Shot Breakdown (15 shots in 15 seconds):
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 FORMAT: 15s / free rhythm / 1 MATCH CUT / CONTINUOUS MOVE UNTIL MATCH CUT + IMMEDIATE ACTION FROM FIRST FRAME SUBJECTS: A lone sword-bearing woman in...
 
-Source: [Post](https://x.com/aimikoda/status/2039380910278115454) · Published: 01 Apr 2026
+Source: [Post](https://x.com/aimikoda/status/2039380910278115454) · Published: 01 04 2026
 
 [![](./public/seedance_2_prompt_images/112.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -2165,7 +2316,7 @@ SUBJECTS: A lone sword-bearing woman in weathered fur and leather fights a massi
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square)
 A reusable morphing template for turning seven still images into one controlled continuous transformation shot.
 
-Source: [Post](https://x.com/YaReYaRu30Life/status/2039474680235741681) · Published: 01 Apr 2026
+Source: [Post](https://x.com/YaReYaRu30Life/status/2039474680235741681) · Published: 01 04 2026
 
 [![](./public/seedance_2_prompt_images/114.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -2243,7 +2394,7 @@ Abstract, impossible, stylized, or effect-heavy prompts driven by transformation
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Seedance 2.0 Zero-gravity combat scene. If you also reference music, it can follow the beat surprisingly well. prompt:
 
-Source: [Post](https://x.com/MiraMusic_AI/status/2040584525781364874) · Published: 05 Apr 2026
+Source: [Post](https://x.com/MiraMusic_AI/status/2040584525781364874) · Published: 05 04 2026
 
 [![](./public/seedance_2_prompt_images/013.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -2289,7 +2440,7 @@ She regains balance, floating motionless as the scene holds on a final frame.
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Whale in the Clouds — A cinematic surreal epic short film, ultra-realistic magical realism. Late afternoon, a coastal city. Warm sunlight, sea mist...
 
-Source: [Post](https://x.com/chaosdotjpg/status/2040203827249398086) · Published: 03 Apr 2026
+Source: [Post](https://x.com/chaosdotjpg/status/2040203827249398086) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/051.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -2304,7 +2455,7 @@ Aerial shot: skyline,
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A diver floats motionless in pitch-black ocean depth, a single beam of light cutting through the dark. Bioluminescent veins begin threading across their...
 
-Source: [Post](https://x.com/AIARTGALLARY/status/2039964736419479576) · Published: 03 Apr 2026
+Source: [Post](https://x.com/AIARTGALLARY/status/2039964736419479576) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/082.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -2318,7 +2469,7 @@ A diver floats motionless in pitch-black ocean depth, a single beam of light cut
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A towering humanoid entity made of shifting translucent geometry appears above a megacity skyline, its body composed of overlapping dimensional planes...
 
-Source: [Post](https://x.com/LudovicCreator/status/2039768597241725132) · Published: 02 Apr 2026
+Source: [Post](https://x.com/LudovicCreator/status/2039768597241725132) · Published: 02 04 2026
 
 [![](./public/seedance_2_prompt_images/092.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -2360,7 +2511,7 @@ Diegetic prismatic dimensional light reflecting through fractured architecture a
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Rainy Underground Alley Merge 15-second surreal horror in a narrow rainy underground service alley, neon signs reflecting on puddles, steam rising from...
 
-Source: [Post](https://x.com/Dheepanratnam/status/2039796932562838010) · Published: 02 Apr 2026
+Source: [Post](https://x.com/Dheepanratnam/status/2039796932562838010) · Published: 02 04 2026
 
 [![](./public/seedance_2_prompt_images/096.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -2376,7 +2527,7 @@ Rainy Underground Alley Merge
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Video prompt Quantum Reality Fracture on City Street (Interdimensional Rift VFX) Cinematic 15-second high-budget sci-fi horror sequence on a rain-slicked...
 
-Source: [Post](https://x.com/Dheepanratnam/status/2039651240909435242) · Published: 02 Apr 2026
+Source: [Post](https://x.com/Dheepanratnam/status/2039651240909435242) · Published: 02 04 2026
 
 [![](./public/seedance_2_prompt_images/097.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -2396,7 +2547,7 @@ Cinematic 15-second high-budget sci-fi horror sequence on a rain-slicked downtow
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 cinematic anime close-up shot of a character's eye, extreme macro, eyelashes and skin texture visible, soft breathing motion, eye slowly closing, calm and...
 
-Source: [Post](https://x.com/roco_kn_roco/status/2039323186127630710) · Published: 01 Apr 2026
+Source: [Post](https://x.com/roco_kn_roco/status/2039323186127630710) · Published: 01 04 2026
 
 [![](./public/seedance_2_prompt_images/106.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -2424,7 +2575,7 @@ ultra detailed anime style, cinematic lighting, high contrast, no cartoon exagge
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A surreal volcanic sky realm where islands of black rock float above rivers of molten lava flowing through the air like suspended waterfalls. The sky burns...
 
-Source: [Post](https://x.com/LudovicCreator/status/2039258991809773666) · Published: 01 Apr 2026
+Source: [Post](https://x.com/LudovicCreator/status/2039258991809773666) · Published: 01 04 2026
 
 [![](./public/seedance_2_prompt_images/116.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -2458,7 +2609,7 @@ Reusable prompt skeletons, JSON-style specs, and highly structured prompt format
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 A military-disaster prompt focused on catastrophic carrier collapse, giant storm waves, and heavy practical destruction detail.
 
-Source: [Post](https://x.com/johnAGI168/status/2040432247094870343) · Published: 04 Apr 2026
+Source: [Post](https://x.com/johnAGI168/status/2040432247094870343) · Published: 04 04 2026
 
 [![](./public/seedance_2_prompt_images/016.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -2476,7 +2627,7 @@ Seedance 2.0 text-to-video prompt below:
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 "effectid": "ethereal02", "title": "Reconstruction of Memory Shards", "visualstyle": "Abstract Cinematic / Art Installation", "duration": "10s",
 
-Source: [Post](https://x.com/TechTalkNAVI/status/2040327899606306840) · Published: 04 Apr 2026
+Source: [Post](https://x.com/TechTalkNAVI/status/2040327899606306840) · Published: 04 04 2026
 
 [![](./public/seedance_2_prompt_images/018.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -2505,7 +2656,7 @@ Source: [Post](https://x.com/TechTalkNAVI/status/2040327899606306840) · Publish
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 "videoprompt": "duration": "15 seconds", "title": "Blueprint to Reality – Single-Story House Transformation", "style": "Architectural visualization,...
 
-Source: [Post](https://x.com/craftian_keskin/status/2039053365666037902) · Published: 31 Mar 2026
+Source: [Post](https://x.com/craftian_keskin/status/2039053365666037902) · Published: 31 03 2026
 
 [![](./public/seedance_2_prompt_images/024.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -2570,7 +2721,7 @@ Source: [Post](https://x.com/craftian_keskin/status/2039053365666037902) · Publ
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 A high-fashion martial-arts tailoring prompt where couture craft is staged like precision combat inside a luxury studio.
 
-Source: [Post](https://x.com/Adam38363368936/status/2037359552849666514) · Published: 27 Mar 2026
+Source: [Post](https://x.com/Adam38363368936/status/2037359552849666514) · Published: 27 03 2026
 
 [![](./public/seedance_2_prompt_images/027.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -2606,7 +2757,7 @@ TIMELINE:
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 FORMAT: 15s / 145 BPM / 15 SHOTS / beat-synced routine SUBJECT: @image1. WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top,...
 
-Source: [Post](https://x.com/aimikoda/status/2040200435986817039) · Published: 03 Apr 2026
+Source: [Post](https://x.com/aimikoda/status/2040200435986817039) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/053.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -2623,7 +2774,7 @@ WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top, trou
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 "location": "Tokyo Cityscape (Night)", "duration": "10s", "prompt": "A cinematic POV shot riding an invisible rollercoaster through Tokyo at night. A...
 
-Source: [Post](https://x.com/TechTalkNAVI/status/2039941029265355123) · Published: 03 Apr 2026
+Source: [Post](https://x.com/TechTalkNAVI/status/2039941029265355123) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/061.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -2646,7 +2797,7 @@ Source: [Post](https://x.com/TechTalkNAVI/status/2039941029265355123) · Publish
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 "location": "Nishi-Shinjuku Skyscraper District (near Tokyo Metropolitan Government Building)", "duration": "10s", "prompt": "A wide cinematic shot of the...
 
-Source: [Post](https://x.com/TechTalkNAVI/status/2039928267323658399) · Published: 03 Apr 2026
+Source: [Post](https://x.com/TechTalkNAVI/status/2039928267323658399) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/062.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -2669,7 +2820,7 @@ Source: [Post](https://x.com/TechTalkNAVI/status/2039928267323658399) · Publish
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 "sceneid": 4, "title": "Starlight Shadow / Stardust Silhouette", "duration": "10s", "visualstyle": "Fantasy / High-End Commercial",
 
-Source: [Post](https://x.com/TechTalkNAVI/status/2039904725639037110) · Published: 03 Apr 2026
+Source: [Post](https://x.com/TechTalkNAVI/status/2039904725639037110) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/063.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -2701,7 +2852,7 @@ Source: [Post](https://x.com/TechTalkNAVI/status/2039904725639037110) · Publish
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 SUBJECTS: Main Subject: A parkour expert in POV perspective, defined by visible arms, hands, forearms, shoe tips, lower knees, grips, hand placements, wall...
 
-Source: [Post](https://x.com/0xbisc/status/2040041171460968728) · Published: 03 Apr 2026
+Source: [Post](https://x.com/0xbisc/status/2040041171460968728) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/083.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -2719,7 +2870,7 @@ Style: Painterly 3D, stylized on real human anatomy
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 FORMAT: 15s / 180 BPM / ONE CONTINUOUS SHOT / 360 POV downhill stair run, viral energy, max chaos SUBJECTS: First-person cyclist, handlebars and front wheel...
 
-Source: [Post](https://x.com/aimikoda/status/2039827756083540361) · Published: 02 Apr 2026
+Source: [Post](https://x.com/aimikoda/status/2039827756083540361) · Published: 02 04 2026
 
 [![](./public/seedance_2_prompt_images/090.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -2735,7 +2886,7 @@ SUBJECTS: First-person cyclist, handlebars and front wheel flashing low in frame
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 "prompt": "Cinematic, hyper-realistic or stylized 3D/2.5D rendering of food and characters, with strong motion and dynamic camera work. Vibrant, saturated...
 
-Source: [Post](https://x.com/Just_sharon7/status/2039725656393875580) · Published: 02 Apr 2026
+Source: [Post](https://x.com/Just_sharon7/status/2039725656393875580) · Published: 02 04 2026
 
 [![](./public/seedance_2_prompt_images/094.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -2763,7 +2914,7 @@ Source: [Post](https://x.com/Just_sharon7/status/2039725656393875580) · Publish
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 FORMAT: 15s / single continuous impossible camera move / no dialogue STYLE: High-end commercial kitchen during dinner rush, gleaming stainless steel, flying...
 
-Source: [Post](https://x.com/Dheepanratnam/status/2039568902481387645) · Published: 02 Apr 2026
+Source: [Post](https://x.com/Dheepanratnam/status/2039568902481387645) · Published: 02 04 2026
 
 [![](./public/seedance_2_prompt_images/098.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -2779,7 +2930,7 @@ Shot 01 (0:00–2:00): Camera starts at floor level on anti-slip
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 "shot": "composition": "POV time-freeze with hands moving through frozen environment", "lens": "ultra-wide cinematic lens with subtle distortion",...
 
-Source: [Post](https://x.com/CharaspowerAI/status/2039704453784191201) · Published: 02 Apr 2026
+Source: [Post](https://x.com/CharaspowerAI/status/2039704453784191201) · Published: 02 04 2026
 
 [![](./public/seedance_2_prompt_images/099.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -2825,7 +2976,7 @@ Source: [Post](https://x.com/CharaspowerAI/status/2039704453784191201) · Publis
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 FORMAT: 15s / handheld close + slow cuts / 5 beats / sci-fi drama — astronaut's first spacewalk, orbital silence SUBJECTS: An astronaut, 40s, in a white EVA...
 
-Source: [Post](https://x.com/BrennanErbz/status/2039579736301781215) · Published: 02 Apr 2026
+Source: [Post](https://x.com/BrennanErbz/status/2039579736301781215) · Published: 02 04 2026
 
 [![](./public/seedance_2_prompt_images/100.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -2839,7 +2990,7 @@ FORMAT: 15s / handheld close + slow cuts / 5 beats / sci-fi drama — astronaut'
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 SUBJECTS: Subject 1: Adult male, Western casual everyday home and outing attire, short jacket, basic T-shirt, long pants, everyday shoes; lean build,...
 
-Source: [Post](https://x.com/0xbisc/status/2039673040787956123) · Published: 02 Apr 2026
+Source: [Post](https://x.com/0xbisc/status/2039673040787956123) · Published: 02 04 2026
 
 [![](./public/seedance_2_prompt_images/104.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -2855,7 +3006,7 @@ Subject 2: Golden Retriever, large head, broad chest, thick, fluffy fur; overall
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 "title": "Stylized 3D Barbershop Transformation Sequence", "style": "Stylized 3D animation with exaggerated cartoon proportions, cinematic...
 
-Source: [Post](https://x.com/ShamiWeb3/status/2039372124079669655) · Published: 01 Apr 2026
+Source: [Post](https://x.com/ShamiWeb3/status/2039372124079669655) · Published: 01 04 2026
 
 [![](./public/seedance_2_prompt_images/115.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -2923,7 +3074,7 @@ Source: [Post](https://x.com/ShamiWeb3/status/2039372124079669655) · Published:
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 SUBJECTS: Subject 1: First-person perspective hands (rendered in Monet impressionist oil painting brushwork, soft skin tones with no hard edges; both hands...
 
-Source: [Post](https://x.com/0xbisc/status/2039332336643248317) · Published: 01 Apr 2026
+Source: [Post](https://x.com/0xbisc/status/2039332336643248317) · Published: 01 04 2026
 
 [![](./public/seedance_2_prompt_images/122.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -2942,7 +3093,7 @@ Useful prompts that do not fit the tighter buckets above but remain strong gener
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 A nostalgic seasonal memory film that moves from playful childhood scenes to reflective lakeside melancholy and ends on a poetic title card.
 
-Source: [Post](https://x.com/liyue_ai/status/2038993496225591731) · Published: 31 Mar 2026
+Source: [Post](https://x.com/liyue_ai/status/2038993496225591731) · Published: 31 03 2026
 
 [![](./public/seedance_2_prompt_images/001.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -2967,7 +3118,7 @@ Background music: soft instrumental music (piano + bamboo flute), slow rhythm, e
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 A highly controlled beat-synced fashion prompt built around close-up heel movement, stockings texture, and precise camera timing.
 
-Source: [Post](https://x.com/TingFengAIAI/status/2038904225548149011) · Published: 31 Mar 2026
+Source: [Post](https://x.com/TingFengAIAI/status/2038904225548149011) · Published: 31 03 2026
 
 [![](./public/seedance_2_prompt_images/002.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -2987,7 +3138,7 @@ Beauty beat-sync sequence:
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 On the floor of a child's bedroom, a miniature girl rides a tiny skateboard at high speed, skimming just above the ground. Everything is scaled so massively...
 
-Source: [Post](https://x.com/anson7956/status/2038846411253657939) · Published: 31 Mar 2026
+Source: [Post](https://x.com/anson7956/status/2038846411253657939) · Published: 31 03 2026
 
 [![](./public/seedance_2_prompt_images/003.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -3014,7 +3165,7 @@ Here it is: shot1 (3s): A futuristic office floor with a sci-fi atmosphere. An a
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Raw mobile phone footage, vertical handheld shot, shaky cam, grainy texture. At the legendary Rucker Park basketball court at dusk, a heavy-set elderly...
 
-Source: [Post](https://x.com/techhalla/status/2039114930461549008) · Published: 31 Mar 2026
+Source: [Post](https://x.com/techhalla/status/2039114930461549008) · Published: 31 03 2026
 
 [![](./public/seedance_2_prompt_images/023.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -3028,7 +3179,7 @@ Raw mobile phone footage, vertical handheld shot, shaky cam, grainy texture. At 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 The firefighter is entering the house, at the 3-second mark the firefighter is walking inside the house with furniture in fire around him, at the 5-second...
 
-Source: [Post](https://x.com/AITalesNBH/status/2039072522650423445) · Published: 31 Mar 2026
+Source: [Post](https://x.com/AITalesNBH/status/2039072522650423445) · Published: 31 03 2026
 
 [![](./public/seedance_2_prompt_images/026.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -3042,7 +3193,7 @@ The firefighter is entering the house, at the 3-second mark the firefighter is w
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 A multi-look ancient-costume transformation prompt staged as a rhythmic beauty showcase with hard-cut wardrobe transitions.
 
-Source: [Post](https://x.com/johnAGI168/status/2040058721158467975) · Published: 03 Apr 2026
+Source: [Post](https://x.com/johnAGI168/status/2040058721158467975) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/029.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -3063,7 +3214,7 @@ Seedance 2.0 all-purpose reference prompt below:
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Ginza at night, future cyberpunk. A female ninja is hiding, made transparent by optical camouflage. She defeats an enemy ninja. After the first attack, the...
 
-Source: [Post](https://x.com/ChiakiAkagi/status/2040232705477255363) · Published: 04 Apr 2026
+Source: [Post](https://x.com/ChiakiAkagi/status/2040232705477255363) · Published: 04 04 2026
 
 [![](./public/seedance_2_prompt_images/037.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -3083,7 +3234,7 @@ The female ninja's punch sends the ninja flying, crashing into a neon sign high 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 stories of a hopper. 1 astronaut that's able to hop from location to location, anytime he wants.
 
-Source: [Post](https://x.com/starks_arq/status/2040036602018451721) · Published: 03 Apr 2026
+Source: [Post](https://x.com/starks_arq/status/2040036602018451721) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/040.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -3099,7 +3250,7 @@ stories of a hopper.
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A suspicious man stands in the center of Shibuya scramble crossing. People around the man walk and cross like a time-lapse, centered around him. When he...
 
-Source: [Post](https://x.com/roco_kn_roco/status/2039962871149584691) · Published: 03 Apr 2026
+Source: [Post](https://x.com/roco_kn_roco/status/2039962871149584691) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/043.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -3116,7 +3267,7 @@ Protagonist: Hiromu, Age 19
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 aesthetic: phone held up in the middle of a packed crowd on the deck of a fishing boat audio: bass competing with ocean wind, waves crashing against the...
 
-Source: [Post](https://x.com/maxescu/status/2040095139511636166) · Published: 03 Apr 2026
+Source: [Post](https://x.com/maxescu/status/2040095139511636166) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/044.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -3133,7 +3284,7 @@ aesthetic: phone held up in the middle of a packed crowd on the deck of a fishin
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A girl falls rapidly through a digital tunnel. The girl is panicking and flailing. She passes through a tunnel that twists and turns up, down, left, and...
 
-Source: [Post](https://x.com/_3912657840/status/2039911660656484590) · Published: 03 Apr 2026
+Source: [Post](https://x.com/_3912657840/status/2039911660656484590) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/057.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -3147,7 +3298,7 @@ A girl falls rapidly through a digital tunnel. The girl is panicking and flailin
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Scene: The Skytree transforms into a "super massive railgun" and fires a light projectile towards space. Visuals: First Stage: The exterior of the tower is...
 
-Source: [Post](https://x.com/TechTalkNAVI/status/2040100728627454339) · Published: 03 Apr 2026
+Source: [Post](https://x.com/TechTalkNAVI/status/2040100728627454339) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/060.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -3171,7 +3322,7 @@ Lighting/Color: Cold white, purple discharge. Contrast between silence and roar.
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A Hollywood movie trailer. A Marvel-style action movie where an ordinary American high school student transforms into a hero and fights. I want to create...
 
-Source: [Post](https://x.com/SSSS_CRYPTOMAN/status/2040217171918516475) · Published: 03 Apr 2026
+Source: [Post](https://x.com/SSSS_CRYPTOMAN/status/2040217171918516475) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/065.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -3185,7 +3336,7 @@ A Hollywood movie trailer. A Marvel-style action movie where an ordinary America
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Cinematic vertical 9:16 video. Two versions of Rapunzel from Tangled walk side by side toward the camera on a forest dirt path. On the LEFT: the original...
 
-Source: [Post](https://x.com/Mayz1169/status/2039982387703296044) · Published: 03 Apr 2026
+Source: [Post](https://x.com/Mayz1169/status/2039982387703296044) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/067.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -3199,7 +3350,7 @@ Cinematic vertical 9:16 video. Two versions of Rapunzel from Tangled walk side b
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A giant glacier wall collapses into a fjord beside a coastal city. The falling ice triggers a massive water displacement wave that surges toward the harbor....
 
-Source: [Post](https://x.com/LudovicCreator/status/2040100791822721300) · Published: 03 Apr 2026
+Source: [Post](https://x.com/LudovicCreator/status/2040100791822721300) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/068.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -3221,7 +3372,7 @@ Glacier collapse megaflood, iceberg destruction chaos, cinematic polar disaster 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A moonlit piano chase where the mouse turns the whole instrument into a trap. What happens The mouse runs across piano keys, making playful notes. The cat...
 
-Source: [Post](https://x.com/Dheepanratnam/status/2040060221733609969) · Published: 03 Apr 2026
+Source: [Post](https://x.com/Dheepanratnam/status/2040060221733609969) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/072.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -3244,7 +3395,7 @@ The cat crashes into the keyboard section, causing a chaotic musical explosion. 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 15-second continuous single-shot cartoon sequence. No cuts. No scene transitions. Soft watercolor illustration style, pastel colors, gentle textures,...
 
-Source: [Post](https://x.com/Artedeingenio/status/2040054705183723711) · Published: 03 Apr 2026
+Source: [Post](https://x.com/Artedeingenio/status/2040054705183723711) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/077.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -3266,7 +3417,7 @@ A small animal character walking through a quiet meadow.
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Victorian-era flying airships with brass gears and giant propellers battling over a cloudy mountain range at sunset, cannons firing, pirates swinging on...
 
-Source: [Post](https://x.com/Alin_Reaper05/status/2040017612105556403) · Published: 03 Apr 2026
+Source: [Post](https://x.com/Alin_Reaper05/status/2040017612105556403) · Published: 03 04 2026
 
 [![](./public/seedance_2_prompt_images/080.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -3280,7 +3431,7 @@ Victorian-era flying airships with brass gears and giant propellers battling ove
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 aesthetic: Raw 35mm handheld, high altitude sun haze. One unbroken continuous tracking shot. No cuts. All real time. audio: Full constant jet engine roar,...
 
-Source: [Post](https://x.com/maxescu/status/2039639805592502504) · Published: 02 Apr 2026
+Source: [Post](https://x.com/maxescu/status/2039639805592502504) · Published: 02 04 2026
 
 [![](./public/seedance_2_prompt_images/087.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -3297,7 +3448,7 @@ timeline:
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 2.35:1 widescreen, 24fps, cinematic quality. Exterior of an ancient temple in the deep mountains. The camera overlooks the temple roof amidst surging...
 
-Source: [Post](https://x.com/cdexsta/status/2039559243284844649) · Published: 02 Apr 2026
+Source: [Post](https://x.com/cdexsta/status/2039559243284844649) · Published: 02 04 2026
 
 [![](./public/seedance_2_prompt_images/089.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -3312,7 +3463,7 @@ Exterior of an ancient temple in the deep mountains. The camera overlooks the te
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 Historical scene with dramatic lighting. 0-3 seconds Opening shot: Venetian galley fleet approaches Constantinople at dawn, cannons blazing. Massive city...
 
-Source: [Post](https://x.com/AskVenice/status/2039570736239595726) · Published: 02 Apr 2026
+Source: [Post](https://x.com/AskVenice/status/2039570736239595726) · Published: 02 04 2026
 
 [![](./public/seedance_2_prompt_images/101.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -3332,7 +3483,7 @@ Quick cut: Ottoman cannon
 ![Language-ES](https://img.shields.io/badge/Language-ES-blue?style=flat-square)
 ROCKET SURF. STYLE: Gritty Cine Verite, 35mm handheld, natural shake. Continuous tracking shot. No cuts. All real-time. LIGHTING: Bright, high-altitude sun,...
 
-Source: [Post](https://x.com/maxescu/status/2039308020006396033) · Published: 01 Apr 2026
+Source: [Post](https://x.com/maxescu/status/2039308020006396033) · Published: 01 04 2026
 
 [![](./public/seedance_2_prompt_images/107.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
@@ -3353,7 +3504,7 @@ TIMELINE: 0-3s:
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 A single stand-up comedian @Image 1 with black hair, wearing a textured red dress, standing on a spotlighted stage @Image 2. Exaggerated and humorous...
 
-Source: [Post](https://x.com/Adam38363368936/status/2039286911265800297) · Published: 01 Apr 2026
+Source: [Post](https://x.com/Adam38363368936/status/2039286911265800297) · Published: 01 04 2026
 
 [![](./public/seedance_2_prompt_images/120.jpg)](https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
