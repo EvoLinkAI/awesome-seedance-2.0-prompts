@@ -1,46 +1,73 @@
-[English](./README.md) | [Español](./README.es.md) | [Português](./README.pt.md) | [日本語](./README.ja.md) | [한국어](./README.ko.md) | [Deutsch](./README.de.md) | [Français](./README.fr.md) | [Türkçe](./README.tr.md) | [繁體中文](./README.zh-TW.md) | [简体中文](./README.zh-CN.md) | [Русский](./README.ru.md)
+<div align="center">
 
-# Awesome Seedance 2.0 Prompts
+<img src="./public/banner.jpg" alt="Awesome Seedance 2.0 Prompts banner">
 
-[![Awesome](https://img.shields.io/badge/Awesome-Seedance%202.0%20Prompts-black?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts) [![GitHub stars](https://img.shields.io/github/stars/EvoLinkAI/awesome-seedance-2.0-prompts?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts/stargazers) [![Prompt count](https://img.shields.io/badge/prompts-178-blue?style=flat-square)](./README.md)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
+[![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
+[![Website](https://img.shields.io/badge/Website-Live-orange)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
+[![Docs](https://img.shields.io/badge/Docs-Read-blue)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
+[![Model](https://img.shields.io/badge/Model-Explore-purple)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
 
-<p align="center">
-  <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2.0-prompts">
-    <img src="./public/banner.jpg" alt="Seedance 2.0 Human Face Now Available Try Now" width="100%" />
-  </a>
-</p>
+[![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
+[![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
+[![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md)
+[![🇯🇵 日本語](https://img.shields.io/badge/🇯🇵_日本語-表示-52b788)](README_ja.md)
+[![🇰🇷 한국어](https://img.shields.io/badge/🇰🇷_한국어-보기-4ea8de)](README_ko.md)
+[![🇩🇪 Deutsch](https://img.shields.io/badge/🇩🇪_Deutsch-Ansehen-f4a261)](README_de.md)
+[![🇫🇷 Français](https://img.shields.io/badge/🇫🇷_Français-Voir-e76f51)](README_fr.md)
+[![🇹🇷 Türkçe](https://img.shields.io/badge/🇹🇷_Türkçe-Görüntüle-d62828)](README_tr.md)
+[![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md)
+[![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md)
+[![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
 
-<p align="center">
-  <strong>Seedance 2.0<br>Human Face Now Available<br>Try Now</strong>
-</p>
+</div>
 
-A curated collection of high-quality Seedance 2.0 prompts for cinematic video generation — cleaned from public community posts, translated into English for README readability, and organized for fast GitHub-native browsing.
+## 🍌 Introduction
 
-Language: **English**
+Welcome to the Awesome Seedance 2.0 Prompts repository! 🤗
+
+**We collect high-quality Seedance 2.0 prompts for cinematic video generation — cleaned from public community posts, translated into English for README readability, and organized for fast GitHub-native browsing.**
+
+Most prompts are curated from X/Twitter community posts, creator demos, and public shares.
+
+Try it on Evolink: [Seedance 2.0](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
+
+If you find this useful, consider giving it a star. ⭐
+
+> [!NOTE]
+> This repository focuses on Seedance 2.0 **usable prompts**, not commentary about prompts. Reuse the structure first — in Seedance, shot progression and motion control often matter more than swapping nouns.
+
+Related repositories:
 
 - API docs: [`EvoLinkAI/Seedance-2.0-Gateway-Service`](https://github.com/EvoLinkAI/Seedance-2.0-Gateway-Service)
 - OpenClaw skill: [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
 - Full guide: [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
 
-## Description
+<a href='https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2.0-prompts'><img src='https://img.shields.io/badge/🚀 Try%20it%20on-Evolink-black' height="25"></a>
 
-This repository focuses on Seedance 2.0 **usable prompts**, not commentary about prompts.
+## 📰 News
 
-## Table of Contents
+- **April 17, 2026:** Added latest prompt batch with 6 featured cinematic entries
 
+## 📑 Menu
+
+- [🍌 Introduction](#-introduction)
+- [📰 News](#-news)
+- [📑 Menu](#-menu)
 - [Statistics](#statistics)
 - [How to Use This Repository](#how-to-use-this-repository)
 - [Featured Prompts](#featured-prompts)
 - [Prompt Categories](#prompt-categories)
-  - [Action / Fantasy](#action-fantasy)
+  - [Action / Fantasy](#action--fantasy)
   - [Cinematic Realism](#cinematic-realism)
-  - [POV / FPV](#pov-fpv)
-  - [Commercial / Product](#commercial-product)
+  - [POV / FPV](#pov--fpv)
+  - [Commercial / Product](#commercial--product)
   - [Reference-Driven](#reference-driven)
-  - [Surreal / VFX](#surreal-vfx)
-  - [Templates & Structured Formats](#templates-structured-formats)
+  - [Surreal / VFX](#surreal--vfx)
+  - [Templates & Structured Formats](#templates--structured-formats)
   - [General Cinematic](#general-cinematic)
-- [Resources](#resources)
+- [Latest Additions (07 Apr 2026)](#latest-additions-07-apr-2026)
+- [🙏 Acknowledge](#-acknowledge)
 - [Contributing](#contributing)
 - [License](#license)
 - [Copyright Notice](#copyright-notice)
@@ -4361,13 +4388,15 @@ Audio: low eerie hum, distant wind, wooden kam
 
 **[Try It ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-## Resources
+## 🙏 Acknowledge
 
-- Contribution guide: [`./CONTRIBUTING.md`](./CONTRIBUTING.md)
-- Repository planning reference: [`../repo-structure.md`](../repo-structure.md)
-- API reference: [`EvoLinkAI/Seedance-2.0-Gateway-Service`](https://github.com/EvoLinkAI/Seedance-2.0-Gateway-Service)
-- OpenClaw skill: [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
-- Practical guide: [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
+This repository was inspired by excellent open prompt collections and community-shared Seedance 2.0 experiments.
+
+Thanks to the creators and contributors who shared their work publicly and made this case collection possible. The prompt sources are preserved with attribution links on every entry.
+
+*We cannot guarantee that every case is attributed to the original creator. If anything needs to be corrected, please contact us and we will update it.*
+
+If you have more interesting Seedance 2.0 prompts to share, feel free to reach out and help us expand the Evolink prompt library.
 
 ## Contributing
 
@@ -4384,4 +4413,6 @@ This repository curates Seedance 2.0 prompt examples from public web sources.
 - The prompt sources are preserved with attribution links where available.
 - This repository is intended for learning, prompt research, and workflow reference.
 - Copyright for the original prompt text remains with the original authors.
+
+[![Star History Chart](https://api.star-history.com/svg?repos=EvoLinkAI/awesome-seedance-2.0-prompts&type=Date)](https://www.star-history.com/#EvoLinkAI/awesome-seedance-2.0-prompts&Date)
 - If any entry should be updated or removed, open an issue or submit a pull request with the relevant source link.

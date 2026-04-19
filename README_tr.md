@@ -1,78 +1,88 @@
-[English](./README.md) | [Español](./README.es.md) | [Português](./README.pt.md) | [日本語](./README.ja.md) | [한국어](./README.ko.md) | [Deutsch](./README.de.md) | [Français](./README.fr.md) | [Türkçe](./README.tr.md) | [繁體中文](./README.zh-TW.md) | [简体中文](./README.zh-CN.md) | [Русский](./README.ru.md)
+<div align="center">
 
-# Awesome Seedance 2.0 Prompts
+<img src="./public/banner.jpg" alt="Awesome Seedance 2.0 Prompts banner">
 
-[![Awesome](https://img.shields.io/badge/Awesome-Seedance%202.0%20Prompts-black?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts) [![GitHub stars](https://img.shields.io/github/stars/EvoLinkAI/awesome-seedance-2.0-prompts?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts/stargazers) [![Prompt count](https://img.shields.io/badge/prompts-164-blue?style=flat-square)](./README.md)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
+[![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
+[![Website](https://img.shields.io/badge/Website-Live-orange)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
+[![Docs](https://img.shields.io/badge/Docs-Read-blue)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
+[![Model](https://img.shields.io/badge/Model-Explore-purple)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
 
-<p align="center">
-  <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2.0-prompts">
-    <img src="./public/banner.jpg" alt="Seedance 2.0 Human Face Now Available Try Now" width="100%" />
-  </a>
-</p>
+[![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
+[![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
+[![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md)
+[![🇯🇵 日本語](https://img.shields.io/badge/🇯🇵_日本語-表示-52b788)](README_ja.md)
+[![🇰🇷 한국어](https://img.shields.io/badge/🇰🇷_한국어-보기-4ea8de)](README_ko.md)
+[![🇩🇪 Deutsch](https://img.shields.io/badge/🇩🇪_Deutsch-Ansehen-f4a261)](README_de.md)
+[![🇫🇷 Français](https://img.shields.io/badge/🇫🇷_Français-Voir-e76f51)](README_fr.md)
+[![🇹🇷 Türkçe](https://img.shields.io/badge/🇹🇷_Türkçe-Görüntüle-d62828)](README_tr.md)
+[![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md)
+[![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md)
+[![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
 
-<p align="center">
-  <strong>Seedance 2.0<br>Human Face Now Available<br>Try Now</strong>
-</p>
+</div>
 
-Eine kuratierte Sammlung hochwertiger Seedance-2.0-Prompts für die cinematische Videoerzeugung — bereinigt aus öffentlichen Community-Beiträgen, für bessere README-Lesbarkeit ins Englische übersetzt und für schnelles GitHub-natives Browsing strukturiert.
+## 🍌 Introduction
 
-Sprache: **Deutsch**
+Sinematik video uretimi icin yuksek kaliteli Seedance 2.0 prompt'larindan olusan derlenmis bir koleksiyon — herkese acik topluluk gonderilerinden temizlenmis, README okunabilirligi icin Ingilizceye cevrilmis ve GitHub icinde hizli gezinme icin duzenlenmistir.
 
-- API-Dokumentation: [`EvoLinkAI/Seedance-2.0-Gateway-Service`](https://github.com/EvoLinkAI/Seedance-2.0-Gateway-Service)
-- OpenClaw-Skill: [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
-- Vollständiger Guide: [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
+Dil: **Turkce**
 
-## Beschreibung
+- API dokumani: [`EvoLinkAI/Seedance-2.0-Gateway-Service`](https://github.com/EvoLinkAI/Seedance-2.0-Gateway-Service)
+- OpenClaw skill'i: [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
+- Tam rehber: [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
 
-Dieses Repository konzentriert sich auf **nutzbare Prompts** für Seedance 2.0, nicht auf Kommentare über Prompts.
+## Aciklama
 
-## Inhaltsverzeichnis
+Bu depo, prompt'lar hakkindaki yorumlara degil, Seedance 2.0 icin **kullanilabilir prompt**'lara odaklanir. 
 
-- [Statistiken](#statistiken)
-- [So verwendest du dieses Repository](#so-verwendest-du-dieses-repository)
-- [Ausgewählte Prompts](#ausgewählte-prompts)
-- [Prompt-Kategorien](#prompt-kategorien)
-  - [Action / Fantasy](#action-fantasy)
-  - [Cinematischer Realismus](#cinematischer-realismus)
-  - [POV / FPV](#pov-fpv)
-  - [Kommerziell / Produkt](#kommerziell-produkt)
-  - [Referenzgesteuert](#referenzgesteuert)
-  - [Surreal / VFX](#surreal-vfx)
-  - [Vorlagen & strukturierte Formate](#vorlagen-strukturierte-formate)
-  - [Allgemein / Cinematic](#allgemein-cinematic)
-- [Ressourcen](#ressourcen)
-- [Mitwirken](#mitwirken)
-- [Lizenz](#lizenz)
-- [Copyright-Hinweis](#copyright-hinweis)
+## Icindekiler
 
-## Statistiken
+- [Istatistikler](#istatistikler)
+- [Bu Depo Nasil Kullanilir](#bu-depo-nasil-kullanilir)
+- [One Cikan Prompts](#one-cikan-prompts)
+- [Prompt Kategorileri](#prompt-kategorileri)
+  - [Aksiyon / Fantazi](#aksiyon--fantazi)
+  - [Sinematik Gercekcilik](#sinematik-gercekcilik)
+  - [POV / FPV](#pov--fpv)
+  - [Ticari / Urun](#ticari--urun)
+  - [Referans Odakli](#referans-odakli)
+  - [Surreal / VFX](#surreal--vfx)
+  - [Sablonlar ve Yapilandirilmis Formatlar](#sablonlar-ve-yapilandirilmis-formatlar)
+  - [Genel Sinematik](#genel-sinematik)
+- [Kaynaklar](#kaynaklar)
+- [Katki](#katki)
+- [Lisans](#lisans)
+- [Telif Hakki Bildirimi](#telif-hakki-bildirimi)
 
-| Metrik | Wert |
+## Istatistikler
+
+| Metrik | Deger |
 | --- | --- |
-| Gesamtzahl der Prompts | 164 |
-| Quellsprachen | 4 |
-| Neuestes Quelldatum | `07. Apr. 2026` |
+| Toplam prompt | 164 |
+| Kaynak dilleri | 4 |
+| En son kaynak tarihi | `07 Nis 2026` |
 
-## So verwendest du dieses Repository
+## Bu Depo Nasil Kullanilir
 
-1. Beginne mit der Kategorienliste unten und öffne einen Abschnitt, der zu deinem Use Case passt.
-2. Vergleiche Prompts nach Kameralogik, Timing, Environment-Design und Konsistenzanweisungen — nicht nur nach dem Thema.
-3. Verwende zuerst die Struktur wieder. In Seedance sind Shot-Fortschritt und Motion-Control oft wichtiger als ausgetauschte Substantive.
-4. Behalte prompt-interne Tokens wie `@image1` oder `<<<Image1>>>` bei, wenn sie Teil der beabsichtigten Syntax sind.
-5. Nutze Titel, Kategorien und Quelllinks als wichtigste Navigationsanker innerhalb des bereinigten Datensatzes.
+1. Asagidaki kategori listesinden baslayin ve kullanim senaryonuza uyan bolumu acin.
+2. Prompt'lari yalnizca konuya gore degil, kamera mantigi, zamanlama, ortam tasarimi ve tutarlilik talimatlarina gore karsilastirin.
+3. Once yapiyi yeniden kullanin. Seedance'da shot ilerleyisi ve hareket kontrolu, kelimeleri degistirmekten daha onemli olabilir.
+4. `@image1` veya `<<<Image1>>>` gibi prompt ici token'lari, amaclanan syntax'in parcasiysa koruyun.
+5. Temizlenmis veri seti icinde ana gezinme capalari olarak basliklari, kategorileri ve kaynak linklerini kullanin.
 
-## Ausgewählte Prompts
+## One Cikan Prompts
 
-Diese Prompts sind wegen ihrer Vielfalt hervorgehoben: Long-Form-Transformation, emotionaler Realismus, kommerzielle Storyboard-Arbeit, strukturierter Prompt-Aufbau und spektakuläre Action.
+Bu prompt'lar cesitlilik icin one cikarilmistir: uzun form donusum, duygusal gercekcilik, ticari storyboard calismasi, yapilandirilmis prompt tasarimi ve yuksek gosterili aksiyon.
 
 <!-- latest-additions:start -->
-### Neu Hinzugefügt
+### Son Eklenenler
 
 #### Hammer That Never Misses
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Ein mythischer One-Take-Prompt mit Fokus auf Zentrifugalkraft, Hammer-Follow-POV und einer zurückkehrenden Impact-Kurve.
+Merkezkaç kuvveti, çekici takip eden POV ve geri dönen darbe yayı etrafında kurulan mitik bir tek plan promptu.
 
-Quelle: [Post](https://x.com/aimikoda/status/2040752436780961971) · Veröffentlicht: 05 Apr 2026
+Kaynak: [Post](https://x.com/aimikoda/status/2040752436780961971) · Yayınlanma: 05 Apr 2026
 
 [![](./public/seedance_2_prompt_images/126.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -91,9 +101,9 @@ STYLE: Fantasy realism
 
 #### Orbiting Carnival Objects
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Ein sauberer Motion-Design-Prompt mit weiter Kreisbahn, schwebenden Requisiten und kontrollierter Objektchoreografie.
+Geniş dairesel yörünge, süzülen objeler ve kontrollü nesne koreografisine odaklanan temiz bir motion design promptu.
 
-Quelle: [Post](https://x.com/ShadeLurk/status/2040748166212157568) · Veröffentlicht: 05 Apr 2026
+Kaynak: [Post](https://x.com/ShadeLurk/status/2040748166212157568) · Yayınlanma: 05 Apr 2026
 
 [![](./public/seedance_2_prompt_images/123.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -111,9 +121,9 @@ Fireball detonates outward with radial god rays. It expands to half the screen, 
 
 #### Space Colony Dawn Heroine
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
-Ein chinesischer Sci-Fi-Storyboard-Prompt in einer ringförmigen Raumkolonie bei Sonnenaufgang, mit epischem Maßstab und Heroine-Entrance.
+Şafakta geçen halka biçimli bir uzay kolonisinde, epik ölçek ve kadın kahraman girişiyle kurulan Çince bir bilimkurgu storyboard promptu.
 
-Quelle: [Post](https://x.com/MiraMusic_AI/status/2040744022294335604) · Veröffentlicht: 05 Apr 2026
+Kaynak: [Post](https://x.com/MiraMusic_AI/status/2040744022294335604) · Yayınlanma: 05 Apr 2026
 
 [![](./public/seedance_2_prompt_images/124.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -143,9 +153,9 @@ prompt：
 
 #### Sunny Pool Party Montage
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Ein helles Sommer-Poolparty-Montage-Prompt mit Fokus auf sozialer Energie, Sonnenbewegung und Lifestyle-Commercial-Framing.
+Sosyal enerji, güneş altındaki hareket ve lifestyle reklam kadrajını öne çıkaran parlak bir yaz havuzu partisi montaj promptu.
 
-Quelle: [Post](https://x.com/ivanka_humeniuk/status/2040415406297374734) · Veröffentlicht: 05 Apr 2026
+Kaynak: [Post](https://x.com/ivanka_humeniuk/status/2040415406297374734) · Yayınlanma: 05 Apr 2026
 
 [![](./public/seedance_2_prompt_images/125.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -157,11 +167,11 @@ Main cue words. Overall intent: A vibrant, sunny college pool party montage. The
 
 <!-- latest-additions:end -->
 
-### Erwachen auf dem Dach zur F-14-Transformation
+### Catida Uyanistan F-14 Donusumune
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
-Eine Long-Form-Transformationssequenz, die sich von einem Sprint über das Dach über eine Freifallaufnahme bis zur Metamorphose vom Auto zum Jet steigert.
+Catidaki kosturmadan serbest dusus yakalamasina ve arabadan jet metamorfuzuna kadar yukselen uzun form bir donusum sekansi.
 
-Quelle: [Beitrag](https://x.com/john87445528/status/2039496153641660508) · Veröffentlicht: 02. Apr 2026
+Kaynak: [Gonderi](https://x.com/john87445528/status/2039496153641660508) · Yayin: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/088.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -173,13 +183,13 @@ Chapter 2 (0-15 seconds): Freefall · Purple AITO M7 Enters the Frame. Style: ru
 Chapter 3 (0-15 seconds): AITO M7 Transforms -> Becomes an F-14 -> Protagonist Stands on the Aircraft Back and Takes Off. Style: rugged realism, 35mm handheld film aesthetic, natural grain, subtle shake. Camera: multi-angle follow coverage including ground tracking, low angle close to the ground, aircraft side view, and protagonist first-person view, all following the aircraft tightly throughout the transformation. Transformation details must remain clearly visible. Atmosphere: light smoke and heat haze drift across the Chongqing road. Cyber blue-purple light refracts between buildings. Noon sunlight produces dazzling reflections and strong shadows across the metal surfaces. Sound effects: engine roar surges -> metal skin bursts and folds -> deep hydraulic tremor as the wings unfold -> metallic gripping sound as the protagonist climbs the exterior -> cockpit seal pops and is immediately drowned by wind noise -> explosive ignition of twin engines -> piercing shriek as the F-14 takes off and breaks the air -> powerful high-altitude wind overtakes the entire soundscape. [Visual Reference / Description] The purple AITO M7 completes a full transformation while driving on the Chongqing road, changing from a car into an F-14 fighter jet, as shown in Image 2. During the transformation, the protagonist clings to and climbs along the aircraft exterior in a dangerous and exposed position. She finally stands centered on the back of the F-14, legs slightly apart to stabilize her balance. Her white suit and ponytail whip violently in the extreme airflow. The F-14 takes off directly from the Chongqing road, and the protagonist remains standing firmly on its back. [Timeline per Second] 0-4s: [Road Acceleration · Transformation Start] The AITO M7 accelerates rapidly along the Chongqing road. Body panels burst open one after another and unfold. The hood rolls upward and becomes mechanical structure. The doors fold outward. The metal skin cracks along structural lines, revealing the cold mechanical interior. The protagonist climbs dangerously toward the top of the aircraft while gripping the transforming metal skeleton. She jumps and shifts position in sync with the aircraft's changing shape. The camera tracks every detail from close to the side of the aircraft. 4-6s: [Wings Unfold · Engines Fully Reassemble] The F-14's iconic swept wings snap open from the folded state and lock into place. The camera captures a low-angle near-ground full view of the wing deployment. Heat haze and dust are blasted up by the airflow from the wings. The twin engine nacelles violently reassemble into jet structures, emitting blue-purple thrust flames. The exhaust scorches the road surface. By now, the protagonist has climbed to the center of the aircraft's back, feet planted firmly, standing upright as the transformation completes. 6-8s: [Protagonist Stands on Aircraft Back · Takes Off] The instant the transformation completes, the protagonist stands fully upright on the back of the F-14. The hem of her white suit flies up in the strong airflow, and her ponytail extends horizontally. The silver mechanical parts reflect the noon sun intensely. The F-14's twin engines ignite at full power. The aircraft surges forward, the front wheel lifts, and the rear wheels leave the asphalt at the last possible moment. The nose pitches upward, carrying the protagonist into the Chongqing sky while she remains standing on its back. 8-15s: [Takeoff and Low City Skim · Protagonist Holds Position] The F-14 climbs vertically, then abruptly lowers its nose and skims over Chongqing at ultra-low altitude.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Flüsternde Klassenraum-Romanze in Japan
+### Japon Sinif Fisilti Romansi
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
-15-sekündiger cinematischer japanischer Drama-Kurzfilm über reine, ambivalente Liebe, ultra-realistische Qualität, warmes goldenes Sonnenlicht in einem leeren Klassenraum am Nachmittag,...
+15 saniyelik sinematik Japon drama saf aski ve belirsizligi konu alan kisa film, ultra-gercekci kalite, ogleden sonra bos bir sinifta sicak altin gun isigi,...
 
-Quelle: [Beitrag](https://x.com/JiahaoYang_art/status/2033119940216344616) · Veröffentlicht: 15. Mär 2026
+Kaynak: [Gonderi](https://x.com/JiahaoYang_art/status/2033119940216344616) · Yayin: 15 Mar 2026
 
 [![](./public/seedance_2_prompt_images/022.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -193,13 +203,13 @@ Overall Sound Effects: Distant summer cicada chirping faintly, the soft scratchi
 Character identity is maintained throughout, real subtle head tilts, eye movements, and breathing synchronization, no text, watermarks, or subtitles, pure Japanese style youth secret crush heart-fluttering suspense.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### LaFerrari-Commercial-Storyboard
+### LaFerrari Ticari Storyboard
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
-Ein Shot-für-Shot-Storyboard für ein Luxus-Supercar-Commercial mit Fokus auf kontrollierte Kamerabewegung und Premium-Produktoberflächen.
+Kontrollu kamera hareketi ve premium urun yuzeylerine odaklanan shot-by-shot luks supercar reklam storyboard'u.
 
-Quelle: [Beitrag](https://x.com/Adam38363368936/status/2039932977287979053) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/Adam38363368936/status/2039932977287979053) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/030.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -233,13 +243,13 @@ No people should appear in the frame.
 Highest image quality: 8K.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### "Ort"
+### "Location"
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
-"location": "Tokio-Stadtbild (Nacht)", "duration": "10s", "prompt": "Ein cinematischer POV-Shot auf einer unsichtbaren Achterbahn durch Tokio bei Nacht. Ein...
+"location": "Tokyo Cityscape (Night)", "duration": "10s", "prompt": "A cinematic POV shot riding an invisible rollercoaster through Tokyo at night. A...
 
-Quelle: [Beitrag](https://x.com/TechTalkNAVI/status/2039941029265355123) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/TechTalkNAVI/status/2039941029265355123) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/061.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -256,13 +266,13 @@ Quelle: [Beitrag](https://x.com/TechTalkNAVI/status/2039941029265355123) · Ver�
 }
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Kriegsheldin des Meteor-Erwachens
+### Meteor Uyanisi Savascı Kadin Kahraman
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
-100 % echte Drehanmutung, Hollywood-IMAX-Blockbuster-Qualität, natürliches Licht und Schatten, kalter Dokumentarstil, natürliches Licht an einem bewölkten Tag,...
+%100 gercek cekim dokusu, Hollywood IMAX blockbuster kalitesi, dogal isik ve golge, soguk belgesel stili, bulutlu bir gunde dogal isik,...
 
-Quelle: [Beitrag](https://x.com/ChrisTheNerv/status/2040043939109953944) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/ChrisTheNerv/status/2040043939109953944) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/075.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -291,13 +301,13 @@ Real light and shadow, visible skin texture on the face before transformation, v
 Layered progression from the scream activation to the explosive mechanical eruption, escalating to the takeoff point explosion and the sonic boom of the supersonic charge, finally cutting abruptly to silence. The entire sequence exudes absolute power. Generate sound effects only, no music.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Schwertschatten der Wolkenhöhle
+### Bulut Magarasi Kilic Golgesi
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
-Ein wuxia-One-Shot-Spektakel am Tianmen-Berg, ausgelegt auf Geschwindigkeit, Wucht und groß angelegte mythische Martial-Arts-Energie.
+Tianmen Mountain'da hiz, etki ve buyuk olcekli mitsel martial-arts enerjisi icin tasarlanmis bir wuxia tek-plan gosterisi.
 
-Quelle: [Beitrag](https://x.com/Adam38363368936/status/2039865857179013318) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/Adam38363368936/status/2039865857179013318) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/081.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -349,13 +359,13 @@ Action: He performs a sword flourish and sheathes the sword, placing it on his b
 Freeze Frame: The camera pushes in for an extreme close-up. A drop of blood drips from the edge of the bamboo hat, tracing his jawline. His eyes are sharp as lightning, with the vast landscape in the background.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Nahtlose Morphing-Sequenz aus sieben Bildern
+### Yedi Gorselli Kesisiz Morphing Sekansi
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
-Eine wiederverwendbare Morphing-Vorlage, um sieben Standbilder in einen kontrollierten, kontinuierlichen Transformations-Shot zu verwandeln.
+Yedi hareketsiz gorseli kontrollu ve kesintisiz tek bir donusum shot'ina cevirmek icin yeniden kullanilabilir bir morphing sablonu.
 
-Quelle: [Beitrag](https://x.com/YaReYaRu30Life/status/2039474680235741681) · Veröffentlicht: 01. Apr 2026
+Kaynak: [Gonderi](https://x.com/YaReYaRu30Life/status/2039474680235741681) · Yayin: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/114.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -423,13 +433,13 @@ consistent subject identity
 seamless transformation flow
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Fashion-Ad für faltbares Smartphone
+### Katlanabilir Smartphone Moda Reklami
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
-Ein kommerzieller Fashion-Tech-Prompt für ein faltbares Gradient-Smartphone mit Makrodetails, scharfen Schnitten und hochwertiger Motion-Sprache.
+Macro detaylar, keskin gecisler ve premium hareket dili iceren gradient katlanabilir smartphone icin ticari bir fashion-tech prompt'u.
 
-Quelle: [Beitrag](https://x.com/Adam38363368936/status/2039157138002780202) · Veröffentlicht: 01. Apr 2026
+Kaynak: [Gonderi](https://x.com/Adam38363368936/status/2039157138002780202) · Yayin: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/121.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -449,30 +459,30 @@ Quality: 4K high definition, commercial advertisement quality, smooth dynamics, 
 Requirements: Fast pace, tight transitions, high-end fashion, youthful energy, no people appearing.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-## Prompt-Kategorien
+## Prompt Kategorileri
 
-| Kategorie | Beschreibung | Anzahl | Beispiel-IDs |
+| Kategori | Aciklama | Adet | Ornek ID'ler |
 | --- | --- | --- | --- |
-| Action / Fantasy | Kampf-, Verfolgungs-, Anime-, wuxia-, Kreaturen- und groß angelegte cinematische Spektakel-Prompts. | 21 | `#23`, `#33`, `#37`, `#41`, `#44`, `#45` |
-| Cinematischer Realismus | Geerdete Live-Action-Prompts mit Fokus auf Stimmung, Körpersprache, praktisches Licht und glaubwürdiges Kameraverhalten. | 2 | `#48`, `#76` |
-| POV / FPV | First-Person-, drohnenartige, körpermontierte und immersionsorientierte Prompts, die um Kameradynamik herum aufgebaut sind. | 16 | `#4`, `#5`, `#6`, `#10`, `#11`, `#40` |
-| Kommerziell / Produkt | Werbe-, Fashion-, Lifestyle-, Produkt- und Premium-Brand-Style-Prompts. | 24 | `#8`, `#9`, `#13`, `#15`, `#19`, `#22` |
-| Referenzgesteuert | Prompts, die auf Bildreferenzen, Charakterkonsistenz oder Kontrolle von Frame zu Frame setzen. | 12 | `#12`, `#16`, `#21`, `#30`, `#51`, `#62` |
-| Surreal / VFX | Abstrakte, unmögliche, stilisierte oder effektlastige Prompts, die von Transformation und Spektakel getragen werden. | 8 | `#14`, `#54`, `#85`, `#95`, `#99`, `#100` |
-| Vorlagen & strukturierte Formate | Wiederverwendbare Prompt-Skelette, JSON-artige Spezifikationen und stark strukturierte Prompt-Formate. | 17 | `#17`, `#20`, `#26`, `#29`, `#56`, `#64` |
-| Allgemein / Cinematic | Nützliche Prompts, die nicht in die engeren Kategorien oben passen, aber starke allgemeine Referenzen bleiben. | 25 | `#1`, `#2`, `#3`, `#7`, `#18`, `#25` |
+| Aksiyon / Fantazi | Savas, kovalamaca, anime, wuxia, yaratik ve buyuk olcekli sinematik gosterilere odaklanan prompt'lar. | 21 | `#23`, `#33`, `#37`, `#41`, `#44`, `#45` |
+| Sinematik Gercekcilik | Ruh hali, beden dili, pratik isik ve inandirici kamera davranisina odaklanan ayaklari yere basan live-action prompt'lar. | 2 | `#48`, `#76` |
+| POV / FPV | Kamera ivmesi etrafinda kurulan birinci sahis, drone benzeri, govdeye monte ve immersiyon oncelemeli prompt'lar. | 16 | `#4`, `#5`, `#6`, `#10`, `#11`, `#40` |
+| Ticari / Urun | Reklam, fashion, lifestyle, urun ve premium marka stilindeki prompt'lar. | 24 | `#8`, `#9`, `#13`, `#15`, `#19`, `#22` |
+| Referans Odakli | Gorsel referanslara, karakter tutarliligina veya frame-to-frame kontrole dayanan prompt'lar. | 12 | `#12`, `#16`, `#21`, `#30`, `#51`, `#62` |
+| Surreal / VFX | Donusum ve gosteriyle yonlendirilen soyut, imkansiz, stilize veya efekt-yuklu prompt'lar. | 8 | `#14`, `#54`, `#85`, `#95`, `#99`, `#100` |
+| Sablonlar ve Yapilandirilmis Formatlar | Yeniden kullanilabilir prompt iskeletleri, JSON tarzi ozellikler ve yuksek derecede yapilandirilmis prompt formatlari. | 17 | `#17`, `#20`, `#26`, `#29`, `#56`, `#64` |
+| Genel Sinematik | Yukaridaki daha dar kategorilere girmeyen ama yine de guclu genel amacli referanslar sunan prompt'lar. | 25 | `#1`, `#2`, `#3`, `#7`, `#18`, `#25` |
 
-## Action / Fantasy
+## Aksiyon / Fantazi
 
-Kampf-, Verfolgungs-, Anime-, wuxia-, Kreaturen- und groß angelegte cinematische Spektakel-Prompts.
+Savas, kovalamaca, anime, wuxia, yaratik ve buyuk olcekli sinematik gosterilere odaklanan prompt'lar.
 
 ### Prompt 23
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 16:9 horizontal screen, street rap MV style, neon purple and blue cool tones, explosive cool and fierce atmosphere. 0-3 seconds: Medium shot push-in, city...
 
-Quelle: [Beitrag](https://x.com/songguoxiansen/status/2033175478765289598) · Veröffentlicht: 15. Mär 2026
+Kaynak: [Gonderi](https://x.com/songguoxiansen/status/2033175478765289598) · Yayin: 15 Mar 2026
 
 [![](./public/seedance_2_prompt_images/021.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -480,13 +490,13 @@ Quelle: [Beitrag](https://x.com/songguoxiansen/status/2033175478765289598) · Ve
 16:9 horizontal screen, street rap MV style, neon purple and blue cool tones, explosive cool and fierce atmosphere. 0-3 seconds: Medium shot push-in, city street night scene with flashing neon lights, an 80-year-old silver-haired woman stands in front of a graffiti wall, short silver-white hair styled in a neat slick-back, distinct square face contour, sword-like eyebrows slanting towards the temples, eyes sharp like electricity, wrinkles at the corners of her eyes like badges of time, a confident smile on the corner of her mouth, wearing a black leather jacket over a white printed T-shirt (large black letters "YOLO" on the chest) + black cargo pants + white high-top sneakers, a thick gold chain necklace around her neck, silver bracelet on her wrist, holding up a microphone with both hands, strong drum beats of the BGM start, the old woman's eyes sharpen, and her lips open to start Rap. 3-7 seconds: Medium shot + close-up switch, the old woman starts rapping, with an extremely strong sense of rhythm, her silver hair flying with her head-nodding movements, one hand holding the microphone, the other hand making gestures to match the rhythm—index finger pointing at the camera, palm cutting the rhythm up and down, making hip-hop gestures, movements are smooth and flowing, eyes sharp and looking directly at the camera, wrinkles vividly jumping with her expression, lips opening and closing rapidly to spit out lyrics: [Rap Lyrics] "Eighty-year-old legs, can jump better than you! Silver hair flowing, this is my pride! Don't call me old, my Flow is better than yours, when you were playing rap, I was listening to disco!" (Fast speed, strong rhythm, fierce attitude) Quick cuts: facial close-ups, hand movements, full-body swaying, side silhouettes, synchronized with the BGM beat. 7-11 seconds: Dance segment, the camera pulls back to show the full body, the old woman starts dancing—first the classic hip-hop bounce, then a neat street dance freeze, followed by a body wave transmitting from the shoulders to the toes, and then a quick footwork workout, movements are clean and sharp, silver hair flies under the neon lights, the leather jacket flutters in the air, she continues to Rap while dancing: [Rap Lyrics] "Legs and feet are nimble, speed is not slow, my lyrics are carved in time! You play with phones, I play with beats, eighty years of life, written into this verse!" (Faster rhythm, stronger tone) Low-angle upward shot + 360-degree surrounding shot, capturing the old woman's cool and fierce dance moves. 11-15 seconds: Climax ending, the old woman makes a cool turn, her silver hair arcs in the air, she faces the camera and makes a "shush" gesture with her finger, then her lips move closer to the microphone, singing the last line in a low, magnetic voice: [Reality Lyrics] "Time never defeats a beauty, I just changed the way I experience youth..." (Slow rhythm, deep emotion, lingering finish) The camera slowly pushes in for a close-up of the old woman's eyes, the wrinkles at the corners of her eyes are all stories, her gaze is still sharp yet with a hint of kindness, the BGM abruptly stops at the climax, the frame freezes on the old woman's cool yet slightly gentle smile, vignetting + neon purple light halo.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Wüsten-Martial-Arts-Duell mit schwarzer Katze
+### Siyah Kedi Col Martial-Arts Duellosu
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
-15-sekündiger Original-Desert-Martial-Arts-Kurzfilm: Ein schwarzer Katzenkrieger in leichter Rüstung steht allein in einer Wüste, in der gelber Sand durch die Luft wirbelt,...
+15 saniyelik Orijinal Col Martial Arts Kisa Filmi: hafif zirhli siyah bir kedi savascisi, sari kumun gokyuzunu kapladigi bir colde tek basina duruyor,...
 
-Quelle: [Beitrag](https://x.com/nopinduoduo/status/2039915824216261101) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/nopinduoduo/status/2039915824216261101) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/031.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -494,13 +504,13 @@ Quelle: [Beitrag](https://x.com/nopinduoduo/status/2039915824216261101) · Verö
 15-second Original Desert Martial Arts Short Film: A black cat warrior in light armor stands alone in a desert where yellow sand is flying all over the sky, facing the pursuers. The shots combine slow motion and fast editing; under backlight, the yellow sand rolls like ink mist. The character's movements are elegant yet ferocious, with tattered but flowing robes. Holding a short weapon, he shuttles and counterattacks at high speed. The overall tone is cold, lonely and oppressive, with high-end colors and obvious shallow depth of field, just like a high-quality oriental martial arts movie.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### 【Kernfokus】
+### 【Temel Odak】
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Live-Action-Anime-Adaption · Entscheidungskampf mit Atemtechnik (15 Sekunden · Super-Burning-Spezialeffekt-Version) 【Kernfokus】: Water Breathing (Blue...
+Live-Action Anime Uyarlamasi · Nefes Teknigi Karar Savasi (15 saniye · Super yogun Ozel Efekt versiyonu) 【Temel Odak】: Water Breathing (Blue...
 
-Quelle: [Beitrag](https://x.com/johnAGI168/status/2021610292979876208) · Veröffentlicht: 11. Feb 2026
+Kaynak: [Gonderi](https://x.com/johnAGI168/status/2021610292979876208) · Yayin: 11 Feb 2026
 
 [![](./public/seedance_2_prompt_images/035.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -528,13 +538,13 @@ Action: The two swords violently collide in the center of the frame.
 Special Effects Spectacle: The blue water dragon and the golden lightning instantly explode, forming a massive water-thunder energy storm that spreads outwards. The surrounding large trees are snapped in half by the energy wave, and mud and light obscure the camera. The scene ends in an extremely dazzling blue, yellow, and white light.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Anime-Hochgeschwindigkeits-Schnitt-Test — 20 Hard Cuts in 10 Sekunden (0
+### Anime yuksek hizli kurgu testi — 10 saniyede 20 sert kesme (0
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Anime-Hochgeschwindigkeits-Schnitt-Test — 20 Hard Cuts in 10 Sekunden (0,5 Sekunden pro Cut, kein Fade-in/Fade-out, keine Übergänge). 0,0 Sekunden bis 0,5 Sekunden: Cut 1 —...
+Anime yuksek hizli kurgu testi — 10 saniyede 20 sert kesme (kesme basi 0.5 saniye, fade-in/fade-out yok, transition yok). 0.0 saniyeden 0.5 saniyeye: Cut 1 —...
 
-Quelle: [Beitrag](https://x.com/tebasaki3D/status/2039903531415552048) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/tebasaki3D/status/2039903531415552048) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/039.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -543,13 +553,13 @@ Anime high-speed cut test — 20 hard cuts in 10 seconds (0.5 seconds per cut, n
 [0.0 seconds to 0.5 seconds]: Cut 1 — Close-up. Anime Girl A: Long crimson hair, vivid green eyes. Winks at the camera.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Sieh zu, wie ein schmieriger Mechaniker repariert
+### Yag lekeli bir tamircinin onarisini izle
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Sieh zu, wie ein schmieriger Mechaniker einen brutal klappernden Schrotthaufen repariert, als wäre es ein Martial-Arts-Kampf. Fliegende Schraubenschlüssel, wie Messer geworfene Zündkerzen, Motorhaube...
+Yag lekeli bir tamircinin siddetle takirdayan hurda bir araci sanki martial arts dovusu gibi tamir etmesini izle. Havada ucan anahtarlar, bicak gibi firlatilan bujiler, kaput...
 
-Quelle: [Beitrag](https://x.com/sebatheepan/status/2040079840754205010) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/sebatheepan/status/2040079840754205010) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/041.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -562,13 +572,13 @@ Wrenches flying, spark plugs thrown like knives, hood slammed with a thunderous 
 From rusty disaster to purring monster in seconds.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
 ### Prompt 45
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Ein Kurzfilm über einen Samurai, der auf einem brennenden Schlachtfeld sein Leben verliert und als Baby in einer anderen Welt erwacht. Die erste Hälfte ist eine heftige Schlacht auf einem...
+Yanan bir savas alaninda hayatini kaybeden ve baska bir dunyada bebek olarak uyanan bir samuray hakkinda kisa film. Ilk yari, siddetli bir savasin ortasinda geciyor...
 
-Quelle: [Beitrag](https://x.com/sailorv321/status/2040127822908596305) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/sailorv321/status/2040127822908596305) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/042.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -577,13 +587,13 @@ A short film about a samurai who loses his life on a burning battlefield and wak
 The first half is a fierce battle on a battlefield covered in mud and flames. The young samurai challenges his final duel, seems to win for a moment, but is ultimately cut down and falls. His vision tilts low, and his consciousness fades as he is enveloped in fire and smoke.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
 ### Prompt 50
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Stilisierte 3D-Animation mit überzeichneten Proportionen, scharfer Kung-Fu-Soccer-Choreografie und kontrollierter rhythmischer Energie. CHARACTERS - Football master: ein...
+Stylized 3D animation with exaggerated proportions, sharp kung-fu-soccer choreography, and controlled rhythmic energy. CHARACTERS - Football master: an...
 
-Quelle: [Beitrag](https://x.com/johnAGI168/status/2039924160567058725) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/johnAGI168/status/2039924160567058725) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/047.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -591,13 +601,13 @@ Quelle: [Beitrag](https://x.com/johnAGI168/status/2039924160567058725) · Veröf
 Stylized 3D animation with exaggerated proportions, sharp kung-fu-soccer choreography, and controlled rhythmic energy. CHARACTERS - Football master: an impeccably focused martial-arts soccer prodigy in a fitted training top, wrapped wrists, tapered athletic pants, and classic football boots. Piercing gaze. Every movement follows a precise rhythm: pause -> burst -> lock. Theatrical, hypnotic, absolute master of the field. - Opponent goalkeeper: tense, exhausted, intimidated, standing before the goal line under immense pressure. ENVIRONMENT Futuristic night football stadium with glowing floodlights, wet grass, drifting mist, roaring crowd silhouettes, dramatic contrast. MOOD Aggressive precision. Football master = total control. Goalkeeper = anxious, overwhelmed. TIMELINE 0:00-0:02 (Close-up) The ball rests at the player's feet. He taps it lightly once, then rolls his ankle and snaps into a low martial stance, one hand extended, one foot pinning the ball, energy coiling before release. 0:02-0:05 (Action sequence) He flicks the ball high into the air. Launching upward, he strikes it in mid-air with a flurry of kung-fu kicks and spinning leg strikes, each impact perfectly controlled. The ball accelerates, glowing with spiraling energy trails like a dragon sphere. 0:05-0:08 (Tracking shot) He lands and sprints forward with impossible precision footwork, dribbling through multiple defenders in braided arcs, body feints, sweeping turns, and explosive step-overs. The camera tracks low and fast as the glowing ball never leaves his control. 0:08-0:11 He plants his foot, twists his waist, and unleashes a violent, rhythmic power shot. The kick lands with a percussive burst, grass and mist exploding outward, the ball becoming a blazing comet with frosted vapor and shockwave ripples. 0:11-0:13 The goalkeeper dives desperately as the ball curves through the air in a smoking arc, slicing through the frame with dragon-fire energy, then smashes into the top corner of the net. 0:13-0:15 FINAL REVEAL The net whips violently. Smoke and light dissipate. The glowing ball settles in the goal. The goalkeeper lies stunned. The football master stands in silence, turns away calmly, and flicks his wrist as the crowd erupts. Epic, ultra-detailed, cinematic, premium animation, powerful lighting, heroic finish.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Dialog (überlappend)
+### Diyalog (Ust Uste Binen)
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Ein rasant geschnittener komödiantischer Parodie-Kurzfilm für Seedance 2 in einem antiken kaiserlichen Arbeitszimmer. Eine orangefarbene Katze, gekleidet als Qin Shi Huang in goldenen Han-Drachenroben, sitzt...
+Kadim bir imparatorluk calisma odasinda gecen, hizli tempolu komedi-parodi Seedance 2 kisa filmi. Han tarzi altin ejderha cubbesiyle Qin Shi Huang gibi giyinmis turuncu bir kedi oturuyor...
 
-Quelle: [Beitrag](https://x.com/drjoetw/status/2039905967597613558) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/drjoetw/status/2039905967597613558) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/050.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -611,13 +621,13 @@ Suddenly, the cat slams the desk and shouts, “ENOUGH!!” He stands up and kic
 Camera: fast cuts, whip pans, strong motion blur, 0.6–1.2s pacing, ending in slow motion. Tone: absurd, exaggerated, high-energy comedy.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Japanischer Anime
+### Japon anime
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Japanischer Anime. Dialog auf Japanisch. Fließende Wolken. Ein Mädchen geht, springt niedlich und drückt einen roten Schalter. Im Moment der Explosion wird es kurz...
+Japon anime. Diyaloglar Japonca. Akan bulutlar. Bir kiz yurur, sevimli bir sekilde ziplar ve kirmizi bir switch'e basar. Patlama aninda goruntu kisa sureligine...
 
-Quelle: [Beitrag](https://x.com/_3912657840/status/2040018529441730815) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/_3912657840/status/2040018529441730815) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/056.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -625,13 +635,13 @@ Quelle: [Beitrag](https://x.com/_3912657840/status/2040018529441730815) · Verö
 Japanese anime. Dialogue in Japanese. Flowing clouds. A girl walks, jumps cutely, and hits a red switch. At the moment of the explosion, it briefly becomes black and white high contrast, then flame-colored high contrast. The tower in the background explodes violently, creating a flame backlight high contrast. The girl says, "Haa~!?" Surprised by the explosion.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### 15-sekündiger Original-Kurzfilm zur Elementschlacht
+### 15 Saniyelik Orijinal Elemental Savas Kisa Filmi
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-15-sekündiger Original-Kurzfilm zur Elementschlacht: Auf einem eisbedeckten vulkanischen Gebirgszug prallt ein Krieger in Lava-Obsidian-Rüstung frontal mit einem...
+15 saniyelik Orijinal Elemental Savas Kisa Filmi: buzla kapli volkanik bir dag silsilesinde, lav obsidyen zirhli bir savasci dogrudan carpisiyor...
 
-Quelle: [Beitrag](https://x.com/ZikinArt/status/2040006818953322644) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/ZikinArt/status/2040006818953322644) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/058.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -639,13 +649,13 @@ Quelle: [Beitrag](https://x.com/ZikinArt/status/2040006818953322644) · Veröffe
 15-second Original Elemental Battle Short Film: On an ice-covered volcanic mountain range, a warrior in lava obsidian armor collides head-on with an opponent who controls cold crystal power. Under their feet are snow-covered cracked lava; in the air, there are simultaneous flame roars, ice crystal shatters, steam eruptions and storm howls. The camera quickly switches between close-ups of armor textures, ice crystals, ground cracks and the ultimate collision moment, and finally ends with a steam explosion engulfing the screen, featuring a strong "fire vs. ice" visual conflict.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Faberge-Fantasy-Ei-Animation
+### Faberge Fantazi Yumurta Animasyonu
 ![Language-ES](https://img.shields.io/badge/Language-ES-blue?style=flat-square)
-Hochdetailliertes cinematisches 4K-Animationsvideo, kostbare verzauberte Faberge-artige Ostereier schweben in einem traumhaft ätherischen Raum, kunstvolle goldene Filigranarbeit und...
+Son derece detayli sinematik 4K animasyon video, ruya gibi eterik bir boslukta suzuluyen buyulu Faberge tarzi paskalya yumurtalari, suslu altin filigre ve...
 
-Quelle: [Beitrag](https://x.com/ShamiWeb3/status/2040096061835059412) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/ShamiWeb3/status/2040096061835059412) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/064.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -653,13 +663,13 @@ Quelle: [Beitrag](https://x.com/ShamiWeb3/status/2040096061835059412) · Veröff
 Highly detailed cinematic 4K animated video, precious enchanted Faberge-style Easter eggs floating in a dreamy ethereal space, ornate golden filigree and glowing runes on creamy porcelain and jewel-toned shells, semi-transparent eggs revealing intricate animated miniature fantasy
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
 ### Prompt 77
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Originaler 15-sekündiger Kurzfilm über eine Elementschlacht: In einem eisbedeckten vulkanischen Gebirge prallt ein Krieger in vulkanischer Obsidianrüstung frontal...
+Elemental bir savasi konu alan orijinal 15 saniyelik kisa film: buzla kapli volkanik daglarda, volkanik obsidyen zirhli bir savasci dogrudan carpısiyor...
 
-Quelle: [Beitrag](https://x.com/David_eficaz/status/2039966320414937236) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/David_eficaz/status/2039966320414937236) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/074.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -667,13 +677,13 @@ Quelle: [Beitrag](https://x.com/David_eficaz/status/2039966320414937236) · Ver�
 Original 15-second short film about an elemental battle: In a volcanic mountain range covered in ice, a warrior in volcanic obsidian armor clashes head-on with an opponent who controls the power of cold crystal. Cracked, snow-covered lava stretches beneath their feet; in the air, flames roar, ice crystals shatter, steam erupts, and storms howl. The camera rapidly alternates close-ups of the armor textures, ice crystals, cracks in the ground, and the culminating moment of the clash, finally ending with an explosion of steam that floods the screen, creating a strong visual conflict between fire and ice.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
 ### Prompt 79
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Ultra-cinematisches Sci-Fi-Fantasy-Duell bei Tageslicht, ein Krieger mit leuchtender Energy Blade steht einer massiven furchterregenden Kreatur gegenüber, ruhig und fokussiert,...
+Gun isiginda ultra sinematik bir sci-fi fantazi duellosu; parlayan enerji kilici tasiyan bir savasci, devasa ve dehset verici bir yaratikla karsi karsiya, sakin ve odakli,...
 
-Quelle: [Beitrag](https://x.com/CharaspowerAI/status/2040013966986957144) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/CharaspowerAI/status/2040013966986957144) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/076.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -692,13 +702,13 @@ Open landscape under bright daylight, minimal clutter, ground reacting to impact
 Ultra realistic, high-end cinematic action, precise choreography, glowing energy blade effects, strong contrast lighting, fluid motion, intense speed, epic scale, no distortion, no stretching
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### 15-second continuous single-shot action sequence
+### 15 saniyelik kesintisiz tek-plan aksiyon sekansi
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-15-sekündige durchgehende Single-Shot-Actionsequenz. Keine Schnitte. Keine Szenenwechsel. Dunkler cinematischer Fantasy-Realismus, dichte Waldschatten, Nebelschichten, dynamisch...
+15 saniyelik kesintisiz tek-plan aksiyon sekansi. Kesme yok. Sahne gecisi yok. Koyu sinematik fantazi gercekciligi, yogun orman golgeleri, sis katmanlari, dinamik...
 
-Quelle: [Beitrag](https://x.com/Artedeingenio/status/2039997977897435190) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/Artedeingenio/status/2039997977897435190) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/078.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -715,13 +725,13 @@ Dense forest → cliff edge → open valley
 0–3s —
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
 ### Prompt 82
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Ein einsamer Samurai steht bei Sonnenuntergang auf einer Klippe über Kirschblütenbergen, der Wind wirbelt Blüten um ihn herum, er zieht langsam zum letzten Mal seine Katana...
+Gun batiminda kiraz cicegi daglarina bakan bir ucurumda yalniz bir samuray duruyor; ruzgar yapraklari etrafinda savururken katanasini son kez yavasca cekiyor...
 
-Quelle: [Beitrag](https://x.com/Alin_Reaper05/status/2040042931172655384) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/Alin_Reaper05/status/2040042931172655384) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/079.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -729,13 +739,13 @@ Quelle: [Beitrag](https://x.com/Alin_Reaper05/status/2040042931172655384) · Ver
 A lone samurai stands on a cliff overlooking cherry blossom mountains at sunset, wind blowing petals around him, he slowly draws his katana for the last time, single tear on his face, slow cinematic crane shot rising above him as sun sets, emotional widescreen, ultra-realistic, like Ghost of Tsushima + The Last Samurai, warm golden tones, heartbreaking moment
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
 ### Prompt 88
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Ein kühner Luftschurke stürzt sich auf einem biomechanischen Gleiter durch einen chaotischen Basar schwebender Inseln, webt mühelos zwischen fliegenden Händlern hindurch und weicht...
+Biyo-mekanik bir planorla kaotik, havada asili ada pazarina dalan gozu kara bir hava haydudu; havadaki tuccarlarin arasindan ustalikla siyriliyor, kacinip...
 
-Quelle: [Beitrag](https://x.com/sebatheepan/status/2039723026124575231) · Veröffentlicht: 02. Apr 2026
+Kaynak: [Gonderi](https://x.com/sebatheepan/status/2039723026124575231) · Yayin: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/085.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -743,13 +753,13 @@ Quelle: [Beitrag](https://x.com/sebatheepan/status/2039723026124575231) · Verö
 A daring aerial rogue diving on a bio-mechanical glider through a chaotic floating-island bazaar, weaving effortlessly through airborne merchants, dodging passing airships, flocking griffins, and tethered trading posts. He plummets past crumbling stone arches, busy rope bridges, and cascading waterfalls, barrel-rolling through narrow gaps with precision and style. Cinematic tracking shots follow his descent, enhanced by dynamic motion blur and ethereal dappled sunlight reflecting off crystal formations and mist. The sky-city pulses with an energetic fantasy vibe—flapping wings, shouting vendors, and nonstop vertical motion. Ultra-realistic detail with an epic high-fantasy action aesthetic, capturing speed, agility, and fearless momentum through the clouds.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Eine extrem schnelle Flug-Action-Szene eines Mädchens auf einem Drachen
+### Ejderhaya binen bir kizin super yuksek hizli ucus aksiyon sahnesi
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Eine extrem schnelle Flug-Action-Szene eines Mädchens auf einem Drachen. Hohe Frame-Anzahl, 24FPS japanischer Vollfarb-Anime. Zwei Drachen, einer blau und einer rot,...
+Ejderhaya binen bir kizin super yuksek hizli ucus aksiyon sahnesi. Yuksek frame sayisi, 24FPS Japon tam renkli anime. Biri mavi biri kirmizi iki ejderha,...
 
-Quelle: [Beitrag](https://x.com/naoyuki_okada/status/2039573038392614995) · Veröffentlicht: 02. Apr 2026
+Kaynak: [Gonderi](https://x.com/naoyuki_okada/status/2039573038392614995) · Yayin: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/086.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -758,13 +768,13 @@ A super high-speed flight action scene of a girl riding a dragon. High number of
 Two dragons, one blue and one red, are flying high above the clouds. They are flying faster than 100 km/h, cutting through the wind and passing between the clouds. A sense of freedom, liberation from anything that might interfere, and speed.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### 15-Second Original Desert Martial Arts Short Film
+### 15 Saniyelik Orijinal Col Martial Arts Kisa Filmi
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-15-sekündiger Original-Desert-Martial-Arts-Kurzfilm: Ein schwarzer Katzenkrieger in leichter Rüstung steht allein in einer Wüste, in der gelber Sand durch die Luft wirbelt,...
+15 saniyelik Orijinal Col Martial Arts Kisa Filmi: hafif zirhli siyah bir kedi savascisi, sari kumun gokyuzunu kapladigi bir colde tek basina duruyor,...
 
-Quelle: [Beitrag](https://x.com/NimEshed/status/2039816152222949829) · Veröffentlicht: 02. Apr 2026
+Kaynak: [Gonderi](https://x.com/NimEshed/status/2039816152222949829) · Yayin: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/091.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -772,13 +782,13 @@ Quelle: [Beitrag](https://x.com/NimEshed/status/2039816152222949829) · Veröffe
 15-second Original Desert Martial Arts Short Film: A black cat warrior in light armor stands alone in a desert where yellow sand is flying all over the sky, facing the pursuers. The shots combine slow motion and fast editing; under backlight, the yellow sand rolls like ink mist. The character’s movements are elegant yet ferocious, with tattered but flowing robes. Holding a short weapon, he shuttles and counterattacks at high speed. The overall tone is cold, lonely and oppressive, with high-end colors and obvious shallow depth of field, just like a high-quality oriental martial arts movie.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Ein 15-sekündiger hyperrealistischer epischer Kriegs-Blockbuster
+### 15 saniyelik hiper-gercekci epik savas blockbuster'i
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Ein 15-sekündiger hyperrealistischer epischer Kriegs-Blockbuster. Stil: rauer Realismus, 35mm-Handheld-Filmästhetik, natürliche Körnung, subtile Erschütterung. Xiang Yu, der...
+15 saniyelik hiper-gercekci epik savas blockbuster'i. Stil: sert gercekcilik, 35mm handheld film estetigi, dogal grain, ince titreme. Xiang Yu, ...
 
-Quelle: [Beitrag](https://x.com/john87445528/status/2039348028574744685) · Veröffentlicht: 01. Apr 2026
+Kaynak: [Gonderi](https://x.com/john87445528/status/2039348028574744685) · Yayin: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/110.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -786,13 +796,13 @@ Quelle: [Beitrag](https://x.com/john87445528/status/2039348028574744685) · Ver�
 A 15-second hyper-realistic epic war blockbuster. Style: rugged realism, 35mm handheld film aesthetic, natural grain, subtle shake. Xiang Yu, the Hegemon-King of Western Chu, wearing the armor from Image 2, riding the horse from Image 1, holding a 13-foot 7-inch Overlord Spear, in a famous scene of slaughter on an ancient battlefield, leading a small number of soldiers against thousands of enemy troops in a display of lonely bravery. Scene 1: One-shot, low-angle ground-level slow follow of the horse's hooves, panning up to a close-up of Xiang Yu's face, showing bloodstains, resolute eyes, and a roaring expression as he shouts: “Zhai Xiaoniao,” give me back my money; Scene 2: Low-angle follow shot of Xiang Yu charging on horseback, leading the way; Generate only fighting sound effects and environmental sounds, no background music.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Büro-Kaffeepause geht schief Shot 1
+### Ofis Kahve Molasi Ters Gidiyor shot 1
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Büro-Kaffeepause geht schief Shot 1: Ein müder Büroangestellter im Hemd trinkt Kaffee an seinem Schreibtisch in einem modernen Großraumbüro. Ruhiger Medium Shot,...
+Ofis Kahve Molasi Ters Gidiyor Shot 1: Dugmeli gomlek giyen yorgun bir ofis calisani modern acik planli ofiste masasinda kahve yudumluyor. Sakin medium shot,...
 
-Quelle: [Beitrag](https://x.com/Dheepanratnam/status/2039387346706001941) · Veröffentlicht: 01. Apr 2026
+Kaynak: [Gonderi](https://x.com/Dheepanratnam/status/2039387346706001941) · Yayin: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/117.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -800,13 +810,13 @@ Quelle: [Beitrag](https://x.com/Dheepanratnam/status/2039387346706001941) · Ver
 Office Coffee Break Gone WrongShot 1: Tired office worker in a button-up shirt sips coffee at his desk in a modern open-plan office. Calm medium shot, fluorescent lights, papers everywhere.Shot 2: He spills a drop — the coffee suddenly animates into a hyper-caffeinated coffee monster with espresso eyes and foam tentacles.Shot 3: Low-angle shot: The monster rampages across desks, flinging staplers and keyboards in realistic arcs while the worker dodges in panic.Shot 4: Fast-paced tracking shot through the office as coworkers scream and dive under tables, papers flying like confetti with accurate physics.Shot 5: Climax: Worker grabs a fire extinguisher and blasts the monster, turning it back into harmless foam. He sits exhausted, now covered in foam, as everyone claps slowly
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
 ### 15-second continuous single-shot action sequence
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-15-sekündige durchgehende Single-Shot-Actionsequenz. Keine Schnitte. Keine Szenenwechsel. Cinematischer Fantasy-Realismus, groß angelegte Kreaturenanimation, Feuersimulation,...
+15 saniyelik kesintisiz tek-plan aksiyon sekansi. Kesme yok. Sahne gecisi yok. Sinematik fantazi gercekciligi, buyuk olcekli yaratik animasyonu, ates simulasyonu,...
 
-Quelle: [Beitrag](https://x.com/Artedeingenio/status/2039333445403287777) · Veröffentlicht: 01. Apr 2026
+Kaynak: [Gonderi](https://x.com/Artedeingenio/status/2039333445403287777) · Yayin: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/119.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -819,17 +829,17 @@ Cinematic fantasy realism, large-scale creature animation, fire simulation, smok
 Weighty creature movement, believable scale,
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-## Cinematischer Realismus
+## Sinematik Gercekcilik
 
-Geerdete Live-Action-Prompts mit Fokus auf Stimmung, Körpersprache, praktisches Licht und glaubwürdiges Kameraverhalten.
+Ruh hali, beden dili, pratik isik ve inandirici kamera davranisina odaklanan ayaklari yere basan live-action prompt'lar.
 
-### Modernes Japan
+### Modern Japonya
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Modernes Japan. Ein 15-sekündiges Live-Action-Video im Dokumentarstil während eines Hochhausbrandes in der Tokyo Bay. Keine BGM. Keine Untertitel. Nur Umgebungs...
+Modern Japonya. Tokyo Bay'de bir gokdelen yangini sirasinda gecen 15 saniyelik live-action belgesel tarzi video. BGM yok. Altyazi yok. Yalnizca ortam sesleri...
 
-Quelle: [Beitrag](https://x.com/kuranoayashi/status/2040055299835650266) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/kuranoayashi/status/2040055299835650266) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/045.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -839,13 +849,13 @@ No BGM. No subtitles. Only environmental sounds, radio, wind, fire, and people's
 ---
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
 ### Prompt 76
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-0-5 s dynamischer Low-Angle-Tracking-Shot neben einer weiblichen Downhill-Longboarderin in tiefer aerodynamischer Duckhaltung auf einem steilen Bergpass. Blendendes, intensives...
+0-5s Dynamic low-angle tracking shot pacing a female downhill longboarder in a deep aerodynamic tuck speeding down a steep mountain pass. Blinding, intense...
 
-Quelle: [Beitrag](https://x.com/Dheepanratnam/status/2039982273076810119) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/Dheepanratnam/status/2039982273076810119) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/073.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -857,17 +867,17 @@ Quelle: [Beitrag](https://x.com/Dheepanratnam/status/2039982273076810119) · Ver
 [10-15s] A rapid whip-pan and macro snap-zoom abruptly shifts the camera down to street level for an ultra-realistic extreme close-up of the longboard's vibrant polyurethane wheels executing a heavy sideways drift. Thick, volumetric white friction smoke billows from the wheels as they violently grind against the highly textured, sun-baked granular black asphalt, highlighting raw kinetic energy and photorealistic surface materiality.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
 ## POV / FPV
 
-First-Person-, drohnenartige, körpermontierte und immersionsorientierte Prompts, die um Kameradynamik herum aufgebaut sind.
+Kamera ivmesi etrafinda kurulan birinci sahis, drone benzeri, govdeye monte ve immersiyon oncelemeli prompt'lar.
 
-### Verfolgungssequenz mit Brustkamera und Tarnkleidung
+### Goguse Monte Kamuflajli Kovalamaca Sekansi
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Eine hyperrealistische, in 8K aufgelöste, adrenalingeladene POV-Actionsequenz im Single Take. Die Kamera ist auf der Brust eines Mannes mit Tarn-Jogginghose und...
+Hiper-gercekci, 8K cozumurlukte, adrenalin yuklu tek cekim POV aksiyon sekansi. Kamera, kamuflaj jogger ve...
 
-Quelle: [Beitrag](https://x.com/genel_ai/status/2039538309790404797) · Veröffentlicht: 02. Apr 2026
+Kaynak: [Gonderi](https://x.com/genel_ai/status/2039538309790404797) · Yayin: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/004.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -886,13 +896,13 @@ Jump 5: A final, explosive long-distance jump to a swaying metal platform. He la
 The camera remains in a low, fetal position on the final bar, shaking from the adrenaline. No dialogue. The audio is a visceral layer of the aggressive 'Hyuo' wind, his intense, ragg
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Shanghai-Cyberpunk-City-Sizzle-Reel
+### Shanghai Cyberpunk Sehir Sizzle Reel
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
-Eine hochwertige Shanghai-Stadtmontage, die Cyberpunk-Energie, FPV-Bewegung, Food-Makro-Shots und Commercial-Polish kombiniert.
+Cyberpunk enerji, FPV hareket, food macro shot'lari ve ticari parlakligi birlestiren premium bir Shanghai sehir montaji.
 
-Quelle: [Beitrag](https://x.com/Adam38363368936/status/2039498800801398911) · Veröffentlicht: 02. Apr 2026
+Kaynak: [Gonderi](https://x.com/Adam38363368936/status/2039498800801398911) · Yayin: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/005.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -912,13 +922,13 @@ Requirements: extremely dynamic camera movement, FPV aerial motion, macro cinema
 Mood: energetic, futuristic, premium, fast-paced. Combine wide city views with fine details to emphasize the city's pulse and a commercial-advertising texture. 4K, realistic style, smooth motion.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Action-Prompt mit Konsistenz für verfluchten Samurai
+### Lanetli Samuray Tutarlilik Aksiyon Prompt'u
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Folge strikt Gesicht, Frisur, Outfit-Silhouette und Körperproportionen des Referenzcharakters. Ändere weder Identität noch Gesichtsstruktur. Festgelegt...
+Referans karakterin yuzunu, sac modelini, kiyafet siluetini ve vucut oranlarini kesinlikle takip edin. Kimligi veya yuz yapisini degistirmeyin. Sabit...
 
-Quelle: [Beitrag](https://x.com/Just_sharon7/status/2040685931858907646) · Veröffentlicht: 05. Apr 2026
+Kaynak: [Gonderi](https://x.com/Just_sharon7/status/2040685931858907646) · Yayin: 05 Apr 2026
 
 [![](./public/seedance_2_prompt_images/006.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -926,13 +936,13 @@ Quelle: [Beitrag](https://x.com/Just_sharon7/status/2040685931858907646) · Ver�
 Strictly follow the reference character’s face, hairstyle, outfit silhouette, and body proportions. Do not change identity or facial structure. Fixed appearance: glowing dark eyes, torn black samurai kimono, traditional katana, black cursed smoke slowly leaking from the body, flowing shadow energy aura, calm but cruel expression, supernatural high-speed movement, consistent identity and physical appearance throughout the entire scene. Strictly follow the reference character’s face, hairstyle, outfit silhouette, and body proportions. Do not change identity or facial structure. Fixed appearance: glowing dark eyes, torn black samurai kimono, traditional katana, black cursed smoke slowly leaking from the body, flowing shadow energy aura, calm but cruel expression, supernatural high-speed movement, consistent identity and physical appearance throughout the entire scene. Hyper-realistic cinematic action, Unreal Engine quality, fast-paced 12s sequence. Cursed lone samurai (strict consistency: female Japanese, long tied black hair, pale skin, glowing dark eyes, torn black kimono armor, katana, black cursed smoke, shadow aura, calm ruthless expression). Environment: abandoned temple shrine at night, broken torii gates, shattered statues, debris, moonlight + dim lanterns, dust and wind, dozens of enemies, dark gritty tone. Camera: aggressive tracking, whip pans, blade POV, high-speed motion, no slow motion. Action: 0–3s: Samurai stands surrounded → instant iaijutsu draw → dark energy slash cuts multiple enemies. 3–6s: High-speed dashes, shadow afterimages, rapid slashes, enemies fall, debris flying. 6–9s: Close combat, parries, teleport-like strikes, circular slashes clearing groups. 9–12s: Final spinning slash → massive dark wave → enemies freeze then collapse → silence, smoke fading.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Göttliche Rettung von Sun Wukong auf dem Schlachtfeld
+### Sun Wukong Savas Alani Ilahi Kurtarisi
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Cinematische hyperdynamische, schnelle Multi-Shot-Sequenz, episches mythologisches Schlachtfeld, IMAX-Filmsimulation, 35mm-Panavision-Objektiv, f/4, starkes cinematisches...
+Sinematik, hiper-dinamik, hizli tempolu cok-shot'lu sekans; epik mitsel savas alani, IMAX film simulasyonu, 35mm Panavision lens, f/4, agir sinematik...
 
-Quelle: [Beitrag](https://x.com/drjoetw/status/2040661051948323129) · Veröffentlicht: 05. Apr 2026
+Kaynak: [Gonderi](https://x.com/drjoetw/status/2040661051948323129) · Yayin: 05 Apr 2026
 
 [![](./public/seedance_2_prompt_images/009.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -948,13 +958,13 @@ Shot 7: Ultra-fast sequence of disintegration shots. The skeletal army is instan
 Shot 8: Wide epic drone pull-back. Wukong stands silhouett
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Y2K-Poolparty-Camcorder-Montage
+### Y2K Havuz Partisi Camcorder Montaji
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Eine Y2K-Poolparty-Camcorder-Sequenz mit MiniDV-Textur, verspielten Party-Beats und schneller nostalgischer Montage-Energie.
+MiniDV dokusu, eglenceli parti ritimleri ve hizli nostaljik montaj enerjisi tasiyan bir Y2K havuz partisi camcorder sekansi.
 
-Quelle: [Beitrag](https://x.com/johnAGI168/status/2040628800422322359) · Veröffentlicht: 05. Apr 2026
+Kaynak: [Gonderi](https://x.com/johnAGI168/status/2040628800422322359) · Yayin: 05 Apr 2026
 
 [![](./public/seedance_2_prompt_images/010.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -985,13 +995,13 @@ Push in from behind the DJ's shoulder. In the foreground, fingers press the silv
 A rapid crane rise opens the entire pool party in golden-hour warm light, full of people and inflatable toys, with the water shimmering like broken gold. Overlay a DV timestamp reading "08/15/2000 PM 5:47" and freeze the frame with a flickering VHS pause effect.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
 ### Prompt 40
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Cinematic-CG-Ad-Qualität, ultra-realistisch, First-Person-POV, hochgeschwindige One-Take-Kamerabewegung, starke visuelle Wirkung. Die Kamera bricht aus dem Inneren...
+Sinematik CG reklam kalitesi, ultra-gercekci, birinci sahis POV, yuksek hizli tek cekim kamera hareketi, guclu gorsel etki. Kamera iceriden disari firliyor...
 
-Quelle: [Beitrag](https://x.com/xingsthatmatter/status/2040190310043812035) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/xingsthatmatter/status/2040190310043812035) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/038.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1001,12 +1011,12 @@ Cinematic CG ad quality, ultra-realistic, first-person POV, high-speed one-take 
 The camera bursts out from inside image1, the Tesla card, as the card spins forward at high speed. The camera stays tight to its edge, tracking it through city
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
-### Extreme Nahaufnahme
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+### Asiri Yakin Plan
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Ein hochdramatisches, schnell geschnittenes Anime-MV mit übersteigerter cinematischer Spannung und komödiantischem Payoff. Reisfelder im Tokio der 1930er, schlammige Texturen, stürmischer Himmel. Extreme...
+Abartili sinematik gerginlik ve komik final etkisi tasiyan son derece dramatik, hizli kesmeli anime MV. 1930'lar Tokyo pirinc tarlalari, camurlu dokular, firtinali gokyuzu. Asiri...
 
-Quelle: [Beitrag](https://x.com/drjoetw/status/2040036596897222773) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/drjoetw/status/2040036596897222773) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/049.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1073,13 +1083,13 @@ White tiger casually adjusts sunglasses while sitting on him.
 Freeze frame → dramatic music abruptly cuts.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Erstelle eine schnelle, nahtlose 16
+### Hizli ve Kesisiz bir 16
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Erstelle eine schnelle, nahtlose 16:9-Flug-POV-Sequenz mit fünf verbundenen Shots. Shot 1: Beginne in einem dunklen antiken Steinkorridor mit einer Holztür am Ende...
+Bes bagli shot'tan olusan hizli, kesisiz 16:9 ucus POV sekansi olustur. Shot 1: Ucunda ahsap kapi bulunan karanlik antik tas koridorda basla...
 
-Quelle: [Beitrag](https://x.com/aisavvy1/status/2040054688054382972) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/aisavvy1/status/2040054688054382972) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/052.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1093,13 +1103,13 @@ Shot 5: Continue through the circular opening into a Mediterranean cliffside vil
 Fast, smooth, continuous movement. No flying device, shadow, or reflection. Cinematic.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Umgebung
+### Ortam
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Umgebung: Eine riesige mittelalterliche Fantasy-Stadt unter Belagerung in der Dämmerung. Steintürme, Kathedralspitzen und enge Straßen reichen bis zum Horizont, während Feuer...
+Ortam: Alacakaranlikta kusatma altinda devasa bir orta cag fantazi sehri. Tas kuleler, katedral kuleleri ve dar sokaklar ufka uzaniyor; ates...
 
-Quelle: [Beitrag](https://x.com/LudovicCreator/status/2039983776206344231) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/LudovicCreator/status/2039983776206344231) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/069.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1129,13 +1139,13 @@ Fast aerial predator POV weaving through the skyline, banking sharply between to
 Photorealistic fire simulation, volumetric smoke, cinematic sunset lighting, realistic wing turbulence and debris physics, 8K resolution.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### First-Person-POV eines Eiswürfels, der in ein Glas Limo fällt
+### Bir bardak sodaya dusen buz kubunun birinci sahis POV'u
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-First-Person-POV eines Eiswürfels, der in ein Glas Limo fällt. Der Würfel kracht in einen blubbernden Ozean aus kohlensäurehaltiger Flüssigkeit. Riesige Blasen steigen wie...
+Bir bardak sodaya dusen buz kubunun birinci sahis POV'u. Kup, karbonatli sivi okyanusuna carpar. Dev baloncuklar...
 
-Quelle: [Beitrag](https://x.com/LudovicCreator/status/2039623813080416486) · Veröffentlicht: 02. Apr 2026
+Kaynak: [Gonderi](https://x.com/LudovicCreator/status/2039623813080416486) · Yayin: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/093.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1155,13 +1165,13 @@ Finally the cube slides toward a straw vortex and disappears.
 Macro drink environment POV, carbonation bubble storms, melting ice transformation, cinematic macro realism, 4K.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Raue, rohe 35mm-Handheld-Filmästhetik mit natürlicher Filmkörnung
+### Dogal film grain'ine sahip kirli, ham handheld 35mm film estetigi
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Raue, rohe 35mm-Handheld-Filmästhetik mit natürlicher Filmkörnung. Helles frühes Morgenlicht strömt durch Fenster und erzeugt scharfe Innenraumschatten....
+Dogal film grain'ine sahip kirli, ham handheld 35mm film estetigi. Pencerelerden iceri dolan parlak sabah erken gun isigi, ic mekanda keskin golgeler olusturuyor....
 
-Quelle: [Beitrag](https://x.com/AngelNwoha/status/2039792884841591009) · Veröffentlicht: 02. Apr 2026
+Kaynak: [Gonderi](https://x.com/AngelNwoha/status/2039792884841591009) · Yayin: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/102.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1169,13 +1179,13 @@ Quelle: [Beitrag](https://x.com/AngelNwoha/status/2039792884841591009) · Veröf
 Gritty, raw handheld 35mm film aesthetic with natural film grain. Bright early-morning sunlight streaming through windows, creating sharp indoor shadows. Controlled handheld tracking shot (3rd person POV, over-the-shoulder), stabilized cinematic motion with subtle natural shake.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### 10-sekündiges fotorealistisches Cinematic-POV-Video
+### 10 saniyelik fotogercekci sinematik POV video
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-10-sekündiges fotorealistisches Cinematic-POV-Video. Eine japanische Frau Anfang 20 mit schwarzem kurzem Bob, glattem Haar, natürlichem feinem Make-up und...
+10 saniyelik fotogercekci sinematik POV video. Siyah kisa bob sacli, duz sacli, dogal ve rafine makyajli, yirmili yaslarinin basinda Japon bir kadin ve...
 
-Quelle: [Beitrag](https://x.com/umitsuru_fire/status/2039295650039554051) · Veröffentlicht: 01. Apr 2026
+Kaynak: [Gonderi](https://x.com/umitsuru_fire/status/2039295650039554051) · Yayin: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/105.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1183,13 +1193,13 @@ Quelle: [Beitrag](https://x.com/umitsuru_fire/status/2039295650039554051) · Ver
 10-second photorealistic cinematic POV video. A Japanese woman in her early 20s with a black short bob hairstyle, straight hair, natural refined makeup, and a white blouse sits inside a Ferris wheel gondola at night near the top. Outside the window is a beautiful city nightscape
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Eine super-futuristische Megacity erwacht nach der Apokalypse im Sturm
+### Kiyamet sonrasi super futuristik bir megakent firtinada uyaniyor
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Eine super-futuristische Megacity erwacht nach der Apokalypse in einem Sturm. Dunkle Wolken drücken auf die Stadt. Riesige Schlachtschiffe sinken langsam vom Himmel herab,...
+Kiyamet sonrasi super futuristik bir megakent firtinada uyaniyor. Kara bulutlar sehrin ustune cokuyor. Dev savas gemileri gokyuzunden yavasca iniyor,...
 
-Quelle: [Beitrag](https://x.com/johnAGI168/status/2039380975801471305) · Veröffentlicht: 01. Apr 2026
+Kaynak: [Gonderi](https://x.com/johnAGI168/status/2039380975801471305) · Yayin: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/108.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1197,13 +1207,13 @@ Quelle: [Beitrag](https://x.com/johnAGI168/status/2039380975801471305) · Veröf
 A super futuristic megacity after the apocalypse awakens in a storm. Dark clouds press down on the city. Giant battleships slowly descend from the sky, piercing through thunderclouds. The city's high-rise buildings are interwoven with neon lights and fire. Countless drones and armored vehicles shuttle rapidly through the streets. A distant energy tower erupts with dazzling blue electric arcs. The camera dives from high altitude into the city canyon, then rapidly pushes through falling debris and flames, finally settling on the back of a lonely hero wearing a black trench coat, standing on the edge of a skyscraper overlooking the entire burning city. Cinematic lighting, IMAX epic feel, ultra-high detail, stunning composition, strong volumetric light, realistic explosion smoke and dust, epic disaster movie atmosphere, extreme realism, top Hollywood visual effects.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Stil: ultra-realistischer industrieller Timelapse
+### Stil: Ultra-gercekci endustriyel timelapse
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Stil: ultra-realistischer industrieller Timelapse. Pacing: extrem schnell (Hyperlapse-Gefühl). Kamera: überwiegend fixiert mit leichter cinematischer Bewegung (Slider/Drohnen-Gefühl)...
+Stil: Ultra-gercekci endustriyel timelapse Tempo: Cok hizli (hyperlapse hissi) Kamera: Hafif sinematik hareketle cogunlukla sabit (slider/drone hissi)...
 
-Quelle: [Beitrag](https://x.com/craftian_keskin/status/2039415621960499603) · Veröffentlicht: 01. Apr 2026
+Kaynak: [Gonderi](https://x.com/craftian_keskin/status/2039415621960499603) · Yayin: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/111.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1267,13 +1277,13 @@ End moment:
 Camera holds briefly as car exits frame
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
 ### Prompt 116
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-cinematischer, schwerer Action-Blockbuster-Film, japanisches Stadtzentrum, eingestürzte Hauptstraße in der Dämmerung. Ein riesiges Monster reißt Gebäude nieder, Staub, Funken,...
+sinematik, agir aksiyon blockbuster filmi, Japon sehir merkezi, gun batiminda cokmus ana cadde. Dev bir canavar binalari yikiyor, toz, kivrilcim,...
 
-Quelle: [Beitrag](https://x.com/Yuupapa_free/status/2039329682492121547) · Veröffentlicht: 01. Apr 2026
+Kaynak: [Gonderi](https://x.com/Yuupapa_free/status/2039329682492121547) · Yayin: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/113.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1281,17 +1291,17 @@ Quelle: [Beitrag](https://x.com/Yuupapa_free/status/2039329682492121547) · Ver�
 cinematic, heavy action blockbuster film, Japanese city center, collapsed main street at dusk. A giant monster is knocking down buildings, dust, sparks, rubble, and black smoke are flying, and a Japanese high school girl in a uniform is desperately running towards the camera. Cut 1 (0.0s-2.5s): low angle tracking shot following the high school girl from the front as she retreats. Her hair and skirt are violently fluttering, the ground shakes from the monster's footsteps behind her, cars overturn, and window glass shatters. Her face shows determination amidst fear. Cut 2 (2.5s-3.7s): close-up of her feet. With every step she runs, black metal frames and pink glowing lines deploy onto her legs, rapidly equipping from her thighs to her shins and boots. Sparks and fine energy particles, mechanical transformation. Cut 3 (3.7s-4.8s): close-up of her hands. As she swings her arms, armor forms around her forearms, wrists, and fingertips, with pink light strips running through the gaps in the black armor. Cut 4 (4.8s-6.0s): close-up of her abdomen and chest. Abdominal inner wear, chest armor, and shoulder units lock sequentially, and the central core pulses pink with her breathing. Rack focus shows the detail of the armor. Cut 5 (6.0s-7.0s): close-up of her head. As her hair flies, a helmet deploys from the sides and back, enveloping her face line, and finally the visor closes while glowing. eyes visible through translucent visor. whip pan completes the transformation. Cut 6 (7.0s-8.8s): wide shot. After running a few steps at high speed, the transformed girl skids to a halt, scattering sparks and fragments, twists her body, and faces the monster. She thrusts one hand forward, and a pink spherical energy vortex converges on the device on the back of her hand, drawing in surrounding rubble. Cut 7 (8.8s-10.5s): over-the-shoulder shot capturing the monster, and she silently fires an energy blast all at once. A thick pink shockwave runs straight through, piercing the monster's chest. Cut 8 (10.5s-12.0s): super large explosion. The monster is blown to smithereens, fragments and smoke fly into the sky, and the giant body collapses. The final shot is a hero shot, the high school girl in a black and pink powered suit standing with the explosion behind her. dramatic backlight, debris, heat haze, high contrast, realistic destruction, dynamic motion blur, no BGM, no dialogue
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-## Kommerziell / Produkt
+## Ticari / Urun
 
-Werbe-, Fashion-, Lifestyle-, Produkt- und Premium-Brand-Style-Prompts.
+Reklam, fashion, lifestyle, urun ve premium marka stilindeki prompt'lar.
 
-### Anime-Tanzbühne im Perfume-Stil für ein Trio
+### Perfume Tarzi Anime Uclu Dans Sahnesi
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Ein synchronisierter Anime-Idol-Dance-Stage-Prompt, angetrieben von mechanischer Präzision, schnellen Schnitten und blau-violettem Konzertlicht.
+Mekanik hassasiyet, hizli kesmeler ve mavi-mor konser isigi tarafindan yonlendirilen senkronize anime idol-dans sahnesi prompt'u.
 
-Quelle: [Beitrag](https://x.com/ShadeLurk/status/2040671186984796632) · Veröffentlicht: 05. Apr 2026
+Kaynak: [Gonderi](https://x.com/ShadeLurk/status/2040671186984796632) · Yayin: 05 Apr 2026
 
 [![](./public/seedance_2_prompt_images/007.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1304,13 +1314,13 @@ prompt:
 Three anime girls perform Perfume-style formation dance on an illuminated stage. Each girl performs different assigned choreography, but all movements are locked to the exact same beat with mechanical precision. The camera cuts rapidly between full shots and medium shots every 0.7-1.0 seconds, occasionally switching to side angles and overhead angles. The structure follows a call-and-response pattern between the three dancers. The choreography ranges from sharp upright arm work to low crouching floor sweeps. Blue-white spotlights carve through purple haze. LED panels pulse with blue-to-purple gradients. Triangular formation.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Dark-Fantasy-Kirchenduell
+### Koyu Fantazi Kilise Duellosu
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Originaler Dark-Fantasy-Action-Kurzfilm: In einer verfallenen Kirche beginnen ein weiß gekleideter Krieger und ein schwarz gepanzerter Gegner ihren finalen Kampf in einer...
+Orijinal Koyu Fantazi Aksiyon Kisa Filmi: Harap bir kilisenin icinde beyaz giyimli bir savasci ile siyah zirhli rakibi final savaslarini baslatiyor...
 
-Quelle: [Beitrag](https://x.com/ZaraIrahh/status/2040667542390190245) · Veröffentlicht: 05. Apr 2026
+Kaynak: [Gonderi](https://x.com/ZaraIrahh/status/2040667542390190245) · Yayin: 05 Apr 2026
 
 [![](./public/seedance_2_prompt_images/008.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1318,13 +1328,13 @@ Quelle: [Beitrag](https://x.com/ZaraIrahh/status/2040667542390190245) · Veröff
 Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-clad warrior and a black-armored opponent launch their final battle amid an atmosphere like a chorus. Stained glass shatters, moonlight penetrates the smoke and dust, and benches are overturned. The camera switches between high-angle overhead shots and low-angle upward shots, focusing on showing the sense of space of the religious building, the sense of oppression of the characters, and the temperament of a fateful decisive battle, just like the climax segment of an original fantasy animated film. A strong hook in the first 2 seconds, stable main body, coherent actions, movie-level composition, real light and shadow, epic sense, strong emotion, high-definition details, suitable for social media communication, avoiding copyrighted characters, avoiding brand logos, and completely original design.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Dark-Fantasy-Duell in der Schreinhalle
+### Koyu Fantazi Tapinak Salonu Duellosu
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Originaler Dark-Fantasy-Action-Kurzfilm im japanischen Stil: In einer verfallenen Schreinhalle liefern sich ein weiß gekleideter Krieger und ein schwarz gepanzerter Samurai ihren...
+Orijinal Japon Tarzi Koyu Fantazi Aksiyon Kisa Filmi: Harap bir tapinak salonunun icinde beyaz cubbeli bir savasci ile siyah zirhli bir samuray...
 
-Quelle: [Beitrag](https://x.com/MiraMusic_AI/status/2040595365096034700) · Veröffentlicht: 05. Apr 2026
+Kaynak: [Gonderi](https://x.com/MiraMusic_AI/status/2040595365096034700) · Yayin: 05 Apr 2026
 
 [![](./public/seedance_2_prompt_images/012.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1335,13 +1345,13 @@ The camera alternates between high-angle overhead shots and low-angle upward per
 A strong hook within the first 2 seconds, followed by a stable and cohesive progression. Fluid, continuous action with cinematic composition, realistic lighting and shadow, an epic atmosphere, intense emotional weight, and high-definition detail. Designed for social media engagement. Avoids copyrighted characters and brand logos, ensuring a completely original creation.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Pointe eines japanischen Snack-Commercials
+### Japon Atistirmalik Reklam Punchline'i
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square)
-Hier ist es. Ein 15-sekündiges japanisches Snack-Commercial. Shot 1 (3 s): Ein Mann geht durch eine Einkaufsstraße. Als er vorbeikommt, flüstern zwei Hausfrauen: "Es ist da."...
+Iste burada. 15 saniyelik bir Japon atistirmalik reklami. Shot 1 (3s): Bir adam alisveris caddesinde yurur. Yanindan gecerken iki ev hanimi fisildar, "Tukendi."...
 
-Quelle: [Beitrag](https://x.com/aigeboku/status/2040562471027782017) · Veröffentlicht: 04. Apr 2026
+Kaynak: [Gonderi](https://x.com/aigeboku/status/2040562471027782017) · Yayin: 04 Apr 2026
 
 [![](./public/seedance_2_prompt_images/014.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1356,13 +1366,13 @@ Shot 4 (3s): The man rushes into a Japanese convenience store. The clerk says, "
 Shot 5 (3s): Close-up of the new snack package. Narration: "It's out! New release!"
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Cinematic-Martial-Arts-Sequenz für Seedance 2
+### Seedance 2 icin Sinematik Martial Art Sekansi
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Cinematic-Martial-Arts-Sequenz für Seedance 2. PROMPT: cinematische Martial-Arts-Konfrontation bei hellem Tageslicht, ein blinder Shaolin-Mönch in einem dunklen, stilisierten...
+Seedance 2 icin Sinematik Martial Art Sekansi PROMPT, genis gun isiginda sinematik martial arts karsilasmasi; koyu, stilize...
 
-Quelle: [Beitrag](https://x.com/CharaspowerAI/status/2040376349504815467) · Veröffentlicht: 04. Apr 2026
+Kaynak: [Gonderi](https://x.com/CharaspowerAI/status/2040376349504815467) · Yayin: 04 Apr 2026
 
 [![](./public/seedance_2_prompt_images/017.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1381,13 +1391,13 @@ Traditional Japanese environment, open landscape with temples, wooden structures
 Ultra realistic, high-end martial arts film choreography, precise body mechanics, cinematic slow motion, strong contrast lighting, volumetric atmosphere, fluid transitions, intense but controlled physical interaction, no distortion, no stretching
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Ich bat Grok, dasselbe Video zu erzeugen, aber das Ergebnis war nicht überzeugend
+### Grok'tan ayni videoyu uretmesini istedim ama sonuc ikna edici degildi
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Ich bat Grok, dasselbe Video zu erzeugen, aber das Ergebnis war nicht überzeugend. Groks Rendering fehlt eine gewisse "Realitätstreue". Seedance 2.0 ist mit Abstand der beste Video...
+Grok'tan ayni videoyu uretmesini istedim ama sonuc ikna edici degildi. Grok'un render'inda belirli bir "gercekcilik" eksik. Seedance 2.0 acik ara en iyi video...
 
-Quelle: [Beitrag](https://x.com/Viafin23/status/2025901411221774788) · Veröffentlicht: 23. Feb 2026
+Kaynak: [Gonderi](https://x.com/Viafin23/status/2025901411221774788) · Yayin: 23 Feb 2026
 
 [![](./public/seedance_2_prompt_images/020.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1402,13 +1412,13 @@ Maintain stable temporal continuity. Avoid unnatural frame interpolation. No exa
 #Seedance2_0
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Flüsternde Klassenraum-Romanze in Japan
+### Japon Sinif Fisilti Romansi
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-15-sekündiger cinematischer japanischer Drama-Kurzfilm über reine, ambivalente Liebe, ultra-realistische Qualität, warmes goldenes Sonnenlicht in einem leeren Klassenraum am Nachmittag,...
+15 saniyelik sinematik Japon drama saf aski ve belirsizligi konu alan kisa film, ultra-gercekci kalite, ogleden sonra bos bir sinifta sicak altin gun isigi,...
 
-Quelle: [Beitrag](https://x.com/JiahaoYang_art/status/2033119940216344616) · Veröffentlicht: 15. Mär 2026
+Kaynak: [Gonderi](https://x.com/JiahaoYang_art/status/2033119940216344616) · Yayin: 15 Mar 2026
 
 [![](./public/seedance_2_prompt_images/022.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1422,13 +1432,13 @@ Overall Sound Effects: Distant summer cicada chirping faintly, the soft scratchi
 Character identity is maintained throughout, real subtle head tilts, eye movements, and breathing synchronization, no text, watermarks, or subtitles, pure Japanese style youth secret crush heart-fluttering suspense.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Empfohlener Einstellungsmodus
+### Onerilen Ayarlar Modu
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Empfohlener Einstellungsmodus: Standard | Auflösung: 720p | Dauer: 15 Sekunden. 100 % Real-Person-Animation. Heller Tag. Stadtplatz. Schnelles Licht. Hohe...
+Onerilen Ayarlar Modu: Standard | Cozunurluk: 720p | Sure: 15 saniye. %100 gercek insan animasyonu. Parlak gunduz. Sehir meydani. Hizli isiklandirma. Yuksek...
 
-Quelle: [Beitrag](https://x.com/MiraMusic_AI/status/2039096342749016145) · Veröffentlicht: 31. Mär 2026
+Kaynak: [Gonderi](https://x.com/MiraMusic_AI/status/2039096342749016145) · Yayin: 31 Mar 2026
 
 [![](./public/seedance_2_prompt_images/025.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1436,13 +1446,13 @@ Quelle: [Beitrag](https://x.com/MiraMusic_AI/status/2039096342749016145) · Ver�
 [Recommended Settings] Mode: Standard | Resolution: 720p | Duration: 15 seconds. 100% real-person animation. Bright daytime. City square. Fast lighting. High energy. Explosive atmosphere. Strong rhythm. High-energy version of three-person street dance. Fast dancing. Show-off moves. Quick rhythm. Full participation. Jumps and rolls. Explosive power. Intense three-person performance. [0-1s: Overhead view, quick cut-in] Camera: Fast shot. Full view of the square. Three people in the center. Strong music explosion. Dynamic shot. [1-4s: Medium shot, quick circling] Camera: Fast rotating circle. High-energy basic moves. Quick rhythm starts. Fast switching between high and low angles. [4-7s: Multi-angle low angle] Camera: Rapid switching of multiple angles. Knee-high ↔ wide angle. Fast footwork. Complex high-difficulty stepping. [7-9s: Character 1 burst] Camera: Fast zoom. Close-up of the face. Character 1 intense solo. Explosive power. Fast rotation. [9-11s: Character 2 burst] Camera: Fast angle switch. Close-up of the face. Character 2 intense solo. Show-off moves. High energy. [11-13s: Character 3 burst] Camera: Ultra-fast shot. Close-up of the face. Character 3 intense solo. Highest energy. Jumps and rolls. [13-15s: Wide shot, explosive ending] Camera: Fast zoom out. Full view of the square. Three people synchronize explosively. Climax. Music climax. Freeze-frame smile. [Features] Fast rhythm. Multi-angle rapid switching. High-energy music. Explosive power. Excited audience. Suitable for a party.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### LaFerrari-Commercial-Storyboard
+### LaFerrari Ticari Storyboard
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
-Ein Shot-für-Shot-Storyboard für ein Luxus-Supercar-Commercial mit Fokus auf kontrollierte Kamerabewegung und Premium-Produktoberflächen.
+Kontrollu kamera hareketi ve premium urun yuzeylerine odaklanan shot-by-shot luks supercar reklam storyboard'u.
 
-Quelle: [Beitrag](https://x.com/Adam38363368936/status/2039932977287979053) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/Adam38363368936/status/2039932977287979053) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/030.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1476,13 +1486,13 @@ No people should appear in the frame.
 Highest image quality: 8K.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Heißblütiges Anime-Finalduell
+### Sicak Kanli Anime Final Duellosu
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
-Getestet: Originaler heißblütiger Duel-Anime-Kurzfilm. Zwei Spitzenkrieger beginnen ihr finales Duell vor der Kulisse von Luft-Ruinen und Gewittern. Die...
+Test ettim: Orijinal Sicak Kanli Duello Anime Kisa Filmi: Iki ust duzey savasci, havada asili kalintilar ve gok gurultulu firtinalar arka planinda final duellosunu baslatiyor. ...
 
-Quelle: [Beitrag](https://x.com/gkxspace/status/2039894982434111716) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/gkxspace/status/2039894982434111716) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/032.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1492,13 +1502,13 @@ Tested it:
 Original Hot-Blooded Duel Anime Short Film: Two top warriors launch their final duel against the backdrop of aerial ruins and thunderstorms. The camera emphasizes extreme speed, intense energy collisions and a sense of oppression from the characters. When moves are released, the surrounding buildings, clouds and debris are simultaneously affected by the force. The actions are like the top-level battle animation of TV anime, with theater-level color grading and lens language, focusing on highlighting the "highly intense, exciting, and blockbuster-like" vibe. A strong hook in the first 2 seconds, with a stable main body, coherent actions, movie-level composition and light and shadow, real texture, epic sense, strong emotion, high-definition details, suitable for social media communication. Completely original characters, worldview, costumes, weapons and moves, no copyright risks, and no use of well-known IPs, celebrity faces, brand logos or existing elements.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
 ### Prompt 35
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Stil: Hollywood-Haute-Couture-Fantasy-Blockbuster, 8K ultra-klar, fotorealistisch, High-Fashion-Editorial-Stil, flüssiges Unreal-Engine-5-Rendering, visuelle...
+Style Hollywood Haute Couture Fantasy blockbuster, 8K ultra-clear, Photorealistic, High-fashion Editorial Style, Unreal Engine 5 fluid rendering, visual...
 
-Quelle: [Beitrag](https://x.com/johnAGI168/status/2025849650654122348) · Veröffentlicht: 23. Feb 2026
+Kaynak: [Gonderi](https://x.com/johnAGI168/status/2025849650654122348) · Yayin: 23 Feb 2026
 
 [![](./public/seedance_2_prompt_images/033.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1506,13 +1516,13 @@ Quelle: [Beitrag](https://x.com/johnAGI168/status/2025849650654122348) · Veröf
 [Style] Hollywood Haute Couture Fantasy blockbuster, 8K ultra-clear, Photorealistic, High-fashion Editorial Style, Unreal Engine 5 fluid rendering, visual illusion. [Duration] 15 seconds. [Scene] An endless, real-life Salar de Uyuni (Sky Mirror) salt flat. The sky is filled with oppressive dark clouds, and the ground perfectly reflects everything like a mirror, with the overall picture presenting a minimalist, cool tone. [00:00-00:05] Shot 1: Haute Couture Entrance and Porcelain Skin. Camera position: Extremely low-angle upward shot, ultra-telephoto lens zoom-in. Action: An Asian female model with a highly recognizable, high-fashion face walks coolly on the water surface. Effect: She is wearing not fabric, but a long dress made of flowing, real Liquid Blue-and-White Porcelain. As she walks, the skirt makes a crisp collision sound like real ceramic, with a flowing luster on the surface. The traditional blue-and-white patterns move across the white porcelain-textured skirt as if alive. [00:05-00:10] Shot 2: Physical Shattering and Ink-wash Descent. Camera position: Extreme close-up of the face, focus rapidly pulls back. Action: The model suddenly stops, stares coldly at the camera, and snaps her fingers crisply. Effect: The moment the fingers snap, her blue-and-white porcelain dress does not fall, but instantly explodes into thousands of extremely photorealistic Ink-wash Swallows. These swallows carry real water droplets and ink marks, dragging black fluid afterimages in the air, spinning frantically around her. [00:10-00:15] Shot 3: Dimensional Dissolution and Abyss Reflection. Camera position: High-altitude overhead shot, camera rapidly rotates and descends. Action: The swarm of ink-wash swallows plunges into the mirrored lake water beneath the model's feet. Effect: The surface tension of the originally solid salt lake instantly disappears. The entire extremely realistic world begins to violently bleed and dissolve like concentrated ink dropped into clear water. The real dark clouds and the model's figure transform entirely into an extremely grand 3D Fluid Ink Vortex, completely swallowing the camera into a black and white interwoven abyss.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Charakter
+### Karakter
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Stil: moderne ländliche Ästhetik, Cinematic-Commercial-Qualität, aufgenommen mit Sony A7S3/Cinema-Kamera, 4K/8K ultra-klar, Extreme Macro, natürlich transparent...
+Stil Modern Kirsal Estetigi, Sinematik Ticari kalite, Sony A7S3/cinema kamera ile cekilmis, 4K/8K ultra net, Extreme Macro, dogal seffaf...
 
-Quelle: [Beitrag](https://x.com/johnAGI168/status/2021818021354848258) · Veröffentlicht: 12. Feb 2026
+Kaynak: [Gonderi](https://x.com/johnAGI168/status/2021818021354848258) · Yayin: 12 Feb 2026
 
 [![](./public/seedance_2_prompt_images/034.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1543,13 +1553,13 @@ Action: A delicate home-cooked dish is placed on the wooden long table in the ya
 Atmosphere: Steam slowly rises against the backlight, the scene is so quiet you can almost hear the wind, showcasing the ultimate sense of relaxation modern people yearn for.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
 ### Kamera
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-cinematische Street-Racing-Sequenz bei Nacht, ein fokussierter Fahrer in einem Hochleistungsauto greift das Lenkrad, intensiver Blick, Stadtlichter...
+gece vakti sinematik street racing sekansi, yuksek performansli bir aracin icindeki odakli surucu direksiyonu kavriyor, yogun goz odagi, sehir isiklari...
 
-Quelle: [Beitrag](https://x.com/CharaspowerAI/status/2039651574297792688) · Veröffentlicht: 02. Apr 2026
+Kaynak: [Gonderi](https://x.com/CharaspowerAI/status/2039651574297792688) · Yayin: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/036.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1569,13 +1579,13 @@ Dense urban night environment, wet asphalt reflecting neon lights, tunnel passag
 Ultra realistic, fast and furious inspired energy, photorealistic lighting, intense motion blur, high contrast neon reflections, cinematic depth of field, extreme sense of speed, fluid transitions, no distortion, no stretching
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
 ### Prompt 49
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Erzeuge einen visuellen Blockbuster mit einem asiatischen Supermodel und luxuriösen Sportwagen in erstklassiger Commercial-Qualität, der ein Storyboard auf Regie-Niveau erfordert...
+En ust seviye ticari kalite ve yonetmen seviyesinde storyboard gerektiren; Asyali bir supermodel ile luks spor otomobilleri iceren gorsel bir blockbuster uret...
 
-Quelle: [Beitrag](https://x.com/johnAGI168/status/2039984306085327298) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/johnAGI168/status/2039984306085327298) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/046.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1583,13 +1593,13 @@ Quelle: [Beitrag](https://x.com/johnAGI168/status/2039984306085327298) · Veröf
 Generate a visual blockbuster featuring an Asian supermodel and luxury sports cars with top-tier commercial quality, requiring director-level storyboard arrangement and a fast-paced, high-end rhythm. 0-2 seconds: [Macro to Micro] The opening uses an extreme push-in shot, instantly cutting from the sharp headlights of the sports car with delayed afterimages to a close-up of the pupils of the top Asian supermodel, showcasing the ultimate Oriental charm. 2-5 seconds: [LOCKED-ON SHOT] The camera locks onto the model's profile, tracking her with a lateral pan (Tracking Shot) as she walks confidently and elegantly. The model wears a high-fashion silk evening gown, her hair slightly moving in the wind, against a background of a blurred neon urban viaduct. 5-8 seconds: [360-degree Orbit Shot] The model stands at the center intersection of three sports cars, and the camera quickly orbits around her at a low angle. Use slow motion (slow-motion processing) to capture her cold, stunning glance back, with eyes possessing strong aggression and high-end appeal. 8-10 seconds: [Low-angle Hero Shot] The camera quickly pulls back from a ground perspective to a full view. The model stands proudly in the center of the luxury car cluster. The composition presents perfect symmetrical aesthetics, with light focusing on the face, displaying queen-like dominance. Visual Style: Extreme cinematic realism, 2.35:1 widescreen. The overall color tone leans towards cool Teal & Orange, with natural film grain and soft highlights. The character's skin texture is delicate and natural, possessing the makeup and styling quality of a top luxury magazine. Sound Design: Heavy bass electronic ambient music. Sound effects must sync with the camera cuts (Swish sound effects), and the visual rhythm should breathe with the music beats. Control Instructions: Lock the facial features and high-end makeup of the Asian model, ensuring character consistency across various shots; action transitions must be smooth without stuttering; light and shadow should produce real-time physical reflections as the model moves.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
 ### Prompt 57
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Ein Android-Mädchen hat eine Fehlfunktion und zerstört daraufhin nach und nach ein böses Forschungslabor. Der böse Chef, ein übel aussehender Doktor, jagt das Mädchen,...
+Bir android kiz arizalanir ve kotu bir arastirma laboratuvarini tek tek yok etmeye baslar. Kotu patron, kotu yuzlu bir doktor, kizi kovalar,...
 
-Quelle: [Beitrag](https://x.com/aiehon_aya/status/2040187587889905861) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/aiehon_aya/status/2040187587889905861) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/054.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1597,13 +1607,13 @@ Quelle: [Beitrag](https://x.com/aiehon_aya/status/2040187587889905861) · Veröf
 An android girl malfunctions and proceeds to destroy an evil research lab one after another. The evil boss, a doctor with a bad face, chases the girl, shouting, "Waaah! Stop it! Please stop it!!" but the girl doesn't stop and continues to destroy things while laughing. In the end, there is a big explosion, and the lab is destroyed without a trace. The girl yawns and says, "Job complete," and falls asleep right there. The doctor kneels down, utterly dejected.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Positiver Prompt
+### Pozitif Prompt
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Positiver Prompt: Originaler Concept-Trailer für ein Action-Game. Der Protagonist bewegt sich durch eine neonzerstörte Stadt, in der Trümmer am Straßenrand fehlerhafte...
+Pozitif Prompt: Orijinal aksiyon oyunu konsept fragmani. Kahraman neonla yikilmis bir sehirde yolculuk eder; yol kenarindaki enkaz bozuk...
 
-Quelle: [Beitrag](https://x.com/adrianaia_/status/2039972811067031657) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/adrianaia_/status/2039972811067031657) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/055.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1611,13 +1621,13 @@ Quelle: [Beitrag](https://x.com/adrianaia_/status/2039972811067031657) · Veröf
 Positive Prompt: Original action game concept trailer. The protagonist travels through a neon ruined city, where the debris by the road emits faulty advertising lights, and mechanical guards fall from the faults of high-rise buildings. After dodging with a slide, the protagonist pulls out a folding energy blade. The camera is like an AAA game debut trailer, with third-person follow, rapid switching between close-up and ultra-wide shots, strong rhythm and distinct scene layers. It finally stops at the silhouette of the boss's appearance, creating a strong feeling of "wanting to play this game". Negative Restrictions: No Cyberpunk 2077 logos, no well-known game UI, no existing game character outlines. A strong hook in the first 2 seconds, stable main body, coherent actions, movie-level composition, real light and shadow, epic sense, strong emotion, high-definition details, suitable for social media communication, avoiding copyrighted characters, avoiding brand logos, and completely original design.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Originaler Dark-Fantasy-Action-Kurzfilm
+### Orijinal Koyu Fantazi Aksiyon Kisa Filmi
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Originaler Dark-Fantasy-Action-Kurzfilm: In einer verfallenen Kirche beginnen ein weiß gekleideter Krieger und ein schwarz gepanzerter Gegner ihren finalen Kampf in einer...
+Orijinal Koyu Fantazi Aksiyon Kisa Filmi: Harap bir kilisenin icinde beyaz giyimli bir savasci ile siyah zirhli rakibi final savaslarini baslatiyor...
 
-Quelle: [Beitrag](https://x.com/Rufus87078959/status/2039949879607197828) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/Rufus87078959/status/2039949879607197828) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/066.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1625,13 +1635,13 @@ Quelle: [Beitrag](https://x.com/Rufus87078959/status/2039949879607197828) · Ver
 Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-clad warrior and a black-armored opponent launch their final battle amid an atmosphere like a chorus. Stained glass shatters, moonlight penetrates the smoke and dust, and benches are overturned. The camera switches between high-angle overhead shots and low-angle upward shots, focusing on showing the sense of space of the religious building, the sense of oppression of the characters, and the temperament of a fateful decisive battle, just like the climax segment of an original fantasy animated film. A strong hook in the first 2 seconds, stable main body, coherent actions, movie-level composition, real light and shadow, epic sense, strong emotion, high-definition details, suitable for social media communication, avoiding copyrighted characters, avoiding brand logos, and completely original design.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### 00:00-00:04 Shot 1: Follow-Shot
+### 00:00-00:04 Shot 1: Takip shot'u
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-00:00-00:04 Shot 1: Follow-Shot. In einem verrauchten Underground-Rave-Club geht ein weiblicher Cyborg mit freiliegender roter mechanischer Wirbelsäule durch die Menge. Sie...
+00:00-00:04 Shot 1: Takip shot'u. Dumanli bir underground rave kulubunde, acikta kirmizi mekanik omurgasi bulunan kadin bir cyborg kalabaligin icinde yurur. O...
 
-Quelle: [Beitrag](https://x.com/IamEmily2050/status/2040213294443847933) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/IamEmily2050/status/2040213294443847933) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/070.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1639,13 +1649,13 @@ Quelle: [Beitrag](https://x.com/IamEmily2050/status/2040213294443847933) · Ver�
 [00:00-00:04] Shot 1: Follow shot. In a smoky underground rave club, a female cyborg with an exposed red mechanical spine walks through the crowd. She suddenly turns around, her delicate white porcelain face beginning to convulse violently. [00:04-00:10] Shot 2: Close-up to mid-shot. The cyborg's porcelain face doesn't just split; it is violently shattered from the inside like an eggshell. A massive amount of thick, black viscous fluid erupts outward as an alien head with rusted metallic fangs and multiple mandibles forces its way out of her neck. Simultaneously, her red mechanical spine violently tears through her back, mutating into a giant, multi-jointed metallic scorpion tail dripping with corrosive acid. [00:10-00:15] Shot 3: Wide shot. The club's lighting turns a sickly fluorescent green. The alien tail violently impales the dance floor, suspending the cyborg's ruined body in mid-air as it emits an ear-piercing, non-human shriek. The surrounding crowd is paralyzed with absolute terror, pinned against the walls by webs of black organic matter. Extreme biomechanical horror, terrifying VFX mixing flesh and metal.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Kriegsheldin des Meteor-Erwachens
+### Meteor Uyanisi Savascı Kadin Kahraman
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-100 % echte Drehanmutung, Hollywood-IMAX-Blockbuster-Qualität, natürliches Licht und Schatten, kalter Dokumentarstil, natürliches Licht an einem bewölkten Tag,...
+%100 gercek cekim dokusu, Hollywood IMAX blockbuster kalitesi, dogal isik ve golge, soguk belgesel stili, bulutlu bir gunde dogal isik,...
 
-Quelle: [Beitrag](https://x.com/ChrisTheNerv/status/2040043939109953944) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/ChrisTheNerv/status/2040043939109953944) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/075.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1674,13 +1684,13 @@ Real light and shadow, visible skin texture on the face before transformation, v
 Layered progression from the scream activation to the explosive mechanical eruption, escalating to the takeoff point explosion and the sonic boom of the supersonic charge, finally cutting abruptly to silence. The entire sequence exudes absolute power. Generate sound effects only, no music.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Schwertschatten der Wolkenhöhle
+### Bulut Magarasi Kilic Golgesi
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Ein wuxia-One-Shot-Spektakel am Tianmen-Berg, ausgelegt auf Geschwindigkeit, Wucht und groß angelegte mythische Martial-Arts-Energie.
+Tianmen Mountain'da hiz, etki ve buyuk olcekli mitsel martial-arts enerjisi icin tasarlanmis bir wuxia tek-plan gosterisi.
 
-Quelle: [Beitrag](https://x.com/Adam38363368936/status/2039865857179013318) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/Adam38363368936/status/2039865857179013318) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/081.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1732,13 +1742,13 @@ Action: He performs a sword flourish and sheathes the sword, placing it on his b
 Freeze Frame: The camera pushes in for an extreme close-up. A drop of blood drips from the edge of the bamboo hat, tracing his jawline. His eyes are sharp as lightning, with the vast landscape in the background.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
 ### Prompt 98
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-"Dramatischer Low-Angle-Tracking-Shot, der mit hoher Geschwindigkeit über regennasse Zugschienen durch eine enge Bergschlucht rast. Dunkle felsige Klippenwände ragen auf beiden Seiten empor, mit...
+"Dramatic low-angle tracking shot speeding along rain-slicked train tracks through a narrow mountain gorge. Dark rocky cliff walls rise on both sides, with...
 
-Quelle: [Beitrag](https://x.com/ImperfectEngel/status/2039796558238286329) · Veröffentlicht: 02. Apr 2026
+Kaynak: [Gonderi](https://x.com/ImperfectEngel/status/2039796558238286329) · Yayin: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/095.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1746,13 +1756,13 @@ Quelle: [Beitrag](https://x.com/ImperfectEngel/status/2039796558238286329) · Ve
 "Dramatic low-angle tracking shot speeding along rain-slicked train tracks through a narrow mountain gorge. Dark rocky cliff walls rise on both sides, with overhead bridges and power lines crossing above. Moody overcast sky. The camera rushes forward at high speed. Two women — one with pink hair in all-black tactical gear, the other in a white bodysuit — fight on top of the moving train, exchanging martial arts blows as sparks fly. Dynamic action choreography, dark teal-grey color grade, cinematic speed and motion blur, sci-fi action film aesthetic."
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
 ### Prompt 112
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Commercial-Blockbuster-Qualität auf Hollywood-Filmniveau, Handheld-Fotografie, leichte Kamerawackler, schnelles Montage-Editing, die Szene ist voller Energie und...
+Hollywood film seviyesinde ticari blockbuster kalitesi, handheld fotografi, hafif kamera sarsintisi, hizli tempolu montaj kurgusu; sahne enerji ve...
 
-Quelle: [Beitrag](https://x.com/johnAGI168/status/2039277115690877430) · Veröffentlicht: 01. Apr 2026
+Kaynak: [Gonderi](https://x.com/johnAGI168/status/2039277115690877430) · Yayin: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/109.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1764,13 +1774,13 @@ The open-plan office hall of a luxurious securities company in Manhattan, USA, i
 00:09-00:15 The protagonist single-handedly pounds his chest, raising his other fist high, saying the last sentence in a low, forceful voice: "This is who we are." The camera suddenly pulls back from the close-up to a panoramic view—the hundreds of people in the hall erupt in the highest climax of shouting at the same moment. Ribbons pour down, the camera slightly tilts up to capture the protagonist's silhouette standing against the light at the top of the crowd, freezing in that high-energy moment where heroism and madness coexist.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### (Poliziottesco Wednesday)
+### (Poliziottesco Carsambasi)
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-(Poliziottesco Wednesday): Detective Rossi: Deep Heat (Commissario Rossi: la polizia in crisi nera). Eine Verbrechenswelle hat die Stadt getroffen, und die Cops scheinen...
+(Poliziottesco Carsambasi): Dedektif Rossi: Derin Sicaklik (Commissario Rossi: la polizia in crisi nera). Sehre bir suc dalgasi vurdu ve polisler...
 
-Quelle: [Beitrag](https://x.com/ChrisGwinnLA/status/2039456415111393356) · Veröffentlicht: 01. Apr 2026
+Kaynak: [Gonderi](https://x.com/ChrisGwinnLA/status/2039456415111393356) · Yayin: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/118.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1779,13 +1789,13 @@ Quelle: [Beitrag](https://x.com/ChrisGwinnLA/status/2039456415111393356) · Ver�
 A crime wave has hit the city and the cops can't seem to get it together. Detective Rossi has had enough of the bureaucracy and the politicians tying his men's hands (and freeing the criminals to terrorize the city again!) - but can one hardnosed cop make a difference in a world gone mad? Maybe this nosey journalist can become an important ally!
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Fashion-Ad für faltbares Smartphone
+### Katlanabilir Smartphone Moda Reklami
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Ein kommerzieller Fashion-Tech-Prompt für ein faltbares Gradient-Smartphone mit Makrodetails, scharfen Schnitten und hochwertiger Motion-Sprache.
+Macro detaylar, keskin gecisler ve premium hareket dili iceren gradient katlanabilir smartphone icin ticari bir fashion-tech prompt'u.
 
-Quelle: [Beitrag](https://x.com/Adam38363368936/status/2039157138002780202) · Veröffentlicht: 01. Apr 2026
+Kaynak: [Gonderi](https://x.com/Adam38363368936/status/2039157138002780202) · Yayin: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/121.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1805,17 +1815,17 @@ Quality: 4K high definition, commercial advertisement quality, smooth dynamics, 
 Requirements: Fast pace, tight transitions, high-end fashion, youthful energy, no people appearing.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-## Referenzgesteuert
+## Referans Odakli
 
-Prompts, die auf Bildreferenzen, Charakterkonsistenz oder Kontrolle von Frame zu Frame setzen.
+Gorsel referanslara, karakter tutarliligina veya frame-to-frame kontrole dayanan prompt'lar.
 
-### Skelettpianistin im Miniatur-Diorama
+### Iskelet Piyanist Minyatur Diorama Performansi
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Eine verspielte Clay-Animation-Klavierperformance mit einem stilvollen Skelettmädchen in einem Miniatur-Diorama voller Geister.
+Minyatur hayaletlerle dolu bir dioramda, stil sahibi bir iskelet kizin basrolde oldugu eglenceli bir clay-animation piyano performansi.
 
-Quelle: [Beitrag](https://x.com/tea_story_hoshi/status/2040614786933887043) · Veröffentlicht: 05. Apr 2026
+Kaynak: [Gonderi](https://x.com/tea_story_hoshi/status/2040614786933887043) · Yayin: 05 Apr 2026
 
 [![](./public/seedance_2_prompt_images/011.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1835,13 +1845,13 @@ Timeline:
 [00:03-00:07] Shot 3: Slight tracking close-up focused on her face and the piano keys. She ends the performance with a dramatic finale and lifts her hands from the keys as the ghosts glow more brightly in the warm light. She turns toward the camera and gives a gentle nod. Audio: the final elegant piano chord re
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Sturm-Schiffsprinzessin gegen Kraken
+### Firtina Gemisi Prensesi vs Kraken
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square)
-Ein Anime-Action-Prompt auf stürmischer See, der Schiffsphysik, Kraken-Zerstörung und eine heroische Schwertschlag-Sequenz kombiniert.
+Gemi fizigi, kraken yikimi ve kahramanca bir kilic darbesi sekansini birlestiren, denizde firtina ortasinda gecen anime aksiyon prompt'u.
 
-Quelle: [Beitrag](https://x.com/applete77191758/status/2040450526819807277) · Veröffentlicht: 04. Apr 2026
+Kaynak: [Gonderi](https://x.com/applete77191758/status/2040450526819807277) · Yayin: 04 Apr 2026
 
 [![](./public/seedance_2_prompt_images/015.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1913,13 +1923,13 @@ Clean, sharp "slash" feeling / impact frame
 Motion blur + light streaks
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Maid Blade Dance: Mei gegen Coco
+### Maid Blade Dance: Mei vs Coco
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Ein strukturierter Duell-Prompt, der zwei Charaktere, ihre Waffen, Bewegungslogik, das Kamera-Setup und die Choreografie Schnitt für Schnitt definiert.
+Iki karakteri, silahlarini, hareket mantigini, kamera kurulumunu ve cut-by-cut koreografiyi tanimlayan yapilandirilmis bir duello prompt'u.
 
-Quelle: [Beitrag](https://x.com/MiraMusic_AI/status/2040281710957666770) · Veröffentlicht: 04. Apr 2026
+Kaynak: [Gonderi](https://x.com/MiraMusic_AI/status/2040281710957666770) · Yayin: 04 Apr 2026
 
 [![](./public/seedance_2_prompt_images/019.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1993,13 +2003,13 @@ Notes:
 - "Moonlight and shoji screens reinforce the Japanese duel atmosphere."
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Apokalyptischer Abschied am Rooftop-Piano
+### Kiyamet Sonrasi Cati Piyano Vedasi
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
-Ein apokalyptischer Musikvideo-Prompt über ein Mädchen, das an einem Rooftop-Piano singt, während Meteore die Stadt um sie herum zerstören.
+Goktaslari etrafindaki sehri yok ederken bir kizin cati ustundeki piyanoda sarki soyledigi apokaliptik bir muzik video prompt'u.
 
-Quelle: [Beitrag](https://x.com/liyue_ai/status/2040062803076341872) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/liyue_ai/status/2040062803076341872) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/028.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2027,13 +2037,13 @@ Simulated equipment: IMAX film camera with Panavision C-series lenses, including
 Color and tonality: Hollywood teal-and-orange tone, low saturation. Generate the footage in a realistic visual style.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
 ### CINEMATIC 8mm Fisheye lens, FPV racing drone camera, hyper-fluid motion
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-CINEMATIC 8mm-Fisheye-Objektiv, FPV-Racing-Drohnenkamera, hyperflüssige Bewegung. @Image 1 (Lanky Knight, red coat) auf einem Longboard. @Image 2 (Steiler Küstenberg...
+CINEMATIC 8mm Fisheye lens, FPV racing drone camera, hyper-fluid motion. @Image 1 (Lanky Knight, red coat) on a longboard. @Image 2 (Steep coastal mountain...
 
-Quelle: [Beitrag](https://x.com/itsPixieVerse/status/2040030453298811099) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/itsPixieVerse/status/2040030453298811099) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/048.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2045,13 +2055,13 @@ Quelle: [Beitrag](https://x.com/itsPixieVerse/status/2040030453298811099) · Ver
 10-15s: [Impact & rapid pull-back] [@Image 1] lands flawlessly, wheels smoking. The camera snaps backward in a rapid reverse-dolly motion, showcasing the majestic landscape as [@Image 1] speeds away.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
 ### Subject
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Subject:@Image 1 fotorealistische Bildreferenz. Ein professioneller Stuntman und Kung-Fu-Meister, der ganzkörperliches, schnelles, funktionales Kung-Fu ausführt. Bewegung...
+Subject:@Image 1 Photorealistic Image reference. A professional stuntman and kung-fu master performing full-body, high-speed, functional kung-fu. Movement...
 
-Quelle: [Beitrag](https://x.com/YaReYaRu30Life/status/2039971048305930643) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/YaReYaRu30Life/status/2039971048305930643) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/059.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2064,13 +2074,13 @@ Movement Rule:
 Constant full-speed forward
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
 ### Ray tracing, Unreal Engine render, small town in heavy rain
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Ray tracing, Unreal-Engine-Render, Kleinstadt bei starkem Regen. @image1-Charakter mit identischer Frisur, Outfit, realistischer Haut, schwacher Beleuchtung, IMAX...
+Ray tracing, Unreal Engine render, small town in heavy rain. @image1 character with identical hairstyle, outfit, realistic skin, dim lighting, IMAX...
 
-Quelle: [Beitrag](https://x.com/Gwsubsa/status/2040193631341174792) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/Gwsubsa/status/2040193631341174792) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/071.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2078,13 +2088,13 @@ Quelle: [Beitrag](https://x.com/Gwsubsa/status/2040193631341174792) · Veröffen
 Ray tracing, Unreal Engine render, small town in heavy rain. @image1 character with identical hairstyle, outfit, realistic skin, dim lighting, IMAX cinematic, 35mm lens, 4:3 ratio, grey-blue low saturation, film grain, soft god-rays, cold expression, smooth motion, glowing sword trail. 1–3s: Camera tilts up from feet to full body; rain splashes burst under steps. 3–6s: Close-up feet stepping forward, blue shockwave spreads; world desaturates, rain freezes mid-air; camera pulls back, blue aura flows from body. 6–9s: Upper-body close-up; hands gather at chest, suspended rain forms water sword; blue light converges, droplets create massive sphere. 9–12s: Side face close-up; faint blue glow, slash upward; sword dissolves, arc energy explodes with rain; camera follows sky cut, clouds split; golden dragon and fire dragon emerge flying.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Nachtschicht im Moon Convenience Store
+### Ay Convenience Store Gece Vardiyasi
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square)
-Verwende real-zasuko-2.0-character-sheet-dx.png als Charakterreferenz. Beginne mit einem weiten cinematischen Shot des einsamen Convenience Stores auf dem Mond, bevor...
+Karakter referansi olarak real-zasuko-2.0-character-sheet-dx.png kullanin. Yalniz convenience store'un ay yuzeyindeki genis sinematik shot'iyla baslayin...
 
-Quelle: [Beitrag](https://x.com/zasuko_michiksa/status/2039650311212872036) · Veröffentlicht: 02. Apr 2026
+Kaynak: [Gonderi](https://x.com/zasuko_michiksa/status/2039650311212872036) · Yayin: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/084.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2092,13 +2102,13 @@ Quelle: [Beitrag](https://x.com/zasuko_michiksa/status/2039650311212872036) · V
 Use `real-zasuko-2.0-character-sheet-dx.png` as the character reference. Start with a wide cinematic shot of the lonely convenience store on the moon before cutting inside. Create a photorealistic 15-second surreal live-action video of Michikusa Zasuko working a night shift at a convenience store.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Erwachen auf dem Dach zur F-14-Transformation
+### Catida Uyanistan F-14 Donusumune
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
-Eine Long-Form-Transformationssequenz, die sich von einem Sprint über das Dach über eine Freifallaufnahme bis zur Metamorphose vom Auto zum Jet steigert.
+Catidaki kosturmadan serbest dusus yakalamasina ve arabadan jet metamorfuzuna kadar yukselen uzun form bir donusum sekansi.
 
-Quelle: [Beitrag](https://x.com/john87445528/status/2039496153641660508) · Veröffentlicht: 02. Apr 2026
+Kaynak: [Gonderi](https://x.com/john87445528/status/2039496153641660508) · Yayin: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/088.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2110,13 +2120,13 @@ Chapter 2 (0-15 seconds): Freefall · Purple AITO M7 Enters the Frame. Style: ru
 Chapter 3 (0-15 seconds): AITO M7 Transforms -> Becomes an F-14 -> Protagonist Stands on the Aircraft Back and Takes Off. Style: rugged realism, 35mm handheld film aesthetic, natural grain, subtle shake. Camera: multi-angle follow coverage including ground tracking, low angle close to the ground, aircraft side view, and protagonist first-person view, all following the aircraft tightly throughout the transformation. Transformation details must remain clearly visible. Atmosphere: light smoke and heat haze drift across the Chongqing road. Cyber blue-purple light refracts between buildings. Noon sunlight produces dazzling reflections and strong shadows across the metal surfaces. Sound effects: engine roar surges -> metal skin bursts and folds -> deep hydraulic tremor as the wings unfold -> metallic gripping sound as the protagonist climbs the exterior -> cockpit seal pops and is immediately drowned by wind noise -> explosive ignition of twin engines -> piercing shriek as the F-14 takes off and breaks the air -> powerful high-altitude wind overtakes the entire soundscape. [Visual Reference / Description] The purple AITO M7 completes a full transformation while driving on the Chongqing road, changing from a car into an F-14 fighter jet, as shown in Image 2. During the transformation, the protagonist clings to and climbs along the aircraft exterior in a dangerous and exposed position. She finally stands centered on the back of the F-14, legs slightly apart to stabilize her balance. Her white suit and ponytail whip violently in the extreme airflow. The F-14 takes off directly from the Chongqing road, and the protagonist remains standing firmly on its back. [Timeline per Second] 0-4s: [Road Acceleration · Transformation Start] The AITO M7 accelerates rapidly along the Chongqing road. Body panels burst open one after another and unfold. The hood rolls upward and becomes mechanical structure. The doors fold outward. The metal skin cracks along structural lines, revealing the cold mechanical interior. The protagonist climbs dangerously toward the top of the aircraft while gripping the transforming metal skeleton. She jumps and shifts position in sync with the aircraft's changing shape. The camera tracks every detail from close to the side of the aircraft. 4-6s: [Wings Unfold · Engines Fully Reassemble] The F-14's iconic swept wings snap open from the folded state and lock into place. The camera captures a low-angle near-ground full view of the wing deployment. Heat haze and dust are blasted up by the airflow from the wings. The twin engine nacelles violently reassemble into jet structures, emitting blue-purple thrust flames. The exhaust scorches the road surface. By now, the protagonist has climbed to the center of the aircraft's back, feet planted firmly, standing upright as the transformation completes. 6-8s: [Protagonist Stands on Aircraft Back · Takes Off] The instant the transformation completes, the protagonist stands fully upright on the back of the F-14. The hem of her white suit flies up in the strong airflow, and her ponytail extends horizontally. The silver mechanical parts reflect the noon sun intensely. The F-14's twin engines ignite at full power. The aircraft surges forward, the front wheel lifts, and the rear wheels leave the asphalt at the last possible moment. The nose pitches upward, carrying the protagonist into the Chongqing sky while she remains standing on its back. 8-15s: [Takeoff and Low City Skim · Protagonist Holds Position] The F-14 climbs vertically, then abruptly lowers its nose and skims over Chongqing at ultra-low altitude.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Charakterreferenz @Image 1, in Real-Person-Live-Action-Stil umwandeln
+### Karakter referansi @Image 1, gercek kisi live-action stiline donustur
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Charakterreferenz @Image 1, in Real-Person-Live-Action-Stil umwandeln. Model-Figur, kühle weiße Haut, schlanke Arme, ausgeprägte Brust und Hüften. 15-sekündig...
+Karakter referansi @Image 1, gercek kisi live-action stiline donustur. Model fiziği, soguk beyaz ten, ince kollar, belirgin gogus ve kalca. 15 saniyelik...
 
-Quelle: [Beitrag](https://x.com/Adam38363368936/status/2039646077230698743) · Veröffentlicht: 02. Apr 2026
+Kaynak: [Gonderi](https://x.com/Adam38363368936/status/2039646077230698743) · Yayin: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/103.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2143,13 +2153,13 @@ Shot Breakdown (15 shots in 15 seconds):
 00:14 | Shot 15: Handheld full body freeze frame, girl turns her back to the camera looking at the city, mixing ease and sadness; foreground is the back view of the flowing skirt, background is the vast dusk and river of cars, ending with negative space.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
 ### Format
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-FORMAT: 15s / freier Rhythmus / 1 MATCH CUT / KONTINUIERLICHE BEWEGUNG BIS ZUM MATCH CUT + SOFORTIGE AKTION AB DEM ERSTEN FRAME. SUBJEKTE: Eine einsame schwerttragende Frau in...
+FORMAT: 15s / free rhythm / 1 MATCH CUT / CONTINUOUS MOVE UNTIL MATCH CUT + IMMEDIATE ACTION FROM FIRST FRAME SUBJECTS: A lone sword-bearing woman in...
 
-Quelle: [Beitrag](https://x.com/aimikoda/status/2039380910278115454) · Veröffentlicht: 01. Apr 2026
+Kaynak: [Gonderi](https://x.com/aimikoda/status/2039380910278115454) · Yayin: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/112.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2159,13 +2169,13 @@ FORMAT: 15s / free rhythm / 1 MATCH CUT / CONTINUOUS MOVE UNTIL MATCH CUT + IMME
 SUBJECTS: A lone sword-bearing woman in weathered fur and leather fights a massive polar bear with desperate,
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Nahtlose Morphing-Sequenz aus sieben Bildern
+### Yedi Gorselli Kesisiz Morphing Sekansi
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square)
-Eine wiederverwendbare Morphing-Vorlage, um sieben Standbilder in einen kontrollierten, kontinuierlichen Transformations-Shot zu verwandeln.
+Yedi hareketsiz gorseli kontrollu ve kesintisiz tek bir donusum shot'ina cevirmek icin yeniden kullanilabilir bir morphing sablonu.
 
-Quelle: [Beitrag](https://x.com/YaReYaRu30Life/status/2039474680235741681) · Veröffentlicht: 01. Apr 2026
+Kaynak: [Gonderi](https://x.com/YaReYaRu30Life/status/2039474680235741681) · Yayin: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/114.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2233,17 +2243,17 @@ consistent subject identity
 seamless transformation flow
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
 ## Surreal / VFX
 
-Abstrakte, unmögliche, stilisierte oder effektlastige Prompts, die von Transformation und Spektakel getragen werden.
+Donusum ve gosteriyle yonlendirilen soyut, imkansiz, stilize veya efekt yuklu prompt'lar.
 
-### Katana-Kampf in Schwerelosigkeit
+### Sifir Yercekimi Katana Savasi
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Seedance-2.0-Kampfszene in Schwerelosigkeit. Wenn du zusätzlich Musik referenzierst, kann sie dem Beat überraschend gut folgen. prompt:
+Seedance 2.0 sifir yercekimi savas sahnesi. Muzige de referans verirseniz ritmi sasirtici derecede iyi takip edebilir. prompt:
 
-Quelle: [Beitrag](https://x.com/MiraMusic_AI/status/2040584525781364874) · Veröffentlicht: 05. Apr 2026
+Kaynak: [Gonderi](https://x.com/MiraMusic_AI/status/2040584525781364874) · Yayin: 05 Apr 2026
 
 [![](./public/seedance_2_prompt_images/013.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2283,13 +2293,13 @@ Figures drift slowly in silence.
 She regains balance, floating motionless as the scene holds on a final frame.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Luftaufnahme
+### Hava Cekimi
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Wal in den Wolken — ein cinematischer surrealer epischer Kurzfilm, ultra-realistischer magischer Realismus. Später Nachmittag, eine Küstenstadt. Warmes Sonnenlicht, Seenebel...
+Bulutlardaki Balina — sinematik, surreal, epik kisa film; ultra-gercekci sihirli gercekcilik. Gec ogleden sonra, bir kiyı sehri. Sicak gun isigi, deniz sisi...
 
-Quelle: [Beitrag](https://x.com/chaosdotjpg/status/2040203827249398086) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/chaosdotjpg/status/2040203827249398086) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/051.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2298,13 +2308,13 @@ Whale in the Clouds — A cinematic surreal epic short film, ultra-realistic mag
 Aerial shot: skyline,
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
 ### Prompt 85
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Ein Taucher schwebt regungslos in pechschwarzer Meerestiefe, ein einzelner Lichtstrahl schneidet durch die Dunkelheit. Biolumineszente Adern beginnen sich über...
+Bir dalgic zifiri karanlik okyanus derinliginde hareketsiz suzuluyor; karanligi yaran tek bir isik huzmesi var. Biyoluminesan damarlar bedenleri boyunca...
 
-Quelle: [Beitrag](https://x.com/AIARTGALLARY/status/2039964736419479576) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/AIARTGALLARY/status/2039964736419479576) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/082.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2312,13 +2322,13 @@ Quelle: [Beitrag](https://x.com/AIARTGALLARY/status/2039964736419479576) · Ver�
 A diver floats motionless in pitch-black ocean depth, a single beam of light cutting through the dark. Bioluminescent veins begin threading across their body in accelerated time, skin shifting to iridescent obsidian scales, limbs fusing into massive finned appendages. The figure swells to monstrous proportions, displacing water in shockwave pulses. Final shot: a colossal sea creature dissolving into the abyss. WETA-level underwater VFX, deep teal and void-black tones.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Die Realität spaltet sich
+### Gerceklik yariliyor
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Eine riesige humanoide Entität aus sich verschiebender transluzenter Geometrie erscheint über der Skyline einer Megacity, ihr Körper besteht aus überlappenden dimensionalen Ebenen...
+Ust uste binen boyutsal duzlemlerden olusan, seffaf geometriyle surekli degisen dev bir insansi varlik megakent siluetinin ustunde beliriyor...
 
-Quelle: [Beitrag](https://x.com/LudovicCreator/status/2039768597241725132) · Veröffentlicht: 02. Apr 2026
+Kaynak: [Gonderi](https://x.com/LudovicCreator/status/2039768597241725132) · Yayin: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/092.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2354,13 +2364,13 @@ The dimensional entity stands between them.
 Diegetic prismatic dimensional light reflecting through fractured architecture and overlapping skylines, cinematic multiverse distortion effects, particle fragments of shattered reality, 4K.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Verschmelzung in regnerischer Untergrundgasse
+### Yagmurlu Yeraltı Ara Sokagi Birlesimi
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Rainy Underground Alley Merge: 15-sekündiger surrealer Horror in einer schmalen regnerischen unterirdischen Servicegasse, Neonreklamen spiegeln sich in Pfützen, Dampf steigt auf aus...
+Yagmurlu Yeraltı Ara Sokagi Birlesimi 15 saniyelik surreal korku; dar ve yagmurlu bir yeraltı servis ara sokaginda, su birikintilerinde yansiyan neon tabelalar, yukselen buhar...
 
-Quelle: [Beitrag](https://x.com/Dheepanratnam/status/2039796932562838010) · Veröffentlicht: 02. Apr 2026
+Kaynak: [Gonderi](https://x.com/Dheepanratnam/status/2039796932562838010) · Yayin: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/096.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2370,13 +2380,13 @@ Rainy Underground Alley Merge
 [0-1.5s] Shot 1: Wide tracking shot, young woman in black leather jacket walks cautiously through rain, breath visible,
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Video-Prompt
+### Video prompt
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Video-Prompt: Quantum Reality Fracture on City Street (Interdimensional Rift VFX), cineastische 15-sekündige High-Budget-Sci-Fi-Horror-Sequenz auf einer regennassen...
+Video prompt Quantum Reality Fracture on City Street (Interdimensional Rift VFX) yagmurla islanmis bir...
 
-Quelle: [Beitrag](https://x.com/Dheepanratnam/status/2039651240909435242) · Veröffentlicht: 02. Apr 2026
+Kaynak: [Gonderi](https://x.com/Dheepanratnam/status/2039651240909435242) · Yayin: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/097.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2390,13 +2400,13 @@ Cinematic 15-second high-budget sci-fi horror sequence on a rain-slicked downtow
 [0-1.5s] Shot 1: Epic wide crane
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### das Auge öffnet sich plötzlich
+### goz aniden aciliyor
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-cinematischer Anime-Nahaufnahme-Shot eines Charakterauges, extremes Makro, Wimpern und Hauttextur sichtbar, sanfte Atembewegung, das Auge schließt sich langsam, ruhig und...
+bir karakterin gozunun sinematik anime yakin plani, extreme macro, kirpikler ve cilt dokusu gorunur, yumusak nefes hareketi, goz yavasca kapaniyor, sakin ve...
 
-Quelle: [Beitrag](https://x.com/roco_kn_roco/status/2039323186127630710) · Veröffentlicht: 01. Apr 2026
+Kaynak: [Gonderi](https://x.com/roco_kn_roco/status/2039323186127630710) · Yayin: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/106.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2418,13 +2428,13 @@ camera continues slow push-in, reflections in the eye show impossible space (lik
 ultra detailed anime style, cinematic lighting, high contrast, no cartoon exaggeration, elegant and mysterious, no text
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Sie prallen in der Luft über einem schwebenden Lavastrom zusammen
+### Havada asili bir lav nehri ustunde orta havada carpışiyorlar
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Ein surrealer vulkanischer Himmelsraum, in dem Inseln aus schwarzem Gestein über Flüssen aus geschmolzener Lava schweben, die wie aufgehängte Wasserfälle durch die Luft fließen. Der Himmel brennt...
+Havada asili selale gibi akan erimis lav nehirlerinin ustunde siyah kaya adalarinin yuzdugu surreal bir volkanik gok alemi. Gok yaniyor...
 
-Quelle: [Beitrag](https://x.com/LudovicCreator/status/2039258991809773666) · Veröffentlicht: 01. Apr 2026
+Kaynak: [Gonderi](https://x.com/LudovicCreator/status/2039258991809773666) · Yayin: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/116.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2448,17 +2458,17 @@ Fast aerial tracking through lava-lit clouds, briefly passing behind a floating 
 Photorealistic fire simulation, volumetric storm clouds, ray-traced lava glow, cinematic lightning illumination, stable geometry, 8K.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-## Vorlagen & strukturierte Formate
+## Sablonlar ve Yapilandirilmis Formatlar
 
-Wiederverwendbare Prompt-Skelette, JSON-artige Spezifikationen und stark strukturierte Prompt-Formate.
+Yeniden kullanilabilir prompt iskeletleri, JSON tarzi ozellikler ve yuksek derecede yapilandirilmis prompt formatlari.
 
-### Katastrophales Sinken eines Supercarriers
+### Supercarrier Felaket Batışı
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
-Ein Militärkatastrophen-Prompt mit Fokus auf katastrophalen Carrier-Kollaps, riesige Sturmwellen und schwere praktische Zerstörungsdetails.
+Felaket olceginde aircraft carrier cokusu, dev firtina dalgalari ve agir pratik yikim detayina odaklanan askeri-felaket prompt'u.
 
-Quelle: [Beitrag](https://x.com/johnAGI168/status/2040432247094870343) · Veröffentlicht: 04. Apr 2026
+Kaynak: [Gonderi](https://x.com/johnAGI168/status/2040432247094870343) · Yayin: 04 Apr 2026
 
 [![](./public/seedance_2_prompt_images/016.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2470,13 +2480,13 @@ Seedance 2.0 text-to-video prompt below:
 {"lang":"en","prompt":"Style and atmosphere: apocalyptic naval destruction, with low-saturation steel blue and gunmetal gray as the primary palette. Amber explosions and aviation-fuel flames tear through the gray field. Towering storm cumulonimbus clouds are lit from within by lightning. Rain lines cut across every surface. Telephoto compression layers destruction on top of destruction. Live-action brutal aesthetics--no clean CG gloss, only grit, weight, and mass. Motion description: an extreme long aerial drone pullback shows a supercarrier catastrophically listing to port in monstrous waves, with the flight deck tilted beyond forty-five degrees and seawater washing across it as a white sheet of surf. Three fighter jets break free of their tie-down chains at the same time, sliding sideways across the slick steel deck. Their landing gear scrapes metal and throws long chains of sparks, and the first jet flips over the deck edge into the churning gray sea. Hard cut to a handheld medium low-angle shot from water level looking upward--the carrier's hull towers overhead like a collapsing skyscraper. Barnacle-covered steel plates groan and bend, rivets eject one after another like automatic gunfire, and a structural crack splits open from the middle of the hull, with shockwaves rippling across the metal skin. Seawater pours through the widening rupture. Cut to a stable circling wide tracking shot--the carrier breaks in two at the fracture point, the bow plunging forward into a giant swell while the stern rises toward the sky, exposing propellers still spinning in the air. Tons of seawater cascade off the lifted stern like a cluster of waterfalls. Aviation fuel ignites on the sea surface--flames spread outward in a widening ring across the water, and twisted black smoke columns rise into the storm. An abnormal twenty-meter wave surges in from the left side of frame and slams head-on into the tilting bow. White spray explodes sixty meters into the air and swallows the entire forward structure. Static description: catastrophic structural failure of a Nimitz-class supercarrier. North Atlantic storm conditions--fifteen-meter swells, horizontal rain, and sixty-knot winds blowing the wave crests into mist. Thundercloud base at three hundred meters with internal lightning illumination. The flight deck is littered with loose aircraft, broken tie-down chains, and seawater. The hull is split open at the center, exposing interior deck layers. Aviation fuel burns on the sea surface. An abnormal giant wave approaches from port."}
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Rekonstruktion von Erinnerungsscherben
+### Memory Shards'in Yeniden Insasi
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-"effectid": "ethereal02", "title": "Rekonstruktion von Erinnerungsscherben", "visualstyle": "Abstract Cinematic / Art Installation", "duration": "10s",
+"effectid": "ethereal02", "title": "Reconstruction of Memory Shards", "visualstyle": "Abstract Cinematic / Art Installation", "duration": "10s",
 
-Quelle: [Beitrag](https://x.com/TechTalkNAVI/status/2040327899606306840) · Veröffentlicht: 04. Apr 2026
+Kaynak: [Gonderi](https://x.com/TechTalkNAVI/status/2040327899606306840) · Yayin: 04 Apr 2026
 
 [![](./public/seedance_2_prompt_images/018.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2499,13 +2509,13 @@ Quelle: [Beitrag](https://x.com/TechTalkNAVI/status/2040327899606306840) · Ver�
 #CapCutSeedance2
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Vom Blueprint zur Realität – Transformation eines eingeschossigen Hauses
+### Blueprint'ten Gercege – Tek Katli Ev Donusumu
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-"videoprompt": "duration": "15 seconds", "title": "Vom Blueprint zur Realität – Transformation eines eingeschossigen Hauses", "style": "Architectural visualization,...
+"videoprompt": "duration": "15 seconds", "title": "Blueprint to Reality – Single-Story House Transformation", "style": "Architectural visualization,...
 
-Quelle: [Beitrag](https://x.com/craftian_keskin/status/2039053365666037902) · Veröffentlicht: 31. Mär 2026
+Kaynak: [Gonderi](https://x.com/craftian_keskin/status/2039053365666037902) · Yayin: 31 Mar 2026
 
 [![](./public/seedance_2_prompt_images/024.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2564,13 +2574,13 @@ Quelle: [Beitrag](https://x.com/craftian_keskin/status/2039053365666037902) · V
  "action": "Walls begin extruding upward from the 2D plan — all interior walls rise simultaneously, preserving exact footprint. Garage walls, bedroom walls, k
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Martial-Arts-Haute-Couture-Schneider
+### Martial-Arts Haute Couture Terzisi
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
-Ein High-Fashion-Martial-Arts-Tailoring-Prompt, bei dem Couture-Handwerk wie Präzisionskampf in einem Luxusstudio inszeniert wird.
+Couture zanaatinin luks bir studyo icinde hassas dovus gibi sahnelendigi yuksek moda martial-arts terzilik prompt'u.
 
-Quelle: [Beitrag](https://x.com/Adam38363368936/status/2037359552849666514) · Veröffentlicht: 27. Mär 2026
+Kaynak: [Gonderi](https://x.com/Adam38363368936/status/2037359552849666514) · Yayin: 27 Mar 2026
 
 [![](./public/seedance_2_prompt_images/027.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2600,13 +2610,13 @@ TIMELINE:
 0:12-0:15: stable POV. Dust settles. She lifts the finished gown with one hand and snaps it open in front of the camera. The lens focuses on the exquisite embroidery at the collar. She flicks a button with her nail--the button vibrates. She then turns and walks into the shadows, leaving only her back as the frame is completely covered by an expensive perfume mist that rises and fades out cleanly.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
 ### Format
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-FORMAT: 15s / 145 BPM / 15 SHOTS / beat-synced Routine. SUBJEKT: @image1. GARDEROBE: Schlafshirt und Lounge-Shorts zu Hause. Maßgeschneiderte Jacke, enges Top,...
+FORMAT: 15s / 145 BPM / 15 SHOTS / beat-synced routine SUBJECT: @image1. WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top,...
 
-Quelle: [Beitrag](https://x.com/aimikoda/status/2040200435986817039) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/aimikoda/status/2040200435986817039) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/053.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2617,13 +2627,13 @@ SUBJECT: @[image1].
 WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top, trousers, and lace-up shoes outside.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### "Ort"
+### "Location"
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-"location": "Tokio-Stadtbild (Nacht)", "duration": "10s", "prompt": "Ein cinematischer POV-Shot auf einer unsichtbaren Achterbahn durch Tokio bei Nacht. Ein...
+"location": "Tokyo Cityscape (Night)", "duration": "10s", "prompt": "A cinematic POV shot riding an invisible rollercoaster through Tokyo at night. A...
 
-Quelle: [Beitrag](https://x.com/TechTalkNAVI/status/2039941029265355123) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/TechTalkNAVI/status/2039941029265355123) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/061.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2640,13 +2650,13 @@ Quelle: [Beitrag](https://x.com/TechTalkNAVI/status/2039941029265355123) · Ver�
 }
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### "Ort"
+### "Location"
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-"location": "Nishi-Shinjuku-Skyscraper-District (nahe Tokyo Metropolitan Government Building)", "duration": "10s", "prompt": "Ein weiter cinematischer Shot der...
+"location": "Nishi-Shinjuku Skyscraper District (near Tokyo Metropolitan Government Building)", "duration": "10s", "prompt": "A wide cinematic shot of the...
 
-Quelle: [Beitrag](https://x.com/TechTalkNAVI/status/2039928267323658399) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/TechTalkNAVI/status/2039928267323658399) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/062.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2663,13 +2673,13 @@ Quelle: [Beitrag](https://x.com/TechTalkNAVI/status/2039928267323658399) · Ver�
 }
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Sternenlicht-Schatten / Sternenstaub-Silhouette
+### Yildiz Isigi Golgesi / Stardust Silhouette
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-"sceneid": 4, "title": "Sternenlicht-Schatten / Sternenstaub-Silhouette", "duration": "10s", "visualstyle": "Fantasy / High-End Commercial",
+"sceneid": 4, "title": "Starlight Shadow / Stardust Silhouette", "duration": "10s", "visualstyle": "Fantasy / High-End Commercial",
 
-Quelle: [Beitrag](https://x.com/TechTalkNAVI/status/2039904725639037110) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/TechTalkNAVI/status/2039904725639037110) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/063.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2695,13 +2705,13 @@ Quelle: [Beitrag](https://x.com/TechTalkNAVI/status/2039904725639037110) · Ver�
 }
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Subjekte
+### Subjects
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-SUBJECTS: Hauptsubjekt: ein Parkour-Experte in POV-Perspektive, definiert durch sichtbare Arme, Hände, Unterarme, Schuhspitzen, untere Knie, Griffe, Handplatzierungen, Wand...
+SUBJECTS: Main Subject: A parkour expert in POV perspective, defined by visible arms, hands, forearms, shoe tips, lower knees, grips, hand placements, wall...
 
-Quelle: [Beitrag](https://x.com/0xbisc/status/2040041171460968728) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/0xbisc/status/2040041171460968728) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/083.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2713,13 +2723,13 @@ Main Subject: A parkour expert in POV perspective, defined by visible arms, hand
 Style: Painterly 3D, stylized on real human anatomy
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
 ### Format
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-FORMAT: 15s / 180 BPM / ONE CONTINUOUS SHOT / 360-POV-Downhill-Treppenlauf, virale Energie, maximales Chaos. SUBJEKTE: First-Person-Cyclist, Lenker und Vorderrad...
+FORMAT: 15s / 180 BPM / ONE CONTINUOUS SHOT / 360 POV downhill stair run, viral energy, max chaos SUBJECTS: First-person cyclist, handlebars and front wheel...
 
-Quelle: [Beitrag](https://x.com/aimikoda/status/2039827756083540361) · Veröffentlicht: 02. Apr 2026
+Kaynak: [Gonderi](https://x.com/aimikoda/status/2039827756083540361) · Yayin: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/090.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2729,13 +2739,13 @@ FORMAT: 15s / 180 BPM / ONE CONTINUOUS SHOT / 360 POV downhill stair run, viral 
 SUBJECTS: First-person cyclist, handlebars and front wheel flashing low in frame during drops and hard turns. Vendors, laundry, scooters, dogs, chickens, cars, and
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
 ### "Prompt"
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-"prompt": "Cinematisches, hyperrealistisches oder stilisiertes 3D/2.5D-Rendering von Essen und Charakteren mit starker Bewegung und dynamischer Kameraführung. Lebendig, gesättigt...
+"prompt": "Cinematic, hyper-realistic or stylized 3D/2.5D rendering of food and characters, with strong motion and dynamic camera work. Vibrant, saturated...
 
-Quelle: [Beitrag](https://x.com/Just_sharon7/status/2039725656393875580) · Veröffentlicht: 02. Apr 2026
+Kaynak: [Gonderi](https://x.com/Just_sharon7/status/2039725656393875580) · Yayin: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/094.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2757,13 +2767,13 @@ Quelle: [Beitrag](https://x.com/Just_sharon7/status/2039725656393875580) · Ver�
 }
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
 ### Format
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-FORMAT: 15s / einzelne durchgehende unmögliche Kamerabewegung / kein Dialog. STIL: High-End-Commercial-Küche während des Dinner-Rushs, glänzender Edelstahl, fliegende...
+FORMAT: 15s / single continuous impossible camera move / no dialogue STYLE: High-end commercial kitchen during dinner rush, gleaming stainless steel, flying...
 
-Quelle: [Beitrag](https://x.com/Dheepanratnam/status/2039568902481387645) · Veröffentlicht: 02. Apr 2026
+Kaynak: [Gonderi](https://x.com/Dheepanratnam/status/2039568902481387645) · Yayin: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/098.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2773,13 +2783,13 @@ FORMAT: 15s / single continuous impossible camera move / no dialogue STYLE: High
 Shot 01 (0:00–2:00): Camera starts at floor level on anti-slip
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### "Komposition"
+### "Composition"
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-"shot": "composition": "POV-Zeitstopp mit Händen, die sich durch eine eingefrorene Umgebung bewegen", "lens": "ultra-weites cinematisches Objektiv mit subtiler Verzerrung",...
+"shot": "composition": "POV time-freeze with hands moving through frozen environment", "lens": "ultra-wide cinematic lens with subtle distortion",...
 
-Quelle: [Beitrag](https://x.com/CharaspowerAI/status/2039704453784191201) · Veröffentlicht: 02. Apr 2026
+Kaynak: [Gonderi](https://x.com/CharaspowerAI/status/2039704453784191201) · Yayin: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/099.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2819,13 +2829,13 @@ Quelle: [Beitrag](https://x.com/CharaspowerAI/status/2039704453784191201) · Ver
 }
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
 ### Format
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-FORMAT: 15s / Handheld-Nah + langsame Cuts / 5 Beats / Sci-Fi-Drama — erster Weltraumspaziergang eines Astronauten, orbitale Stille. SUBJEKTE: Ein Astronaut, 40er, in weißem EVA...
+FORMAT: 15s / handheld close + slow cuts / 5 beats / sci-fi drama — astronaut's first spacewalk, orbital silence SUBJECTS: An astronaut, 40s, in a white EVA...
 
-Quelle: [Beitrag](https://x.com/BrennanErbz/status/2039579736301781215) · Veröffentlicht: 02. Apr 2026
+Kaynak: [Gonderi](https://x.com/BrennanErbz/status/2039579736301781215) · Yayin: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/100.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2833,13 +2843,13 @@ Quelle: [Beitrag](https://x.com/BrennanErbz/status/2039579736301781215) · Verö
 FORMAT: 15s / handheld close + slow cuts / 5 beats / sci-fi drama — astronaut's first spacewalk, orbital silence SUBJECTS: An astronaut, 40s, in a white EVA suit with a gold-visored helmet, tethered to the exterior of a space station, performing the first moments of a spacewalk.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Subjekte
+### Subjects
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-SUBJECTS: Subjekt 1: erwachsener Mann, westliche legere Alltagskleidung für Zuhause und draußen, kurze Jacke, schlichtes T-Shirt, lange Hose, Alltagsschuhe; schlanker Körperbau,...
+SUBJECTS: Subject 1: Adult male, Western casual everyday home and outing attire, short jacket, basic T-shirt, long pants, everyday shoes; lean build,...
 
-Quelle: [Beitrag](https://x.com/0xbisc/status/2039673040787956123) · Veröffentlicht: 02. Apr 2026
+Kaynak: [Gonderi](https://x.com/0xbisc/status/2039673040787956123) · Yayin: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/104.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2849,13 +2859,13 @@ Subject 1: Adult male, Western casual everyday home and outing attire, short jac
 Subject 2: Golden Retriever, large head, broad chest, thick, fluffy fur; overall short and round
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Stilisierte 3D-Barbershop-Transformationssequenz
+### Stilize 3D Berber Dukkani Donusum Sekansi
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-"title": "Stilisierte 3D-Barbershop-Transformationssequenz", "style": "Stilisierte 3D-Animation mit überzeichneten Cartoon-Proportionen, cinematisch...
+"title": "Stylized 3D Barbershop Transformation Sequence", "style": "Stylized 3D animation with exaggerated cartoon proportions, cinematic...
 
-Quelle: [Beitrag](https://x.com/ShamiWeb3/status/2039372124079669655) · Veröffentlicht: 01. Apr 2026
+Kaynak: [Gonderi](https://x.com/ShamiWeb3/status/2039372124079669655) · Yayin: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/115.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2917,13 +2927,13 @@ Quelle: [Beitrag](https://x.com/ShamiWeb3/status/2039372124079669655) · Veröff
 }
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Subjekte
+### Subjects
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-SUBJECTS: Subjekt 1: Hände aus der First-Person-Perspektive (gerendert in impressionistischer Monet-Ölmalerei-Pinselarbeit, weiche Hauttöne ohne harte Kanten; beide Hände...
+SUBJECTS: Subject 1: First-person perspective hands (rendered in Monet impressionist oil painting brushwork, soft skin tones with no hard edges; both hands...
 
-Quelle: [Beitrag](https://x.com/0xbisc/status/2039332336643248317) · Veröffentlicht: 01. Apr 2026
+Kaynak: [Gonderi](https://x.com/0xbisc/status/2039332336643248317) · Yayin: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/122.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2932,17 +2942,17 @@ SUBJECTS:
 Subject 1: First-person perspective hands (rendered in Monet impressionist oil painting brushwork, soft skin tones with no hard edges; both hands continuously hold the oar and perform extremely slow and even rowing motions, with stretched rhythm and natural pauses)
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-## Allgemein / Cinematic
+## Genel Sinematik
 
-Nützliche Prompts, die nicht in die engeren Kategorien oben passen, aber starke allgemeine Referenzen bleiben.
+Yukaridaki daha dar kategorilere girmeyen ama yine de guclu genel amacli referanslar sunan faydali prompt'lar.
 
-### Erinnerungsgedicht im Frühlingswind
+### Bahar Ruzgari Anı Siiri
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
-Ein nostalgischer saisonaler Erinnerungsfilm, der sich von verspielten Kindheitsszenen zu nachdenklicher Melancholie am See bewegt und mit einer poetischen Title Card endet.
+Oyuncu cocukluk sahnelerinden dusunceli gol kenari melankolisine ilerleyen ve siirsel bir title card ile biten nostaljik mevsimsel anı filmi.
 
-Quelle: [Beitrag](https://x.com/liyue_ai/status/2038993496225591731) · Veröffentlicht: 31. Mär 2026
+Kaynak: [Gonderi](https://x.com/liyue_ai/status/2038993496225591731) · Yayin: 31 Mar 2026
 
 [![](./public/seedance_2_prompt_images/001.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2961,13 +2971,13 @@ Background music: soft instrumental music (piano + bamboo flute), slow rhythm, e
 10. Close-up. At the center of the screen, neat and elegant Song-style Chinese text appears: "If the spring breeze still pities the flowers, could it allow me to be young again?" The text remains as the frame freezes. Text fades in. No sound effect. End on the text.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Beat-synchronisierte Fashion-Nahaufnahme mit High Heels
+### High-Heel Beat Sync Moda Yakın Plani
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
-Ein stark kontrollierter beat-synchronisierter Fashion-Prompt, aufgebaut um Nahaufnahmen von Heel-Bewegungen, Strumpftexturen und präzises Kamera-Timing.
+Yakin plan topuk hareketi, corap dokusu ve hassas kamera zamanlamasi etrafinda kurulu, son derece kontrollu beat-synced bir fashion prompt'u.
 
-Quelle: [Beitrag](https://x.com/TingFengAIAI/status/2038904225548149011) · Veröffentlicht: 31. Mär 2026
+Kaynak: [Gonderi](https://x.com/TingFengAIAI/status/2038904225548149011) · Yayin: 31 Mar 2026
 
 [![](./public/seedance_2_prompt_images/002.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2981,13 +2991,13 @@ Beauty beat-sync sequence:
 --ar 16:9 --motion 8, soft-focus white light + glow, extremely premium look with strong control.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Mini-Skateboard-Flucht in einem Kinderzimmer
+### Cocuk Odasinda Mini Skateboard Kacisi
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
-Auf dem Boden eines Kinderzimmers fährt ein Miniaturmädchen mit hoher Geschwindigkeit auf einem winzigen Skateboard, knapp über dem Boden schwebend. Alles ist massiv skaliert...
+Bir cocuk odasinin zemininde, minyatur bir kiz minik bir skateboard'a binerek yere cok yakin yuksek hizda kayiyor. Her sey o kadar buyuk olceklendirilmis ki...
 
-Quelle: [Beitrag](https://x.com/anson7956/status/2038846411253657939) · Veröffentlicht: 31. Mär 2026
+Kaynak: [Gonderi](https://x.com/anson7956/status/2038846411253657939) · Yayin: 31 Mar 2026
 
 [![](./public/seedance_2_prompt_images/003.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3000,21 +3010,21 @@ In the third stage, she bursts through the gap between the pages of a picture bo
 This is a thrilling, heart-pounding video packed with near escapes. The setting is a realistic child's room, using a miniature perspective to create an immersive, theme-ride-like experience that fully exploits giant obstacles and tiny gaps.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Transformation von Android-Büroangestellter zu Strandwerbung
+### Android Ofis Calisanindan Plaj Reklamina Donusum
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square)
-Hier ist es: shot1 (3 s): Eine futuristische Büroetage mit Sci-Fi-Atmosphäre. Eine Android-Bürofrau geht ausdruckslos durch die Etage. shot2 (3 s):...
+Iste bu: shot1 (3s): sci-fi atmosfere sahip futuristik bir ofis kati. Android bir ofis kadini hissizce yurur. shot2 (3s):...
 
-### 5 Frauen mit wackelnden bbs retten die Welt
+### titreşen goguslu 5 kadin dunyayi kurtariyor
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-5 Frauen mit wackelnden bbs retten die Welt
+titreşen goguslu 5 kadin dunyayi kurtariyor
 
 ### Prompt 25
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Rohes Handy-Footage, vertikaler Handheld-Shot, shaky cam, körnige Textur. Auf dem legendären Rucker-Park-Basketballplatz in der Dämmerung ein kräftiger älterer...
+Raw mobile phone footage, vertical handheld shot, shaky cam, grainy texture. At the legendary Rucker Park basketball court at dusk, a heavy-set elderly...
 
-Quelle: [Beitrag](https://x.com/techhalla/status/2039114930461549008) · Veröffentlicht: 31. Mär 2026
+Kaynak: [Gonderi](https://x.com/techhalla/status/2039114930461549008) · Yayin: 31 Mar 2026
 
 [![](./public/seedance_2_prompt_images/023.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3022,13 +3032,13 @@ Quelle: [Beitrag](https://x.com/techhalla/status/2039114930461549008) · Veröff
 Raw mobile phone footage, vertical handheld shot, shaky cam, grainy texture. At the legendary Rucker Park basketball court at dusk, a heavy-set elderly woman in a floral dress and sneakers is dribbling a basketball against
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
 ### Prompt 28
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Der Feuerwehrmann betritt das Haus, bei der 3-Sekunden-Marke geht er im Haus, während Möbel um ihn herum brennen, bei der 5-Sekunden...
+The firefighter is entering the house, at the 3-second mark the firefighter is walking inside the house with furniture in fire around him, at the 5-second...
 
-Quelle: [Beitrag](https://x.com/AITalesNBH/status/2039072522650423445) · Veröffentlicht: 31. Mär 2026
+Kaynak: [Gonderi](https://x.com/AITalesNBH/status/2039072522650423445) · Yayin: 31 Mar 2026
 
 [![](./public/seedance_2_prompt_images/026.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3036,13 +3046,13 @@ Quelle: [Beitrag](https://x.com/AITalesNBH/status/2039072522650423445) · Veröf
 The firefighter is entering the house, at the 3-second mark the firefighter is walking inside the house with furniture in fire around him, at the 5-second mark a burning tree piece falls in front of him, at the 8-second mark he finds a 3 old baby in a baby bed, the baby is coughing, the firefighter lifts the baby and hugs it, the firefighter gets out of the house, he gives the baby to an ambulance personnel
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Showcase zur Transformation antiker Kostüme
+### Antik Kostum Donusum Gosterisi
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
-Ein Prompt zur Transformation antiker Kostüme mit mehreren Looks, inszeniert als rhythmischer Beauty-Showcase mit Hard-Cut-Garderobenwechseln.
+Sert kesmeli gardrop gecisleriyle ritmik bir guzellik gosterisi olarak sahnelenen, cok gorunumlu antik kostum donusum prompt'u.
 
-Quelle: [Beitrag](https://x.com/johnAGI168/status/2040058721158467975) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/johnAGI168/status/2040058721158467975) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/029.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3057,13 +3067,13 @@ Seedance 2.0 all-purpose reference prompt below:
 [Section 4: High-frequency glamour] Time: 11-15 seconds. Framing and camera: static medium shot. Female styling and costume: rapidly cycle through three outfits: 1. deep red strapless long dress with a red-and-gold waist belt; 2. pure white wide-sleeved plain robe with a white belt; 3. pink-and-white split-color dress with light-blue bird embroidery on the chest. Movement and expression: both hands swing up and down in stacked motion with urgent drum hits, larger movement range, full commanding presence. Sound: ancient-style transformation BGM. Effects and environment: ultra-fast beat-synced outfit switching. Multiple colors hit in rapid succession, pushing visual extravagance to a climax.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Ginza bei Nacht, futuristischer Cyberpunk
+### Ginza'da gece, futuristik cyberpunk
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Ginza bei Nacht, futuristischer Cyberpunk. Eine weibliche Ninja versteckt sich, durch optische Tarnung transparent gemacht. Sie besiegt einen feindlichen Ninja. Nach dem ersten Angriff wird...
+Ginza'da gece, futuristik cyberpunk. Optik kamuflajla seffaf hale gelmis bir kadin ninja saklaniyor. Dusman bir ninjayi alt ediyor. Ilk saldiridan sonra...
 
-Quelle: [Beitrag](https://x.com/ChiakiAkagi/status/2040232705477255363) · Veröffentlicht: 04. Apr 2026
+Kaynak: [Gonderi](https://x.com/ChiakiAkagi/status/2040232705477255363) · Yayin: 04 Apr 2026
 
 [![](./public/seedance_2_prompt_images/037.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3077,13 +3087,13 @@ They fight moving at high speed with motion blur and afterimages.
 The female ninja's punch sends the ninja flying, crashing into a neon sign high above.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Geschichten eines Hoppers
+### bir ziplayicinin hikayeleri
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Geschichten eines Hoppers. 1 Astronaut, der jederzeit von Ort zu Ort springen kann.
+bir ziplayicinin hikayeleri. Istedigi an bir yerden digerine ziplayabilen 1 astronot.
 
-Quelle: [Beitrag](https://x.com/starks_arq/status/2040036602018451721) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/starks_arq/status/2040036602018451721) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/040.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3093,13 +3103,13 @@ stories of a hopper.
 1 astronaut that's able to hop from location to location, anytime he wants.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Ein verdächtiger Mann steht im Zentrum der Shibuya-Kreuzung
+### Shibuya scramble crossing'in merkezinde supheli bir adam duruyor
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Ein verdächtiger Mann steht im Zentrum der Shibuya-Kreuzung. Die Menschen um ihn herum gehen und überqueren sie wie in einem Timelapse, um ihn zentriert. Wenn er...
+Shibuya scramble crossing'in merkezinde supheli bir adam duruyor. Etrafindaki insanlar time-lapse gibi onun etrafinda yuruyup geciyor. O...
 
-Quelle: [Beitrag](https://x.com/roco_kn_roco/status/2039962871149584691) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/roco_kn_roco/status/2039962871149584691) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/043.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3110,13 +3120,13 @@ Used Prompt 2
 Protagonist: Hiromu, Age 19
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Ästhetik
+### Estetik
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Ästhetik: ein hochgehaltenes Handy inmitten einer dichten Menschenmenge auf dem Deck eines Fischerboots. Audio: Bass konkurriert mit Meereswind, Wellen schlagen gegen das...
+estetik: balikci teknesinin guvertesinde sikisik kalabaligin ortasinda havaya kaldirilmis telefon audio: bass okyanus ruzgariyla kapisiyor, dalgalar...
 
-Quelle: [Beitrag](https://x.com/maxescu/status/2040095139511636166) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/maxescu/status/2040095139511636166) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/044.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3127,13 +3137,13 @@ aesthetic: phone held up in the middle of a packed crowd on the deck of a fishin
  - "0-5s: Phone camera on the deck of a fishing boat at sea. Golden hour. The deck is PACKED
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Ein Mädchen fällt rasant durch einen digitalen Tunnel
+### Dijital bir tunelden hizla dusen bir kiz
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Ein Mädchen fällt rasant durch einen digitalen Tunnel. Das Mädchen gerät in Panik und rudert mit den Armen. Sie durchquert einen Tunnel, der sich nach oben, unten, links und...
+Bir kiz dijital bir tunelden hizla dusuyor. Panik halinde ve kontrolsuzce savruluyor. Yukari, asagi, sola ve...
 
-Quelle: [Beitrag](https://x.com/_3912657840/status/2039911660656484590) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/_3912657840/status/2039911660656484590) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/057.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3141,13 +3151,13 @@ Quelle: [Beitrag](https://x.com/_3912657840/status/2039911660656484590) · Verö
 A girl falls rapidly through a digital tunnel. The girl is panicking and flailing. She passes through a tunnel that twists and turns up, down, left, and right, then falls straight down. She lands softly on a rainbow cloud in a fancy world overflowing with light. She looks up and sees a large, rainbow-shining sun glowing in the sky. Backlight.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Bildsprache
+### Gorseller
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Szene: Der Skytree verwandelt sich in eine "super massive Railgun" und feuert ein Lichtprojektil ins All. Bildsprache: Erste Phase: Das Äußere des Turms ist...
+Sahne: Skytree bir "super dev railgun"'a donusur ve uzaya dogru isik mermisi firlatir. Gorseller: Birinci Asama: kulenin dis yuzeyi...
 
-Quelle: [Beitrag](https://x.com/TechTalkNAVI/status/2040100728627454339) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/TechTalkNAVI/status/2040100728627454339) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/060.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3165,13 +3175,13 @@ Final Stage: Firing. A pillar of light pierces the stratosphere, forming a giant
 Lighting/Color: Cold white, purple discharge. Contrast between silence and roar.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Ein Hollywood-Filmtrailer
+### Bir Hollywood film fragmani
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Ein Hollywood-Filmtrailer. Ein Actionfilm im Marvel-Stil, in dem sich ein gewöhnlicher amerikanischer High-School-Schüler in einen Helden verwandelt und kämpft. Ich möchte erschaffen...
+Bir Hollywood film fragmani. Siradan bir Amerikan lise ogrencisinin bir kahramana donusup savastigi Marvel tarzi aksiyon filmi. Olusturmak istiyorum...
 
-Quelle: [Beitrag](https://x.com/SSSS_CRYPTOMAN/status/2040217171918516475) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/SSSS_CRYPTOMAN/status/2040217171918516475) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/065.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3179,13 +3189,13 @@ Quelle: [Beitrag](https://x.com/SSSS_CRYPTOMAN/status/2040217171918516475) · Ve
 A Hollywood movie trailer. A Marvel-style action movie where an ordinary American high school student transforms into a hero and fights. I want to create various scenes with multi-cuts. The title is CRYPTOMAN
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Cinematic Vertical 9
+### Sinematik Dikey 9
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Cinematic-Vertical-9:16-Video. Zwei Versionen von Rapunzel aus Tangled gehen Seite an Seite auf einem Waldpfad auf die Kamera zu. LINKS: die Original...
+Sinematik dikey 9:16 video. Tangled'dan Rapunzel'in iki versiyonu orman toprak yolunda yan yana kameraya dogru yuruyor. SOLDA: orijinal...
 
-Quelle: [Beitrag](https://x.com/Mayz1169/status/2039982387703296044) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/Mayz1169/status/2039982387703296044) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/067.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3193,13 +3203,13 @@ Quelle: [Beitrag](https://x.com/Mayz1169/status/2039982387703296044) · Veröffe
 Cinematic vertical 9:16 video. Two versions of Rapunzel from Tangled walk side by side toward the camera on a forest dirt path. On the LEFT: the original Disney 3D animated Rapunzel — large expressive cartoon eyes, stylized face with Disney animation proportions, luminous long
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Eine riesige Gletscherwand stürzt in einen Fjord neben einer Küstenstadt
+### Kiyi kentinin yanindaki bir fiyorda dev bir buzul duvari cokuyor
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Eine riesige Gletscherwand stürzt in einen Fjord neben einer Küstenstadt. Das fallende Eis löst eine massive Wasserverdrängungswelle aus, die auf den Hafen zurollt....
+Kiyi kentinin yanindaki bir fiyorda dev bir buzul duvari cokuyor. Duseyen buz, limana dogru ilerleyen dev bir su yer degistirme dalgasi tetikliyor....
 
-Quelle: [Beitrag](https://x.com/LudovicCreator/status/2040100791822721300) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/LudovicCreator/status/2040100791822721300) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/068.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3215,13 +3225,13 @@ Icebergs smash through streets as the city floods.
 Glacier collapse megaflood, iceberg destruction chaos, cinematic polar disaster scale, 4K.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Eine Klavierjagd im Mondlicht, bei der die Maus
+### Farenin oldugu ay isigi altinda piyano kovalamacasi
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Eine Klavierjagd im Mondlicht, bei der die Maus das ganze Instrument in eine Falle verwandelt. Was passiert: Die Maus rennt über die Klaviertasten und erzeugt verspielte Töne. Die Katze...
+Farenin tum enstrumani bir tuzaga cevirdigi ay isigi altinda piyano kovalamacasi. Olan su: Fare piyano tuslari uzerinde kosar, eglenceli notalar cikarir. Kedi...
 
-Quelle: [Beitrag](https://x.com/Dheepanratnam/status/2040060221733609969) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/Dheepanratnam/status/2040060221733609969) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/072.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3238,13 +3248,13 @@ The cat gets nearly caught by the closing lid. Inside the piano, the mouse runs 
 The cat crashes into the keyboard section, causing a chaotic musical explosion. Final gag: the mouse presses one neat final note while the cat pops out wearing sheet music on its head.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### 15-second continuous single-shot cartoon sequence
+### 15 saniyelik kesintisiz tek-plan cartoon sekansi
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-15-sekündige durchgehende Cartoon-Single-Shot-Sequenz. Keine Schnitte. Keine Szenenwechsel. Weicher Aquarell-Illustrationsstil, Pastellfarben, sanfte Texturen,...
+15 saniyelik kesintisiz tek-plan cartoon sekansi. Kesme yok. Sahne gecisi yok. Yumru suluboya illustrasyon stili, pastel renkler, nazik dokular,...
 
-Quelle: [Beitrag](https://x.com/Artedeingenio/status/2040054705183723711) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/Artedeingenio/status/2040054705183723711) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/077.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3260,13 +3270,13 @@ Scene:
 A small animal character walking through a quiet meadow.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
 ### Prompt 83
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Fliegende Luftschiffe aus dem viktorianischen Zeitalter mit Messingzahnrädern und riesigen Propellern kämpfen bei Sonnenuntergang über einem wolkigen Gebirge, Kanonen feuern, Piraten schwingen an...
+Victorian-era flying airships with brass gears and giant propellers battling over a cloudy mountain range at sunset, cannons firing, pirates swinging on...
 
-Quelle: [Beitrag](https://x.com/Alin_Reaper05/status/2040017612105556403) · Veröffentlicht: 03. Apr 2026
+Kaynak: [Gonderi](https://x.com/Alin_Reaper05/status/2040017612105556403) · Yayin: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/080.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3274,13 +3284,13 @@ Quelle: [Beitrag](https://x.com/Alin_Reaper05/status/2040017612105556403) · Ver
 Victorian-era flying airships with brass gears and giant propellers battling over a cloudy mountain range at sunset, cannons firing, pirates swinging on ropes between ships, intricate mechanical details, sweeping aerial tracking shot with parallax, warm steampunk color palette, ultra-detailed, like Howl’s Moving Castle meets Pirates of the Caribbean, epic action.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Ästhetik
+### Estetik
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Ästhetik: rohes 35mm-Handheld, Sonnenhaze in großer Höhe. Ein ununterbrochener kontinuierlicher Tracking-Shot. Keine Schnitte. Alles in Echtzeit. Audio: voller konstanter Jettriebwerkslärm,...
+estetik: Ham 35mm handheld, yuksek irtifa gun puslu. Tek ve kesintisiz bir tracking shot. Kesme yok. Her sey gercek zamanli. audio: surekli jet motoru gurultusu,...
 
-Quelle: [Beitrag](https://x.com/maxescu/status/2039639805592502504) · Veröffentlicht: 02. Apr 2026
+Kaynak: [Gonderi](https://x.com/maxescu/status/2039639805592502504) · Yayin: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/087.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3291,13 +3301,13 @@ timeline:
 - 0-3s: Normal guy in baggy cargo shorts and flip flops is standing perfectly
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Außenansicht eines antiken Tempels tief in den Bergen
+### Derin daglardaki antik bir tapinagin dis mekani
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-2.35:1-Breitbild, 24fps, cineastische Qualität. Außenansicht eines antiken Tempels tief in den Bergen. Die Kamera blickt auf das Tempeldach inmitten wogender...
+2.35:1 widescreen, 24fps, sinematik kalite. Derin daglardaki antik bir tapinagin dis mekani. Kamera, kabaran...
 
-Quelle: [Beitrag](https://x.com/cdexsta/status/2039559243284844649) · Veröffentlicht: 02. Apr 2026
+Kaynak: [Gonderi](https://x.com/cdexsta/status/2039559243284844649) · Yayin: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/089.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3306,13 +3316,13 @@ Quelle: [Beitrag](https://x.com/cdexsta/status/2039559243284844649) · Veröffen
 Exterior of an ancient temple in the deep mountains. The camera overlooks the temple roof amidst surging clouds, with mottled tiles and rising mist. The scene cuts to the interior, where a middle-aged monk sits cross-legged, with an ancient Buddha statue and flickering candlelight behind him. The camera slowly rotates 360 degrees, panning from the monk's side to a front close-up, capturing his slightly closed eyes and calm breathing.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Historische Szene mit dramatischer Beleuchtung
+### Dramatik isikla tarihi sahne
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Historische Szene mit dramatischer Beleuchtung. 0-3 Sekunden Opening Shot: Eine venezianische Galeerenflotte nähert sich bei Morgengrauen Konstantinopel, Kanonen feuern. Massive Stadt...
+Dramatik isikla tarihi sahne. 0-3 saniye Acilis shot'u: Venedik kadirga filosu seher vaktinde Konstantinopolis'e yaklasiyor, toplar ates ediyor. Devasa sehir...
 
-Quelle: [Beitrag](https://x.com/AskVenice/status/2039570736239595726) · Veröffentlicht: 02. Apr 2026
+Kaynak: [Gonderi](https://x.com/AskVenice/status/2039570736239595726) · Yayin: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/101.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3326,13 +3336,13 @@ Opening shot: Venetian galley fleet approaches Constantinople at dawn, cannons b
 Quick cut: Ottoman cannon
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
 ### ROCKET SURF
 ![Language-ES](https://img.shields.io/badge/Language-ES-blue?style=flat-square)
 ROCKET SURF. STYLE: Gritty Cine Verite, 35mm handheld, natural shake. Continuous tracking shot. No cuts. All real-time. LIGHTING: Bright, high-altitude sun,...
 
-Quelle: [Beitrag](https://x.com/maxescu/status/2039308020006396033) · Veröffentlicht: 01. Apr 2026
+Kaynak: [Gonderi](https://x.com/maxescu/status/2039308020006396033) · Yayin: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/107.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3347,13 +3357,13 @@ AUDIO: Rocket engine roar, wind, fiberglass creak.
 TIMELINE: 0-3s:
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Dialog
+### Diyalog
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Ein einzelner Stand-up-Comedian @Image 1 mit schwarzen Haaren, in einem strukturierten roten Kleid, steht auf einer von einem Scheinwerfer beleuchteten Bühne @Image 2. Überzogen und humorvoll...
+Sahne isigi altindaki bir sahnede duran, siyah sacli ve dokulu kirmizi elbise giymis tek bir stand-up komedyeni @Image 1, @Image 2. Abartili ve mizahi...
 
-Quelle: [Beitrag](https://x.com/Adam38363368936/status/2039286911265800297) · Veröffentlicht: 01. Apr 2026
+Kaynak: [Gonderi](https://x.com/Adam38363368936/status/2039286911265800297) · Yayin: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/120.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3370,31 +3380,31 @@ Actions and Expressions:
 Scene: Black stand-up stage, strong spotlight illuminating the person, blurred silhouettes of the audience below, atmosphere of laughter, slight camera push-in, cinematic lighting, strong stage presence, real-shot texture, fast pace, 15-second short video effect. Shallow depth of field, enhanced light and shadow contrast, scene detail reconstruction, digital noise elimination, 4K high-definition quality.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-## Neueste Ergänzungen (07. Apr. 2026)
+## Son eklenenler (07 Nis 2026)
 
-### Inschrift des Altars einer Abgrund-Entität — Dunkle Fantasy
+### Uçurum varlığının sunak yazıtı — karanlık fantezi
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2041050710721339521.jpg" width="400" />
 
-Eine Dark-Fantasy-Sequenz, in der eine Abgrund-Entität fraktale Geometriemuster in einen Opferaltar einschreibt, während fleischige Ranken aus den Rissen hervorbrechen.
+Bir uçurum varlığının kurban sunağına fraktal geometri desenleri kazıdığı ve çatlaklardan etsi uzantıların fışkırdığı karanlık fantezi sekansı.
 
-Quelle: [Beitrag](https://x.com/Adam38363368936/status/2041050710721339521) · Veröffentlicht: 06 04 2026
+Kaynak: [Gonderi](https://x.com/Adam38363368936/status/2041050710721339521) · Yayinlandi: 06 04 2026
 
 ```text
 提示词 (Prompt)： 0-3s · 异界铭刻 低角度仰拍。深渊实体右手嵌入（Embedded）祭坛，暗黑脉络呈分形几何状（Fractal Geometry）在石板上疯狂寄生。裂缝喷涌出粘稠血肉触须，地面如肺部般大幅度搏动。背景宗门古建筑随之发生视觉上的横向位移震颤。 3-6s · 骨质畸变 环绕升降镜头。实体的脊椎如连锁反应般炸裂扭曲，黑曜石角冠从颅骨深处穿出。双臂缠绕液态黑烟，所经之处空气产生高温电弧感，悬挂灯笼因能量过载瞬间发生视觉坍塌式爆裂。 6-9s · 物质解构 拉远镜头。实体表皮呈现瓷器般的碎裂纹路，内部是蠕动的暗物质核心。指尖异化为长达半米的影刃，触碰木柱瞬间引发超速风化（Accelerated Decay），建筑结构化为黑烟升腾。 9-12s · 影潮吞噬 高空俯拍。实体振臂，身后黑暗塌缩后猛然爆发，形成千米级的黑红浪潮（Corrupted Tsunami）。阴影洪流所过之处，青石板路、石狮、楼阁全部被像素化撕裂并吞噬。 12-15s · 虚空终焉 脸部特写。背景中巨大的山门在黑洞引力下向中心拧麻花状折断。实体在死寂中缓步走近，瞳孔内是旋转的星云（Void Nebula）。它凝视镜头，画面产生强烈的胶片烧灼感与信号故障感（Glitch），最终归于绝对黑暗。
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Szenenwechsel mit schwebendem UI-Farbrad
+### Yüzen UI renk çarkı ile sahne dönüşümü
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2041001869435158629.jpg" width="400" />
 
-Eine junge Frau wischt über ein schwebendes holografisches Farbrad und wechselt in einem 15-sekündigen VFX-Clip nahtlos zwischen Szenen und Outfits.
+Genç bir kadın, yüzen holografik bir renk çarkını kaydırarak 15 saniyelik bir VFX kısa videoda sahneleri ve kıyafetleri kesintisiz değiştiriyor.
 
-Quelle: [Beitrag](https://x.com/johnAGI168/status/2041001869435158629) · Veröffentlicht: 06 04 2026
+Kaynak: [Gonderi](https://x.com/johnAGI168/status/2041001869435158629) · Yayinlandi: 06 04 2026
 
 ```text
 即可得到同款视频！
@@ -3404,15 +3414,15 @@ Seedance 2.0 prompt 👇
 生成一段15秒的高质量实拍风格特效短片，核心展示一位年轻女性通过滑动悬浮UI色环，实现场景与服装的无缝丝滑切换。注意分镜编排与转场节奏，画面需具备极佳的景深效果（Depth of field），人物面部始终保持清晰且光影立体。 【人物特征锁定】 全程锁定核心人物特征：年轻女性，标志性的金黄色短发，佩戴圆形金属边框眼镜。 【分镜与动作设计】 00:00-00:05：室内卧室夜景，背景有暖黄色的星星形状散景氛围灯串。人物头发微微扎起，穿浅米色长袖家居睡衣坐在床上。画面正前方悬浮着完整的半透明渐变彩色色环（UI交互元素）。人物微笑着看向镜头，伸出手自然地触碰并向右滑动发光的色环。 00:05-00:07：随着色环转动，无缝转场至明亮的室内窗边日景，阳光温暖。人物短发自然散落，瞬间换上鲜艳的亮橙色无袖紧身上衣和白色休闲裤，单手托腮，笑容灿烂。色环悬浮在画面右侧，光标高亮显示黄橙色区域。 00:07-00:09：无缝转场至户外公园日景，背景是高曝光的明亮绿树。人物靠在粗壮树干旁，换上薄荷绿色方领泡泡袖露脐短上衣和浅色高腰短裤，右手戴黑色半截皮手套，对着镜头俏皮眨眼，手指轻触嘴唇。色环悬浮右侧，光标高亮亮绿色。 00:09-00:11：无缝转场至户外开阔草地，背景蓝天白云。人物靠在灰白水泥矮墙上，穿简约深蓝紫色细吊带上衣，单手托下巴，表情慵懒清冷。色环移至画面左侧，光标高亮深紫色。 00:11-00:13：无缝转场至阳光明媚的户外樱花林，背景满是盛开的粉色樱花。人物换粉色细吊带上衣，单手轻轻撩动头顶头发，展现甜美治愈微笑。色环悬浮左侧，光标高亮粉红色。 00:13-00:15：无缝转场至户外传统中式建筑前，背景有虚化的红色柱子和古建飞檐。人物穿深红色偏焦糖色的露肩改良版中式旗袍上衣（带传统盘扣），姿态端庄优雅，单手放于锁骨处，眼神微垂看向镜头。色环悬浮左侧，光标高亮红色。 【特殊控制指令】 必须保证场景与服装的每次切换平滑无跳切感（丝滑转场），保持人物动作的延续性。每次切换时，人物的情绪微表情必须与当前的服装色彩氛围完美契合。配合画面色彩切换，可自动生成带有轻巧科技感UI音效及动感节奏的BGM。
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Stadt der Götter — Orientalischer Fantasy-Flug in einer Einstellung
+### Tanrıların şehri — tek planda doğu fantezi uçuşu
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2041000256930763046.jpg" width="400" />
 
-Ein ununterbrochener Kameraflug in einer Einstellung durch eine riesige orientalische Fantasy-Stadt, vorbei an gigantischen Buddha-Statuen, Kanälen und einer Armee von Kampfkünstlern.
+Devasa bir doğu fantezi şehrinde, dev Buda heykelleri, kanallar ve dövüş sanatları ordusunun yanından geçen kesintisiz tek plan kamera uçuşu.
 
-Quelle: [Beitrag](https://x.com/john87445528/status/2041000256930763046) · Veröffentlicht: 06 04 2026
+Kaynak: [Gonderi](https://x.com/john87445528/status/2041000256930763046) · Yayinlandi: 06 04 2026
 
 ```text
 神佛之城·宗师登台】
@@ -3428,15 +3438,15 @@ Quelle: [Beitrag](https://x.com/john87445528/status/2041000256930763046) · Ver�
 无剪辑、不可思议的镜头运动、无缝衔接，充满东方神秘、史诗宏大、极具电影感。8K高清画质，高品质影像素材。
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Top-Down-Fashion-Lookbook — Outfitwechsel-Sequenz
+### Tepeden moda lookbooku — kıyafet değişim sekansı
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2040767631213363656.jpg" width="400" />
 
-Ein Fashion-Lookbook aus der Vogelperspektive mit schnellen Outfitwechseln, Deckenventilator-Unschärfe im Vordergrund und beat-synchronen Garderobenwechseln.
+Hızlı kıyafet değişimleri, tavandaki vantilatörün ön plan bulanıklığı ve ritme senkron gardırop geçişleri içeren kuşbakışı moda lookbooku.
 
-Quelle: [Beitrag](https://x.com/johnAGI168/status/2040767631213363656) · Veröffentlicht: 05 04 2026
+Kaynak: [Gonderi](https://x.com/johnAGI168/status/2040767631213363656) · Yayinlandi: 05 04 2026
 
 ```text
 prompt 👇
@@ -3478,15 +3488,15 @@ prompt 👇
 红黑印花复古无袖短款旗袍，左侧发际别一朵红花，黑色过膝长筒袜。右手持半开黑色折扇置于胸前，右侧地板摆红色高跟鞋。红黑配色收束全片。
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Antike Parkour-Sequenz mit Kostümwechsel
+### Antik parkur kostüm değişim sekansı
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2040980673851506798.jpg" width="400" />
 
-Ein realistischer Parkour-Lauf im antiken Stil mit nahtlosen Kostümwechseln, bei dem eine entschlossene Heldin durch traditionelle Architektur sprintet.
+Geleneksel mimari arasında kararlı bir kadın kahramanın koştuğu, kesintisiz kostüm değişimlerine sahip gerçekçi antik tarz parkur koşusu.
 
-Quelle: [Beitrag](https://x.com/Adam38363368936/status/2040980673851506798) · Veröffentlicht: 06 04 2026
+Kaynak: [Gonderi](https://x.com/Adam38363368936/status/2040980673851506798) · Yayinlandi: 06 04 2026
 
 ```text
 在下面，来试试！
@@ -3499,29 +3509,29 @@ Seedance2.0提示词
 质感：ARRI胶片质感，物理风阻逻辑，极致市井烟火气，路人反应真实，暴力跑酷美学。
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Filmischer Kultur-Spot für Peking — 8K in der Ich-Perspektive
+### Sinematik Pekin kültür reklamı — 8K birinci şahıs
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2040826411783762286.jpg" width="400" />
 
-Ein filmischer 8K-Kultur-Spot in der Ich-Perspektive, der durch das alte Peking gleitet und traditionelle Architektur, Straßenleben und eine heilende Atmosphäre einfängt.
+Eski Pekin'de süzülen, geleneksel mimariyi, sokak hayatını ve iyileştirici atmosferi yakalayan sinematik 8K birinci şahıs kültür reklamı.
 
-Quelle: [Beitrag](https://x.com/crayon1267/status/2040826411783762286) · Veröffentlicht: 05 04 2026
+Kaynak: [Gonderi](https://x.com/crayon1267/status/2040826411783762286) · Yayinlandi: 05 04 2026
 
 ```text
 电影级国风城市文化创意广告，超写实 8K，第一人称舒缓追随镜头，丝滑慢节奏运镜，北京古都氛围浓厚，治愈人文感，强代入感，建筑与自然细节清晰真实。整片时长 15 秒内，整体节奏放缓，镜头停留更从容，核心主体为一朵带晨露的白色蒲公英，镜头始终轻柔追随绒球。全程无背景音乐，仅保留环境拟音 + 极简地点旁白。 【0-4s】晨雾中的北京胡同，蒲公英被清风托起，镜头轻柔掠过瓦顶、院门与晨练残影。旁白：胡同 【4-8s】蒲公英缓缓飘行，掠过故宫角楼、天坛祈年殿。旁白：故宫、天坛 【8-12s】蒲公英继续轻飘，掠过颐和园十七孔桥、八达岭长城。旁白：颐和园、长城 【12-15s】蒲公英轻落什刹海湖面，镜头缓缓拉出城市全景。旁白（提前 1 秒出现）：风过北京，万物有灵。画面定格治愈收尾，不拖尾。 音效设计 全程无背景音乐，仅保留微风声、环境自然音、蒲公英飘飞轻响，旁白清晰干净，无多余嘈杂音效。
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Motorinnenleben — Mechanisches Kolben-Detail
+### Motor içi — piston mekanik detayı
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2041068828457877598.jpg" width="400" />
 
-Eine detaillierte mechanische Visualisierung von Motorinnenleben und Kolbenstrukturen, die die verbesserte strukturelle Genauigkeit von Seedance 2.0 zeigt.
+Motor içini ve piston yapısını ayrıntılı biçimde görselleştirerek Seedance 2.0'daki yapısal doğruluk artışını gösteren mekanik bir çalışma.
 
-Quelle: [Beitrag](https://x.com/YaReYaRu30Life/status/2041068828457877598) · Veröffentlicht: 06 04 2026
+Kaynak: [Gonderi](https://x.com/YaReYaRu30Life/status/2041068828457877598) · Yayinlandi: 06 04 2026
 
 ```text
 の要素から少し知見が増して反映している印象
@@ -3538,15 +3548,15 @@ Quelle: [Beitrag](https://x.com/YaReYaRu30Life/status/2041068828457877598) · Ve
 いうものを検索すると何かとそれっぽくしてしまう可能性あり
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Bildgesteuerter Prompt mit singender Katze
+### Şarkı söyleyen kediyle görsel odaklı prompt
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2040921171059752988.jpg" width="400" />
 
-Ein kreativer, bildgesteuerter Prompt-Ansatz, bei dem das Modell visuelle Referenzen direkt liest, demonstriert an einer singenden Katzenanimation.
+Modelin görsel referansları doğrudan okuduğu yaratıcı bir görsel odaklı prompt yaklaşımı; bunu söyleyen bir kedi animasyonu ile gösteriyor.
 
-Quelle: [Beitrag](https://x.com/pan_soramame_da/status/2040921171059752988) · Veröffentlicht: 05 04 2026
+Kaynak: [Gonderi](https://x.com/pan_soramame_da/status/2040921171059752988) · Yayinlandi: 05 04 2026
 
 ```text
 に記述じゃなくて
@@ -3578,15 +3588,15 @@ Quelle: [Beitrag](https://x.com/pan_soramame_da/status/2040921171059752988) · V
 ――――――――――
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Japanische Romance-Sim der 90er — Cel-Animationsstil
+### 90'lar Japon aşk simülasyonu — sel animasyon stili
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2040814307487916415.jpg" width="400" />
 
-Ein Bildschirm einer japanischen Romance-Simulation der 90er im Cel-Animationsstil mit klaren Konturen und Retro-UI-Elementen.
+Net konturlar ve retro arayüz öğeleriyle sel animasyon tarzında hazırlanmış 90'lar Japon romantik simülasyon oyunu ekranı.
 
-Quelle: [Beitrag](https://x.com/kinopioai_ai/status/2040814307487916415) · Veröffentlicht: 05 04 2026
+Kaynak: [Gonderi](https://x.com/kinopioai_ai/status/2040814307487916415) · Yayinlandi: 05 04 2026
 
 ```text
 のみ
@@ -3610,15 +3620,15 @@ Quelle: [Beitrag](https://x.com/kinopioai_ai/status/2040814307487916415) · Ver�
 4K, Ultra HD, no deformation, natural smooth movements, stable picture, no flickering, no ghosting, sharp details. Generate video without subtitles.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Epische Fantasy-Schlacht — Filmische 10-Sekunden-Sequenz
+### Epik fantezi savaşı — sinematik 10 saniyelik sekans
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2041431226507051027.jpg" width="400" />
 
-Eine filmische 10-Sekunden-Sequenz einer epischen Fantasy-Schlacht, aus einem einzigen Prompt generiert und mit dramatischem Licht sowie Action-Choreografie.
+Tek bir prompttan üretilmiş, dramatik ışık ve aksiyon koreografisi sergileyen sinematik 10 saniyelik epik fantezi savaş sekansı.
 
-Quelle: [Beitrag](https://x.com/a_shimanski/status/2041431226507051027) · Veröffentlicht: 07 04 2026
+Kaynak: [Gonderi](https://x.com/a_shimanski/status/2041431226507051027) · Yayinlandi: 07 04 2026
 
 ```text
 I just generated this with a single prompt
@@ -3626,15 +3636,15 @@ Prompt👇
 Cinematic 10-second epic fantasy battle sequence in the style of Lord of the Rings, opening with a sweeping aerial crane shot pulling back over a massive ruined battlefield where thousands of armored Norse warriors charge through ash and smoke toward three colossal stone giants crackling with blue lightning, then cutting to a low ground-level tracking shot racing between the boots of sprinting soldiers as a giant's massive stone foot slams into the earth sending warriors flying in slow motion through dust and embers, then cutting to a medium dutch angle shot of a purple-robed female mage and a male sorcerer unleashing violet and blue arc lightning into the giants faces lit dramatically from below, then a whip pan over-the-shoulder shot from the giant's perspective as his enormous clawed hand sweeps across the battlefield scattering warriors like leaves with fire exploding to the right, finally ending on an extreme slow-motion close-up of a blood-soaked Norse warrior's determined face raising his sword and charging directly at the camera before the frame freezes in a blinding white lightning flash and smashes to black, desaturated steel blue and volcanic orange color grade, photorealistic, 8K, cinematic motion blur, epic orchestral atmosphere
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Filmische Regie-Techniken — Multi-Shot-Prompt
+### Sinematik yönetmenlik teknikleri — çok planlı prompt
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2041409914954973216.jpg" width="400" />
 
-Eine Demonstration, wie 2 bis 3 gut ausgearbeitete Prompt-Techniken KI-Videos von generischen Ergebnissen zu professionell inszeniert wirkendem Material aufwerten.
+İyi kurgulanmış 2-3 prompt tekniğinin yapay zeka videosunu sıradan bir çıktıdan profesyonelce yönetilmiş görünen görüntülere nasıl yükselttiğini gösteren bir örnek.
 
-Quelle: [Beitrag](https://x.com/noman23761/status/2041409914954973216) · Veröffentlicht: 07 04 2026
+Kaynak: [Gonderi](https://x.com/noman23761/status/2041409914954973216) · Yayinlandi: 07 04 2026
 
 ```text
 The difference between “AI slop” and “this looks directed” is literally 2–3 prompt changes.
@@ -3663,15 +3673,15 @@ Seedance doesn’t infer speed.
 You have to explicitly define energy levels
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Porträt einer ostasiatischen Frau — Natürliches Lächeln
+### Doğu Asyalı kadın portresi — doğal gülümseme
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2041408928215408931.jpg" width="400" />
 
-Ein Nahporträt-Prompt einer ostasiatischen Frau mit welligem kastanienbraunem Haar, großen Ohrringen und warmem natürlichem Licht.
+Dalgalı kestane rengi saçlı, büyük küpeli ve sıcak doğal ışıkla aydınlatılmış Doğu Asyalı bir kadının yakın plan portre promptu.
 
-Quelle: [Beitrag](https://x.com/noman23761/status/2041408928215408931) · Veröffentlicht: 07 04 2026
+Kaynak: [Gonderi](https://x.com/noman23761/status/2041408928215408931) · Yayinlandi: 07 04 2026
 
 ```text
 "beautiful young East Asian woman, long wavy chestnut brown hair, big smile, earphones in ears, wearing oversized white knit cardigan, denim shorts, white sneakers, holding red Coca-Cola can in right hand, playful and confident vibe, walking and dancing energetically down a sunny Paris cobblestone street, low angle dynamic camera, sudden surreal chaos: floating businessmen in black suits flying through the air with briefcases and white papers scattering everywhere, one businessman lying on the ground, girl completely unfazed and keeps dancing joyfully, pointing at camera, spinning, laughing, cinematic color grading, soft daylight, shallow depth of field, beautiful European architecture background, cafes and parked cars, final shot: girl walks away from camera down the long street, buildings suddenly light up with vibrant rainbow neon colors (pink, purple, blue, green, yellow) glowing on windows and balconies, dreamy atmosphere, highly detailed, 8k, masterpiece, smooth motion, perfect anatomy, natural physics"
@@ -3685,43 +3695,43 @@ the chaos doesn’t feel dominant anymore — it feels irrelevant.
 Same structure, completely different feeling.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Kriegerin — Strukturierter Subjekt-Prompt
+### Kadın savaşçı — yapılandırılmış özne promptu
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2041406971484815564.jpg" width="400" />
 
-Ein strukturierter Prompt mit definierten Subjekten, Umgebung und Kameraführung für eine dynamische Kriegerinnenfigur.
+Dinamik aksiyon içindeki bir kadın savaşçı karakter için özneleri, ortamı ve kamera yönlerini tanımlayan yapılandırılmış bir prompt.
 
-Quelle: [Beitrag](https://x.com/noman23761/status/2041406971484815564) · Veröffentlicht: 07 04 2026
+Kaynak: [Gonderi](https://x.com/noman23761/status/2041406971484815564) · Yayinlandi: 07 04 2026
 
 ```text
 "SUBJECTS: A female warrior with shoulder-length hair, the ends naturally flipping outward, pressed backward and slightly disheveled by air resistance during high-speed movement. She wears a dark, form-fitting tactical suit combining real fabric and worn metal elements, with visible water stains, dust, and signs of use. A dual mechanical grappling hook system mounted on her back, capable of firing steel cables that retract to generate pulling force. The hook tips are metal impact heads used for attaching to or striking solid structures. The cable only triggers when support is lost or during a fall, and must latch onto a solid object before generating tension. Movement relies on: sliding, stepping, grappling pull, swinging, contact, and displacement through reaction forces. A massive stone hand connected to a giant’s body (not severed, the arm extending upward into the clouds), descending vertically into frame from the cloud layer. Enormous in scale, with a weathered, rough surface, no glow, no regular structure. Each downward press carries clear weight, acceleration, air compression, and impact inertia. ENVIRONMENT: A high-altitude fractured bridge structure with wet, slippery concrete surfaces, showing water traces, cracks, and scattered debris. The bridge is heavily damaged, with irregular टूट sections, exposed and bent rebar, and hanging steel cables. Below the bridge is an empty abyss, swallowed by fog, with no visible ground. A distant city appears low and ruined, with r
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Postapokalyptisches Überleben — Filmisches Setup
+### Kıyamet sonrası hayatta kalma — sinematik kurulum
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2041405260762419692.jpg" width="400" />
 
-Eine raue postapokalyptische Überlebensszene mit angespannter Stimmung, körperlicher Action und einem detaillierten filmischen Setup inklusive Genre, Licht und Kamera.
+Gergin atmosferi, içgüdüsel aksiyonu ve tür, ışık, kamera dahil ayrıntılı sinematik kurulumu olan sert bir kıyamet sonrası hayatta kalma sahnesi.
 
-Quelle: [Beitrag](https://x.com/noman23761/status/2041405260762419692) · Veröffentlicht: 07 04 2026
+Kaynak: [Gonderi](https://x.com/noman23761/status/2041405260762419692) · Yayinlandi: 07 04 2026
 
 ```text
 "[CINEMATIC SETUP] Genre & Mood: Gritty Post-Apocalyptic Survival. Tense, visceral, and hyper-realistic. Film Stock & Lens: Shot on 35mm anamorphic lens, f/2.8 for shallow depth of field. Teal-orange desaturated color grade with earthy, dusty undertones. Lighting & Atmosphere: Dramatic volumetric Golden Hour light with heavy dust motes and heat haze. Character Description: An athletic woman in her late 20s, wearing weathered tactical leather armor and dirt-smudged skin. Her hair is wind-blown and messy; her expression is one of intense, lethal focus. Audio Style: Immersive spatial sound design. Detailed SFX of bowstring tension, rhythmic heavy breathing, wind howling through the canyon, and a high-velocity "thwack" on impact. [TIMELINE SECOND BY SECOND] 0-3s: [Extreme Close-up (ECU)] High-angle shot of the woman's face as she aims a mechanical compound bow. The bowstring is pulled taut against her cheek. Movie-level realistic facial features, no deformation, stable throughout. 3-4s: [Macro Cut] Extreme close-up of her iris. The pupil dilates sharply as she locks onto her target. Realistic light reflections in the eye. 4-8s: [Over-the-shoulder (OTS) Shot] The camera sits behind her shoulder on a jagged cliff edge. In the valley below, a herd of mutated, post-apocalyptic Cape Buffalo with thickened grey hide and jagged horns graze peacefully. Smooth camera push-in. 8-10s: [The Release & POV] She releases the arrow. Fast Tracking POV shot following the arrowhead at maximum veloc
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Pixar-Waldlichtung — 3D-Animationsszene
+### Pixar tarzı orman açıklığı — 3D animasyon sahnesi
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2041393724622795014.jpg" width="400" />
 
-Eine Waldlichtung im Pixar-Stil als 3D-Animationsszene mit Lichtstrahlen, sonniger Atmosphäre und verspielter Charakteranimation.
+Işık huzmeleri, güneşli atmosfer ve oyuncu karakter animasyonları içeren Pixar tarzı 3D orman açıklığı sahnesi.
 
-Quelle: [Beitrag](https://x.com/SPEEDAI07/status/2041393724622795014) · Veröffentlicht: 07 04 2026
+Kaynak: [Gonderi](https://x.com/SPEEDAI07/status/2041393724622795014) · Yayinlandi: 07 04 2026
 
 ```text
 Seedance 2.0 Prompt
@@ -3729,15 +3739,15 @@ Seedance 2.0 Prompt
 Pixar 3D animated forest clearing. Sunny day, god rays through trees, green grass, flowers. CHARACTERS: - Giant armored wolf: black fur, gold sword, yellow eyes, furious and humiliated, attacks with full rage - Tiny rooster: red comb, completely unbothered, bored expression, deflects everything with casual wing flaps SEQUENCE: 0-3s — Wolf roars, raises sword overhead, brings it down with full force. Rooster glances up, sighs, flicks one wing — sword deflects sideways. Sparks fly. Wolf stumbles forward from own momentum. Rooster examines wing casually, unbothered. 3-6s — Wolf swings horizontal slash. Rooster ducks under it yawning, taps sword away with wingtip. Wolf spins, overhead strike — rooster sidesteps one inch, sword hits ground, shockwave crater. Rooster hasn't changed expression once. 6-9s — Wolf goes berserk — rapid five-hit combo, sword blur. Rooster deflects each strike with alternating wings — tap, tap, tap, tap, tap. Casual rhythm like swatting flies. Last strike — rooster catches blade between two feathers. Stops it cold. Wolf strains, shaking. Can't move it. 9-12s — Rooster releases blade, wolf stumbles backward. Wolf charges with shoulder slam — rooster steps aside, wolf face plants into grass. Wolf up instantly, wild overhead — rooster flicks it away with tail feather. Sword spins out of wolf's grip, lands in tree trunk. 12-15s — Wolf stares at empty hands. Rooster turns, walks away slowly, doesn't look back. Scratches ground with one cla
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Premium-Lifestyle-Werbung — Vlog-Selfie-Stil
+### Premium yaşam tarzı reklamı — vlog selfie stili
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2041374063243800793.jpg" width="400" />
 
-Ein Premium-Lifestyle-Spot im Frontkamera-Vlog-Stil, der filmischen Realismus mit lockerer Selfie-Ästhetik verbindet.
+Ön kamera vlog stilinde çekilmiş, sinematik gerçekçilik ile gündelik selfie estetiğini birleştiren premium yaşam tarzı reklamı.
 
-Quelle: [Beitrag](https://x.com/johnAGI168/status/2041374063243800793) · Veröffentlicht: 07 04 2026
+Kaynak: [Gonderi](https://x.com/johnAGI168/status/2041374063243800793) · Yayinlandi: 07 04 2026
 
 ```text
 prompt 👇
@@ -3771,43 +3781,43 @@ prompt 👇
 中景。女主手持一杯蓝黄渐变的精致鸡尾酒，杯中气泡缓缓上升。她轻抿一口，眉眼舒展露出满意的微醺神情，随后对镜头开心挥手，定格。
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Kätzchen nascht heimlich unter der Decke
+### Battaniye altında gizlice atıştıran yavru kedi
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2041334660173852807.jpg" width="400" />
 
-Ein niedliches Kätzchen, das nachts heimlich unter der Bettdecke Snacks frisst, mit gemütlichem Licht und verspielter Mimik.
+Gece yatak örtüsünün altında gizlice atıştıran, sıcak ışıklı ve oyuncu ifadeli sevimli bir yavru kedi.
 
-Quelle: [Beitrag](https://x.com/lynneatyoumind/status/2041334660173852807) · Veröffentlicht: 07 04 2026
+Kaynak: [Gonderi](https://x.com/lynneatyoumind/status/2041334660173852807) · Yayinlandi: 07 04 2026
 
 ```text
 prompt: A cute kitten secretly eating snacks under the covers in bed at night. Hears footsteps, panics, hides the snacks, and fakes sleep with soft purring. Owner opens the door, peeks in, then leaves. Coast clear — the kitten pulls the snacks back out and keeps munching. Dark cozy bedroom, moonlight, cinematic lighting, smooth animation.
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Extremes Makro-FPV — Verfolgungsshot an Feenflügeln
+### Aşırı makro FPV — peri kanadı takip planı
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2041132328655954201.jpg" width="400" />
 
-Ein extremes Makro-FPV-Tracking, das eng am Rücken einer Fee haftet und sich durch einen magischen Wald synchron mit ihren Flügelbewegungen bewegt.
+Bir perinin sırtına sıkıca bağlı ve büyülü bir ormanda kanat hareketleriyle senkronize ilerleyen aşırı makro FPV takip planı.
 
-Quelle: [Beitrag](https://x.com/EHuanglu/status/2041132328655954201) · Veröffentlicht: 06 04 2026
+Kaynak: [Gonderi](https://x.com/EHuanglu/status/2041132328655954201) · Yayinlandi: 06 04 2026
 
 ```text
 extreme macro FPV tracking shot, camera tightly attached to the fairy's back, synchronized with wing flapping frequency
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Dark-Fantasy-Verwandlung — Östlicher Stil
+### Karanlık fantezi dönüşümü — doğu stili
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2041146946681721113.jpg" width="400" />
 
-Eine dunkle östliche Fantasy-Verwandlungssequenz mit dramatischen Lichtwechseln und mystischen visuellen Effekten.
+Dramatik ışık değişimleri ve mistik görsel efektler içeren karanlık doğu fantezisi dönüşüm sekansı.
 
-Quelle: [Beitrag](https://x.com/johnAGI168/status/2041146946681721113) · Veröffentlicht: 06 04 2026
+Kaynak: [Gonderi](https://x.com/johnAGI168/status/2041146946681721113) · Yayinlandi: 06 04 2026
 
 ```text
 也可以生成同款视频📺
@@ -3819,15 +3829,15 @@ Seedance 2.0 prompt 👇
 [00:00-00:01] 镜头1：粒子化解体（Particle Dissolve） 中景，明亮居家走廊。女性居中站立直视镜头，身穿深蓝色短袖与黑色短裤。 一道耀眼红色魔法光环从脚底升起，由下至上急速包裹全身（Red Magic Ring FX）。光环扫过之处，身体瞬间碎裂为极速旋转的红色光辉粒子（Particle Burst），整个人化作一团高速旋转的红色粒子球体。 [00:01-00:04] 镜头2：九尾狐凝形（Fox Materialization） 红色粒子球体从走廊门口飞速穿梭进入昏暗客厅（Particle Travel），拖出一条红色光尾轨迹。 粒子撞上深色丝绒沙发表面，炸开后迅速向内收缩聚拢，光影汇聚凝实，幻化为一只巨大的暗黑色九尾狐趴卧于沙发之上。 狐狸周身燃烧红紫相间的魔法火焰（Realistic Fire Simulation），火焰贴着毛发翻涌。体表金色发光符文缓慢流转明灭。九条蓬松巨尾自然散开，尾尖带红色微光。镜头缓推至狐狸面部，琥珀色瞳孔在暗光中发亮。 [00:04-00:12] 镜头3：狐灵化人（Slow Dolly In） 九尾狐全身泛起金色光芒，化作漫天金色火光粒子向上消散（Golden Dissolve FX）。金光散尽，沙发上丝滑显现侧卧的女性身影。 双丸子头发型，身穿紫红色抹胸紧身裙，外搭黑色薄纱披肩。赤足，白皙肤色，深红唇妆，眼神冷艳凌厉直视镜头。 冷色侧光（Cold Side Lighting），一侧明一侧暗。镜头从中景极缓推进至面部特写（Ultra Slow Dolly In），最终定格于双眼，瞳孔中隐约映出一丝残留的红色火光。
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Seedance 2.0 T2V-Test für natürliche Sprache
+### Seedance 2.0 T2V doğal konuşma testi
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2041328307267088580.jpg" width="400" />
 
-Ein Text-zu-Video-Sprachtest, der überraschend natürliche Lippensynchronität und Sprachwiedergabe zeigt und die Erwartungen übertrifft.
+Beklentileri aşan şekilde şaşırtıcı derecede doğal dudak senkronu ve ses aktarımı gösteren bir text-to-video konuşma testi.
 
-Quelle: [Beitrag](https://x.com/tanabe_fragm/status/2041328307267088580) · Veröffentlicht: 07 04 2026
+Kaynak: [Gonderi](https://x.com/tanabe_fragm/status/2041328307267088580) · Yayinlandi: 07 04 2026
 
 ```text
 の問題でした😅
@@ -3840,15 +3850,15 @@ Seedance 2.0はとにかくプロンプト依存が強いモデルですね📝
 可愛らしいふっくらとした赤いトマトのキャラクターが、カメラに向かって直接話しかけている。完璧なリップシンクで「みんな、僕たちトマトを冷蔵庫に入れてない？実はそれ、NGなんだ！寒さで甘みが飛んじゃうから、常温で保存してね！食べる直前に少し冷やすのが一番美味しいよ！」と元気な声で喋っている。言葉のテンポに合わせて少し弾むような動きをする。ピクサー風の高品質な3Dアニメーションスタイル。背景は少しぼけたキッチン。
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Anime-Prompt mit Charakterreferenz
+### Karakter referanslı anime promptu
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2041118339393826933.jpg" width="400" />
 
-Ein Prompt im Anime-Stil, der @Image1 als Charakterreferenz nutzt und Frisur, Ohren und Designkonsistenz über alle Frames hinweg bewahrt.
+@Image1'i karakter referansı olarak kullanan ve kareler boyunca saç stilini, kulakları ve tasarım tutarlılığını koruyan anime tarzı prompt.
 
-Quelle: [Beitrag](https://x.com/Reiria123/status/2041118339393826933) · Veröffentlicht: 06 04 2026
+Kaynak: [Gonderi](https://x.com/Reiria123/status/2041118339393826933) · Yayinlandi: 06 04 2026
 
 ```text
 は↓
@@ -3895,15 +3905,15 @@ Smooth, high frame consistency
 Bright autu
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Horroranimation mit Papierpuppen
+### Kagit kukla korku animasyonu
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2041409381162689021.jpg" width="400" />
 
-Eine Horroranimationsszene mit flacher Papierpuppen-Ästhetik, groben Texturen, dunklen gedeckten Farben und verstörendem Stop-Motion-Gefühl.
+Düz kağıt kukla estetiği, pürüzlü dokular, koyu mat renkler ve huzursuz edici stop-motion hissi taşıyan korku animasyonu sahnesi.
 
-Quelle: [Beitrag](https://x.com/TomaAIbijo/status/2041409381162689021) · Veröffentlicht: 07 04 2026
+Kaynak: [Gonderi](https://x.com/TomaAIbijo/status/2041409381162689021) · Yayinlandi: 07 04 2026
 
 ```text
 Scene 1
@@ -3947,29 +3957,29 @@ The figure suddenly fills the frame from behind the camera. Whisper: “Tsugi wa
 Audio: low eerie hum, distant wind, wooden kam
 ```
 
-**[Ausprobieren ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[Dene ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-## Ressourcen
+## Kaynaklar
 
-- Leitfaden zum Mitwirken: [`./CONTRIBUTING.md`](./CONTRIBUTING.md)
-- Referenz zur Repository-Planung: [`../repo-structure.md`](../repo-structure.md)
-- API-Referenz: [`EvoLinkAI/Seedance-2.0-Gateway-Service`](https://github.com/EvoLinkAI/Seedance-2.0-Gateway-Service)
-- OpenClaw-Skill: [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
-- Praktischer Guide: [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
+- Katki rehberi: [`./CONTRIBUTING.md`](./CONTRIBUTING.md)
+- Depo planlama referansi: [`../repo-structure.md`](../repo-structure.md)
+- API referansi: [`EvoLinkAI/Seedance-2.0-Gateway-Service`](https://github.com/EvoLinkAI/Seedance-2.0-Gateway-Service)
+- OpenClaw skill'i: [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
+- Pratik rehber: [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
 
-## Mitwirken
+## Katki
 
-Bitte lies [`CONTRIBUTING.md`](./CONTRIBUTING.md), bevor du Prompts hinzufügst oder bereinigst. Die wichtigste Regel ist einfach: Behalte umsetzbare Prompts, entferne umgebendes soziales Rauschen und halte die README-Metadaten mit dem bereinigten Datensatz synchron.
+Prompt eklemeden veya temizlemeden once lutfen [`CONTRIBUTING.md`](./CONTRIBUTING.md) dosyasini okuyun. Temel kural basittir: eyleme donuk prompt'lari koruyun, etrafindaki sosyal gurultuyu kaldirin ve README metadata'sini temizlenmis veri setiyle senkron tutun.
 
-## Lizenz
+## Lisans
 
-Eine endgültige Open-Source-Lizenzdatei wurde noch nicht hinzugefügt. Bis das entschieden ist, behandle dieses Repository als kuratierte Referenzsammlung, bei der die ursprüngliche Quellenangabe pro Eintrag erhalten bleibt.
+Nihai bir open-source lisans dosyasi henuz eklenmedi. Bu karar verilene kadar, bu depoyu her giriste orijinal kaynak atfinin korundugu derlenmis bir referans koleksiyonu olarak ele alin.
 
-## Copyright-Hinweis
+## Telif Hakki Bildirimi
 
-Dieses Repository kuratiert Seedance-2.0-Prompt-Beispiele aus öffentlichen Webquellen.
+Bu depo, herkese acik web kaynaklarindan Seedance 2.0 prompt orneklerini derler.
 
-- Die Prompt-Quellen bleiben mitsamt Attributionslinks erhalten, wo verfügbar.
-- Dieses Repository ist für Lernen, Prompt-Forschung und Workflow-Referenz gedacht.
-- Das Copyright für den ursprünglichen Prompt-Text verbleibt bei den ursprünglichen Autoren.
-- Wenn ein Eintrag aktualisiert oder entfernt werden sollte, öffne ein Issue oder reiche einen Pull Request mit dem relevanten Quelllink ein.
+- Prompt kaynaklari, mevcut oldugu yerde atif linkleriyle korunur.
+- Bu depo; ogrenme, prompt arastirmasi ve workflow referansi icin tasarlanmistir.
+- Orijinal prompt metninin telif hakki orijinal yazarlara aittir.
+- Herhangi bir giris guncellenmeli veya kaldirilmaliysa, ilgili kaynak linkiyle bir issue acin ya da pull request gonderin.

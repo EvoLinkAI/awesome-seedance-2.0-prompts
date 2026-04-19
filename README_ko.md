@@ -1,78 +1,88 @@
-[English](./README.md) | [Español](./README.es.md) | [Português](./README.pt.md) | [日本語](./README.ja.md) | [한국어](./README.ko.md) | [Deutsch](./README.de.md) | [Français](./README.fr.md) | [Türkçe](./README.tr.md) | [繁體中文](./README.zh-TW.md) | [简体中文](./README.zh-CN.md) | [Русский](./README.ru.md)
+<div align="center">
 
-# Awesome Seedance 2.0 Prompts
+<img src="./public/banner.jpg" alt="Awesome Seedance 2.0 Prompts banner">
 
-[![Awesome](https://img.shields.io/badge/Awesome-Seedance%202.0%20Промпты-black?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-промпты) [![GitHub stars](https://img.shields.io/github/stars/EvoLinkAI/awesome-seedance-2.0-промпты?style=flat-square)](https://github.com/EvoLinkAI/awesome-seedance-2.0-промпты/stargazers) [![Промпт count](https://img.shields.io/badge/промпты-164-blue?style=flat-square)](./README.md)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
+[![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
+[![Website](https://img.shields.io/badge/Website-Live-orange)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
+[![Docs](https://img.shields.io/badge/Docs-Read-blue)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
+[![Model](https://img.shields.io/badge/Model-Explore-purple)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
 
-<p align="center">
-  <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2.0-prompts">
-    <img src="./public/banner.jpg" alt="Seedance 2.0 Human Face Now Available Try Now" width="100%" />
-  </a>
-</p>
+[![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
+[![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
+[![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md)
+[![🇯🇵 日本語](https://img.shields.io/badge/🇯🇵_日本語-表示-52b788)](README_ja.md)
+[![🇰🇷 한국어](https://img.shields.io/badge/🇰🇷_한국어-보기-4ea8de)](README_ko.md)
+[![🇩🇪 Deutsch](https://img.shields.io/badge/🇩🇪_Deutsch-Ansehen-f4a261)](README_de.md)
+[![🇫🇷 Français](https://img.shields.io/badge/🇫🇷_Français-Voir-e76f51)](README_fr.md)
+[![🇹🇷 Türkçe](https://img.shields.io/badge/🇹🇷_Türkçe-Görüntüle-d62828)](README_tr.md)
+[![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md)
+[![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md)
+[![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
 
-<p align="center">
-  <strong>Seedance 2.0<br>Human Face Now Available<br>Try Now</strong>
-</p>
+</div>
 
-Курируемая коллекция высококачественных промптов Seedance 2.0 для кинематографической генерации видео — очищенная от публичных постов сообщества, переведенная на English для удобства чтения README и организованная для быстрой GitHub-native навигации.
+## 🍌 Introduction
 
-Язык: **Русский**
+영화 같은 비디오 생성을 위한 고품질 Seedance 2.0 프롬프트를 엄선해 모은 컬렉션입니다. 공개 커뮤니티 게시물에서 정제하고, README 가독성을 위해 영어로 번역했으며, GitHub에서 빠르게 탐색할 수 있도록 구성했습니다.
 
-- Документация API: [`EvoLinkAI/Seedance-2.0-Gateway-Service`](https://github.com/EvoLinkAI/Seedance-2.0-Gateway-Service)
-- Skill для OpenClaw: [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
-- Полный гайд: [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
+언어: **한국어**
 
-## Описание
+- API 문서: [`EvoLinkAI/Seedance-2.0-Gateway-Service`](https://github.com/EvoLinkAI/Seedance-2.0-Gateway-Service)
+- OpenClaw 스킬: [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
+- 전체 가이드: [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
 
-Этот репозиторий сосредоточен на Seedance 2.0 **usable prompts**, а не на комментариях о промптах. 
+## 설명
 
-## Содержание
+이 저장소는 프롬프트에 대한 해설이 아니라 Seedance 2.0의 **실제로 사용할 수 있는 프롬프트**에 초점을 맞춥니다.
 
-- [Статистика](#статистика)
-- [Как использовать этот репозиторий](#как-использовать-этот-репозиторий)
-- [Избранные промпты](#избранные-промпты)
-- [Категории промптов](#категории-промптов)
-  - [Экшн / Фэнтези](#экшн-фэнтези)
-  - [Кинематографический реализм](#кинематографический-реализм)
-  - [POV / FPV](#pov-fpv)
-  - [Коммерция / Продукт](#коммерция-продукт)
-  - [На основе референсов](#на-основе-референсов)
-  - [Сюрреализм / VFX](#сюрреализм-vfx)
-  - [Шаблоны и структурированные форматы](#шаблоны-и-структурированные-форматы)
-  - [Общий кинематографичный](#общий-кинематографичный)
-- [Ресурсы](#ресурсы)
-- [Участие](#участие)
-- [Лицензия](#лицензия)
-- [Уведомление об авторских правах](#уведомление-об-авторских-правах)
+## 목차
 
-## Статистика
+- [통계](#통계)
+- [이 저장소 사용 방법](#이-저장소-사용-방법)
+- [추천 프롬프트](#추천-프롬프트)
+- [프롬프트 카테고리](#프롬프트-카테고리)
+  - [액션 / 판타지](#액션--판타지)
+  - [영화적 리얼리즘](#영화적-리얼리즘)
+  - [POV / FPV](#pov--fpv)
+  - [상업 / 제품](#상업--제품)
+  - [레퍼런스 기반](#레퍼런스-기반)
+  - [초현실 / VFX](#초현실--vfx)
+  - [템플릿 및 구조화 형식](#템플릿-및-구조화-형식)
+  - [일반 시네마틱](#일반-시네마틱)
+- [리소스](#리소스)
+- [기여](#기여)
+- [라이선스](#라이선스)
+- [저작권 고지](#저작권-고지)
 
-| Метрика | Значение |
+## 통계
+
+| 지표 | 값 |
 | --- | --- |
-| Всего промптов | 164 |
-| Языки источников | 4 |
-| Дата последнего источника | `07 апр 2026` |
+| 전체 프롬프트 | 164 |
+| 원본 언어 수 | 4 |
+| 최신 소스 날짜 | `2026년 04월 07일` |
 
-## Как использовать этот репозиторий
+## 이 저장소 사용 방법
 
-1. Start with the category list below and open a section that matches your use case.
-2. Compare промпты by камера logic, timing, environment design, and consistency instructions — not only by subject matter.
-3. Reuse the structure first. In Seedance, shot progression and motion control often matter more than swapping nouns.
-4. Keep промпт-internal tokens such as `@image1` or `<<<Image1>>>` when they are part of the intended syntax.
-5. Use titles, categories, and source links as the main navigation anchors inside the cleaned dataset.
+1. 아래 카테고리 목록에서 시작해 자신의 사용 사례에 맞는 섹션을 여세요.
+2. 프롬프트는 소재만이 아니라 카메라 로직, 타이밍, 환경 설계, 일관성 지침까지 기준으로 비교하세요.
+3. 우선 구조를 재사용하세요. Seedance에서는 명사를 바꾸는 것보다 샷 전개와 모션 제어가 더 중요할 때가 많습니다.
+4. `@image1` 또는 `<<<Image1>>>` 같은 프롬프트 내부 토큰이 의도된 문법의 일부라면 그대로 유지하세요.
+5. 정리된 데이터셋 안에서는 제목, 카테고리, 소스 링크를 주요 탐색 앵커로 활용하세요.
 
-## Избранные промпты
+## 추천 프롬프트
 
-Эти промпты выделены за разнообразие: long-form трансформация, эмоциональный реализм, коммерческая storyboard-работа, структурированный дизайн промптов и зрелищный экшн.
+이 프롬프트들은 롱폼 변신, 감정적 리얼리즘, 상업용 스토리보드 작업, 구조화된 프롬프트 설계, 대형 스펙터클 액션 등 다양한 측면을 대표하도록 골랐습니다.
 
 <!-- latest-additions:start -->
-### Последние Добавления
+### 최신 추가
 
 #### Hammer That Never Misses
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Мифический one-take prompt, построенный вокруг центробежной силы, POV следования за молотом и возвращающейся дуги удара.
+원심력, 해머 추적 POV, 되돌아오는 타격 궤적을 중심으로 설계된 신화적 액션 원테이크 프롬프트입니다.
 
-Источник: [Post](https://x.com/aimikoda/status/2040752436780961971) · Дата публикации: 05 Apr 2026
+출처: [Post](https://x.com/aimikoda/status/2040752436780961971) · 게시일: 05 Apr 2026
 
 [![](./public/seedance_2_prompt_images/126.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -91,9 +101,9 @@ STYLE: Fantasy realism
 
 #### Orbiting Carnival Objects
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Чистый motion-design prompt с широкой круговой орбитой, парящими объектами и контролируемой хореографией.
+원형 궤도, 떠다니는 소품, 정교한 오브젝트 안무에 초점을 둔 깔끔한 모션 디자인 프롬프트입니다.
 
-Источник: [Post](https://x.com/ShadeLurk/status/2040748166212157568) · Дата публикации: 05 Apr 2026
+출처: [Post](https://x.com/ShadeLurk/status/2040748166212157568) · 게시일: 05 Apr 2026
 
 [![](./public/seedance_2_prompt_images/123.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -111,9 +121,9 @@ Fireball detonates outward with radial god rays. It expands to half the screen, 
 
 #### Space Colony Dawn Heroine
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
-Китайский sci-fi storyboard prompt в кольцевой космической колонии на рассвете, сочетающий эпический масштаб и выход героини.
+거대한 링형 우주 식민지의 새벽을 배경으로, 장대한 항공 스케일과 여성 주인공 등장 연출을 결합한 중국어 SF 프롬프트입니다.
 
-Источник: [Post](https://x.com/MiraMusic_AI/status/2040744022294335604) · Дата публикации: 05 Apr 2026
+출처: [Post](https://x.com/MiraMusic_AI/status/2040744022294335604) · 게시일: 05 Apr 2026
 
 [![](./public/seedance_2_prompt_images/124.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -143,9 +153,9 @@ prompt：
 
 #### Sunny Pool Party Montage
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Яркий летний pool-party montage prompt с акцентом на социальную энергию, движение под солнцем и lifestyle-commercial кадрирование.
+사교적인 에너지, 햇빛 아래 움직임, 라이프스타일 광고 톤을 강조한 여름 풀파티 몽타주 프롬프트입니다.
 
-Источник: [Post](https://x.com/ivanka_humeniuk/status/2040415406297374734) · Дата публикации: 05 Apr 2026
+출처: [Post](https://x.com/ivanka_humeniuk/status/2040415406297374734) · 게시일: 05 Apr 2026
 
 [![](./public/seedance_2_prompt_images/125.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -157,11 +167,11 @@ Main cue words. Overall intent: A vibrant, sunny college pool party montage. The
 
 <!-- latest-additions:end -->
 
-### Пробуждение на крыше и трансформация в F-14
+### 옥상 각성에서 F-14 변신까지
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
-Длинная последовательность трансформации, которая развивается от спринта по крыше к захвату в свободном падении, а затем к метаморфозе автомобиля в реактивный самолет.
+옥상 질주에서 자유낙하 포착, 자동차에서 제트기로의 변태로 점층적으로 확장되는 롱폼 변신 시퀀스입니다.
 
-Источник: [Пост](https://x.com/john87445528/status/2039496153641660508) · Опубликовано: 02 Apr 2026
+출처: [게시물](https://x.com/john87445528/status/2039496153641660508) · 게시일: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/088.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -173,13 +183,13 @@ Chapter 2 (0-15 seconds): Freefall · Purple AITO M7 Enters the Frame. Style: ru
 Chapter 3 (0-15 seconds): AITO M7 Transforms -> Becomes an F-14 -> Protagonist Stands on the Aircraft Back and Takes Off. Style: rugged realism, 35mm handheld film aesthetic, natural grain, subtle shake. Camera: multi-angle follow coverage including ground tracking, low angle close to the ground, aircraft side view, and protagonist first-person view, all following the aircraft tightly throughout the transformation. Transformation details must remain clearly visible. Atmosphere: light smoke and heat haze drift across the Chongqing road. Cyber blue-purple light refracts between buildings. Noon sunlight produces dazzling reflections and strong shadows across the metal surfaces. Sound effects: engine roar surges -> metal skin bursts and folds -> deep hydraulic tremor as the wings unfold -> metallic gripping sound as the protagonist climbs the exterior -> cockpit seal pops and is immediately drowned by wind noise -> explosive ignition of twin engines -> piercing shriek as the F-14 takes off and breaks the air -> powerful high-altitude wind overtakes the entire soundscape. [Visual Reference / Description] The purple AITO M7 completes a full transformation while driving on the Chongqing road, changing from a car into an F-14 fighter jet, as shown in Image 2. During the transformation, the protagonist clings to and climbs along the aircraft exterior in a dangerous and exposed position. She finally stands centered on the back of the F-14, legs slightly apart to stabilize her balance. Her white suit and ponytail whip violently in the extreme airflow. The F-14 takes off directly from the Chongqing road, and the protagonist remains standing firmly on its back. [Timeline per Second] 0-4s: [Road Acceleration · Transformation Start] The AITO M7 accelerates rapidly along the Chongqing road. Body panels burst open one after another and unfold. The hood rolls upward and becomes mechanical structure. The doors fold outward. The metal skin cracks along structural lines, revealing the cold mechanical interior. The protagonist climbs dangerously toward the top of the aircraft while gripping the transforming metal skeleton. She jumps and shifts position in sync with the aircraft's changing shape. The camera tracks every detail from close to the side of the aircraft. 4-6s: [Wings Unfold · Engines Fully Reassemble] The F-14's iconic swept wings snap open from the folded state and lock into place. The camera captures a low-angle near-ground full view of the wing deployment. Heat haze and dust are blasted up by the airflow from the wings. The twin engine nacelles violently reassemble into jet structures, emitting blue-purple thrust flames. The exhaust scorches the road surface. By now, the protagonist has climbed to the center of the aircraft's back, feet planted firmly, standing upright as the transformation completes. 6-8s: [Protagonist Stands on Aircraft Back · Takes Off] The instant the transformation completes, the protagonist stands fully upright on the back of the F-14. The hem of her white suit flies up in the strong airflow, and her ponytail extends horizontally. The silver mechanical parts reflect the noon sun intensely. The F-14's twin engines ignite at full power. The aircraft surges forward, the front wheel lifts, and the rear wheels leave the asphalt at the last possible moment. The nose pitches upward, carrying the protagonist into the Chongqing sky while she remains standing on its back. 8-15s: [Takeoff and Low City Skim · Protagonist Holds Position] The F-14 climbs vertically, then abruptly lowers its nose and skims over Chongqing at ultra-low altitude.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Романтика шепота в японском классе
+### 일본 교실 속 속삭임 로맨스
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
-15-second кинематографичный Japanese drama pure love ambiguous короткометражный фильм, ultra-реалистичный quality, warm golden sunlight in an empty classroom in the afternoon,...
+15초 분량의 시네마틱 일본 드라마풍 순애·썸 분위기 단편으로, 초현실적 품질과 오후 텅 빈 교실의 따뜻한 황금빛 햇살이 특징입니다,...
 
-Источник: [Пост](https://x.com/JiahaoYang_art/status/2033119940216344616) · Опубликовано: 15 Mar 2026
+출처: [게시물](https://x.com/JiahaoYang_art/status/2033119940216344616) · 게시일: 15 Mar 2026
 
 [![](./public/seedance_2_prompt_images/022.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -193,13 +203,13 @@ Overall Sound Effects: Distant summer cicada chirping faintly, the soft scratchi
 Character identity is maintained throughout, real subtle head tilts, eye movements, and breathing synchronization, no text, watermarks, or subtitles, pure Japanese style youth secret crush heart-fluttering suspense.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Коммерческий storyboard для LaFerrari
+### LaFerrari 광고 스토리보드
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
-Покадровый storyboard роскошной рекламы суперкара, сосредоточенный на контролируемом движении камеры и premium-поверхностях продукта.
+정교한 카메라 움직임과 프리미엄 제품 표면 표현에 초점을 맞춘 럭셔리 슈퍼카 광고용 샷별 스토리보드입니다.
 
-Источник: [Пост](https://x.com/Adam38363368936/status/2039932977287979053) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/Adam38363368936/status/2039932977287979053) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/030.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -233,13 +243,13 @@ No people should appear in the frame.
 Highest image quality: 8K.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### "Локация"
+### "위치"
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
 "location": "Tokyo Cityscape (Night)", "duration": "10s", "prompt": "A cinematic POV shot riding an invisible rollercoaster through Tokyo at night. A...
 
-Источник: [Пост](https://x.com/TechTalkNAVI/status/2039941029265355123) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/TechTalkNAVI/status/2039941029265355123) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/061.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -256,13 +266,13 @@ Highest image quality: 8K.
 }
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Воительница-героиня пробуждения метеора
+### 유성 각성 전쟁 히로인
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
-100% real-life shooting texture, Hollywood IMAX blockbuster quality, natural light and тень, cold documentary style, natural light on a cloudy day,...
+100% 실사 촬영 질감, Hollywood IMAX 블록버스터 품질, 자연광과 그림자, 차가운 다큐멘터리 스타일, 흐린 날의 자연광이 특징입니다,...
 
-Источник: [Пост](https://x.com/ChrisTheNerv/status/2040043939109953944) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/ChrisTheNerv/status/2040043939109953944) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/075.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -291,13 +301,13 @@ Real light and shadow, visible skin texture on the face before transformation, v
 Layered progression from the scream activation to the explosive mechanical eruption, escalating to the takeoff point explosion and the sonic boom of the supersonic charge, finally cutting abruptly to silence. The entire sequence exudes absolute power. Generate sound effects only, no music.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Тень меча в облачной пещере
+### 구름 동굴 검영
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
-Эффектный one-shot в стиле wuxia на горе Тяньмэнь, созданный для скорости, удара и масштабной мифической martial-arts энергии.
+속도감, 충격감, 대규모 신화적 무협 에너지를 위해 설계된 톈먼산 배경의 wuxia 원테이크 스펙터클입니다.
 
-Источник: [Пост](https://x.com/Adam38363368936/status/2039865857179013318) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/Adam38363368936/status/2039865857179013318) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/081.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -349,13 +359,13 @@ Action: He performs a sword flourish and sheathes the sword, placing it on his b
 Freeze Frame: The camera pushes in for an extreme close-up. A drop of blood drips from the edge of the bamboo hat, tracing his jawline. His eyes are sharp as lightning, with the vast landscape in the background.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Бесшовная морфинг-последовательность из семи изображений
+### 7장 이미지 심리스 모핑 시퀀스
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
-Переиспользуемый morphing-шаблон для превращения семи статичных изображений в один контролируемый непрерывный кадр трансформации.
+7장의 정지 이미지를 하나의 통제된 연속 변신 샷으로 바꾸는 재사용 가능한 모핑 템플릿입니다.
 
-Источник: [Пост](https://x.com/YaReYaRu30Life/status/2039474680235741681) · Опубликовано: 01 Apr 2026
+출처: [게시물](https://x.com/YaReYaRu30Life/status/2039474680235741681) · 게시일: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/114.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -423,13 +433,13 @@ consistent subject identity
 seamless transformation flow
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Fashion-реклама складного смартфона
+### 폴더블 스마트폰 패션 광고
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold?style=flat-square)
-Коммерческий fashion-tech промпт для gradient foldable smartphone с macro-деталями, резкими склейками и premium motion language.
+그라데이션 폴더블 스마트폰을 위해 macro 디테일, 날카로운 컷, 프리미엄한 모션 언어를 담은 상업용 fashion-tech 프롬프트입니다.
 
-Источник: [Пост](https://x.com/Adam38363368936/status/2039157138002780202) · Опубликовано: 01 Apr 2026
+출처: [게시물](https://x.com/Adam38363368936/status/2039157138002780202) · 게시일: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/121.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -449,30 +459,30 @@ Quality: 4K high definition, commercial advertisement quality, smooth dynamics, 
 Requirements: Fast pace, tight transitions, high-end fashion, youthful energy, no people appearing.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-## Категории промптов
+## 프롬프트 카테고리
 
-| Категория | Описание | Количество | Примеры ID |
+| 카테고리 | 설명 | 수량 | 예시 ID |
 | --- | --- | --- | --- |
-| Экшн / Фэнтези | Combat, chase, anime, wuxia, creature, and large-scale кинематографичный spectacle промпты. | 21 | `#23`, `#33`, `#37`, `#41`, `#44`, `#45` |
-| Кинематографический реализм | Grounded live-action промпты focused on mood, body language, practical light, and believable камера behavior. | 2 | `#48`, `#76` |
-| POV / FPV | First-person, drone-like, body-mounted, and immersion-first промпты built around камера momentum. | 16 | `#4`, `#5`, `#6`, `#10`, `#11`, `#40` |
-| Коммерция / Продукт | Advertising, fashion, lifestyle, product, and premium brand-style промпты. | 24 | `#8`, `#9`, `#13`, `#15`, `#19`, `#22` |
-| На основе референсов | Промпты that rely on image references, персонаж consistency, or frame-to-frame control. | 12 | `#12`, `#16`, `#21`, `#30`, `#51`, `#62` |
-| Сюрреализм / VFX | Abstract, impossible, stylized, or effect-heavy промпты driven by трансформация and spectacle. | 8 | `#14`, `#54`, `#85`, `#95`, `#99`, `#100` |
-| Шаблоны и структурированные форматы | Reusable промпт skeletons, JSON-style specs, and highly structured промпт formats. | 17 | `#17`, `#20`, `#26`, `#29`, `#56`, `#64` |
-| Общий кинематографичный | Useful промпты that do not fit the tighter buckets above but remain strong general-purpose references. | 25 | `#1`, `#2`, `#3`, `#7`, `#18`, `#25` |
+| 액션 / 판타지 | 전투, 추격, anime, wuxia, 크리처, 대형 시네마틱 스펙터클 프롬프트입니다. | 21 | `#23`, `#33`, `#37`, `#41`, `#44`, `#45` |
+| 영화적 리얼리즘 | 분위기, 몸짓, practical light, 설득력 있는 카메라 움직임에 초점을 둔 grounded live-action 프롬프트입니다. | 2 | `#48`, `#76` |
+| POV / FPV | 카메라의 운동감에 초점을 둔 1인칭, drone-like, body-mounted, 몰입 우선 프롬프트입니다. | 16 | `#4`, `#5`, `#6`, `#10`, `#11`, `#40` |
+| 상업 / 제품 | 광고, 패션, 라이프스타일, 제품, 프리미엄 브랜드 스타일 프롬프트입니다. | 24 | `#8`, `#9`, `#13`, `#15`, `#19`, `#22` |
+| 레퍼런스 기반 | 이미지 레퍼런스, 캐릭터 일관성, 프레임 간 제어에 의존하는 프롬프트입니다. | 12 | `#12`, `#16`, `#21`, `#30`, `#51`, `#62` |
+| 초현실 / VFX | 변형과 스펙터클을 중심으로 한 추상적, 불가능한, stylized, 효과 중심 프롬프트입니다. | 8 | `#14`, `#54`, `#85`, `#95`, `#99`, `#100` |
+| 템플릿 및 구조화 형식 | 재사용 가능한 프롬프트 골격, JSON 스타일 스펙, 고도로 구조화된 프롬프트 형식입니다. | 17 | `#17`, `#20`, `#26`, `#29`, `#56`, `#64` |
+| 일반 시네마틱 | 위의 더 좁은 범주에는 딱 맞지 않지만 범용 레퍼런스로 유용한 프롬프트입니다. | 25 | `#1`, `#2`, `#3`, `#7`, `#18`, `#25` |
 
-## Экшн / Фэнтези
+## 액션 / 판타지
 
-Промпты с боями, погонями, anime, wuxia, существами и масштабным кинематографичным зрелищем.
+전투, 추격, anime, wuxia, 크리처, 대형 시네마틱 스펙터클 프롬프트입니다.
 
-### Промпт 23
+### 프롬프트 23
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-16:9 horizontal screen, street rap MV style, neon purple and blue cool tones, explosive cool and fierce atmosphere. 0-3 seconds: Medium shot push-in, город...
+16:9 가로 화면, 스트리트 랩 MV 스타일, 네온 보라와 파란색의 차가운 톤, 폭발적으로 쿨하고 사나운 분위기. 0-3초: medium shot push-in, 도시...
 
-Источник: [Пост](https://x.com/songguoxiansen/status/2033175478765289598) · Опубликовано: 15 Mar 2026
+출처: [게시물](https://x.com/songguoxiansen/status/2033175478765289598) · 게시일: 15 Mar 2026
 
 [![](./public/seedance_2_prompt_images/021.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -480,13 +490,13 @@ Requirements: Fast pace, tight transitions, high-end fashion, youthful energy, n
 16:9 horizontal screen, street rap MV style, neon purple and blue cool tones, explosive cool and fierce atmosphere. 0-3 seconds: Medium shot push-in, city street night scene with flashing neon lights, an 80-year-old silver-haired woman stands in front of a graffiti wall, short silver-white hair styled in a neat slick-back, distinct square face contour, sword-like eyebrows slanting towards the temples, eyes sharp like electricity, wrinkles at the corners of her eyes like badges of time, a confident smile on the corner of her mouth, wearing a black leather jacket over a white printed T-shirt (large black letters "YOLO" on the chest) + black cargo pants + white high-top sneakers, a thick gold chain necklace around her neck, silver bracelet on her wrist, holding up a microphone with both hands, strong drum beats of the BGM start, the old woman's eyes sharpen, and her lips open to start Rap. 3-7 seconds: Medium shot + close-up switch, the old woman starts rapping, with an extremely strong sense of rhythm, her silver hair flying with her head-nodding movements, one hand holding the microphone, the other hand making gestures to match the rhythm—index finger pointing at the camera, palm cutting the rhythm up and down, making hip-hop gestures, movements are smooth and flowing, eyes sharp and looking directly at the camera, wrinkles vividly jumping with her expression, lips opening and closing rapidly to spit out lyrics: [Rap Lyrics] "Eighty-year-old legs, can jump better than you! Silver hair flowing, this is my pride! Don't call me old, my Flow is better than yours, when you were playing rap, I was listening to disco!" (Fast speed, strong rhythm, fierce attitude) Quick cuts: facial close-ups, hand movements, full-body swaying, side silhouettes, synchronized with the BGM beat. 7-11 seconds: Dance segment, the camera pulls back to show the full body, the old woman starts dancing—first the classic hip-hop bounce, then a neat street dance freeze, followed by a body wave transmitting from the shoulders to the toes, and then a quick footwork workout, movements are clean and sharp, silver hair flies under the neon lights, the leather jacket flutters in the air, she continues to Rap while dancing: [Rap Lyrics] "Legs and feet are nimble, speed is not slow, my lyrics are carved in time! You play with phones, I play with beats, eighty years of life, written into this verse!" (Faster rhythm, stronger tone) Low-angle upward shot + 360-degree surrounding shot, capturing the old woman's cool and fierce dance moves. 11-15 seconds: Climax ending, the old woman makes a cool turn, her silver hair arcs in the air, she faces the camera and makes a "shush" gesture with her finger, then her lips move closer to the microphone, singing the last line in a low, magnetic voice: [Reality Lyrics] "Time never defeats a beauty, I just changed the way I experience youth..." (Slow rhythm, deep emotion, lingering finish) The camera slowly pushes in for a close-up of the old woman's eyes, the wrinkles at the corners of her eyes are all stories, her gaze is still sharp yet with a hint of kindness, the BGM abruptly stops at the climax, the frame freezes on the old woman's cool yet slightly gentle smile, vignetting + neon purple light halo.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Пустынная martial-arts дуэль черного кота
+### 검은 고양이 사막 무술 결투
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
-15-second Original Desert Martial Arts Короткометражный фильм: A black cat warrior in light armor stands alone in a desert where yellow sand is flying all over the sky,...
+15초 오리지널 사막 무술 단편: 연노란 모래가 하늘을 뒤덮는 사막 한가운데, 가벼운 갑옷을 입은 검은 고양이 전사가 홀로 서 있습니다,...
 
-Источник: [Пост](https://x.com/nopinduoduo/status/2039915824216261101) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/nopinduoduo/status/2039915824216261101) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/031.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -494,13 +504,13 @@ Requirements: Fast pace, tight transitions, high-end fashion, youthful energy, n
 15-second Original Desert Martial Arts Short Film: A black cat warrior in light armor stands alone in a desert where yellow sand is flying all over the sky, facing the pursuers. The shots combine slow motion and fast editing; under backlight, the yellow sand rolls like ink mist. The character's movements are elegant yet ferocious, with tattered but flowing robes. Holding a short weapon, he shuttles and counterattacks at high speed. The overall tone is cold, lonely and oppressive, with high-end colors and obvious shallow depth of field, just like a high-quality oriental martial arts movie.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### 【Core Focus】
+### 【핵심 포인트】
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Live-Action Anime Adaptation · Breathing Technique Decisive Битва (15 seconds · Super Burning Special Effects Version) 【Core Focus】: Water Breathing (Blue...
+live-action anime 각색 · 호흡법 결전 (15초 · 초열혈 특수효과 버전) 【핵심 포인트】: Water Breathing (Blue...
 
-Источник: [Пост](https://x.com/johnAGI168/status/2021610292979876208) · Опубликовано: 11 Feb 2026
+출처: [게시물](https://x.com/johnAGI168/status/2021610292979876208) · 게시일: 11 Feb 2026
 
 [![](./public/seedance_2_prompt_images/035.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -528,13 +538,13 @@ Action: The two swords violently collide in the center of the frame.
 Special Effects Spectacle: The blue water dragon and the golden lightning instantly explode, forming a massive water-thunder energy storm that spreads outwards. The surrounding large trees are snapped in half by the energy wave, and mud and light obscure the camera. The scene ends in an extremely dazzling blue, yellow, and white light.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Тест anime с высокоскоростным монтажом — 20 жестких склеек за 10 секунд (0
+### anime 초고속 컷 테스트 — 10초 안에 20개의 하드 컷 (0
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Anime высокоскоростной cut test — 20 hard cuts in 10 seconds (0.5 seconds per cut, no fade-in/fade-out, no transitions). 0.0 seconds to 0.5 seconds: Cut 1 —...
+anime 초고속 컷 테스트입니다. 10초 안에 20개의 하드 컷으로 구성되며(컷당 0.5초, fade-in/fade-out 없음, 전환 없음), 0.0초부터 0.5초까지는 컷 1 —...
 
-Источник: [Пост](https://x.com/tebasaki3D/status/2039903531415552048) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/tebasaki3D/status/2039903531415552048) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/039.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -543,13 +553,13 @@ Anime high-speed cut test — 20 hard cuts in 10 seconds (0.5 seconds per cut, n
 [0.0 seconds to 0.5 seconds]: Cut 1 — Close-up. Anime Girl A: Long crimson hair, vivid green eyes. Winks at the camera.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Смотрите, как механик, покрытый маслом, чинит
+### 기름때 묻은 정비공의 수리 장면
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Watch a grease-stained mechanic fix a violently rattling junker like it’s a martial arts fight. Wrenches flying, spark plugs thrown like knives, hood...
+기름때 묻은 정비공이 심하게 덜컹거리는 고물차를 마치 무술 대결처럼 고치는 장면입니다. 렌치가 날아가고, 스파크 플러그가 칼처럼 던져지며, 보닛은...
 
-Источник: [Пост](https://x.com/sebatheepan/status/2040079840754205010) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/sebatheepan/status/2040079840754205010) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/041.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -562,13 +572,13 @@ Wrenches flying, spark plugs thrown like knives, hood slammed with a thunderous 
 From rusty disaster to purring monster in seconds.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Промпт 45
+### 프롬프트 45
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-A короткометражный фильм about a samurai who loses his life on a burning битваfield and wakes up as a baby in another world. The first half is a fierce битва on a...
+불타는 전장에서 목숨을 잃은 사무라이가 다른 세계의 아기로 깨어나는 단편입니다. 전반부는 치열한 전장 전투이고...
 
-Источник: [Пост](https://x.com/sailorv321/status/2040127822908596305) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/sailorv321/status/2040127822908596305) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/042.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -577,13 +587,13 @@ A short film about a samurai who loses his life on a burning battlefield and wak
 The first half is a fierce battle on a battlefield covered in mud and flames. The young samurai challenges his final duel, seems to win for a moment, but is ultimately cut down and falls. His vision tilts low, and his consciousness fades as he is enveloped in fire and smoke.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Промпт 50
+### 프롬프트 50
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Stylized 3D animation with exaggerated proportions, sharp kung-fu-soccer choreography, and controlled rhythmic energy. CHARACTERS - Football master: an...
+과장된 비율, 날카로운 kung-fu 축구 안무, 통제된 리듬 에너지가 특징인 stylized 3D 애니메이션입니다. CHARACTERS - Football master: ...
 
-Источник: [Пост](https://x.com/johnAGI168/status/2039924160567058725) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/johnAGI168/status/2039924160567058725) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/047.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -591,13 +601,13 @@ Stylized 3D animation with exaggerated proportions, sharp kung-fu-soccer choreog
 Stylized 3D animation with exaggerated proportions, sharp kung-fu-soccer choreography, and controlled rhythmic energy. CHARACTERS - Football master: an impeccably focused martial-arts soccer prodigy in a fitted training top, wrapped wrists, tapered athletic pants, and classic football boots. Piercing gaze. Every movement follows a precise rhythm: pause -> burst -> lock. Theatrical, hypnotic, absolute master of the field. - Opponent goalkeeper: tense, exhausted, intimidated, standing before the goal line under immense pressure. ENVIRONMENT Futuristic night football stadium with glowing floodlights, wet grass, drifting mist, roaring crowd silhouettes, dramatic contrast. MOOD Aggressive precision. Football master = total control. Goalkeeper = anxious, overwhelmed. TIMELINE 0:00-0:02 (Close-up) The ball rests at the player's feet. He taps it lightly once, then rolls his ankle and snaps into a low martial stance, one hand extended, one foot pinning the ball, energy coiling before release. 0:02-0:05 (Action sequence) He flicks the ball high into the air. Launching upward, he strikes it in mid-air with a flurry of kung-fu kicks and spinning leg strikes, each impact perfectly controlled. The ball accelerates, glowing with spiraling energy trails like a dragon sphere. 0:05-0:08 (Tracking shot) He lands and sprints forward with impossible precision footwork, dribbling through multiple defenders in braided arcs, body feints, sweeping turns, and explosive step-overs. The camera tracks low and fast as the glowing ball never leaves his control. 0:08-0:11 He plants his foot, twists his waist, and unleashes a violent, rhythmic power shot. The kick lands with a percussive burst, grass and mist exploding outward, the ball becoming a blazing comet with frosted vapor and shockwave ripples. 0:11-0:13 The goalkeeper dives desperately as the ball curves through the air in a smoking arc, slicing through the frame with dragon-fire energy, then smashes into the top corner of the net. 0:13-0:15 FINAL REVEAL The net whips violently. Smoke and light dissipate. The glowing ball settles in the goal. The goalkeeper lies stunned. The football master stands in silence, turns away calmly, and flicks his wrist as the crowd erupts. Epic, ultra-detailed, cinematic, premium animation, powerful lighting, heroic finish.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Диалог (наложение)
+### 대사 (오버랩)
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-A fast-paced comedic parody Seedance 2 short set in an ancient imperial study. An orange cat dressed as Qin Shi Huang in Han-style golden dragon robes sits...
+고대 황실 서재를 배경으로 한 빠른 템포의 코미디 패러디 Seedance 2 단편입니다. 한나라풍 황금 용포를 입고 진시황으로 분장한 주황색 고양이가 앉아...
 
-Источник: [Пост](https://x.com/drjoetw/status/2039905967597613558) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/drjoetw/status/2039905967597613558) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/050.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -611,13 +621,13 @@ Suddenly, the cat slams the desk and shouts, “ENOUGH!!” He stands up and kic
 Camera: fast cuts, whip pans, strong motion blur, 0.6–1.2s pacing, ending in slow motion. Tone: absurd, exaggerated, high-energy comedy.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Японское anime
+### 일본 anime
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Japanese anime. Dialogue in Japanese. Flowing clouds. A девушка walks, jumps cutely, and hits a red switch. At the moment of the explosion, it briefly becomes...
+일본 anime입니다. 대사는 일본어이고, 구름이 흐릅니다. 소녀가 걷고, 귀엽게 점프한 뒤, 빨간 스위치를 누릅니다. 폭발하는 순간 잠시...
 
-Источник: [Пост](https://x.com/_3912657840/status/2040018529441730815) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/_3912657840/status/2040018529441730815) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/056.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -625,13 +635,13 @@ Japanese anime. Dialogue in Japanese. Flowing clouds. A девушка walks, ju
 Japanese anime. Dialogue in Japanese. Flowing clouds. A girl walks, jumps cutely, and hits a red switch. At the moment of the explosion, it briefly becomes black and white high contrast, then flame-colored high contrast. The tower in the background explodes violently, creating a flame backlight high contrast. The girl says, "Haa~!?" Surprised by the explosion.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### 15-секундный оригинальный короткометражный фильм о битве стихий
+### 15초 오리지널 원소 전투 단편
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-15-second Original Elemental Битва Короткометражный фильм: On an ice-covered volcanic mountain range, a warrior in lava obsidian armor collides head-on with an...
+15초 오리지널 원소 전투 단편: 얼음으로 뒤덮인 화산 산맥 위에서, 용암 흑요석 갑옷을 입은 전사가 정면으로 충돌합니다...
 
-Источник: [Пост](https://x.com/ZikinArt/status/2040006818953322644) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/ZikinArt/status/2040006818953322644) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/058.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -639,13 +649,13 @@ Japanese anime. Dialogue in Japanese. Flowing clouds. A girl walks, jumps cutely
 15-second Original Elemental Battle Short Film: On an ice-covered volcanic mountain range, a warrior in lava obsidian armor collides head-on with an opponent who controls cold crystal power. Under their feet are snow-covered cracked lava; in the air, there are simultaneous flame roars, ice crystal shatters, steam eruptions and storm howls. The camera quickly switches between close-ups of armor textures, ice crystals, ground cracks and the ultimate collision moment, and finally ends with a steam explosion engulfing the screen, featuring a strong "fire vs. ice" visual conflict.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Фэнтезийная анимация яйца Faberge
+### 파베르제 판타지 에그 애니메이션
 ![Language-ES](https://img.shields.io/badge/Language-ES-blue?style=flat-square)
-Highly detailed кинематографичный 4K animated video, precious enchanted Faberge-style Easter eggs floating in a dreamy ethereal space, ornate golden filigree and...
+매우 디테일한 시네마틱 4K 애니메이션 비디오로, 몽환적이고 에테리얼한 공간에 마법이 깃든 Faberge 스타일 부활절 달걀이 떠다니며, 정교한 금빛 세공과...
 
-Источник: [Пост](https://x.com/ShamiWeb3/status/2040096061835059412) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/ShamiWeb3/status/2040096061835059412) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/064.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -653,13 +663,13 @@ Highly detailed кинематографичный 4K animated video, precious e
 Highly detailed cinematic 4K animated video, precious enchanted Faberge-style Easter eggs floating in a dreamy ethereal space, ornate golden filigree and glowing runes on creamy porcelain and jewel-toned shells, semi-transparent eggs revealing intricate animated miniature fantasy
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Промпт 77
+### 프롬프트 77
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Original 15-second короткометражный фильм about an elemental битва: In a volcanic mountain range covered in ice, a warrior in volcanic obsidian armor clashes head-on...
+원소 전투를 다룬 오리지널 15초 단편입니다. 얼음으로 뒤덮인 화산 산맥에서, 화산 흑요석 갑옷을 입은 전사가 정면으로 충돌합니다...
 
-Источник: [Пост](https://x.com/David_eficaz/status/2039966320414937236) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/David_eficaz/status/2039966320414937236) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/074.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -667,13 +677,13 @@ Original 15-second короткометражный фильм about an elementa
 Original 15-second short film about an elemental battle: In a volcanic mountain range covered in ice, a warrior in volcanic obsidian armor clashes head-on with an opponent who controls the power of cold crystal. Cracked, snow-covered lava stretches beneath their feet; in the air, flames roar, ice crystals shatter, steam erupts, and storms howl. The camera rapidly alternates close-ups of the armor textures, ice crystals, cracks in the ground, and the culminating moment of the clash, finally ending with an explosion of steam that floods the screen, creating a strong visual conflict between fire and ice.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Промпт 79
+### 프롬프트 79
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-ultra кинематографичный sci-fi fantasy дуэль in daylight, a warrior wielding a glowing energy blade stands facing a massive terrifying creature, calm and focused,...
+대낮의 ultra cinematic sci-fi 판타지 결투로, 빛나는 에너지 블레이드를 든 전사가 거대하고 무시무시한 크리처를 차분하고 집중된 상태로 마주합니다,...
 
-Источник: [Пост](https://x.com/CharaspowerAI/status/2040013966986957144) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/CharaspowerAI/status/2040013966986957144) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/076.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -692,13 +702,13 @@ Open landscape under bright daylight, minimal clutter, ground reacting to impact
 Ultra realistic, high-end cinematic action, precise choreography, glowing energy blade effects, strong contrast lighting, fluid motion, intense speed, epic scale, no distortion, no stretching
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### 15-секундная непрерывная single-shot экшн-сцена
+### 15초 연속 원테이크 액션 시퀀스
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-15-second continuous single-shot action последовательность. No cuts. No scene transitions. Dark кинематографичный fantasy realism, dense forest теньs, fog layers, dynamic...
+15초 연속 원테이크 액션 시퀀스입니다. 컷 없음. 장면 전환 없음. 어두운 시네마틱 판타지 리얼리즘, 짙은 숲 그림자, 안개 레이어, 역동적인...
 
-Источник: [Пост](https://x.com/Artedeingenio/status/2039997977897435190) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/Artedeingenio/status/2039997977897435190) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/078.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -715,13 +725,13 @@ Dense forest → cliff edge → open valley
 0–3s —
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Промпт 82
+### 프롬프트 82
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-A lone samurai stands on a cliff overlooking cherry blossom mountains at sunset, wind blowing petals around him, he slowly draws his katana for the last...
+벚꽃 산맥이 내려다보이는 석양의 절벽 위에 홀로 선 사무라이가 꽃잎이 바람에 흩날리는 가운데 마지막을 위해 천천히 katana를 뽑습니다...
 
-Источник: [Пост](https://x.com/Alin_Reaper05/status/2040042931172655384) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/Alin_Reaper05/status/2040042931172655384) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/079.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -729,13 +739,13 @@ A lone samurai stands on a cliff overlooking cherry blossom mountains at sunset,
 A lone samurai stands on a cliff overlooking cherry blossom mountains at sunset, wind blowing petals around him, he slowly draws his katana for the last time, single tear on his face, slow cinematic crane shot rising above him as sun sets, emotional widescreen, ultra-realistic, like Ghost of Tsushima + The Last Samurai, warm golden tones, heartbreaking moment
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Промпт 88
+### 프롬프트 88
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-A daring aerial rogue diving on a bio-mechanical glider through a chaotic floating-island bazaar, weaving effortlessly through airborne merchants, dodging...
+대담한 공중 로그가 bio-mechanical 글라이더를 타고 혼란스러운 공중 섬 바자르를 가르며 급강하하고, 공중 상인 사이를 유연하게 누비며 회피합니다...
 
-Источник: [Пост](https://x.com/sebatheepan/status/2039723026124575231) · Опубликовано: 02 Apr 2026
+출처: [게시물](https://x.com/sebatheepan/status/2039723026124575231) · 게시일: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/085.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -743,13 +753,13 @@ A daring aerial rogue diving on a bio-mechanical glider through a chaotic floati
 A daring aerial rogue diving on a bio-mechanical glider through a chaotic floating-island bazaar, weaving effortlessly through airborne merchants, dodging passing airships, flocking griffins, and tethered trading posts. He plummets past crumbling stone arches, busy rope bridges, and cascading waterfalls, barrel-rolling through narrow gaps with precision and style. Cinematic tracking shots follow his descent, enhanced by dynamic motion blur and ethereal dappled sunlight reflecting off crystal formations and mist. The sky-city pulses with an energetic fantasy vibe—flapping wings, shouting vendors, and nonstop vertical motion. Ultra-realistic detail with an epic high-fantasy action aesthetic, capturing speed, agility, and fearless momentum through the clouds.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Сверхскоростная полетная экшн-сцена с девушкой верхом на драконе
+### 소녀가 용을 타는 초고속 비행 액션 장면
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-A super высокоскоростной flight action scene of a девушка riding a dragon. High number of frames, 24FPS Japanese full-color anime. Two dragons, one blue and one red,...
+소녀가 용을 타는 초고속 비행 액션 장면입니다. 높은 프레임 수의 24FPS 일본 풀컬러 anime 스타일이며, 파란 용과 빨간 용 두 마리가 등장합니다,...
 
-Источник: [Пост](https://x.com/naoyuki_okada/status/2039573038392614995) · Опубликовано: 02 Apr 2026
+출처: [게시물](https://x.com/naoyuki_okada/status/2039573038392614995) · 게시일: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/086.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -758,13 +768,13 @@ A super high-speed flight action scene of a girl riding a dragon. High number of
 Two dragons, one blue and one red, are flying high above the clouds. They are flying faster than 100 km/h, cutting through the wind and passing between the clouds. A sense of freedom, liberation from anything that might interfere, and speed.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### 15-секундный оригинальный пустынный martial-arts short film
+### 15초 오리지널 사막 무술 단편
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-15-second Original Desert Martial Arts Короткометражный фильм: A black cat warrior in light armor stands alone in a desert where yellow sand is flying all over the sky,...
+15초 오리지널 사막 무술 단편: 연노란 모래가 하늘을 뒤덮는 사막 한가운데, 가벼운 갑옷을 입은 검은 고양이 전사가 홀로 서 있습니다,...
 
-Источник: [Пост](https://x.com/NimEshed/status/2039816152222949829) · Опубликовано: 02 Apr 2026
+출처: [게시물](https://x.com/NimEshed/status/2039816152222949829) · 게시일: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/091.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -772,13 +782,13 @@ Two dragons, one blue and one red, are flying high above the clouds. They are fl
 15-second Original Desert Martial Arts Short Film: A black cat warrior in light armor stands alone in a desert where yellow sand is flying all over the sky, facing the pursuers. The shots combine slow motion and fast editing; under backlight, the yellow sand rolls like ink mist. The character’s movements are elegant yet ferocious, with tattered but flowing robes. Holding a short weapon, he shuttles and counterattacks at high speed. The overall tone is cold, lonely and oppressive, with high-end colors and obvious shallow depth of field, just like a high-quality oriental martial arts movie.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### 15-секундный гиперреалистичный эпический военный blockbuster
+### 15초 하이퍼리얼 대서사 전쟁 블록버스터
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-A 15-second hyper-реалистичный epic war blockbuster. Style: rugged realism, 35mm handheld film aesthetic, natural grain, subtle shake. Xiang Yu, the...
+15초 분량의 hyper-realistic 대서사 전쟁 블록버스터입니다. 스타일은 rugged realism, 35mm handheld 필름 미학, 자연스러운 grain, 미세한 흔들림이며, 항우가...
 
-Источник: [Пост](https://x.com/john87445528/status/2039348028574744685) · Опубликовано: 01 Apr 2026
+출처: [게시물](https://x.com/john87445528/status/2039348028574744685) · 게시일: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/110.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -786,13 +796,13 @@ A 15-second hyper-реалистичный epic war blockbuster. Style: rugged r
 A 15-second hyper-realistic epic war blockbuster. Style: rugged realism, 35mm handheld film aesthetic, natural grain, subtle shake. Xiang Yu, the Hegemon-King of Western Chu, wearing the armor from Image 2, riding the horse from Image 1, holding a 13-foot 7-inch Overlord Spear, in a famous scene of slaughter on an ancient battlefield, leading a small number of soldiers against thousands of enemy troops in a display of lonely bravery. Scene 1: One-shot, low-angle ground-level slow follow of the horse's hooves, panning up to a close-up of Xiang Yu's face, showing bloodstains, resolute eyes, and a roaring expression as he shouts: “Zhai Xiaoniao,” give me back my money; Scene 2: Low-angle follow shot of Xiang Yu charging on horseback, leading the way; Generate only fighting sound effects and environmental sounds, no background music.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Офисный coffee break пошел не так, shot 1
+### 망가진 오피스 커피 브레이크 샷 1
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Office Coffee Break Gone WrongShot 1: Tired office worker in a button-up shirt sips coffee at his desk in a modern open-plan office. Calm medium shot,...
+Office Coffee Break Gone WrongShot 1: 모던한 오픈 플랜 사무실에서 버튼업 셔츠를 입은 지친 직장인이 책상에 앉아 커피를 마십니다. 차분한 medium shot,...
 
-Источник: [Пост](https://x.com/Dheepanratnam/status/2039387346706001941) · Опубликовано: 01 Apr 2026
+출처: [게시물](https://x.com/Dheepanratnam/status/2039387346706001941) · 게시일: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/117.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -800,13 +810,13 @@ Office Coffee Break Gone WrongShot 1: Tired office worker in a button-up shirt s
 Office Coffee Break Gone WrongShot 1: Tired office worker in a button-up shirt sips coffee at his desk in a modern open-plan office. Calm medium shot, fluorescent lights, papers everywhere.Shot 2: He spills a drop — the coffee suddenly animates into a hyper-caffeinated coffee monster with espresso eyes and foam tentacles.Shot 3: Low-angle shot: The monster rampages across desks, flinging staplers and keyboards in realistic arcs while the worker dodges in panic.Shot 4: Fast-paced tracking shot through the office as coworkers scream and dive under tables, papers flying like confetti with accurate physics.Shot 5: Climax: Worker grabs a fire extinguisher and blasts the monster, turning it back into harmless foam. He sits exhausted, now covered in foam, as everyone claps slowly
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### 15-секундная непрерывная single-shot экшн-сцена
+### 15초 연속 원테이크 액션 시퀀스
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-15-second continuous single-shot action последовательность. No cuts. No scene transitions. Кинематографичный fantasy realism, large-scale creature animation, fire simulation,...
+15초 연속 원테이크 액션 시퀀스입니다. 컷 없음. 장면 전환 없음. 시네마틱 판타지 리얼리즘, 대형 크리처 애니메이션, 화염 시뮬레이션,...
 
-Источник: [Пост](https://x.com/Artedeingenio/status/2039333445403287777) · Опубликовано: 01 Apr 2026
+출처: [게시물](https://x.com/Artedeingenio/status/2039333445403287777) · 게시일: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/119.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -819,17 +829,17 @@ Cinematic fantasy realism, large-scale creature animation, fire simulation, smok
 Weighty creature movement, believable scale,
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-## Кинематографический реализм
+## 영화적 리얼리즘
 
-Приземленные live-action промпты, сосредоточенные на настроении, языке тела, practical light и правдоподобном поведении камеры.
+분위기, 몸짓, practical light, 설득력 있는 카메라 움직임에 초점을 둔 grounded live-action 프롬프트입니다.
 
-### Современная Япония
+### 현대 일본
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Modern Japan. A 15-second live-action documentary-style video set during a high-rise building fire in Tokyo Bay. No BGM. No subtitles. Only environmental...
+현대 일본. 도쿄만의 고층 건물 화재를 배경으로 한 15초 live-action 다큐멘터리 스타일 영상입니다. BGM 없음. 자막 없음. 환경음만...
 
-Источник: [Пост](https://x.com/kuranoayashi/status/2040055299835650266) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/kuranoayashi/status/2040055299835650266) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/045.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -839,13 +849,13 @@ No BGM. No subtitles. Only environmental sounds, radio, wind, fire, and people's
 ---
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Промпт 76
+### 프롬프트 76
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-0-5s Dynamic low-angle tracking shot pacing a female downhill longboarder in a deep aerodynamic tuck speeding down a steep mountain pass. Blinding, intense...
+0-5초: 깊게 몸을 숙인 공기역학 자세의 여성 다운힐 롱보더를 따라가는 dynamic low-angle tracking shot입니다. 급경사 산길을 질주하며 눈부시고 강렬한...
 
-Источник: [Пост](https://x.com/Dheepanratnam/status/2039982273076810119) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/Dheepanratnam/status/2039982273076810119) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/073.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -857,17 +867,17 @@ No BGM. No subtitles. Only environmental sounds, radio, wind, fire, and people's
 [10-15s] A rapid whip-pan and macro snap-zoom abruptly shifts the camera down to street level for an ultra-realistic extreme close-up of the longboard's vibrant polyurethane wheels executing a heavy sideways drift. Thick, volumetric white friction smoke billows from the wheels as they violently grind against the highly textured, sun-baked granular black asphalt, highlighting raw kinetic energy and photorealistic surface materiality.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
 ## POV / FPV
 
-Промпты от первого лица, в стиле дрона, body-mounted и immersion-first, построенные вокруг инерции камеры.
+카메라의 운동감을 중심으로 설계된 1인칭, drone-like, body-mounted, 몰입 우선 프롬프트입니다.
 
-### Сцена погони с нагрудной камерой и camouflage
+### 가슴 장착형 위장 추격 시퀀스
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-A hyper-реалистичный, 8K resolution, adrenaline-fueled single-take POV action последовательность. The камера is chest-mounted on a man wearing camouflage joggers and...
+hyper-realistic 8K 해상도의 아드레날린 넘치는 single-take POV 액션 시퀀스입니다. 카메라는 camouflage 조거 팬츠를 입은 남성의 가슴에 장착되어...
 
-Источник: [Пост](https://x.com/genel_ai/status/2039538309790404797) · Опубликовано: 02 Apr 2026
+출처: [게시물](https://x.com/genel_ai/status/2039538309790404797) · 게시일: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/004.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -886,13 +896,13 @@ Jump 5: A final, explosive long-distance jump to a swaying metal platform. He la
 The camera remains in a low, fetal position on the final bar, shaking from the adrenaline. No dialogue. The audio is a visceral layer of the aggressive 'Hyuo' wind, his intense, ragg
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Шанхайский киберпанк city sizzle reel
+### 상하이 사이버펑크 시티 시즐 릴
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
-Премиальный шанхайский city montage, сочетающий cyberpunk-энергию, FPV-движение, food macro shots и коммерческий polish.
+cyberpunk 에너지, FPV 움직임, 음식 macro shot, 상업적 polished 감각을 결합한 프리미엄 상하이 시티 몽타주입니다.
 
-Источник: [Пост](https://x.com/Adam38363368936/status/2039498800801398911) · Опубликовано: 02 Apr 2026
+출처: [게시물](https://x.com/Adam38363368936/status/2039498800801398911) · 게시일: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/005.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -912,13 +922,13 @@ Requirements: extremely dynamic camera movement, FPV aerial motion, macro cinema
 Mood: energetic, futuristic, premium, fast-paced. Combine wide city views with fine details to emphasize the city's pulse and a commercial-advertising texture. 4K, realistic style, smooth motion.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Экшн-промпт с консистентным проклятым самураем
+### 저주받은 사무라이 일관성 액션 프롬프트
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Strictly follow the reference персонаж’s face, hairstyle, outfit silhouette, and body proportions. Do not change identity or facial structure. Fixed...
+레퍼런스 캐릭터의 얼굴, 헤어스타일, 의상 실루엣, 신체 비율을 엄격히 따라야 합니다. 정체성이나 얼굴 구조를 바꾸면 안 됩니다. 고정된...
 
-Источник: [Пост](https://x.com/Just_sharon7/status/2040685931858907646) · Опубликовано: 05 Apr 2026
+출처: [게시물](https://x.com/Just_sharon7/status/2040685931858907646) · 게시일: 05 Apr 2026
 
 [![](./public/seedance_2_prompt_images/006.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -926,13 +936,13 @@ Strictly follow the reference персонаж’s face, hairstyle, outfit silho
 Strictly follow the reference character’s face, hairstyle, outfit silhouette, and body proportions. Do not change identity or facial structure. Fixed appearance: glowing dark eyes, torn black samurai kimono, traditional katana, black cursed smoke slowly leaking from the body, flowing shadow energy aura, calm but cruel expression, supernatural high-speed movement, consistent identity and physical appearance throughout the entire scene. Strictly follow the reference character’s face, hairstyle, outfit silhouette, and body proportions. Do not change identity or facial structure. Fixed appearance: glowing dark eyes, torn black samurai kimono, traditional katana, black cursed smoke slowly leaking from the body, flowing shadow energy aura, calm but cruel expression, supernatural high-speed movement, consistent identity and physical appearance throughout the entire scene. Hyper-realistic cinematic action, Unreal Engine quality, fast-paced 12s sequence. Cursed lone samurai (strict consistency: female Japanese, long tied black hair, pale skin, glowing dark eyes, torn black kimono armor, katana, black cursed smoke, shadow aura, calm ruthless expression). Environment: abandoned temple shrine at night, broken torii gates, shattered statues, debris, moonlight + dim lanterns, dust and wind, dozens of enemies, dark gritty tone. Camera: aggressive tracking, whip pans, blade POV, high-speed motion, no slow motion. Action: 0–3s: Samurai stands surrounded → instant iaijutsu draw → dark energy slash cuts multiple enemies. 3–6s: High-speed dashes, shadow afterimages, rapid slashes, enemies fall, debris flying. 6–9s: Close combat, parries, teleport-like strikes, circular slashes clearing groups. 9–12s: Final spinning slash → massive dark wave → enemies freeze then collapse → silence, smoke fading.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Божественное спасение Сунь Укуна на поле боя
+### 손오공 전장 신성 구출
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Кинематографичный hyper-dynamic fast-paced multi-shot последовательность, epic mythological битваfield, IMAX film simulation, 35mm Panavision lens, f/4, heavy кинематографичный...
+시네마틱하고 hyper-dynamic한 빠른 multi-shot 시퀀스로, 서사적인 신화 전장, IMAX 필름 시뮬레이션, 35mm Panavision 렌즈, f/4, 강한 시네마틱...
 
-Источник: [Пост](https://x.com/drjoetw/status/2040661051948323129) · Опубликовано: 05 Apr 2026
+출처: [게시물](https://x.com/drjoetw/status/2040661051948323129) · 게시일: 05 Apr 2026
 
 [![](./public/seedance_2_prompt_images/009.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -948,13 +958,13 @@ Shot 7: Ultra-fast sequence of disintegration shots. The skeletal army is instan
 Shot 8: Wide epic drone pull-back. Wukong stands silhouett
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Y2K-монтаж pool party на camcorder
+### Y2K 풀파티 캠코더 몽타주
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-A Y2K pool-party camcorder последовательность with MiniDV texture, playful party beats, and fast nostalgic montage energy.
+MiniDV 질감, 장난기 있는 party 비트, 빠르고 향수를 자극하는 몽타주 에너지를 담은 Y2K 풀파티 캠코더 시퀀스입니다.
 
-Источник: [Пост](https://x.com/johnAGI168/status/2040628800422322359) · Опубликовано: 05 Apr 2026
+출처: [게시물](https://x.com/johnAGI168/status/2040628800422322359) · 게시일: 05 Apr 2026
 
 [![](./public/seedance_2_prompt_images/010.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -985,13 +995,13 @@ Push in from behind the DJ's shoulder. In the foreground, fingers press the silv
 A rapid crane rise opens the entire pool party in golden-hour warm light, full of people and inflatable toys, with the water shimmering like broken gold. Overlay a DV timestamp reading "08/15/2000 PM 5:47" and freeze the frame with a flickering VHS pause effect.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Промпт 40
+### 프롬프트 40
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Кинематографичный CG ad quality, ultra-реалистичный, first-person POV, высокоскоростной one-take камера movement, strong visual impact. The камера bursts out from inside...
+시네마틱 CG 광고 퀄리티의 ultra-realistic 1인칭 POV로, 고속 원테이크 카메라 움직임과 강한 시각적 임팩트를 담습니다. 카메라는 내부에서 튀어나오며...
 
-Источник: [Пост](https://x.com/xingsthatmatter/status/2040190310043812035) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/xingsthatmatter/status/2040190310043812035) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/038.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1001,12 +1011,12 @@ Cinematic CG ad quality, ultra-realistic, first-person POV, high-speed one-take 
 The camera bursts out from inside image1, the Tesla card, as the card spins forward at high speed. The camera stays tight to its edge, tracking it through city
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
-### Экстремальный крупный план
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+### 익스트림 클로즈업
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-A highly dramatic, fast-cut anime MV with exaggerated кинематографичный tension and comedic payoff. 1930s Tokyo rice paddies, muddy textures, буряy sky. Extreme...
+과장된 시네마틱 긴장감과 코믹한 payoff가 있는 매우 극적인 fast-cut anime MV입니다. 1930년대 도쿄 논, 진흙 질감, 폭풍우 치는 하늘, extreme...
 
-Источник: [Пост](https://x.com/drjoetw/status/2040036596897222773) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/drjoetw/status/2040036596897222773) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/049.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1073,13 +1083,13 @@ White tiger casually adjusts sunglasses while sitting on him.
 Freeze frame → dramatic music abruptly cuts.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Создайте быстрый бесшовный 16
+### 빠르고 심리스한 16
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Create a fast, seamless 16:9 flying POV последовательность with five linked shots. Shot 1: Start inside a dark ancient stone corridor with a wooden door at the far...
+서로 연결된 다섯 개의 샷으로 빠르고 심리스한 16:9 비행 POV 시퀀스를 구성합니다. Shot 1: 멀리 나무문이 보이는 어두운 고대 석조 복도 내부에서 시작해...
 
-Источник: [Пост](https://x.com/aisavvy1/status/2040054688054382972) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/aisavvy1/status/2040054688054382972) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/052.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1093,13 +1103,13 @@ Shot 5: Continue through the circular opening into a Mediterranean cliffside vil
 Fast, smooth, continuous movement. No flying device, shadow, or reflection. Cinematic.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Окружение
+### 환경
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Environment: A massive medieval-fantasy city under siege at dusk. Stone towers, cathedral spires, and narrow streets stretch toward the horizon while fire...
+환경: 해질녘 포위 공격을 받는 거대한 중세 판타지 도시. 돌 탑, 대성당 첨탑, 좁은 골목이 지평선까지 뻗고, 불길이...
 
-Источник: [Пост](https://x.com/LudovicCreator/status/2039983776206344231) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/LudovicCreator/status/2039983776206344231) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/069.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1129,13 +1139,13 @@ Fast aerial predator POV weaving through the skyline, banking sharply between to
 Photorealistic fire simulation, volumetric smoke, cinematic sunset lighting, realistic wing turbulence and debris physics, 8K resolution.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### POV от первого лица кубика льда, падающего в стакан газировки
+### 탄산음료 컵 속으로 떨어지는 얼음 조각의 1인칭 POV
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-First-person POV of an кубик льда dropped into a стакан газировки. The cube crashes into a bubbling ocean of carbonated liquid. Gigantic bubbles rise like...
+탄산음료 컵 속으로 떨어지는 얼음 조각의 1인칭 POV입니다. 얼음 조각은 거품 이는 탄산 액체의 바다로 추락하고, 거대한 기포가 마치...
 
-Источник: [Пост](https://x.com/LudovicCreator/status/2039623813080416486) · Опубликовано: 02 Apr 2026
+출처: [게시물](https://x.com/LudovicCreator/status/2039623813080416486) · 게시일: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/093.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1155,13 +1165,13 @@ Finally the cube slides toward a straw vortex and disappears.
 Macro drink environment POV, carbonation bubble storms, melting ice transformation, cinematic macro realism, 4K.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Грубая сырая handheld 35mm film эстетика с естественным film grain
+### 거칠고 날것의 handheld 35mm 필름 미학과 자연스러운 필름 그레인
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Gritty, raw handheld 35mm film aesthetic with natural film grain. Bright early-morning sunlight streaming through windows, creating sharp indoor теньs....
+자연스러운 필름 grain이 살아 있는 거칠고 날것의 handheld 35mm 필름 미학입니다. 이른 아침의 밝은 햇빛이 창문을 통해 들어와 실내에 날카로운 그림자를 만들고...
 
-Источник: [Пост](https://x.com/AngelNwoha/status/2039792884841591009) · Опубликовано: 02 Apr 2026
+출처: [게시물](https://x.com/AngelNwoha/status/2039792884841591009) · 게시일: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/102.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1169,13 +1179,13 @@ Gritty, raw handheld 35mm film aesthetic with natural film grain. Bright early-m
 Gritty, raw handheld 35mm film aesthetic with natural film grain. Bright early-morning sunlight streaming through windows, creating sharp indoor shadows. Controlled handheld tracking shot (3rd person POV, over-the-shoulder), stabilized cinematic motion with subtle natural shake.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### 10-секундное фотореалистичное cinematic POV-видео
+### 10초 photorealistic 시네마틱 POV 비디오
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-10-second photoреалистичный кинематографичный POV video. A Japanese woman in her early 20s with a black short bob hairstyle, straight hair, natural refined makeup, and...
+10초 분량의 photorealistic 시네마틱 POV 비디오입니다. 검은 짧은 보브 헤어, 곧은 머리, 자연스럽고 세련된 메이크업을 한 20대 초반의 일본인 여성이 등장하고...
 
-Источник: [Пост](https://x.com/umitsuru_fire/status/2039295650039554051) · Опубликовано: 01 Apr 2026
+출처: [게시물](https://x.com/umitsuru_fire/status/2039295650039554051) · 게시일: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/105.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1183,13 +1193,13 @@ Gritty, raw handheld 35mm film aesthetic with natural film grain. Bright early-m
 10-second photorealistic cinematic POV video. A Japanese woman in her early 20s with a black short bob hairstyle, straight hair, natural refined makeup, and a white blouse sits inside a Ferris wheel gondola at night near the top. Outside the window is a beautiful city nightscape
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Сверхфутуристический мегаполис после апокалипсиса пробуждается в буре
+### 종말 이후의 초미래 메가시티가 폭풍 속에서 깨어난다
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-A super futuristic megaгород after the apocalypse awakens in a буря. Dark clouds press down on the город. Giant битваships slowly descend from the sky,...
+종말 이후의 초미래 메가시티가 폭풍 속에서 깨어납니다. 검은 구름이 도시를 짓누르고, 거대한 전함이 하늘에서 천천히 내려옵니다,...
 
-Источник: [Пост](https://x.com/johnAGI168/status/2039380975801471305) · Опубликовано: 01 Apr 2026
+출처: [게시물](https://x.com/johnAGI168/status/2039380975801471305) · 게시일: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/108.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1197,13 +1207,13 @@ A super futuristic megaгород after the apocalypse awakens in a буря. Da
 A super futuristic megacity after the apocalypse awakens in a storm. Dark clouds press down on the city. Giant battleships slowly descend from the sky, piercing through thunderclouds. The city's high-rise buildings are interwoven with neon lights and fire. Countless drones and armored vehicles shuttle rapidly through the streets. A distant energy tower erupts with dazzling blue electric arcs. The camera dives from high altitude into the city canyon, then rapidly pushes through falling debris and flames, finally settling on the back of a lonely hero wearing a black trench coat, standing on the edge of a skyscraper overlooking the entire burning city. Cinematic lighting, IMAX epic feel, ultra-high detail, stunning composition, strong volumetric light, realistic explosion smoke and dust, epic disaster movie atmosphere, extreme realism, top Hollywood visual effects.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Стиль: ультрареалистичный industrial timelapse
+### 스타일: Ultra-realistic 산업 timelapse
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Style: Ultra-realistic industrial timelapse Pacing: Extremely fast (hyperlapse feel) Camera: Mostly fixed with slight cinematic motion (slider/drone feel)...
+스타일: Ultra-realistic 산업 timelapse, 페이싱: 매우 빠름(hyperlapse 느낌), 카메라: 약간의 시네마틱 움직임이 있는 대부분 고정 구도(slider/drone 느낌)...
 
-Источник: [Пост](https://x.com/craftian_keskin/status/2039415621960499603) · Опубликовано: 01 Apr 2026
+출처: [게시물](https://x.com/craftian_keskin/status/2039415621960499603) · 게시일: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/111.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1267,13 +1277,13 @@ End moment:
 Camera holds briefly as car exits frame
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Промпт 116
+### 프롬프트 116
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-кинематографичный, heavy action blockbuster film, Japanese город center, collapsed main street at dusk. A giant monster is knocking down buildings, dust, sparks,...
+시네마틱한 하드 액션 블록버스터 영화 스타일입니다. 해질녘 일본 도심의 붕괴된 대로에서 거대한 몬스터가 건물을 무너뜨리고, 먼지와 불꽃이 튀며...
 
-Источник: [Пост](https://x.com/Yuupapa_free/status/2039329682492121547) · Опубликовано: 01 Apr 2026
+출처: [게시물](https://x.com/Yuupapa_free/status/2039329682492121547) · 게시일: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/113.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1281,17 +1291,17 @@ Camera holds briefly as car exits frame
 cinematic, heavy action blockbuster film, Japanese city center, collapsed main street at dusk. A giant monster is knocking down buildings, dust, sparks, rubble, and black smoke are flying, and a Japanese high school girl in a uniform is desperately running towards the camera. Cut 1 (0.0s-2.5s): low angle tracking shot following the high school girl from the front as she retreats. Her hair and skirt are violently fluttering, the ground shakes from the monster's footsteps behind her, cars overturn, and window glass shatters. Her face shows determination amidst fear. Cut 2 (2.5s-3.7s): close-up of her feet. With every step she runs, black metal frames and pink glowing lines deploy onto her legs, rapidly equipping from her thighs to her shins and boots. Sparks and fine energy particles, mechanical transformation. Cut 3 (3.7s-4.8s): close-up of her hands. As she swings her arms, armor forms around her forearms, wrists, and fingertips, with pink light strips running through the gaps in the black armor. Cut 4 (4.8s-6.0s): close-up of her abdomen and chest. Abdominal inner wear, chest armor, and shoulder units lock sequentially, and the central core pulses pink with her breathing. Rack focus shows the detail of the armor. Cut 5 (6.0s-7.0s): close-up of her head. As her hair flies, a helmet deploys from the sides and back, enveloping her face line, and finally the visor closes while glowing. eyes visible through translucent visor. whip pan completes the transformation. Cut 6 (7.0s-8.8s): wide shot. After running a few steps at high speed, the transformed girl skids to a halt, scattering sparks and fragments, twists her body, and faces the monster. She thrusts one hand forward, and a pink spherical energy vortex converges on the device on the back of her hand, drawing in surrounding rubble. Cut 7 (8.8s-10.5s): over-the-shoulder shot capturing the monster, and she silently fires an energy blast all at once. A thick pink shockwave runs straight through, piercing the monster's chest. Cut 8 (10.5s-12.0s): super large explosion. The monster is blown to smithereens, fragments and smoke fly into the sky, and the giant body collapses. The final shot is a hero shot, the high school girl in a black and pink powered suit standing with the explosion behind her. dramatic backlight, debris, heat haze, high contrast, realistic destruction, dynamic motion blur, no BGM, no dialogue
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-## Коммерция / Продукт
+## 상업 / 제품
 
-Рекламные, fashion, lifestyle, product и premium brand-style промпты.
+광고, 패션, 라이프스타일, 제품, 프리미엄 브랜드 스타일 프롬프트입니다.
 
-### Anime-танцевальная сцена трио в стиле perfume
+### Perfume 스타일 anime 트리오 댄스 스테이지
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Промпт синхронной anime idol-dance сцены, построенный на механической точности, быстрых склейках и сине-фиолетовом концертном освещении.
+기계적인 정밀함, 빠른 컷, 청보라 concert 조명으로 구동되는 sync형 anime idol 댄스 스테이지 프롬프트입니다.
 
-Источник: [Пост](https://x.com/ShadeLurk/status/2040671186984796632) · Опубликовано: 05 Apr 2026
+출처: [게시물](https://x.com/ShadeLurk/status/2040671186984796632) · 게시일: 05 Apr 2026
 
 [![](./public/seedance_2_prompt_images/007.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1304,13 +1314,13 @@ prompt:
 Three anime girls perform Perfume-style formation dance on an illuminated stage. Each girl performs different assigned choreography, but all movements are locked to the exact same beat with mechanical precision. The camera cuts rapidly between full shots and medium shots every 0.7-1.0 seconds, occasionally switching to side angles and overhead angles. The structure follows a call-and-response pattern between the three dancers. The choreography ranges from sharp upright arm work to low crouching floor sweeps. Blue-white spotlights carve through purple haze. LED panels pulse with blue-to-purple gradients. Triangular formation.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Dark fantasy дуэль в церкви
+### 다크 판타지 교회 결투
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Original Dark Fantasy Action Короткометражный фильм: Inside a dilapidated church, a white-clad warrior and a black-armored opponent launch their final битва amid an...
+오리지널 다크 판타지 액션 단편: 허물어진 교회 안에서 흰옷의 전사와 검은 갑주의 상대가 최후의 전투를 벌입니다...
 
-Источник: [Пост](https://x.com/ZaraIrahh/status/2040667542390190245) · Опубликовано: 05 Apr 2026
+출처: [게시물](https://x.com/ZaraIrahh/status/2040667542390190245) · 게시일: 05 Apr 2026
 
 [![](./public/seedance_2_prompt_images/008.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1318,13 +1328,13 @@ Original Dark Fantasy Action Короткометражный фильм: Inside
 Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-clad warrior and a black-armored opponent launch their final battle amid an atmosphere like a chorus. Stained glass shatters, moonlight penetrates the smoke and dust, and benches are overturned. The camera switches between high-angle overhead shots and low-angle upward shots, focusing on showing the sense of space of the religious building, the sense of oppression of the characters, and the temperament of a fateful decisive battle, just like the climax segment of an original fantasy animated film. A strong hook in the first 2 seconds, stable main body, coherent actions, movie-level composition, real light and shadow, epic sense, strong emotion, high-definition details, suitable for social media communication, avoiding copyrighted characters, avoiding brand logos, and completely original design.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Dark fantasy дуэль в shrine hall
+### 다크 판타지 신사 전각 결투
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Original Japanese-Style Dark Fantasy Action Короткометражный фильм: Inside a dilapidated shrine hall, a white-robed warrior and a black-armored samurai engage in their...
+오리지널 일본풍 다크 판타지 액션 단편: 낡은 신사 전각 안에서 흰 로브의 전사와 검은 갑주의 사무라이가 맞붙습니다...
 
-Источник: [Пост](https://x.com/MiraMusic_AI/status/2040595365096034700) · Опубликовано: 05 Apr 2026
+출처: [게시물](https://x.com/MiraMusic_AI/status/2040595365096034700) · 게시일: 05 Apr 2026
 
 [![](./public/seedance_2_prompt_images/012.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1335,13 +1345,13 @@ The camera alternates between high-angle overhead shots and low-angle upward per
 A strong hook within the first 2 seconds, followed by a stable and cohesive progression. Fluid, continuous action with cinematic composition, realistic lighting and shadow, an epic atmosphere, intense emotional weight, and high-definition detail. Designed for social media engagement. Avoids copyrighted characters and brand logos, ensuring a completely original creation.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Панчлайн японской рекламы снека
+### 일본 과자 광고 펀치라인
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square)
-Here it is. A 15-second Japanese snack коммерческий. Shot 1 (3s): A man walks through a shopping street. As he passes, two housewives whisper, "It's out."...
+다음은 15초 분량의 일본 과자 광고입니다. Shot 1 (3s): 한 남자가 상점가를 걷습니다. 그가 지나가자 두 주부가 "다 떨어졌대"라고 속삭입니다...
 
-Источник: [Пост](https://x.com/aigeboku/status/2040562471027782017) · Опубликовано: 04 Apr 2026
+출처: [게시물](https://x.com/aigeboku/status/2040562471027782017) · 게시일: 04 Apr 2026
 
 [![](./public/seedance_2_prompt_images/014.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1356,13 +1366,13 @@ Shot 4 (3s): The man rushes into a Japanese convenience store. The clerk says, "
 Shot 5 (3s): Close-up of the new snack package. Narration: "It's out! New release!"
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Кинематографичная martial art sequence для Seedance 2
+### Seedance 2용 시네마틱 무술 시퀀스
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Кинематографичный Martial Art Последовательность for Seedance 2 PROMPT кинематографичный martial arts confrontation in broad daylight, a blind shaolin monk wearing a dark, stylized...
+Seedance 2용 시네마틱 무술 시퀀스 프롬프트로, 대낮에 어두운 stylized 복장을 입은 맹인 shaolin monk가 벌이는 무술 대결을 다룹니다...
 
-Источник: [Пост](https://x.com/CharaspowerAI/status/2040376349504815467) · Опубликовано: 04 Apr 2026
+출처: [게시물](https://x.com/CharaspowerAI/status/2040376349504815467) · 게시일: 04 Apr 2026
 
 [![](./public/seedance_2_prompt_images/017.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1381,13 +1391,13 @@ Traditional Japanese environment, open landscape with temples, wooden structures
 Ultra realistic, high-end martial arts film choreography, precise body mechanics, cinematic slow motion, strong contrast lighting, volumetric atmosphere, fluid transitions, intense but controlled physical interaction, no distortion, no stretching
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Я попросил Grok сделать то же видео, но результат не убедил
+### Grok에게 같은 영상을 만들게 했지만 결과는 설득력이 없었다
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-I asked Grok to produce the same video, but the result wasn't convincing. Grok's rendering lacks a certain "realism." Seedance 2.0 is by far the best video...
+Grok에게 같은 영상을 만들게 했지만 결과는 설득력이 없었습니다. Grok의 렌더링에는 어떤 "리얼리즘"이 부족합니다. Seedance 2.0은 단연 최고의 비디오...
 
-Источник: [Пост](https://x.com/Viafin23/status/2025901411221774788) · Опубликовано: 23 Feb 2026
+출처: [게시물](https://x.com/Viafin23/status/2025901411221774788) · 게시일: 23 Feb 2026
 
 [![](./public/seedance_2_prompt_images/020.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1402,13 +1412,13 @@ Maintain stable temporal continuity. Avoid unnatural frame interpolation. No exa
 #Seedance2_0
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Романтика шепота в японском классе
+### 일본 교실 속 속삭임 로맨스
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-15-second кинематографичный Japanese drama pure love ambiguous короткометражный фильм, ultra-реалистичный quality, warm golden sunlight in an empty classroom in the afternoon,...
+15초 분량의 시네마틱 일본 드라마풍 순애·썸 분위기 단편으로, 초현실적 품질과 오후 텅 빈 교실의 따뜻한 황금빛 햇살이 특징입니다,...
 
-Источник: [Пост](https://x.com/JiahaoYang_art/status/2033119940216344616) · Опубликовано: 15 Mar 2026
+출처: [게시물](https://x.com/JiahaoYang_art/status/2033119940216344616) · 게시일: 15 Mar 2026
 
 [![](./public/seedance_2_prompt_images/022.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1422,13 +1432,13 @@ Overall Sound Effects: Distant summer cicada chirping faintly, the soft scratchi
 Character identity is maintained throughout, real subtle head tilts, eye movements, and breathing synchronization, no text, watermarks, or subtitles, pure Japanese style youth secret crush heart-fluttering suspense.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Рекомендуемый режим настроек
+### 권장 설정 모드
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Recommended Settings Mode: Standard | Resolution: 720p | Duration: 15 seconds. 100% real-person animation. Bright daytime. City square. Fast lighting. High...
+권장 설정 모드: Standard | 해상도: 720p | 길이: 15초. 100% 실사 인물 애니메이션. 밝은 대낮. 도시 광장. 빠른 조명 변화. 높은...
 
-Источник: [Пост](https://x.com/MiraMusic_AI/status/2039096342749016145) · Опубликовано: 31 Mar 2026
+출처: [게시물](https://x.com/MiraMusic_AI/status/2039096342749016145) · 게시일: 31 Mar 2026
 
 [![](./public/seedance_2_prompt_images/025.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1436,13 +1446,13 @@ Recommended Settings Mode: Standard | Resolution: 720p | Duration: 15 seconds. 1
 [Recommended Settings] Mode: Standard | Resolution: 720p | Duration: 15 seconds. 100% real-person animation. Bright daytime. City square. Fast lighting. High energy. Explosive atmosphere. Strong rhythm. High-energy version of three-person street dance. Fast dancing. Show-off moves. Quick rhythm. Full participation. Jumps and rolls. Explosive power. Intense three-person performance. [0-1s: Overhead view, quick cut-in] Camera: Fast shot. Full view of the square. Three people in the center. Strong music explosion. Dynamic shot. [1-4s: Medium shot, quick circling] Camera: Fast rotating circle. High-energy basic moves. Quick rhythm starts. Fast switching between high and low angles. [4-7s: Multi-angle low angle] Camera: Rapid switching of multiple angles. Knee-high ↔ wide angle. Fast footwork. Complex high-difficulty stepping. [7-9s: Character 1 burst] Camera: Fast zoom. Close-up of the face. Character 1 intense solo. Explosive power. Fast rotation. [9-11s: Character 2 burst] Camera: Fast angle switch. Close-up of the face. Character 2 intense solo. Show-off moves. High energy. [11-13s: Character 3 burst] Camera: Ultra-fast shot. Close-up of the face. Character 3 intense solo. Highest energy. Jumps and rolls. [13-15s: Wide shot, explosive ending] Camera: Fast zoom out. Full view of the square. Three people synchronize explosively. Climax. Music climax. Freeze-frame smile. [Features] Fast rhythm. Multi-angle rapid switching. High-energy music. Explosive power. Excited audience. Suitable for a party.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Коммерческий storyboard для LaFerrari
+### LaFerrari 광고 스토리보드
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
-Покадровый storyboard роскошной рекламы суперкара, сосредоточенный на контролируемом движении камеры и premium-поверхностях продукта.
+정교한 카메라 움직임과 프리미엄 제품 표면 표현에 초점을 맞춘 럭셔리 슈퍼카 광고용 샷별 스토리보드입니다.
 
-Источник: [Пост](https://x.com/Adam38363368936/status/2039932977287979053) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/Adam38363368936/status/2039932977287979053) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/030.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1476,13 +1486,13 @@ No people should appear in the frame.
 Highest image quality: 8K.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Финальная горячая anime-дуэль
+### 열혈 anime 최후의 결투
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
-Tested it: Original Hot-Blooded Дуэль Anime Короткометражный фильм: Two top warriors launch their final дуэль against the backdrop of aerial ruins and thunderбуряs. The...
+테스트해본 결과입니다: 오리지널 열혈 결투 anime 단편으로, 두 최강의 전사가 공중 유적과 천둥번개를 배경으로 최후의 결투를 벌입니다. 이 작품은...
 
-Источник: [Пост](https://x.com/gkxspace/status/2039894982434111716) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/gkxspace/status/2039894982434111716) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/032.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1492,13 +1502,13 @@ Tested it:
 Original Hot-Blooded Duel Anime Short Film: Two top warriors launch their final duel against the backdrop of aerial ruins and thunderstorms. The camera emphasizes extreme speed, intense energy collisions and a sense of oppression from the characters. When moves are released, the surrounding buildings, clouds and debris are simultaneously affected by the force. The actions are like the top-level battle animation of TV anime, with theater-level color grading and lens language, focusing on highlighting the "highly intense, exciting, and blockbuster-like" vibe. A strong hook in the first 2 seconds, with a stable main body, coherent actions, movie-level composition and light and shadow, real texture, epic sense, strong emotion, high-definition details, suitable for social media communication. Completely original characters, worldview, costumes, weapons and moves, no copyright risks, and no use of well-known IPs, celebrity faces, brand logos or existing elements.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Промпт 35
+### 프롬프트 35
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Style Hollywood Haute Couture Fantasy blockbuster, 8K ultra-clear, Photoреалистичный, High-fashion Editorial Style, Unreal Engine 5 fluid rendering, visual...
+Hollywood 오뜨 꾸뛰르 판타지 블록버스터 스타일, 8K ultra-clear, Photorealistic, 하이패션 에디토리얼 스타일, Unreal Engine 5 fluid 렌더링, 시각적...
 
-Источник: [Пост](https://x.com/johnAGI168/status/2025849650654122348) · Опубликовано: 23 Feb 2026
+출처: [게시물](https://x.com/johnAGI168/status/2025849650654122348) · 게시일: 23 Feb 2026
 
 [![](./public/seedance_2_prompt_images/033.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1506,13 +1516,13 @@ Style Hollywood Haute Couture Fantasy blockbuster, 8K ultra-clear, Photoреал
 [Style] Hollywood Haute Couture Fantasy blockbuster, 8K ultra-clear, Photorealistic, High-fashion Editorial Style, Unreal Engine 5 fluid rendering, visual illusion. [Duration] 15 seconds. [Scene] An endless, real-life Salar de Uyuni (Sky Mirror) salt flat. The sky is filled with oppressive dark clouds, and the ground perfectly reflects everything like a mirror, with the overall picture presenting a minimalist, cool tone. [00:00-00:05] Shot 1: Haute Couture Entrance and Porcelain Skin. Camera position: Extremely low-angle upward shot, ultra-telephoto lens zoom-in. Action: An Asian female model with a highly recognizable, high-fashion face walks coolly on the water surface. Effect: She is wearing not fabric, but a long dress made of flowing, real Liquid Blue-and-White Porcelain. As she walks, the skirt makes a crisp collision sound like real ceramic, with a flowing luster on the surface. The traditional blue-and-white patterns move across the white porcelain-textured skirt as if alive. [00:05-00:10] Shot 2: Physical Shattering and Ink-wash Descent. Camera position: Extreme close-up of the face, focus rapidly pulls back. Action: The model suddenly stops, stares coldly at the camera, and snaps her fingers crisply. Effect: The moment the fingers snap, her blue-and-white porcelain dress does not fall, but instantly explodes into thousands of extremely photorealistic Ink-wash Swallows. These swallows carry real water droplets and ink marks, dragging black fluid afterimages in the air, spinning frantically around her. [00:10-00:15] Shot 3: Dimensional Dissolution and Abyss Reflection. Camera position: High-altitude overhead shot, camera rapidly rotates and descends. Action: The swarm of ink-wash swallows plunges into the mirrored lake water beneath the model's feet. Effect: The surface tension of the originally solid salt lake instantly disappears. The entire extremely realistic world begins to violently bleed and dissolve like concentrated ink dropped into clear water. The real dark clouds and the model's figure transform entirely into an extremely grand 3D Fluid Ink Vortex, completely swallowing the camera into a black and white interwoven abyss.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Персонаж
+### 캐릭터
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Style Modern Rural Эстетикаs, Кинематографичный Коммерческий quality, shot with Sony A7S3/cinema камера, 4K/8K ultra-clear, Extreme Macro, natural transparent...
+Modern Rural Aesthetics 스타일의 시네마틱 commercial 품질로, Sony A7S3/cinema camera 촬영, 4K/8K ultra-clear, Extreme Macro, 자연스럽고 투명한...
 
-Источник: [Пост](https://x.com/johnAGI168/status/2021818021354848258) · Опубликовано: 12 Feb 2026
+출처: [게시물](https://x.com/johnAGI168/status/2021818021354848258) · 게시일: 12 Feb 2026
 
 [![](./public/seedance_2_prompt_images/034.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1543,13 +1553,13 @@ Action: A delicate home-cooked dish is placed on the wooden long table in the ya
 Atmosphere: Steam slowly rises against the backlight, the scene is so quiet you can almost hear the wind, showcasing the ultimate sense of relaxation modern people yearn for.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Камера
+### 카메라
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-кинематографичный street racing последовательность at ночь, a focused driver inside a high-performance car grips the steering wheel, intense eye focus, город lights...
+밤의 시네마틱 street racing 시퀀스로, 고성능 차 안의 집중한 드라이버가 스티어링 휠을 움켜쥐고, 강렬한 시선과 도시의 불빛이...
 
-Источник: [Пост](https://x.com/CharaspowerAI/status/2039651574297792688) · Опубликовано: 02 Apr 2026
+출처: [게시물](https://x.com/CharaspowerAI/status/2039651574297792688) · 게시일: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/036.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1569,13 +1579,13 @@ Dense urban night environment, wet asphalt reflecting neon lights, tunnel passag
 Ultra realistic, fast and furious inspired energy, photorealistic lighting, intense motion blur, high contrast neon reflections, cinematic depth of field, extreme sense of speed, fluid transitions, no distortion, no stretching
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Промпт 49
+### 프롬프트 49
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Generate a visual blockbuster featuring an Asian supermodel and luxury sports cars with top-tier коммерческий quality, requiring director-level storyboard...
+아시아 슈퍼모델과 럭셔리 스포츠카가 등장하는 톱티어 commercial 품질의 비주얼 블록버스터를 생성하며, 감독급 스토리보드를 요구합니다...
 
-Источник: [Пост](https://x.com/johnAGI168/status/2039984306085327298) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/johnAGI168/status/2039984306085327298) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/046.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1583,13 +1593,13 @@ Generate a visual blockbuster featuring an Asian supermodel and luxury sports ca
 Generate a visual blockbuster featuring an Asian supermodel and luxury sports cars with top-tier commercial quality, requiring director-level storyboard arrangement and a fast-paced, high-end rhythm. 0-2 seconds: [Macro to Micro] The opening uses an extreme push-in shot, instantly cutting from the sharp headlights of the sports car with delayed afterimages to a close-up of the pupils of the top Asian supermodel, showcasing the ultimate Oriental charm. 2-5 seconds: [LOCKED-ON SHOT] The camera locks onto the model's profile, tracking her with a lateral pan (Tracking Shot) as she walks confidently and elegantly. The model wears a high-fashion silk evening gown, her hair slightly moving in the wind, against a background of a blurred neon urban viaduct. 5-8 seconds: [360-degree Orbit Shot] The model stands at the center intersection of three sports cars, and the camera quickly orbits around her at a low angle. Use slow motion (slow-motion processing) to capture her cold, stunning glance back, with eyes possessing strong aggression and high-end appeal. 8-10 seconds: [Low-angle Hero Shot] The camera quickly pulls back from a ground perspective to a full view. The model stands proudly in the center of the luxury car cluster. The composition presents perfect symmetrical aesthetics, with light focusing on the face, displaying queen-like dominance. Visual Style: Extreme cinematic realism, 2.35:1 widescreen. The overall color tone leans towards cool Teal & Orange, with natural film grain and soft highlights. The character's skin texture is delicate and natural, possessing the makeup and styling quality of a top luxury magazine. Sound Design: Heavy bass electronic ambient music. Sound effects must sync with the camera cuts (Swish sound effects), and the visual rhythm should breathe with the music beats. Control Instructions: Lock the facial features and high-end makeup of the Asian model, ensuring character consistency across various shots; action transitions must be smooth without stuttering; light and shadow should produce real-time physical reflections as the model moves.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Промпт 57
+### 프롬프트 57
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-An android девушка malfunctions and proceeds to destroy an evil research lab one after another. The evil boss, a doctor with a bad face, chases the девушка,...
+android 소녀가 오작동을 일으킨 뒤 악한 연구소를 차례차례 파괴합니다. 험상궂은 얼굴의 사악한 박사가 그녀를 뒤쫓고...
 
-Источник: [Пост](https://x.com/aiehon_aya/status/2040187587889905861) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/aiehon_aya/status/2040187587889905861) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/054.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1597,13 +1607,13 @@ An android девушка malfunctions and proceeds to destroy an evil research 
 An android girl malfunctions and proceeds to destroy an evil research lab one after another. The evil boss, a doctor with a bad face, chases the girl, shouting, "Waaah! Stop it! Please stop it!!" but the girl doesn't stop and continues to destroy things while laughing. In the end, there is a big explosion, and the lab is destroyed without a trace. The girl yawns and says, "Job complete," and falls asleep right there. The doctor kneels down, utterly dejected.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Позитивный промпт
+### 포지티브 프롬프트
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Positive Prompt: Original action game concept trailer. The protagonist travels through a neon ruined city, where the debris by the road emits faulty...
+Positive Prompt: 오리지널 액션 게임 콘셉트 트레일러입니다. 주인공은 네온으로 붕괴된 도시를 가로지르며, 길가의 잔해는 고장 난...
 
-Источник: [Пост](https://x.com/adrianaia_/status/2039972811067031657) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/adrianaia_/status/2039972811067031657) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/055.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1611,13 +1621,13 @@ Positive Prompt: Original action game concept trailer. The protagonist travels t
 Positive Prompt: Original action game concept trailer. The protagonist travels through a neon ruined city, where the debris by the road emits faulty advertising lights, and mechanical guards fall from the faults of high-rise buildings. After dodging with a slide, the protagonist pulls out a folding energy blade. The camera is like an AAA game debut trailer, with third-person follow, rapid switching between close-up and ultra-wide shots, strong rhythm and distinct scene layers. It finally stops at the silhouette of the boss's appearance, creating a strong feeling of "wanting to play this game". Negative Restrictions: No Cyberpunk 2077 logos, no well-known game UI, no existing game character outlines. A strong hook in the first 2 seconds, stable main body, coherent actions, movie-level composition, real light and shadow, epic sense, strong emotion, high-definition details, suitable for social media communication, avoiding copyrighted characters, avoiding brand logos, and completely original design.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Оригинальный dark fantasy экшн short film
+### 오리지널 다크 판타지 액션 단편
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Original Dark Fantasy Action Короткометражный фильм: Inside a dilapidated church, a white-clad warrior and a black-armored opponent launch their final битва amid an...
+오리지널 다크 판타지 액션 단편: 허물어진 교회 안에서 흰옷의 전사와 검은 갑주의 상대가 최후의 전투를 벌입니다...
 
-Источник: [Пост](https://x.com/Rufus87078959/status/2039949879607197828) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/Rufus87078959/status/2039949879607197828) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/066.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1625,13 +1635,13 @@ Original Dark Fantasy Action Короткометражный фильм: Inside
 Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-clad warrior and a black-armored opponent launch their final battle amid an atmosphere like a chorus. Stained glass shatters, moonlight penetrates the smoke and dust, and benches are overturned. The camera switches between high-angle overhead shots and low-angle upward shots, focusing on showing the sense of space of the religious building, the sense of oppression of the characters, and the temperament of a fateful decisive battle, just like the climax segment of an original fantasy animated film. A strong hook in the first 2 seconds, stable main body, coherent actions, movie-level composition, real light and shadow, epic sense, strong emotion, high-definition details, suitable for social media communication, avoiding copyrighted characters, avoiding brand logos, and completely original design.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### 00:00-00:04 Shot 1: сопровождающий кадр
+### 00:00-00:04 Shot 1: 팔로우 샷
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-00:00-00:04 Shot 1: Follow shot. In a smoky underground rave club, a female cyborg with an exposed red mechanical spine walks through the crowd. She...
+00:00-00:04 Shot 1: 팔로우 샷. 연기 자욱한 지하 rave club에서 붉은 기계 척추가 드러난 여성 cyborg가 군중 사이를 걸어갑니다. 그녀는...
 
-Источник: [Пост](https://x.com/IamEmily2050/status/2040213294443847933) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/IamEmily2050/status/2040213294443847933) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/070.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1639,13 +1649,13 @@ Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-cl
 [00:00-00:04] Shot 1: Follow shot. In a smoky underground rave club, a female cyborg with an exposed red mechanical spine walks through the crowd. She suddenly turns around, her delicate white porcelain face beginning to convulse violently. [00:04-00:10] Shot 2: Close-up to mid-shot. The cyborg's porcelain face doesn't just split; it is violently shattered from the inside like an eggshell. A massive amount of thick, black viscous fluid erupts outward as an alien head with rusted metallic fangs and multiple mandibles forces its way out of her neck. Simultaneously, her red mechanical spine violently tears through her back, mutating into a giant, multi-jointed metallic scorpion tail dripping with corrosive acid. [00:10-00:15] Shot 3: Wide shot. The club's lighting turns a sickly fluorescent green. The alien tail violently impales the dance floor, suspending the cyborg's ruined body in mid-air as it emits an ear-piercing, non-human shriek. The surrounding crowd is paralyzed with absolute terror, pinned against the walls by webs of black organic matter. Extreme biomechanical horror, terrifying VFX mixing flesh and metal.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Воительница-героиня пробуждения метеора
+### 유성 각성 전쟁 히로인
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-100% real-life shooting texture, Hollywood IMAX blockbuster quality, natural light and тень, cold documentary style, natural light on a cloudy day,...
+100% 실사 촬영 질감, Hollywood IMAX 블록버스터 품질, 자연광과 그림자, 차가운 다큐멘터리 스타일, 흐린 날의 자연광이 특징입니다,...
 
-Источник: [Пост](https://x.com/ChrisTheNerv/status/2040043939109953944) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/ChrisTheNerv/status/2040043939109953944) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/075.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1674,13 +1684,13 @@ Real light and shadow, visible skin texture on the face before transformation, v
 Layered progression from the scream activation to the explosive mechanical eruption, escalating to the takeoff point explosion and the sonic boom of the supersonic charge, finally cutting abruptly to silence. The entire sequence exudes absolute power. Generate sound effects only, no music.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Тень меча в облачной пещере
+### 구름 동굴 검영
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Эффектный one-shot в стиле wuxia на горе Тяньмэнь, созданный для скорости, удара и масштабной мифической martial-arts энергии.
+속도감, 충격감, 대규모 신화적 무협 에너지를 위해 설계된 톈먼산 배경의 wuxia 원테이크 스펙터클입니다.
 
-Источник: [Пост](https://x.com/Adam38363368936/status/2039865857179013318) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/Adam38363368936/status/2039865857179013318) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/081.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1732,13 +1742,13 @@ Action: He performs a sword flourish and sheathes the sword, placing it on his b
 Freeze Frame: The camera pushes in for an extreme close-up. A drop of blood drips from the edge of the bamboo hat, tracing his jawline. His eyes are sharp as lightning, with the vast landscape in the background.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Промпт 98
+### 프롬프트 98
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-"Dramatic low-angle tracking shot speeding along rain-slicked train tracks through a narrow mountain gorge. Dark rocky cliff walls rise on both sides, with...
+"비에 젖은 철길을 따라 좁은 산악 협곡을 질주하는 극적인 low-angle tracking shot입니다. 양옆으로 어두운 바위 절벽이 솟아 있고...
 
-Источник: [Пост](https://x.com/ImperfectEngel/status/2039796558238286329) · Опубликовано: 02 Apr 2026
+출처: [게시물](https://x.com/ImperfectEngel/status/2039796558238286329) · 게시일: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/095.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1746,13 +1756,13 @@ Freeze Frame: The camera pushes in for an extreme close-up. A drop of blood drip
 "Dramatic low-angle tracking shot speeding along rain-slicked train tracks through a narrow mountain gorge. Dark rocky cliff walls rise on both sides, with overhead bridges and power lines crossing above. Moody overcast sky. The camera rushes forward at high speed. Two women — one with pink hair in all-black tactical gear, the other in a white bodysuit — fight on top of the moving train, exchanging martial arts blows as sparks fly. Dynamic action choreography, dark teal-grey color grade, cinematic speed and motion blur, sci-fi action film aesthetic."
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Промпт 112
+### 프롬프트 112
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Hollywood movie-level коммерческий blockbuster quality, handheld photography, slight камера shake, fast-paced montage editing, the scene is full of energy and...
+Hollywood 영화급 commercial 블록버스터 품질, handheld 촬영, 미세한 카메라 흔들림, 빠른 montage 편집으로, 장면 전체가 에너지와...
 
-Источник: [Пост](https://x.com/johnAGI168/status/2039277115690877430) · Опубликовано: 01 Apr 2026
+출처: [게시물](https://x.com/johnAGI168/status/2039277115690877430) · 게시일: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/109.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1764,13 +1774,13 @@ The open-plan office hall of a luxurious securities company in Manhattan, USA, i
 00:09-00:15 The protagonist single-handedly pounds his chest, raising his other fist high, saying the last sentence in a low, forceful voice: "This is who we are." The camera suddenly pulls back from the close-up to a panoramic view—the hundreds of people in the hall erupt in the highest climax of shouting at the same moment. Ribbons pour down, the camera slightly tilts up to capture the protagonist's silhouette standing against the light at the top of the crowd, freezing in that high-energy moment where heroism and madness coexist.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### (Poliziottesco Wednesday)
+### (폴리지오테스코 웬즈데이)
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-(Poliziottesco Wednesday): Detective Rossi: Deep Heat (Commissario Rossi: la polizia in crisi nera). A crime wave has hit the город and the cops can't seem...
+(Poliziottesco Wednesday): Detective Rossi: Deep Heat (Commissario Rossi: la polizia in crisi nera). 범죄 물결이 도시를 덮쳤고 경찰은 좀처럼...
 
-Источник: [Пост](https://x.com/ChrisGwinnLA/status/2039456415111393356) · Опубликовано: 01 Apr 2026
+출처: [게시물](https://x.com/ChrisGwinnLA/status/2039456415111393356) · 게시일: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/118.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1779,13 +1789,13 @@ The open-plan office hall of a luxurious securities company in Manhattan, USA, i
 A crime wave has hit the city and the cops can't seem to get it together. Detective Rossi has had enough of the bureaucracy and the politicians tying his men's hands (and freeing the criminals to terrorize the city again!) - but can one hardnosed cop make a difference in a world gone mad? Maybe this nosey journalist can become an important ally!
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Fashion-реклама складного смартфона
+### 폴더블 스마트폰 패션 광고
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Коммерческий fashion-tech промпт для gradient foldable smartphone с macro-деталями, резкими склейками и premium motion language.
+그라데이션 폴더블 스마트폰을 위해 macro 디테일, 날카로운 컷, 프리미엄한 모션 언어를 담은 상업용 fashion-tech 프롬프트입니다.
 
-Источник: [Пост](https://x.com/Adam38363368936/status/2039157138002780202) · Опубликовано: 01 Apr 2026
+출처: [게시물](https://x.com/Adam38363368936/status/2039157138002780202) · 게시일: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/121.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1805,17 +1815,17 @@ Quality: 4K high definition, commercial advertisement quality, smooth dynamics, 
 Requirements: Fast pace, tight transitions, high-end fashion, youthful energy, no people appearing.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-## На основе референсов
+## 레퍼런스 기반
 
-Промпты, которые опираются на image references, консистентность персонажа или покадровый контроль.
+이미지 레퍼런스, 캐릭터 일관성, 프레임 간 제어에 의존하는 프롬프트입니다.
 
-### Миниатюрное diorama-выступление скелета-пианистки
+### 스켈레톤 피아니스트 미니어처 디오라마 공연
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-A whimsical clay-animation пианино performance starring a stylish skeleton девушка in a miniature ghost-filled diorama.
+유령으로 가득한 미니어처 디오라마 속 stylish 스켈레톤 소녀가 주인공인 whimsical clay-animation 피아노 공연입니다.
 
-Источник: [Пост](https://x.com/tea_story_hoshi/status/2040614786933887043) · Опубликовано: 05 Apr 2026
+출처: [게시물](https://x.com/tea_story_hoshi/status/2040614786933887043) · 게시일: 05 Apr 2026
 
 [![](./public/seedance_2_prompt_images/011.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1835,13 +1845,13 @@ Timeline:
 [00:03-00:07] Shot 3: Slight tracking close-up focused on her face and the piano keys. She ends the performance with a dramatic finale and lifts her hands from the keys as the ghosts glow more brightly in the warm light. She turns toward the camera and gives a gentle nod. Audio: the final elegant piano chord re
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Принцесса штормового корабля против кракена
+### 폭풍의 배 위 공주 vs 크라켄
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square)
-Anime-экшн-промпт о шторме в море, сочетающий ship physics, разрушение кракена и героическую последовательность удара мечом.
+선박 physics, kraken 파괴, 영웅적인 검격 시퀀스를 결합한 폭풍우 바다 배경의 anime 액션 프롬프트입니다.
 
-Источник: [Пост](https://x.com/applete77191758/status/2040450526819807277) · Опубликовано: 04 Apr 2026
+출처: [게시물](https://x.com/applete77191758/status/2040450526819807277) · 게시일: 04 Apr 2026
 
 [![](./public/seedance_2_prompt_images/015.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1913,13 +1923,13 @@ Clean, sharp "slash" feeling / impact frame
 Motion blur + light streaks
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Танец клинков maid: Mei vs Coco
+### 메이드 블레이드 댄스: Mei vs Coco
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Структурированный дуэльный промпт, определяющий двух персонажей, их оружие, логику движения, camera setup и покадровую choreography.
+두 캐릭터와 각자의 무기, 움직임 로직, 카메라 설정, 컷별 안무를 정의한 구조화된 결투 프롬프트입니다.
 
-Источник: [Пост](https://x.com/MiraMusic_AI/status/2040281710957666770) · Опубликовано: 04 Apr 2026
+출처: [게시물](https://x.com/MiraMusic_AI/status/2040281710957666770) · 게시일: 04 Apr 2026
 
 [![](./public/seedance_2_prompt_images/019.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -1993,13 +2003,13 @@ Notes:
 - "Moonlight and shoji screens reinforce the Japanese duel atmosphere."
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Апокалиптическое прощание с пианино на крыше
+### 종말적 옥상 피아노 이별
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
-Апокалиптический music-video промпт о девушке, поющей за пианино на крыше, пока метеоры разрушают город вокруг нее.
+유성이 도시를 파괴하는 가운데 소녀가 옥상 피아노 앞에서 노래하는 종말적 music-video 프롬프트입니다.
 
-Источник: [Пост](https://x.com/liyue_ai/status/2040062803076341872) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/liyue_ai/status/2040062803076341872) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/028.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2027,13 +2037,13 @@ Simulated equipment: IMAX film camera with Panavision C-series lenses, including
 Color and tonality: Hollywood teal-and-orange tone, low saturation. Generate the footage in a realistic visual style.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### CINEMATIC 8mm fisheye lens, FPV racing drone camera, гиперплавное движение
+### CINEMATIC 8mm Fisheye lens, FPV racing drone camera, hyper-fluid motion
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-CINEMATIC 8mm Fisheye lens, FPV racing drone камера, hyper-fluid motion. @Image 1 (Lanky Kночь, red coat) on a longboard. @Image 2 (Steep coastal mountain...
+CINEMATIC 8mm Fisheye 렌즈, FPV racing drone 카메라, hyper-fluid motion. 롱보드를 탄 @Image 1 (Lanky Knight, red coat)과 @Image 2 (가파른 해안 산악...)를 사용합니다.
 
-Источник: [Пост](https://x.com/itsPixieVerse/status/2040030453298811099) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/itsPixieVerse/status/2040030453298811099) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/048.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2045,13 +2055,13 @@ CINEMATIC 8mm Fisheye lens, FPV racing drone камера, hyper-fluid motion. @
 10-15s: [Impact & rapid pull-back] [@Image 1] lands flawlessly, wheels smoking. The camera snaps backward in a rapid reverse-dolly motion, showcasing the majestic landscape as [@Image 1] speeds away.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Субъект
+### 주체
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Subject:@Image 1 Photorealistic Image reference. A professional stuntman and kung-fu master performing full-body, high-speed, functional kung-fu. Movement...
+주체: @Image 1 Photorealistic Image reference. 전문 스턴트맨이자 kung-fu 마스터가 전신을 사용한 고속의 실전형 kung-fu를 수행합니다. 움직임은...
 
-Источник: [Пост](https://x.com/YaReYaRu30Life/status/2039971048305930643) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/YaReYaRu30Life/status/2039971048305930643) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/059.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2064,13 +2074,13 @@ Movement Rule:
 Constant full-speed forward
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Ray tracing, Unreal Engine render, маленький город под сильным дождем
+### Ray tracing, Unreal Engine render, 폭우 속 작은 마을
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Ray tracing, Unreal Engine render, small town in heavy rain. @image1 персонаж with identical hairstyle, outfit, реалистичный skin, dim lighting, IMAX...
+Ray tracing, Unreal Engine render, 폭우 속 작은 마을. @image1 캐릭터는 동일한 헤어스타일, 의상, realistic skin, 어두운 조명, IMAX...
 
-Источник: [Пост](https://x.com/Gwsubsa/status/2040193631341174792) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/Gwsubsa/status/2040193631341174792) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/071.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2078,13 +2088,13 @@ Ray tracing, Unreal Engine render, small town in heavy rain. @image1 персо�
 Ray tracing, Unreal Engine render, small town in heavy rain. @image1 character with identical hairstyle, outfit, realistic skin, dim lighting, IMAX cinematic, 35mm lens, 4:3 ratio, grey-blue low saturation, film grain, soft god-rays, cold expression, smooth motion, glowing sword trail. 1–3s: Camera tilts up from feet to full body; rain splashes burst under steps. 3–6s: Close-up feet stepping forward, blue shockwave spreads; world desaturates, rain freezes mid-air; camera pulls back, blue aura flows from body. 6–9s: Upper-body close-up; hands gather at chest, suspended rain forms water sword; blue light converges, droplets create massive sphere. 9–12s: Side face close-up; faint blue glow, slash upward; sword dissolves, arc energy explodes with rain; camera follows sky cut, clouds split; golden dragon and fire dragon emerge flying.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Ночная смена в лунном convenience store
+### 달 위 편의점 야간 근무
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square)
-Use real-zasuko-2.0-персонаж-sheet-dx.png as the персонаж reference. Start with a wide кинематографичный shot of the lonely convenience store on the moon before...
+real-zasuko-2.0-character-sheet-dx.png를 캐릭터 레퍼런스로 사용합니다. 먼저 달 위 외딴 편의점을 보여주는 wide cinematic shot으로 시작한 뒤...
 
-Источник: [Пост](https://x.com/zasuko_michiksa/status/2039650311212872036) · Опубликовано: 02 Apr 2026
+출처: [게시물](https://x.com/zasuko_michiksa/status/2039650311212872036) · 게시일: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/084.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2092,13 +2102,13 @@ Use real-zasuko-2.0-персонаж-sheet-dx.png as the персонаж refere
 Use `real-zasuko-2.0-character-sheet-dx.png` as the character reference. Start with a wide cinematic shot of the lonely convenience store on the moon before cutting inside. Create a photorealistic 15-second surreal live-action video of Michikusa Zasuko working a night shift at a convenience store.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Пробуждение на крыше и трансформация в F-14
+### 옥상 각성에서 F-14 변신까지
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
-Длинная последовательность трансформации, которая развивается от спринта по крыше к захвату в свободном падении, а затем к метаморфозе автомобиля в реактивный самолет.
+옥상 질주에서 자유낙하 포착, 자동차에서 제트기로의 변태로 점층적으로 확장되는 롱폼 변신 시퀀스입니다.
 
-Источник: [Пост](https://x.com/john87445528/status/2039496153641660508) · Опубликовано: 02 Apr 2026
+출처: [게시물](https://x.com/john87445528/status/2039496153641660508) · 게시일: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/088.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2110,13 +2120,13 @@ Chapter 2 (0-15 seconds): Freefall · Purple AITO M7 Enters the Frame. Style: ru
 Chapter 3 (0-15 seconds): AITO M7 Transforms -> Becomes an F-14 -> Protagonist Stands on the Aircraft Back and Takes Off. Style: rugged realism, 35mm handheld film aesthetic, natural grain, subtle shake. Camera: multi-angle follow coverage including ground tracking, low angle close to the ground, aircraft side view, and protagonist first-person view, all following the aircraft tightly throughout the transformation. Transformation details must remain clearly visible. Atmosphere: light smoke and heat haze drift across the Chongqing road. Cyber blue-purple light refracts between buildings. Noon sunlight produces dazzling reflections and strong shadows across the metal surfaces. Sound effects: engine roar surges -> metal skin bursts and folds -> deep hydraulic tremor as the wings unfold -> metallic gripping sound as the protagonist climbs the exterior -> cockpit seal pops and is immediately drowned by wind noise -> explosive ignition of twin engines -> piercing shriek as the F-14 takes off and breaks the air -> powerful high-altitude wind overtakes the entire soundscape. [Visual Reference / Description] The purple AITO M7 completes a full transformation while driving on the Chongqing road, changing from a car into an F-14 fighter jet, as shown in Image 2. During the transformation, the protagonist clings to and climbs along the aircraft exterior in a dangerous and exposed position. She finally stands centered on the back of the F-14, legs slightly apart to stabilize her balance. Her white suit and ponytail whip violently in the extreme airflow. The F-14 takes off directly from the Chongqing road, and the protagonist remains standing firmly on its back. [Timeline per Second] 0-4s: [Road Acceleration · Transformation Start] The AITO M7 accelerates rapidly along the Chongqing road. Body panels burst open one after another and unfold. The hood rolls upward and becomes mechanical structure. The doors fold outward. The metal skin cracks along structural lines, revealing the cold mechanical interior. The protagonist climbs dangerously toward the top of the aircraft while gripping the transforming metal skeleton. She jumps and shifts position in sync with the aircraft's changing shape. The camera tracks every detail from close to the side of the aircraft. 4-6s: [Wings Unfold · Engines Fully Reassemble] The F-14's iconic swept wings snap open from the folded state and lock into place. The camera captures a low-angle near-ground full view of the wing deployment. Heat haze and dust are blasted up by the airflow from the wings. The twin engine nacelles violently reassemble into jet structures, emitting blue-purple thrust flames. The exhaust scorches the road surface. By now, the protagonist has climbed to the center of the aircraft's back, feet planted firmly, standing upright as the transformation completes. 6-8s: [Protagonist Stands on Aircraft Back · Takes Off] The instant the transformation completes, the protagonist stands fully upright on the back of the F-14. The hem of her white suit flies up in the strong airflow, and her ponytail extends horizontally. The silver mechanical parts reflect the noon sun intensely. The F-14's twin engines ignite at full power. The aircraft surges forward, the front wheel lifts, and the rear wheels leave the asphalt at the last possible moment. The nose pitches upward, carrying the protagonist into the Chongqing sky while she remains standing on its back. 8-15s: [Takeoff and Low City Skim · Protagonist Holds Position] The F-14 climbs vertically, then abruptly lowers its nose and skims over Chongqing at ultra-low altitude.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Character reference @Image 1, конвертация в real-person live-action style
+### Character reference @Image 1을 실사 live-action 스타일로 변환
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Персонаж reference @Image 1, convert to real-person live-action style. Model figure, cool white skin, slender arms, prominent bust and hips. 15-second...
+Character reference @Image 1을 실사 live-action 스타일로 변환합니다. 모델 체형, 차가운 백색 피부, 가느다란 팔, 도드라진 가슴과 엉덩이. 15초...
 
-Источник: [Пост](https://x.com/Adam38363368936/status/2039646077230698743) · Опубликовано: 02 Apr 2026
+출처: [게시물](https://x.com/Adam38363368936/status/2039646077230698743) · 게시일: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/103.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2143,13 +2153,13 @@ Shot Breakdown (15 shots in 15 seconds):
 00:14 | Shot 15: Handheld full body freeze frame, girl turns her back to the camera looking at the city, mixing ease and sadness; foreground is the back view of the flowing skirt, background is the vast dusk and river of cars, ending with negative space.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Формат
+### 형식
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 FORMAT: 15s / free rhythm / 1 MATCH CUT / CONTINUOUS MOVE UNTIL MATCH CUT + IMMEDIATE ACTION FROM FIRST FRAME SUBJECTS: A lone sword-bearing woman in...
 
-Источник: [Пост](https://x.com/aimikoda/status/2039380910278115454) · Опубликовано: 01 Apr 2026
+출처: [게시물](https://x.com/aimikoda/status/2039380910278115454) · 게시일: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/112.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2159,13 +2169,13 @@ FORMAT: 15s / free rhythm / 1 MATCH CUT / CONTINUOUS MOVE UNTIL MATCH CUT + IMME
 SUBJECTS: A lone sword-bearing woman in weathered fur and leather fights a massive polar bear with desperate,
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Бесшовная морфинг-последовательность из семи изображений
+### 7장 이미지 심리스 모핑 시퀀스
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square)
-Переиспользуемый morphing-шаблон для превращения семи статичных изображений в один контролируемый непрерывный кадр трансформации.
+7장의 정지 이미지를 하나의 통제된 연속 변신 샷으로 바꾸는 재사용 가능한 모핑 템플릿입니다.
 
-Источник: [Пост](https://x.com/YaReYaRu30Life/status/2039474680235741681) · Опубликовано: 01 Apr 2026
+출처: [게시물](https://x.com/YaReYaRu30Life/status/2039474680235741681) · 게시일: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/114.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2233,17 +2243,17 @@ consistent subject identity
 seamless transformation flow
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-## Сюрреализм / VFX
+## 초현실 / VFX
 
-Абстрактные, невозможные, стилизованные или насыщенные эффектами промпты, построенные на трансформации и зрелищности.
+변형과 스펙터클을 중심으로 한 추상적이고, 불가능하며, stylized되고, 효과가 강한 프롬프트입니다.
 
-### Бой на катанах в невесомости
+### 무중력 Katana 전투
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Seedance 2.0 Zero-gravity combat scene. If you also reference music, it can follow the beat surprisingly well. промпт:
+Seedance 2.0 무중력 전투 장면입니다. 음악까지 함께 레퍼런스로 넣으면 놀랄 만큼 비트도 잘 따라갑니다. prompt:
 
-Источник: [Пост](https://x.com/MiraMusic_AI/status/2040584525781364874) · Опубликовано: 05 Apr 2026
+출처: [게시물](https://x.com/MiraMusic_AI/status/2040584525781364874) · 게시일: 05 Apr 2026
 
 [![](./public/seedance_2_prompt_images/013.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2283,13 +2293,13 @@ Figures drift slowly in silence.
 She regains balance, floating motionless as the scene holds on a final frame.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Воздушный кадр
+### 항공 샷
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Whale in the Clouds — A кинематографичный surreal epic короткометражный фильм, ultra-реалистичный magical realism. Late afternoon, a coastal город. Warm sunlight, sea mist...
+Whale in the Clouds — 시네마틱한 초현실 서사 단편으로, ultra-realistic magical realism 스타일입니다. 늦은 오후의 해안 도시, 따뜻한 햇살과 바다 안개가...
 
-Источник: [Пост](https://x.com/chaosdotjpg/status/2040203827249398086) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/chaosdotjpg/status/2040203827249398086) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/051.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2298,13 +2308,13 @@ Whale in the Clouds — A cinematic surreal epic short film, ultra-realistic mag
 Aerial shot: skyline,
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Промпт 85
+### 프롬프트 85
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-A diver floats motionless in pitch-black ocean depth, a single beam of light cutting through the dark. Bioluminescent veins begin threading across their...
+완전히 새까만 심해에서 잠수부가 가만히 떠 있고, 한 줄기 빛이 어둠을 가릅니다. 생물발광의 결이 그의 몸 위로 퍼지기 시작하며...
 
-Источник: [Пост](https://x.com/AIARTGALLARY/status/2039964736419479576) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/AIARTGALLARY/status/2039964736419479576) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/082.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2312,13 +2322,13 @@ A diver floats motionless in pitch-black ocean depth, a single beam of light cut
 A diver floats motionless in pitch-black ocean depth, a single beam of light cutting through the dark. Bioluminescent veins begin threading across their body in accelerated time, skin shifting to iridescent obsidian scales, limbs fusing into massive finned appendages. The figure swells to monstrous proportions, displacing water in shockwave pulses. Final shot: a colossal sea creature dissolving into the abyss. WETA-level underwater VFX, deep teal and void-black tones.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Реальность раскалывается
+### 현실이 갈라진다
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-A towering humanoid entity made of shifting translucent geometry appears above a megaгород skyline, its body composed of overlapping dimensional planes...
+변화하는 반투명 기하 구조로 이루어진 거대한 인간형 존재가 메가시티 스카이라인 위에 나타나고, 그 몸은 겹쳐진 차원 평면들로 구성됩니다...
 
-Источник: [Пост](https://x.com/LudovicCreator/status/2039768597241725132) · Опубликовано: 02 Apr 2026
+출처: [게시물](https://x.com/LudovicCreator/status/2039768597241725132) · 게시일: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/092.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2354,13 +2364,13 @@ The dimensional entity stands between them.
 Diegetic prismatic dimensional light reflecting through fractured architecture and overlapping skylines, cinematic multiverse distortion effects, particle fragments of shattered reality, 4K.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Слияние в дождливом подземном переулке
+### 비 내리는 지하 골목 합체
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Rainy Underground Alley Merge 15-second surreal horror in a narrow rainy underground service alley, neon signs reflecting on puddles, steam rising from...
+Rainy Underground Alley Merge는 비 내리는 좁은 지하 서비스 골목에서 벌어지는 15초 초현실 호러로, 웅덩이에 반사되는 네온 사인과 피어오르는 증기가 특징입니다...
 
-Источник: [Пост](https://x.com/Dheepanratnam/status/2039796932562838010) · Опубликовано: 02 Apr 2026
+출처: [게시물](https://x.com/Dheepanratnam/status/2039796932562838010) · 게시일: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/096.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2370,13 +2380,13 @@ Rainy Underground Alley Merge
 [0-1.5s] Shot 1: Wide tracking shot, young woman in black leather jacket walks cautiously through rain, breath visible,
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Видео-промпт
+### 비디오 프롬프트
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Video промпт Quantum Reality Fracture on Город Street (Interdimensional Rift VFX) Кинематографичный 15-second high-budget sci-fi horror последовательность on a rain-slicked...
+비디오 프롬프트 Quantum Reality Fracture on City Street (Interdimensional Rift VFX)는 비에 젖은 거리 위에서 벌어지는 시네마틱 15초 고예산 sci-fi 호러 시퀀스입니다...
 
-Источник: [Пост](https://x.com/Dheepanratnam/status/2039651240909435242) · Опубликовано: 02 Apr 2026
+출처: [게시물](https://x.com/Dheepanratnam/status/2039651240909435242) · 게시일: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/097.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2390,13 +2400,13 @@ Cinematic 15-second high-budget sci-fi horror sequence on a rain-slicked downtow
 [0-1.5s] Shot 1: Epic wide crane
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### глаз внезапно открывается
+### 눈이 갑자기 열린다
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-кинематографичный anime крупный план shot of a персонаж's eye, extreme macro, eyelashes and skin texture visible, soft breathing motion, eye slowly closing, calm and...
+캐릭터 눈의 cinematic anime 클로즈업 샷으로, extreme macro 구도에서 속눈썹과 피부 질감이 보이고, 부드러운 호흡 움직임 속에 눈이 천천히 감기며 차분하고...
 
-Источник: [Пост](https://x.com/roco_kn_roco/status/2039323186127630710) · Опубликовано: 01 Apr 2026
+출처: [게시물](https://x.com/roco_kn_roco/status/2039323186127630710) · 게시일: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/106.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2418,13 +2428,13 @@ camera continues slow push-in, reflections in the eye show impossible space (lik
 ultra detailed anime style, cinematic lighting, high contrast, no cartoon exaggeration, elegant and mysterious, no text
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Они сталкиваются в воздухе над парящей рекой лавы
+### 공중에 떠 있는 용암 강 위에서 충돌한다
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-A surreal volcanic sky realm where islands of black rock float above rivers of molten lava flowing through the air like suspended waterfalls. The sky burns...
+검은 암석 섬들이 공중에 떠 있는 용암 강 위에 매달린 폭포처럼 흐르는 초현실적 화산 하늘 세계입니다. 하늘은 타오르고...
 
-Источник: [Пост](https://x.com/LudovicCreator/status/2039258991809773666) · Опубликовано: 01 Apr 2026
+출처: [게시물](https://x.com/LudovicCreator/status/2039258991809773666) · 게시일: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/116.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2448,17 +2458,17 @@ Fast aerial tracking through lava-lit clouds, briefly passing behind a floating 
 Photorealistic fire simulation, volumetric storm clouds, ray-traced lava glow, cinematic lightning illumination, stable geometry, 8K.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-## Шаблоны и структурированные форматы
+## 템플릿 및 구조화 형식
 
-Переиспользуемые каркасы промптов, JSON-style спецификации и высокоструктурированные форматы промптов.
+재사용 가능한 프롬프트 골격, JSON 스타일 스펙, 고도로 구조화된 프롬프트 형식입니다.
 
-### Катастрофическое затопление supercarrier
+### 초대형 항공모함의 대재앙 침몰
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
-Военно-катастрофический промпт, сосредоточенный на катастрофическом коллапсе авианосца, гигантских штормовых волнах и насыщенной практической детализации разрушений.
+항공모함 붕괴 대재앙, 거대한 폭풍 파도, 무거운 practical 파괴 디테일에 초점을 맞춘 군사 재난 프롬프트입니다.
 
-Источник: [Пост](https://x.com/johnAGI168/status/2040432247094870343) · Опубликовано: 04 Apr 2026
+출처: [게시물](https://x.com/johnAGI168/status/2040432247094870343) · 게시일: 04 Apr 2026
 
 [![](./public/seedance_2_prompt_images/016.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2470,13 +2480,13 @@ Seedance 2.0 text-to-video prompt below:
 {"lang":"en","prompt":"Style and atmosphere: apocalyptic naval destruction, with low-saturation steel blue and gunmetal gray as the primary palette. Amber explosions and aviation-fuel flames tear through the gray field. Towering storm cumulonimbus clouds are lit from within by lightning. Rain lines cut across every surface. Telephoto compression layers destruction on top of destruction. Live-action brutal aesthetics--no clean CG gloss, only grit, weight, and mass. Motion description: an extreme long aerial drone pullback shows a supercarrier catastrophically listing to port in monstrous waves, with the flight deck tilted beyond forty-five degrees and seawater washing across it as a white sheet of surf. Three fighter jets break free of their tie-down chains at the same time, sliding sideways across the slick steel deck. Their landing gear scrapes metal and throws long chains of sparks, and the first jet flips over the deck edge into the churning gray sea. Hard cut to a handheld medium low-angle shot from water level looking upward--the carrier's hull towers overhead like a collapsing skyscraper. Barnacle-covered steel plates groan and bend, rivets eject one after another like automatic gunfire, and a structural crack splits open from the middle of the hull, with shockwaves rippling across the metal skin. Seawater pours through the widening rupture. Cut to a stable circling wide tracking shot--the carrier breaks in two at the fracture point, the bow plunging forward into a giant swell while the stern rises toward the sky, exposing propellers still spinning in the air. Tons of seawater cascade off the lifted stern like a cluster of waterfalls. Aviation fuel ignites on the sea surface--flames spread outward in a widening ring across the water, and twisted black smoke columns rise into the storm. An abnormal twenty-meter wave surges in from the left side of frame and slams head-on into the tilting bow. White spray explodes sixty meters into the air and swallows the entire forward structure. Static description: catastrophic structural failure of a Nimitz-class supercarrier. North Atlantic storm conditions--fifteen-meter swells, horizontal rain, and sixty-knot winds blowing the wave crests into mist. Thundercloud base at three hundred meters with internal lightning illumination. The flight deck is littered with loose aircraft, broken tie-down chains, and seawater. The hull is split open at the center, exposing interior deck layers. Aviation fuel burns on the sea surface. An abnormal giant wave approaches from port."}
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Реконструкция осколков памяти
+### 기억 파편의 재구성
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 "effectid": "ethereal02", "title": "Reconstruction of Memory Shards", "visualstyle": "Abstract Cinematic / Art Installation", "duration": "10s",
 
-Источник: [Пост](https://x.com/TechTalkNAVI/status/2040327899606306840) · Опубликовано: 04 Apr 2026
+출처: [게시물](https://x.com/TechTalkNAVI/status/2040327899606306840) · 게시일: 04 Apr 2026
 
 [![](./public/seedance_2_prompt_images/018.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2499,13 +2509,13 @@ Seedance 2.0 text-to-video prompt below:
 #CapCutSeedance2
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### От blueprint к реальности – трансформация одноэтажного дома
+### 블루프린트에서 현실로 – 단층 주택 변환
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 "videoprompt": "duration": "15 seconds", "title": "Blueprint to Reality – Single-Story House Transformation", "style": "Architectural visualization,...
 
-Источник: [Пост](https://x.com/craftian_keskin/status/2039053365666037902) · Опубликовано: 31 Mar 2026
+출처: [게시물](https://x.com/craftian_keskin/status/2039053365666037902) · 게시일: 31 Mar 2026
 
 [![](./public/seedance_2_prompt_images/024.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2564,13 +2574,13 @@ Seedance 2.0 text-to-video prompt below:
  "action": "Walls begin extruding upward from the 2D plan — all interior walls rise simultaneously, preserving exact footprint. Garage walls, bedroom walls, k
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Martial-arts haute couture портной
+### 무술 오뜨 꾸뛰르 재단사
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
-High-fashion tailoring-промпт в стиле martial arts, где couture-ремесло поставлено как точный бой внутри роскошной студии.
+럭셔리 스튜디오 안에서 couture 제작 과정을 정밀 전투처럼 연출한 하이패션 무술 재단 프롬프트입니다.
 
-Источник: [Пост](https://x.com/Adam38363368936/status/2037359552849666514) · Опубликовано: 27 Mar 2026
+출처: [게시물](https://x.com/Adam38363368936/status/2037359552849666514) · 게시일: 27 Mar 2026
 
 [![](./public/seedance_2_prompt_images/027.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2600,13 +2610,13 @@ TIMELINE:
 0:12-0:15: stable POV. Dust settles. She lifts the finished gown with one hand and snaps it open in front of the camera. The lens focuses on the exquisite embroidery at the collar. She flicks a button with her nail--the button vibrates. She then turns and walks into the shadows, leaving only her back as the frame is completely covered by an expensive perfume mist that rises and fades out cleanly.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Формат
+### 형식
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 FORMAT: 15s / 145 BPM / 15 SHOTS / beat-synced routine SUBJECT: @image1. WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top,...
 
-Источник: [Пост](https://x.com/aimikoda/status/2040200435986817039) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/aimikoda/status/2040200435986817039) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/053.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2617,13 +2627,13 @@ SUBJECT: @[image1].
 WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top, trousers, and lace-up shoes outside.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### "Локация"
+### "위치"
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 "location": "Tokyo Cityscape (Night)", "duration": "10s", "prompt": "A cinematic POV shot riding an invisible rollercoaster through Tokyo at night. A...
 
-Источник: [Пост](https://x.com/TechTalkNAVI/status/2039941029265355123) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/TechTalkNAVI/status/2039941029265355123) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/061.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2640,13 +2650,13 @@ WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top, trou
 }
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### "Локация"
+### "위치"
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 "location": "Nishi-Shinjuku Skyscraper District (near Tokyo Metropolitan Government Building)", "duration": "10s", "prompt": "A wide cinematic shot of the...
 
-Источник: [Пост](https://x.com/TechTalkNAVI/status/2039928267323658399) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/TechTalkNAVI/status/2039928267323658399) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/062.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2663,13 +2673,13 @@ WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top, trou
 }
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Тень звездного света / Силуэт звездной пыли
+### 별빛 그림자 / 성진 실루엣
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 "sceneid": 4, "title": "Starlight Shadow / Stardust Silhouette", "duration": "10s", "visualstyle": "Fantasy / High-End Commercial",
 
-Источник: [Пост](https://x.com/TechTalkNAVI/status/2039904725639037110) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/TechTalkNAVI/status/2039904725639037110) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/063.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2695,13 +2705,13 @@ WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top, trou
 }
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Субъекты
+### 대상
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 SUBJECTS: Main Subject: A parkour expert in POV perspective, defined by visible arms, hands, forearms, shoe tips, lower knees, grips, hand placements, wall...
 
-Источник: [Пост](https://x.com/0xbisc/status/2040041171460968728) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/0xbisc/status/2040041171460968728) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/083.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2713,13 +2723,13 @@ Main Subject: A parkour expert in POV perspective, defined by visible arms, hand
 Style: Painterly 3D, stylized on real human anatomy
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Формат
+### 형식
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 FORMAT: 15s / 180 BPM / ONE CONTINUOUS SHOT / 360 POV downhill stair run, viral energy, max chaos SUBJECTS: First-person cyclist, handlebars and front wheel...
 
-Источник: [Пост](https://x.com/aimikoda/status/2039827756083540361) · Опубликовано: 02 Apr 2026
+출처: [게시물](https://x.com/aimikoda/status/2039827756083540361) · 게시일: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/090.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2729,13 +2739,13 @@ FORMAT: 15s / 180 BPM / ONE CONTINUOUS SHOT / 360 POV downhill stair run, viral 
 SUBJECTS: First-person cyclist, handlebars and front wheel flashing low in frame during drops and hard turns. Vendors, laundry, scooters, dogs, chickens, cars, and
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### "Промпт"
+### "프롬프트"
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 "prompt": "Cinematic, hyper-realistic or stylized 3D/2.5D rendering of food and characters, with strong motion and dynamic camera work. Vibrant, saturated...
 
-Источник: [Пост](https://x.com/Just_sharon7/status/2039725656393875580) · Опубликовано: 02 Apr 2026
+출처: [게시물](https://x.com/Just_sharon7/status/2039725656393875580) · 게시일: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/094.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2757,13 +2767,13 @@ SUBJECTS: First-person cyclist, handlebars and front wheel flashing low in frame
 }
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Формат
+### 형식
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 FORMAT: 15s / single continuous impossible camera move / no dialogue STYLE: High-end commercial kitchen during dinner rush, gleaming stainless steel, flying...
 
-Источник: [Пост](https://x.com/Dheepanratnam/status/2039568902481387645) · Опубликовано: 02 Apr 2026
+출처: [게시물](https://x.com/Dheepanratnam/status/2039568902481387645) · 게시일: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/098.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2773,13 +2783,13 @@ FORMAT: 15s / single continuous impossible camera move / no dialogue STYLE: High
 Shot 01 (0:00–2:00): Camera starts at floor level on anti-slip
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### "Композиция"
+### "구도"
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 "shot": "composition": "POV time-freeze with hands moving through frozen environment", "lens": "ultra-wide cinematic lens with subtle distortion",...
 
-Источник: [Пост](https://x.com/CharaspowerAI/status/2039704453784191201) · Опубликовано: 02 Apr 2026
+출처: [게시물](https://x.com/CharaspowerAI/status/2039704453784191201) · 게시일: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/099.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2819,13 +2829,13 @@ Shot 01 (0:00–2:00): Camera starts at floor level on anti-slip
 }
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Формат
+### 형식
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 FORMAT: 15s / handheld close + slow cuts / 5 beats / sci-fi drama — astronaut's first spacewalk, orbital silence SUBJECTS: An astronaut, 40s, in a white EVA...
 
-Источник: [Пост](https://x.com/BrennanErbz/status/2039579736301781215) · Опубликовано: 02 Apr 2026
+출처: [게시물](https://x.com/BrennanErbz/status/2039579736301781215) · 게시일: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/100.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2833,13 +2843,13 @@ FORMAT: 15s / handheld close + slow cuts / 5 beats / sci-fi drama — astronaut'
 FORMAT: 15s / handheld close + slow cuts / 5 beats / sci-fi drama — astronaut's first spacewalk, orbital silence SUBJECTS: An astronaut, 40s, in a white EVA suit with a gold-visored helmet, tethered to the exterior of a space station, performing the first moments of a spacewalk.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Субъекты
+### 대상
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 SUBJECTS: Subject 1: Adult male, Western casual everyday home and outing attire, short jacket, basic T-shirt, long pants, everyday shoes; lean build,...
 
-Источник: [Пост](https://x.com/0xbisc/status/2039673040787956123) · Опубликовано: 02 Apr 2026
+출처: [게시물](https://x.com/0xbisc/status/2039673040787956123) · 게시일: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/104.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2849,13 +2859,13 @@ Subject 1: Adult male, Western casual everyday home and outing attire, short jac
 Subject 2: Golden Retriever, large head, broad chest, thick, fluffy fur; overall short and round
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Стилизованная 3D последовательность трансформации в барбершопе
+### 스타일라이즈드 3D 바버숍 변신 시퀀스
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 "title": "Stylized 3D Barbershop Transformation Sequence", "style": "Stylized 3D animation with exaggerated cartoon proportions, cinematic...
 
-Источник: [Пост](https://x.com/ShamiWeb3/status/2039372124079669655) · Опубликовано: 01 Apr 2026
+출처: [게시물](https://x.com/ShamiWeb3/status/2039372124079669655) · 게시일: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/115.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2917,13 +2927,13 @@ Subject 2: Golden Retriever, large head, broad chest, thick, fluffy fur; overall
 }
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Субъекты
+### 대상
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 SUBJECTS: Subject 1: First-person perspective hands (rendered in Monet impressionist oil painting brushwork, soft skin tones with no hard edges; both hands...
 
-Источник: [Пост](https://x.com/0xbisc/status/2039332336643248317) · Опубликовано: 01 Apr 2026
+출처: [게시물](https://x.com/0xbisc/status/2039332336643248317) · 게시일: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/122.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2932,17 +2942,17 @@ SUBJECTS:
 Subject 1: First-person perspective hands (rendered in Monet impressionist oil painting brushwork, soft skin tones with no hard edges; both hands continuously hold the oar and perform extremely slow and even rowing motions, with stretched rhythm and natural pauses)
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-## Общий cinematic
+## 일반 시네마틱
 
-Полезные промпты, которые не попадают в более узкие категории выше, но остаются сильными универсальными референсами.
+위의 더 좁은 범주에는 딱 맞지 않지만 강력한 범용 레퍼런스로 유용한 프롬프트입니다.
 
-### Поэма воспоминаний весеннего ветра
+### 봄바람 기억의 시
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
-Ностальгический сезонный фильм-воспоминание, который переходит от игривых детских сцен к задумчивой прибрежной меланхолии и завершается поэтичной title card.
+장난기 가득한 어린 시절 장면에서 호숫가의 성찰적 우수로 이어지고 시적인 title card로 끝나는 향수 어린 계절 기억 영화입니다.
 
-Источник: [Пост](https://x.com/liyue_ai/status/2038993496225591731) · Опубликовано: 31 Mar 2026
+출처: [게시물](https://x.com/liyue_ai/status/2038993496225591731) · 게시일: 31 Mar 2026
 
 [![](./public/seedance_2_prompt_images/001.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2961,13 +2971,13 @@ Background music: soft instrumental music (piano + bamboo flute), slow rhythm, e
 10. Close-up. At the center of the screen, neat and elegant Song-style Chinese text appears: "If the spring breeze still pities the flowers, could it allow me to be young again?" The text remains as the frame freezes. Text fades in. No sound effect. End on the text.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Fashion-крупный план каблуков с beat sync
+### 하이힐 비트 싱크 패션 클로즈업
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
-Тщательно контролируемый beat-synced fashion-промпт, построенный вокруг крупного плана движения каблуков, текстуры чулок и точного тайминга камеры.
+클로즈업된 힐 움직임, 스타킹 질감, 정밀한 카메라 타이밍을 중심으로 구축된 매우 정교한 beat-synced 패션 프롬프트입니다.
 
-Источник: [Пост](https://x.com/TingFengAIAI/status/2038904225548149011) · Опубликовано: 31 Mar 2026
+출처: [게시물](https://x.com/TingFengAIAI/status/2038904225548149011) · 게시일: 31 Mar 2026
 
 [![](./public/seedance_2_prompt_images/002.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -2981,13 +2991,13 @@ Beauty beat-sync sequence:
 --ar 16:9 --motion 8, soft-focus white light + glow, extremely premium look with strong control.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Побег на мини-скейтборде в детской спальне
+### 아이 방에서의 미니 스케이트보드 탈출
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
-On the floor of a child's bedroom, a miniature девушка rides a tiny skateboard at high speed, skimming just above the ground. Everything is scaled so massively...
+아이 방 바닥 위에서 미니어처 소녀가 아주 작은 스케이트보드를 타고 지면 바로 위를 스치듯 고속으로 달립니다. 모든 것이 거대하게 스케일되어 있어...
 
-Источник: [Пост](https://x.com/anson7956/status/2038846411253657939) · Опубликовано: 31 Mar 2026
+출처: [게시물](https://x.com/anson7956/status/2038846411253657939) · 게시일: 31 Mar 2026
 
 [![](./public/seedance_2_prompt_images/003.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3000,21 +3010,21 @@ In the third stage, she bursts through the gap between the pages of a picture bo
 This is a thrilling, heart-pounding video packed with near escapes. The setting is a realistic child's room, using a miniature perspective to create an immersive, theme-ride-like experience that fully exploits giant obstacles and tiny gaps.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Трансформация офисной android-сотрудницы в beach ad
+### 안드로이드 직장인에서 해변 광고로의 변신
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square)
-Here it is: shot1 (3s): A futuristic office floor with a sci-fi atmosphere. An android office woman walks through the floor expressionlessly. shot2 (3s):...
+다음과 같습니다: shot1 (3s): sci-fi 분위기의 미래형 오피스 플로어. 안드로이드 여성 직장인이 무표정하게 공간을 걸어갑니다. shot2 (3s):...
 
-### 5 women with jiggly bbs save the world
+### 흔들리는 bbs를 가진 5명의 여성이 세상을 구한다
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-5 women with jiggly bbs save the world
+흔들리는 bbs를 가진 5명의 여성이 세상을 구한다
 
-### Промпт 25
+### 프롬프트 25
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Raw mobile phone footage, vertical handheld shot, shaky cam, grainy texture. At the legendary Rucker Park basketball court at dusk, a heavy-set elderly...
+날것의 휴대폰 촬영 영상, 세로 handheld 샷, shaky cam, 거친 질감. 해질녘 전설적인 Rucker Park 농구 코트에서, 체격이 큰 노년의...
 
-Источник: [Пост](https://x.com/techhalla/status/2039114930461549008) · Опубликовано: 31 Mar 2026
+출처: [게시물](https://x.com/techhalla/status/2039114930461549008) · 게시일: 31 Mar 2026
 
 [![](./public/seedance_2_prompt_images/023.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3022,13 +3032,13 @@ Raw mobile phone footage, vertical handheld shot, shaky cam, grainy texture. At 
 Raw mobile phone footage, vertical handheld shot, shaky cam, grainy texture. At the legendary Rucker Park basketball court at dusk, a heavy-set elderly woman in a floral dress and sneakers is dribbling a basketball against
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Промпт 28
+### 프롬프트 28
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-The firefighter is entering the house, at the 3-second mark the firefighter is walking inside the house with furniture in fire around him, at the 5-second...
+소방관이 집 안으로 들어갑니다. 3초 지점에서는 가구가 불타는 집 내부를 걷고 있고, 5초 지점에서는...
 
-Источник: [Пост](https://x.com/AITalesNBH/status/2039072522650423445) · Опубликовано: 31 Mar 2026
+출처: [게시물](https://x.com/AITalesNBH/status/2039072522650423445) · 게시일: 31 Mar 2026
 
 [![](./public/seedance_2_prompt_images/026.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3036,13 +3046,13 @@ The firefighter is entering the house, at the 3-second mark the firefighter is w
 The firefighter is entering the house, at the 3-second mark the firefighter is walking inside the house with furniture in fire around him, at the 5-second mark a burning tree piece falls in front of him, at the 8-second mark he finds a 3 old baby in a baby bed, the baby is coughing, the firefighter lifts the baby and hugs it, the firefighter gets out of the house, he gives the baby to an ambulance personnel
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Шоукейс трансформации древних костюмов
+### 고전 의상 변신 쇼케이스
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
-Промпт трансформации с несколькими ancient-costume образами, поставленный как ритмичный beauty-showcase с жесткими wardrobe-переходами.
+하드 컷 의상 전환을 사용해 리드미컬한 미적 쇼케이스로 연출한 멀티룩 고전 의상 변신 프롬프트입니다.
 
-Источник: [Пост](https://x.com/johnAGI168/status/2040058721158467975) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/johnAGI168/status/2040058721158467975) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/029.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3057,13 +3067,13 @@ Seedance 2.0 all-purpose reference prompt below:
 [Section 4: High-frequency glamour] Time: 11-15 seconds. Framing and camera: static medium shot. Female styling and costume: rapidly cycle through three outfits: 1. deep red strapless long dress with a red-and-gold waist belt; 2. pure white wide-sleeved plain robe with a white belt; 3. pink-and-white split-color dress with light-blue bird embroidery on the chest. Movement and expression: both hands swing up and down in stacked motion with urgent drum hits, larger movement range, full commanding presence. Sound: ancient-style transformation BGM. Effects and environment: ultra-fast beat-synced outfit switching. Multiple colors hit in rapid succession, pushing visual extravagance to a climax.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Гиндза ночью, cyberpunk будущего
+### 밤의 긴자, 미래 cyberpunk
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Ginza at ночь, будущее cyberpunk. A female ninja is hiding, made transparent by optical camouflage. She defeats an enemy ninja. After the first attack, the...
+밤의 긴자, 미래 cyberpunk. 여성 닌자는 광학 위장으로 투명하게 숨어 있습니다. 그녀는 적 닌자를 쓰러뜨리고, 첫 공격 이후에는...
 
-Источник: [Пост](https://x.com/ChiakiAkagi/status/2040232705477255363) · Опубликовано: 04 Apr 2026
+출처: [게시물](https://x.com/ChiakiAkagi/status/2040232705477255363) · 게시일: 04 Apr 2026
 
 [![](./public/seedance_2_prompt_images/037.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3077,13 +3087,13 @@ They fight moving at high speed with motion blur and afterimages.
 The female ninja's punch sends the ninja flying, crashing into a neon sign high above.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### истории прыгуна
+### 점퍼의 이야기들
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-stories of a hopper. 1 astronaut that's able to hop from location to location, anytime he wants.
+점퍼의 이야기들. 원할 때마다 장소에서 장소로 점프할 수 있는 한 명의 우주비행사에 대한 이야기입니다.
 
-Источник: [Пост](https://x.com/starks_arq/status/2040036602018451721) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/starks_arq/status/2040036602018451721) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/040.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3093,13 +3103,13 @@ stories of a hopper.
 1 astronaut that's able to hop from location to location, anytime he wants.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Подозрительный мужчина стоит в центре перекрестка Shibuya scramble
+### 수상한 남자가 시부야 스크램블 교차로 한가운데 서 있다
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-A подозрительный мужчина stands in the center of Shibuya scramble crossing. People around the man walk and cross like a time-lapse, centered around him. When he...
+수상한 남자가 시부야 스크램블 교차로 한가운데 서 있습니다. 그의 주변 사람들은 그를 중심으로 time-lapse처럼 지나가고, 그가...
 
-Источник: [Пост](https://x.com/roco_kn_roco/status/2039962871149584691) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/roco_kn_roco/status/2039962871149584691) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/043.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3110,13 +3120,13 @@ Used Prompt 2
 Protagonist: Hiromu, Age 19
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Эстетика
+### 미학
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-aesthetic: phone held up in the middle of a packed crowd on the deck of a fishing boat audio: bass competing with ocean wind, waves crashing against the...
+미학: 붐비는 사람들로 가득한 어선 갑판 한가운데서 들어 올린 휴대폰. 오디오: 바다 바람과 경쟁하는 베이스, 선체에 부딪히는 파도 소리...
 
-Источник: [Пост](https://x.com/maxescu/status/2040095139511636166) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/maxescu/status/2040095139511636166) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/044.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3127,13 +3137,13 @@ aesthetic: phone held up in the middle of a packed crowd on the deck of a fishin
  - "0-5s: Phone camera on the deck of a fishing boat at sea. Golden hour. The deck is PACKED
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Девушка стремительно падает через цифровой туннель
+### 소녀가 디지털 터널을 빠르게 추락한다
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-A девушка falls rapidly through a digital tunnel. The девушка is panicking and flailing. She passes through a tunnel that twists and turns up, down, left, and...
+소녀가 디지털 터널을 빠르게 추락합니다. 소녀는 공포에 질려 허우적거리고, 위아래 좌우로 뒤틀리는 터널을 통과하며...
 
-Источник: [Пост](https://x.com/_3912657840/status/2039911660656484590) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/_3912657840/status/2039911660656484590) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/057.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3141,13 +3151,13 @@ A девушка falls rapidly through a digital tunnel. The девушка is p
 A girl falls rapidly through a digital tunnel. The girl is panicking and flailing. She passes through a tunnel that twists and turns up, down, left, and right, then falls straight down. She lands softly on a rainbow cloud in a fancy world overflowing with light. She looks up and sees a large, rainbow-shining sun glowing in the sky. Backlight.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Визуалы
+### 비주얼
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Scene: The Skytree transforms into a "super massive railgun" and fires a light projectile towards space. Visuals: First Stage: The exterior of the tower is...
+장면: Skytree가 "초대형 railgun"으로 변형되어 우주를 향해 빛의 탄환을 발사합니다. 비주얼: 1단계에서 타워 외벽은...
 
-Источник: [Пост](https://x.com/TechTalkNAVI/status/2040100728627454339) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/TechTalkNAVI/status/2040100728627454339) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/060.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3165,13 +3175,13 @@ Final Stage: Firing. A pillar of light pierces the stratosphere, forming a giant
 Lighting/Color: Cold white, purple discharge. Contrast between silence and roar.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Голливудский movie trailer
+### Hollywood 영화 예고편
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-A Hollywood movie trailer. A Marvel-style action movie where an ordinary American high school student transforms into a hero and fights. I want to create...
+Hollywood 영화 예고편입니다. 평범한 미국 고등학생이 영웅으로 변신해 싸우는 Marvel 스타일 액션 영화이며, 이를 만들고 싶습니다...
 
-Источник: [Пост](https://x.com/SSSS_CRYPTOMAN/status/2040217171918516475) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/SSSS_CRYPTOMAN/status/2040217171918516475) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/065.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3179,13 +3189,13 @@ A Hollywood movie trailer. A Marvel-style action movie where an ordinary America
 A Hollywood movie trailer. A Marvel-style action movie where an ordinary American high school student transforms into a hero and fights. I want to create various scenes with multi-cuts. The title is CRYPTOMAN
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Кинематографичное вертикальное 9
+### 시네마틱 세로형 9
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Кинематографичный vertical 9:16 video. Two versions of Rapunzel from Tangled walk side by side toward the камера on a forest dirt path. On the LEFT: the original...
+시네마틱 세로형 9:16 비디오입니다. Tangled의 두 버전 Rapunzel이 숲속 흙길 위에서 카메라를 향해 나란히 걸어옵니다. 왼쪽에는 원작 버전이...
 
-Источник: [Пост](https://x.com/Mayz1169/status/2039982387703296044) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/Mayz1169/status/2039982387703296044) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/067.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3193,13 +3203,13 @@ A Hollywood movie trailer. A Marvel-style action movie where an ordinary America
 Cinematic vertical 9:16 video. Two versions of Rapunzel from Tangled walk side by side toward the camera on a forest dirt path. On the LEFT: the original Disney 3D animated Rapunzel — large expressive cartoon eyes, stylized face with Disney animation proportions, luminous long
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Гигантская ледниковая стена обрушивается в фьорд рядом с прибрежным городом
+### 해안 도시 옆 피오르드로 거대한 빙하 절벽이 붕괴한다
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-A giant glacier wall collapses into a fjord beside a coastal город. The falling ice triggers a massive water displacement wave that surges toward the harbor....
+해안 도시 옆 피오르드로 거대한 빙하 절벽이 붕괴합니다. 떨어진 얼음은 대규모 수괴 변위 파동을 일으켜 항구를 향해 밀려오고...
 
-Источник: [Пост](https://x.com/LudovicCreator/status/2040100791822721300) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/LudovicCreator/status/2040100791822721300) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/068.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3215,13 +3225,13 @@ Icebergs smash through streets as the city floods.
 Glacier collapse megaflood, iceberg destruction chaos, cinematic polar disaster scale, 4K.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Лунная погоня на пианино, где мышь
+### 달빛 아래 피아노 추격전, 그곳에서 쥐는
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-A залитый лунным светом пианино chase where the mouse turns the whole instrument into a trap. What happens The mouse runs across пианино keys, making playful notes. The cat...
+달빛 아래 피아노 추격전에서 쥐는 피아노 전체를 함정으로 바꿉니다. 무슨 일이 벌어지나면, 쥐는 건반 위를 달리며 장난스러운 음을 만들고, 고양이는...
 
-Источник: [Пост](https://x.com/Dheepanratnam/status/2040060221733609969) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/Dheepanratnam/status/2040060221733609969) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/072.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3238,13 +3248,13 @@ The cat gets nearly caught by the closing lid. Inside the piano, the mouse runs 
 The cat crashes into the keyboard section, causing a chaotic musical explosion. Final gag: the mouse presses one neat final note while the cat pops out wearing sheet music on its head.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### 15-секундная непрерывная cartoon single-shot сцена
+### 15초 연속 원테이크 카툰 시퀀스
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-15-second continuous single-shot cartoon последовательность. No cuts. No scene transitions. Soft watercolor illustration style, pastel colors, gentle textures,...
+15초 연속 원테이크 카툰 시퀀스입니다. 컷 없음. 장면 전환 없음. 부드러운 수채화 일러스트 스타일, 파스텔 색감, 온화한 질감이 특징입니다...
 
-Источник: [Пост](https://x.com/Artedeingenio/status/2040054705183723711) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/Artedeingenio/status/2040054705183723711) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/077.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3260,13 +3270,13 @@ Scene:
 A small animal character walking through a quiet meadow.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Промпт 83
+### 프롬프트 83
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Victorian-era flying airships with brass gears and giant propellers battling over a cloudy mountain range at sunset, cannons firing, pirates swinging on...
+Victorian 시대의 비행 비공정들이 황동 기어와 거대한 프로펠러를 달고 석양의 구름 낀 산맥 위에서 전투를 벌입니다. 대포가 발사되고, 해적들이 줄에 매달려...
 
-Источник: [Пост](https://x.com/Alin_Reaper05/status/2040017612105556403) · Опубликовано: 03 Apr 2026
+출처: [게시물](https://x.com/Alin_Reaper05/status/2040017612105556403) · 게시일: 03 Apr 2026
 
 [![](./public/seedance_2_prompt_images/080.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3274,13 +3284,13 @@ Victorian-era flying airships with brass gears and giant propellers battling ove
 Victorian-era flying airships with brass gears and giant propellers battling over a cloudy mountain range at sunset, cannons firing, pirates swinging on ropes between ships, intricate mechanical details, sweeping aerial tracking shot with parallax, warm steampunk color palette, ultra-detailed, like Howl’s Moving Castle meets Pirates of the Caribbean, epic action.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Эстетика
+### 미학
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-aesthetic: Raw 35mm handheld, high altitude sun haze. One unbroken continuous tracking shot. No cuts. All real time. audio: Full constant jet engine roar,...
+미학: 날것의 35mm handheld, 고지대의 태양 안개. 끊기지 않는 연속 tracking shot 하나. 컷 없음. 모두 실시간. 오디오: 끊임없이 이어지는 제트 엔진 굉음...
 
-Источник: [Пост](https://x.com/maxescu/status/2039639805592502504) · Опубликовано: 02 Apr 2026
+출처: [게시물](https://x.com/maxescu/status/2039639805592502504) · 게시일: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/087.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3291,13 +3301,13 @@ timeline:
 - 0-3s: Normal guy in baggy cargo shorts and flip flops is standing perfectly
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Экстерьер древнего храма в глухих горах
+### 깊은 산속 고대 사원의 외부
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-2.35:1 widescreen, 24fps, кинематографичный quality. Exterior of an ancient temple in the deep mountains. The камера overlooks the temple roof amidst surging...
+2.35:1 와이드스크린, 24fps, 시네마틱 품질. 깊은 산속 고대 사원의 외부를 다룹니다. 카메라는 밀려드는... 속에서 사원 지붕을 내려다봅니다.
 
-Источник: [Пост](https://x.com/cdexsta/status/2039559243284844649) · Опубликовано: 02 Apr 2026
+출처: [게시물](https://x.com/cdexsta/status/2039559243284844649) · 게시일: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/089.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3306,13 +3316,13 @@ timeline:
 Exterior of an ancient temple in the deep mountains. The camera overlooks the temple roof amidst surging clouds, with mottled tiles and rising mist. The scene cuts to the interior, where a middle-aged monk sits cross-legged, with an ancient Buddha statue and flickering candlelight behind him. The camera slowly rotates 360 degrees, panning from the monk's side to a front close-up, capturing his slightly closed eyes and calm breathing.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Историческая сцена с драматическим освещением
+### 극적인 조명의 역사 장면
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-Historical scene with dramatic lighting. 0-3 seconds Opening shot: Venetian galley fleet approaches Constantinople at dawn, cannons blazing. Massive город...
+극적인 조명의 역사 장면입니다. 0-3초 오프닝 샷: 새벽의 콘스탄티노플을 향해 베네치아 갤리 함대가 접근하고, 대포가 불을 뿜습니다. 거대한 도시가...
 
-Источник: [Пост](https://x.com/AskVenice/status/2039570736239595726) · Опубликовано: 02 Apr 2026
+출처: [게시물](https://x.com/AskVenice/status/2039570736239595726) · 게시일: 02 Apr 2026
 
 [![](./public/seedance_2_prompt_images/101.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3326,13 +3336,13 @@ Opening shot: Venetian galley fleet approaches Constantinople at dawn, cannons b
 Quick cut: Ottoman cannon
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### ROCKET SURF
+### 로켓 서프
 ![Language-ES](https://img.shields.io/badge/Language-ES-blue?style=flat-square)
-ROCKET SURF. STYLE: Gritty Cine Verite, 35mm handheld, natural shake. Continuous tracking shot. No cuts. All real-time. LIGHTING: Bright, high-altitude sun,...
+ROCKET SURF. 스타일: 거친 Cine Verite, 35mm handheld, 자연스러운 흔들림. 연속 tracking shot. 컷 없음. 모두 실시간. 조명: 밝은 고지대의 태양광...
 
-Источник: [Пост](https://x.com/maxescu/status/2039308020006396033) · Опубликовано: 01 Apr 2026
+출처: [게시물](https://x.com/maxescu/status/2039308020006396033) · 게시일: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/107.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3347,13 +3357,13 @@ AUDIO: Rocket engine roar, wind, fiberglass creak.
 TIMELINE: 0-3s:
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Диалог
+### 대사
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
-A single stand-up comedian @Image 1 with black hair, wearing a textured red dress, standing on a spotlighted stage @Image 2. Exaggerated and humorous...
+검은 머리에 질감 있는 빨간 드레스를 입은 단 한 명의 스탠드업 코미디언 @Image 1이 스포트라이트를 받는 무대 @Image 2 위에 서 있습니다. 과장되고 유머러스한...
 
-Источник: [Пост](https://x.com/Adam38363368936/status/2039286911265800297) · Опубликовано: 01 Apr 2026
+출처: [게시물](https://x.com/Adam38363368936/status/2039286911265800297) · 게시일: 01 Apr 2026
 
 [![](./public/seedance_2_prompt_images/120.jpg)](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
@@ -3370,31 +3380,31 @@ Actions and Expressions:
 Scene: Black stand-up stage, strong spotlight illuminating the person, blurred silhouettes of the audience below, atmosphere of laughter, slight camera push-in, cinematic lighting, strong stage presence, real-shot texture, fast pace, 15-second short video effect. Shallow depth of field, enhanced light and shadow contrast, scene detail reconstruction, digital noise elimination, 4K high-definition quality.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[바로 사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-## Последние добавления (07 апр 2026)
+## 최신 추가 항목 (2026년 04월 07일)
 
-### Надпись на алтаре бездной сущности — тёмное фэнтези
+### 심연 존재의 제단 각인 — 다크 판타지
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2041050710721339521.jpg" width="400" />
 
-Сцена тёмного фэнтези, где сущность из бездны вырезает фрактальные геометрические узоры на жертвенном алтаре, а из трещин вырываются мясистые щупальца.
+심연의 존재가 희생 제단에 프랙탈 기하학 무늬를 새기고, 균열 사이로 살점 촉수가 솟아오르는 다크 판타지 시퀀스.
 
-Источник: [Пост](https://x.com/Adam38363368936/status/2041050710721339521) · Опубликовано: 06 04 2026
+출처: [게시물](https://x.com/Adam38363368936/status/2041050710721339521) · 게시일: 06 04 2026
 
 ```text
 提示词 (Prompt)： 0-3s · 异界铭刻 低角度仰拍。深渊实体右手嵌入（Embedded）祭坛，暗黑脉络呈分形几何状（Fractal Geometry）在石板上疯狂寄生。裂缝喷涌出粘稠血肉触须，地面如肺部般大幅度搏动。背景宗门古建筑随之发生视觉上的横向位移震颤。 3-6s · 骨质畸变 环绕升降镜头。实体的脊椎如连锁反应般炸裂扭曲，黑曜石角冠从颅骨深处穿出。双臂缠绕液态黑烟，所经之处空气产生高温电弧感，悬挂灯笼因能量过载瞬间发生视觉坍塌式爆裂。 6-9s · 物质解构 拉远镜头。实体表皮呈现瓷器般的碎裂纹路，内部是蠕动的暗物质核心。指尖异化为长达半米的影刃，触碰木柱瞬间引发超速风化（Accelerated Decay），建筑结构化为黑烟升腾。 9-12s · 影潮吞噬 高空俯拍。实体振臂，身后黑暗塌缩后猛然爆发，形成千米级的黑红浪潮（Corrupted Tsunami）。阴影洪流所过之处，青石板路、石狮、楼阁全部被像素化撕裂并吞噬。 12-15s · 虚空终焉 脸部特写。背景中巨大的山门在黑洞引力下向中心拧麻花状折断。实体在死寂中缓步走近，瞳孔内是旋转的星云（Void Nebula）。它凝视镜头，画面产生强烈的胶片烧灼感与信号故障感（Glitch），最终归于绝对黑暗。
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Трансформация сцены с плавающим цветовым кругом UI
+### 플로팅 UI 컬러휠 장면 전환
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2041001869435158629.jpg" width="400" />
 
-Молодая женщина проводит по парящему голографическому цветовому кругу и бесшовно меняет сцены и наряды в 15-секундном VFX-ролике.
+젊은 여성이 떠 있는 홀로그램 컬러휠을 스와이프해 15초짜리 VFX 숏에서 장면과 의상을 매끄럽게 바꾼다.
 
-Источник: [Пост](https://x.com/johnAGI168/status/2041001869435158629) · Опубликовано: 06 04 2026
+출처: [게시물](https://x.com/johnAGI168/status/2041001869435158629) · 게시일: 06 04 2026
 
 ```text
 即可得到同款视频！
@@ -3404,15 +3414,15 @@ Seedance 2.0 prompt 👇
 生成一段15秒的高质量实拍风格特效短片，核心展示一位年轻女性通过滑动悬浮UI色环，实现场景与服装的无缝丝滑切换。注意分镜编排与转场节奏，画面需具备极佳的景深效果（Depth of field），人物面部始终保持清晰且光影立体。 【人物特征锁定】 全程锁定核心人物特征：年轻女性，标志性的金黄色短发，佩戴圆形金属边框眼镜。 【分镜与动作设计】 00:00-00:05：室内卧室夜景，背景有暖黄色的星星形状散景氛围灯串。人物头发微微扎起，穿浅米色长袖家居睡衣坐在床上。画面正前方悬浮着完整的半透明渐变彩色色环（UI交互元素）。人物微笑着看向镜头，伸出手自然地触碰并向右滑动发光的色环。 00:05-00:07：随着色环转动，无缝转场至明亮的室内窗边日景，阳光温暖。人物短发自然散落，瞬间换上鲜艳的亮橙色无袖紧身上衣和白色休闲裤，单手托腮，笑容灿烂。色环悬浮在画面右侧，光标高亮显示黄橙色区域。 00:07-00:09：无缝转场至户外公园日景，背景是高曝光的明亮绿树。人物靠在粗壮树干旁，换上薄荷绿色方领泡泡袖露脐短上衣和浅色高腰短裤，右手戴黑色半截皮手套，对着镜头俏皮眨眼，手指轻触嘴唇。色环悬浮右侧，光标高亮亮绿色。 00:09-00:11：无缝转场至户外开阔草地，背景蓝天白云。人物靠在灰白水泥矮墙上，穿简约深蓝紫色细吊带上衣，单手托下巴，表情慵懒清冷。色环移至画面左侧，光标高亮深紫色。 00:11-00:13：无缝转场至阳光明媚的户外樱花林，背景满是盛开的粉色樱花。人物换粉色细吊带上衣，单手轻轻撩动头顶头发，展现甜美治愈微笑。色环悬浮左侧，光标高亮粉红色。 00:13-00:15：无缝转场至户外传统中式建筑前，背景有虚化的红色柱子和古建飞檐。人物穿深红色偏焦糖色的露肩改良版中式旗袍上衣（带传统盘扣），姿态端庄优雅，单手放于锁骨处，眼神微垂看向镜头。色环悬浮左侧，光标高亮红色。 【特殊控制指令】 必须保证场景与服装的每次切换平滑无跳切感（丝滑转场），保持人物动作的延续性。每次切换时，人物的情绪微表情必须与当前的服装色彩氛围完美契合。配合画面色彩切换，可自动生成带有轻巧科技感UI音效及动感节奏的BGM。
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Город богов — восточный фэнтези-полёт одним дублем
+### 신들의 도시 — 원테이크 동양 판타지 비행
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2041000256930763046.jpg" width="400" />
 
-Непрерывный полёт камеры одним дублем через огромный восточный фэнтези-город, мимо гигантских статуй Будды, каналов и армии мастеров боевых искусств.
+거대한 동양 판타지 도시를 원테이크 카메라 비행으로 가로지르며 거대한 불상, 운하, 무술 군단을 스쳐 지나가는 장면.
 
-Источник: [Пост](https://x.com/john87445528/status/2041000256930763046) · Опубликовано: 06 04 2026
+출처: [게시물](https://x.com/john87445528/status/2041000256930763046) · 게시일: 06 04 2026
 
 ```text
 神佛之城·宗师登台】
@@ -3428,15 +3438,15 @@ Seedance 2.0 prompt 👇
 无剪辑、不可思议的镜头运动、无缝衔接，充满东方神秘、史诗宏大、极具电影感。8K高清画质，高品质影像素材。
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Fashion lookbook сверху — последовательность смены образов
+### 탑다운 패션 룩북 — 의상 전환 시퀀스
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2040767631213363656.jpg" width="400" />
 
-Модный lookbook с видом сверху, быстрыми сменами образов, размытием вентилятора на переднем плане и переходами гардероба в ритм бита.
+빠른 의상 교체, 천장 선풍기 전경 블러, 비트에 맞춘 의상 전환이 들어간 버드아이뷰 패션 룩북.
 
-Источник: [Пост](https://x.com/johnAGI168/status/2040767631213363656) · Опубликовано: 05 04 2026
+출처: [게시물](https://x.com/johnAGI168/status/2040767631213363656) · 게시일: 05 04 2026
 
 ```text
 prompt 👇
@@ -3478,15 +3488,15 @@ prompt 👇
 红黑印花复古无袖短款旗袍，左侧发际别一朵红花，黑色过膝长筒袜。右手持半开黑色折扇置于胸前，右侧地板摆红色高跟鞋。红黑配色收束全片。
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Древний паркур со сменой костюма
+### 고풍 파쿠르 변장 시퀀스
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2040980673851506798.jpg" width="400" />
 
-Реалистичный забег в стиле древнего паркура с бесшовной сменой костюмов, где решительная героиня мчится через традиционную архитектуру.
+결연한 여주인공이 전통 건축 사이를 질주하며 매끄럽게 의상을 바꾸는 사실적인 고풍 파쿠르 러닝.
 
-Источник: [Пост](https://x.com/Adam38363368936/status/2040980673851506798) · Опубликовано: 06 04 2026
+출처: [게시물](https://x.com/Adam38363368936/status/2040980673851506798) · 게시일: 06 04 2026
 
 ```text
 在下面，来试试！
@@ -3499,29 +3509,29 @@ Seedance2.0提示词
 质感：ARRI胶片质感，物理风阻逻辑，极致市井烟火气，路人反应真实，暴力跑酷美学。
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Кинематографичная культурная реклама Пекина — 8K от первого лица
+### 시네마틱 베이징 문화 광고 — 8K 1인칭 시점
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2040826411783762286.jpg" width="400" />
 
-Кинематографичная культурная реклама в 8K от первого лица, скользящая по старому Пекину и передающая традиционную архитектуру, уличную жизнь и исцеляющую атмосферу.
+옛 베이징을 1인칭 시점으로 유영하듯 지나가며 전통 건축, 거리 풍경, 치유적인 분위기를 담아내는 시네마틱 8K 문화 광고.
 
-Источник: [Пост](https://x.com/crayon1267/status/2040826411783762286) · Опубликовано: 05 04 2026
+출처: [게시물](https://x.com/crayon1267/status/2040826411783762286) · 게시일: 05 04 2026
 
 ```text
 电影级国风城市文化创意广告，超写实 8K，第一人称舒缓追随镜头，丝滑慢节奏运镜，北京古都氛围浓厚，治愈人文感，强代入感，建筑与自然细节清晰真实。整片时长 15 秒内，整体节奏放缓，镜头停留更从容，核心主体为一朵带晨露的白色蒲公英，镜头始终轻柔追随绒球。全程无背景音乐，仅保留环境拟音 + 极简地点旁白。 【0-4s】晨雾中的北京胡同，蒲公英被清风托起，镜头轻柔掠过瓦顶、院门与晨练残影。旁白：胡同 【4-8s】蒲公英缓缓飘行，掠过故宫角楼、天坛祈年殿。旁白：故宫、天坛 【8-12s】蒲公英继续轻飘，掠过颐和园十七孔桥、八达岭长城。旁白：颐和园、长城 【12-15s】蒲公英轻落什刹海湖面，镜头缓缓拉出城市全景。旁白（提前 1 秒出现）：风过北京，万物有灵。画面定格治愈收尾，不拖尾。 音效设计 全程无背景音乐，仅保留微风声、环境自然音、蒲公英飘飞轻响，旁白清晰干净，无多余嘈杂音效。
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Внутренности двигателя — механика поршня
+### 엔진 내부 — 피스톤 기계 디테일
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2041068828457877598.jpg" width="400" />
 
-Детализированная механическая визуализация внутренностей двигателя и конструкции поршня, показывающая улучшенную структурную точность Seedance 2.0.
+엔진 내부와 피스톤 구조를 정밀하게 시각화해 Seedance 2.0의 구조 정확도 향상을 보여주는 예시.
 
-Источник: [Пост](https://x.com/YaReYaRu30Life/status/2041068828457877598) · Опубликовано: 06 04 2026
+출처: [게시물](https://x.com/YaReYaRu30Life/status/2041068828457877598) · 게시일: 06 04 2026
 
 ```text
 の要素から少し知見が増して反映している印象
@@ -3538,15 +3548,15 @@ Seedance2.0提示词
 いうものを検索すると何かとそれっぽくしてしまう可能性あり
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Prompt на основе изображения с поющим котом
+### 노래하는 고양이 이미지 기반 프롬프트
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2040921171059752988.jpg" width="400" />
 
-Креативный подход к prompt на основе изображения, где модель напрямую считывает визуальные референсы, показанный на анимации поющего кота.
+모델이 시각 참조를 직접 읽는 이미지 기반 프롬프트 접근을 노래하는 고양이 애니메이션으로 보여주는 예시.
 
-Источник: [Пост](https://x.com/pan_soramame_da/status/2040921171059752988) · Опубликовано: 05 04 2026
+출처: [게시물](https://x.com/pan_soramame_da/status/2040921171059752988) · 게시일: 05 04 2026
 
 ```text
 に記述じゃなくて
@@ -3578,15 +3588,15 @@ Seedance2.0提示词
 ――――――――――
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Японский romance sim 90-х — стиль cel-анимации
+### 90년대 일본 연애 시뮬레이션 — 셀 애니메이션 스타일
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2040814307487916415.jpg" width="400" />
 
-Экран японской романтической симуляции 90-х, выполненный в стиле cel-анимации с чёткими контурами и ретро-элементами интерфейса.
+선명한 외곽선과 레트로 UI 요소를 갖춘 90년대 일본 연애 시뮬레이션 게임 화면을 셀 애니메이션 스타일로 구현한 장면.
 
-Источник: [Пост](https://x.com/kinopioai_ai/status/2040814307487916415) · Опубликовано: 05 04 2026
+출처: [게시물](https://x.com/kinopioai_ai/status/2040814307487916415) · 게시일: 05 04 2026
 
 ```text
 のみ
@@ -3610,15 +3620,15 @@ Seedance2.0提示词
 4K, Ultra HD, no deformation, natural smooth movements, stable picture, no flickering, no ghosting, sharp details. Generate video without subtitles.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Эпическая фэнтези-битва — кинематографичная 10-секундная сцена
+### 에픽 판타지 전투 — 시네마틱 10초 시퀀스
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2041431226507051027.jpg" width="400" />
 
-Кинематографичная 10-секундная сцена эпической фэнтези-битвы, созданная из одного prompt и демонстрирующая драматичный свет и хореографию действия.
+단일 프롬프트로 생성된 10초짜리 에픽 판타지 전투 시퀀스로, 극적인 조명과 액션 안무를 보여준다.
 
-Источник: [Пост](https://x.com/a_shimanski/status/2041431226507051027) · Опубликовано: 07 04 2026
+출처: [게시물](https://x.com/a_shimanski/status/2041431226507051027) · 게시일: 07 04 2026
 
 ```text
 I just generated this with a single prompt
@@ -3626,15 +3636,15 @@ Prompt👇
 Cinematic 10-second epic fantasy battle sequence in the style of Lord of the Rings, opening with a sweeping aerial crane shot pulling back over a massive ruined battlefield where thousands of armored Norse warriors charge through ash and smoke toward three colossal stone giants crackling with blue lightning, then cutting to a low ground-level tracking shot racing between the boots of sprinting soldiers as a giant's massive stone foot slams into the earth sending warriors flying in slow motion through dust and embers, then cutting to a medium dutch angle shot of a purple-robed female mage and a male sorcerer unleashing violet and blue arc lightning into the giants faces lit dramatically from below, then a whip pan over-the-shoulder shot from the giant's perspective as his enormous clawed hand sweeps across the battlefield scattering warriors like leaves with fire exploding to the right, finally ending on an extreme slow-motion close-up of a blood-soaked Norse warrior's determined face raising his sword and charging directly at the camera before the frame freezes in a blinding white lightning flash and smashes to black, desaturated steel blue and volcanic orange color grade, photorealistic, 8K, cinematic motion blur, epic orchestral atmosphere
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Кинорежиссёрские техники — multi-shot prompt
+### 시네마틱 디렉팅 기법 — 멀티샷 프롬프트
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2041409914954973216.jpg" width="400" />
 
-Демонстрация того, как 2–3 хорошо продуманные техники prompt поднимают AI-видео от шаблонного результата до материала, похожего на профессионально поставленную съёмку.
+잘 설계된 2~3가지 프롬프트 기법만으로 AI 영상이 흔한 결과물에서 전문적으로 연출된 영상처럼 끌어올려지는 과정을 보여주는 데모.
 
-Источник: [Пост](https://x.com/noman23761/status/2041409914954973216) · Опубликовано: 07 04 2026
+출처: [게시물](https://x.com/noman23761/status/2041409914954973216) · 게시일: 07 04 2026
 
 ```text
 The difference between “AI slop” and “this looks directed” is literally 2–3 prompt changes.
@@ -3663,15 +3673,15 @@ Seedance doesn’t infer speed.
 You have to explicitly define energy levels
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Портрет восточноазиатской женщины — естественная улыбка
+### 동아시아 여성 인물 사진 — 자연스러운 미소
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2041408928215408931.jpg" width="400" />
 
-Prompt для крупного портрета восточноазиатской женщины с волнистыми каштановыми волосами, крупными серьгами и тёплым естественным светом.
+웨이브진 밤색 머리, 큰 귀걸이, 따뜻한 자연광을 가진 동아시아 여성의 클로즈업 인물 사진 프롬프트.
 
-Источник: [Пост](https://x.com/noman23761/status/2041408928215408931) · Опубликовано: 07 04 2026
+출처: [게시물](https://x.com/noman23761/status/2041408928215408931) · 게시일: 07 04 2026
 
 ```text
 "beautiful young East Asian woman, long wavy chestnut brown hair, big smile, earphones in ears, wearing oversized white knit cardigan, denim shorts, white sneakers, holding red Coca-Cola can in right hand, playful and confident vibe, walking and dancing energetically down a sunny Paris cobblestone street, low angle dynamic camera, sudden surreal chaos: floating businessmen in black suits flying through the air with briefcases and white papers scattering everywhere, one businessman lying on the ground, girl completely unfazed and keeps dancing joyfully, pointing at camera, spinning, laughing, cinematic color grading, soft daylight, shallow depth of field, beautiful European architecture background, cafes and parked cars, final shot: girl walks away from camera down the long street, buildings suddenly light up with vibrant rainbow neon colors (pink, purple, blue, green, yellow) glowing on windows and balconies, dreamy atmosphere, highly detailed, 8k, masterpiece, smooth motion, perfect anatomy, natural physics"
@@ -3685,43 +3695,43 @@ the chaos doesn’t feel dominant anymore — it feels irrelevant.
 Same structure, completely different feeling.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Женщина-воин — структурированный subject prompt
+### 여성 전사 — 구조화된 피사체 프롬프트
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2041406971484815564.jpg" width="400" />
 
-Структурированный prompt с заданными объектами, окружением и указаниями по камере для образа женщины-воина в динамичном действии.
+역동적인 여성 전사 캐릭터를 위해 피사체, 환경, 카메라 지시를 명확히 정의한 구조화 프롬프트.
 
-Источник: [Пост](https://x.com/noman23761/status/2041406971484815564) · Опубликовано: 07 04 2026
+출처: [게시물](https://x.com/noman23761/status/2041406971484815564) · 게시일: 07 04 2026
 
 ```text
 "SUBJECTS: A female warrior with shoulder-length hair, the ends naturally flipping outward, pressed backward and slightly disheveled by air resistance during high-speed movement. She wears a dark, form-fitting tactical suit combining real fabric and worn metal elements, with visible water stains, dust, and signs of use. A dual mechanical grappling hook system mounted on her back, capable of firing steel cables that retract to generate pulling force. The hook tips are metal impact heads used for attaching to or striking solid structures. The cable only triggers when support is lost or during a fall, and must latch onto a solid object before generating tension. Movement relies on: sliding, stepping, grappling pull, swinging, contact, and displacement through reaction forces. A massive stone hand connected to a giant’s body (not severed, the arm extending upward into the clouds), descending vertically into frame from the cloud layer. Enormous in scale, with a weathered, rough surface, no glow, no regular structure. Each downward press carries clear weight, acceleration, air compression, and impact inertia. ENVIRONMENT: A high-altitude fractured bridge structure with wet, slippery concrete surfaces, showing water traces, cracks, and scattered debris. The bridge is heavily damaged, with irregular टूट sections, exposed and bent rebar, and hanging steel cables. Below the bridge is an empty abyss, swallowed by fog, with no visible ground. A distant city appears low and ruined, with r
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Постапокалиптическое выживание — кинематографичный setup
+### 포스트 아포칼립스 생존 — 시네마틱 세팅
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2041405260762419692.jpg" width="400" />
 
-Жёсткая сцена постапокалиптического выживания с напряжённым настроением, visceral-экшеном и подробным кинематографичным setup, включая жанр, свет и камеру.
+긴장감 있는 분위기, 본능적인 액션, 장르·조명·카메라까지 포함한 세밀한 영화적 세팅을 갖춘 거친 포스트 아포칼립스 생존 장면.
 
-Источник: [Пост](https://x.com/noman23761/status/2041405260762419692) · Опубликовано: 07 04 2026
+출처: [게시물](https://x.com/noman23761/status/2041405260762419692) · 게시일: 07 04 2026
 
 ```text
 "[CINEMATIC SETUP] Genre & Mood: Gritty Post-Apocalyptic Survival. Tense, visceral, and hyper-realistic. Film Stock & Lens: Shot on 35mm anamorphic lens, f/2.8 for shallow depth of field. Teal-orange desaturated color grade with earthy, dusty undertones. Lighting & Atmosphere: Dramatic volumetric Golden Hour light with heavy dust motes and heat haze. Character Description: An athletic woman in her late 20s, wearing weathered tactical leather armor and dirt-smudged skin. Her hair is wind-blown and messy; her expression is one of intense, lethal focus. Audio Style: Immersive spatial sound design. Detailed SFX of bowstring tension, rhythmic heavy breathing, wind howling through the canyon, and a high-velocity "thwack" on impact. [TIMELINE SECOND BY SECOND] 0-3s: [Extreme Close-up (ECU)] High-angle shot of the woman's face as she aims a mechanical compound bow. The bowstring is pulled taut against her cheek. Movie-level realistic facial features, no deformation, stable throughout. 3-4s: [Macro Cut] Extreme close-up of her iris. The pupil dilates sharply as she locks onto her target. Realistic light reflections in the eye. 4-8s: [Over-the-shoulder (OTS) Shot] The camera sits behind her shoulder on a jagged cliff edge. In the valley below, a herd of mutated, post-apocalyptic Cape Buffalo with thickened grey hide and jagged horns graze peacefully. Smooth camera push-in. 8-10s: [The Release & POV] She releases the arrow. Fast Tracking POV shot following the arrowhead at maximum veloc
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Лесная поляна в стиле Pixar — 3D-анимация
+### 픽사풍 숲 공터 — 3D 애니메이션 장면
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2041393724622795014.jpg" width="400" />
 
-Лесная поляна в стиле Pixar, выполненная в 3D-анимации с лучами света, солнечной атмосферой и причудливой анимацией персонажей.
+빛내림, 화창한 분위기, 장난기 있는 캐릭터 애니메이션이 들어간 픽사풍 3D 숲 공터 장면.
 
-Источник: [Пост](https://x.com/SPEEDAI07/status/2041393724622795014) · Опубликовано: 07 04 2026
+출처: [게시물](https://x.com/SPEEDAI07/status/2041393724622795014) · 게시일: 07 04 2026
 
 ```text
 Seedance 2.0 Prompt
@@ -3729,15 +3739,15 @@ Seedance 2.0 Prompt
 Pixar 3D animated forest clearing. Sunny day, god rays through trees, green grass, flowers. CHARACTERS: - Giant armored wolf: black fur, gold sword, yellow eyes, furious and humiliated, attacks with full rage - Tiny rooster: red comb, completely unbothered, bored expression, deflects everything with casual wing flaps SEQUENCE: 0-3s — Wolf roars, raises sword overhead, brings it down with full force. Rooster glances up, sighs, flicks one wing — sword deflects sideways. Sparks fly. Wolf stumbles forward from own momentum. Rooster examines wing casually, unbothered. 3-6s — Wolf swings horizontal slash. Rooster ducks under it yawning, taps sword away with wingtip. Wolf spins, overhead strike — rooster sidesteps one inch, sword hits ground, shockwave crater. Rooster hasn't changed expression once. 6-9s — Wolf goes berserk — rapid five-hit combo, sword blur. Rooster deflects each strike with alternating wings — tap, tap, tap, tap, tap. Casual rhythm like swatting flies. Last strike — rooster catches blade between two feathers. Stops it cold. Wolf strains, shaking. Can't move it. 9-12s — Rooster releases blade, wolf stumbles backward. Wolf charges with shoulder slam — rooster steps aside, wolf face plants into grass. Wolf up instantly, wild overhead — rooster flicks it away with tail feather. Sword spins out of wolf's grip, lands in tree trunk. 12-15s — Wolf stares at empty hands. Rooster turns, walks away slowly, doesn't look back. Scratches ground with one cla
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Premium lifestyle commercial — стиль vlog-selfie
+### 프리미엄 라이프스타일 광고 — 브이로그 셀피 스타일
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2041374063243800793.jpg" width="400" />
 
-Премиальный lifestyle-ролик, снятый в стиле vlog на фронтальную камеру, сочетающий кинематографичный реализм с непринуждённой selfie-эстетикой.
+전면 카메라 브이로그 스타일로 촬영되어 영화적 리얼리즘과 캐주얼한 셀피 미학을 섞은 프리미엄 라이프스타일 광고.
 
-Источник: [Пост](https://x.com/johnAGI168/status/2041374063243800793) · Опубликовано: 07 04 2026
+출처: [게시물](https://x.com/johnAGI168/status/2041374063243800793) · 게시일: 07 04 2026
 
 ```text
 prompt 👇
@@ -3771,43 +3781,43 @@ prompt 👇
 中景。女主手持一杯蓝黄渐变的精致鸡尾酒，杯中气泡缓缓上升。她轻抿一口，眉眼舒展露出满意的微醺神情，随后对镜头开心挥手，定格。
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Котёнок тайком ест снеки под одеялом
+### 이불 속에서 몰래 간식 먹는 새끼 고양이
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2041334660173852807.jpg" width="400" />
 
-Милый котёнок тайком ест снеки ночью под одеялом, в уютном свете и с игривыми выражениями мордочки.
+포근한 조명 아래 밤에 이불 속에서 몰래 간식을 먹는 사랑스러운 새끼 고양이와 장난기 있는 표정.
 
-Источник: [Пост](https://x.com/lynneatyoumind/status/2041334660173852807) · Опубликовано: 07 04 2026
+출처: [게시물](https://x.com/lynneatyoumind/status/2041334660173852807) · 게시일: 07 04 2026
 
 ```text
 prompt: A cute kitten secretly eating snacks under the covers in bed at night. Hears footsteps, panics, hides the snacks, and fakes sleep with soft purring. Owner opens the door, peeks in, then leaves. Coast clear — the kitten pulls the snacks back out and keeps munching. Dark cozy bedroom, moonlight, cinematic lighting, smooth animation.
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Экстремальный макро FPV — трекинг за крыльями феи
+### 익스트림 매크로 FPV — 요정 날개 추적 샷
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2041132328655954201.jpg" width="400" />
 
-Экстремальный макро FPV-трекинг, плотно прикреплённый к спине феи и синхронизированный с движением её крыльев в волшебном лесу.
+요정의 등에 바짝 붙어 마법의 숲을 지나며 날갯짓에 맞춰 움직이는 익스트림 매크로 FPV 추적 샷.
 
-Источник: [Пост](https://x.com/EHuanglu/status/2041132328655954201) · Опубликовано: 06 04 2026
+출처: [게시물](https://x.com/EHuanglu/status/2041132328655954201) · 게시일: 06 04 2026
 
 ```text
 extreme macro FPV tracking shot, camera tightly attached to the fairy's back, synchronized with wing flapping frequency
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Трансформация в стиле тёмного восточного фэнтези
+### 다크 판타지 변신 — 동양풍
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2041146946681721113.jpg" width="400" />
 
-Сцена трансформации в тёмном восточном фэнтези с драматическими изменениями света и мистическими визуальными эффектами.
+극적인 조명 변화와 신비로운 시각 효과를 갖춘 동양풍 다크 판타지 변신 시퀀스.
 
-Источник: [Пост](https://x.com/johnAGI168/status/2041146946681721113) · Опубликовано: 06 04 2026
+출처: [게시물](https://x.com/johnAGI168/status/2041146946681721113) · 게시일: 06 04 2026
 
 ```text
 也可以生成同款视频📺
@@ -3819,15 +3829,15 @@ Seedance 2.0 prompt 👇
 [00:00-00:01] 镜头1：粒子化解体（Particle Dissolve） 中景，明亮居家走廊。女性居中站立直视镜头，身穿深蓝色短袖与黑色短裤。 一道耀眼红色魔法光环从脚底升起，由下至上急速包裹全身（Red Magic Ring FX）。光环扫过之处，身体瞬间碎裂为极速旋转的红色光辉粒子（Particle Burst），整个人化作一团高速旋转的红色粒子球体。 [00:01-00:04] 镜头2：九尾狐凝形（Fox Materialization） 红色粒子球体从走廊门口飞速穿梭进入昏暗客厅（Particle Travel），拖出一条红色光尾轨迹。 粒子撞上深色丝绒沙发表面，炸开后迅速向内收缩聚拢，光影汇聚凝实，幻化为一只巨大的暗黑色九尾狐趴卧于沙发之上。 狐狸周身燃烧红紫相间的魔法火焰（Realistic Fire Simulation），火焰贴着毛发翻涌。体表金色发光符文缓慢流转明灭。九条蓬松巨尾自然散开，尾尖带红色微光。镜头缓推至狐狸面部，琥珀色瞳孔在暗光中发亮。 [00:04-00:12] 镜头3：狐灵化人（Slow Dolly In） 九尾狐全身泛起金色光芒，化作漫天金色火光粒子向上消散（Golden Dissolve FX）。金光散尽，沙发上丝滑显现侧卧的女性身影。 双丸子头发型，身穿紫红色抹胸紧身裙，外搭黑色薄纱披肩。赤足，白皙肤色，深红唇妆，眼神冷艳凌厉直视镜头。 冷色侧光（Cold Side Lighting），一侧明一侧暗。镜头从中景极缓推进至面部特写（Ultra Slow Dolly In），最终定格于双眼，瞳孔中隐约映出一丝残留的红色火光。
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Тест естественной речи T2V в Seedance 2.0
+### Seedance 2.0 T2V 자연 발화 테스트
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2041328307267088580.jpg" width="400" />
 
-Тест речи text-to-video, показывающий удивительно естественный липсинк и подачу голоса, превосходящие ожидания.
+예상을 뛰어넘는 자연스러운 립싱크와 발성을 보여주는 텍스트-투-비디오 음성 테스트.
 
-Источник: [Пост](https://x.com/tanabe_fragm/status/2041328307267088580) · Опубликовано: 07 04 2026
+출처: [게시물](https://x.com/tanabe_fragm/status/2041328307267088580) · 게시일: 07 04 2026
 
 ```text
 の問題でした😅
@@ -3840,15 +3850,15 @@ Seedance 2.0はとにかくプロンプト依存が強いモデルですね📝
 可愛らしいふっくらとした赤いトマトのキャラクターが、カメラに向かって直接話しかけている。完璧なリップシンクで「みんな、僕たちトマトを冷蔵庫に入れてない？実はそれ、NGなんだ！寒さで甘みが飛んじゃうから、常温で保存してね！食べる直前に少し冷やすのが一番美味しいよ！」と元気な声で喋っている。言葉のテンポに合わせて少し弾むような動きをする。ピクサー風の高品質な3Dアニメーションスタイル。背景は少しぼけたキッチン。
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Anime prompt с референсом персонажа
+### 캐릭터 레퍼런스 애니 프롬프트
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2041118339393826933.jpg" width="400" />
 
-Prompt в аниме-стиле, использующий @Image1 как референс персонажа и сохраняющий причёску, уши и一致енность дизайна между кадрами.
+프레임 전반에서 헤어스타일, 귀, 디자인 일관성을 유지하도록 @Image1을 캐릭터 레퍼런스로 사용하는 애니 스타일 프롬프트.
 
-Источник: [Пост](https://x.com/Reiria123/status/2041118339393826933) · Опубликовано: 06 04 2026
+출처: [게시물](https://x.com/Reiria123/status/2041118339393826933) · 게시일: 06 04 2026
 
 ```text
 は↓
@@ -3895,15 +3905,15 @@ Smooth, high frame consistency
 Bright autu
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-### Хоррор-анимация с бумажными куклами
+### 종이 인형 호러 애니메이션
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue?style=flat-square)
 <img src="./public/seedance_2_prompt_images/2041409381162689021.jpg" width="400" />
 
-Хоррор-анимация с плоской эстетикой бумажных кукол, грубыми текстурами, тёмными приглушёнными цветами и тревожным ощущением stop-motion.
+평면적인 종이 인형 미감, 거친 질감, 어두운 톤다운 색상, 불안한 스톱모션 감각을 지닌 호러 애니메이션 장면.
 
-Источник: [Пост](https://x.com/TomaAIbijo/status/2041409381162689021) · Опубликовано: 07 04 2026
+출처: [게시물](https://x.com/TomaAIbijo/status/2041409381162689021) · 게시일: 07 04 2026
 
 ```text
 Scene 1
@@ -3947,29 +3957,29 @@ The figure suddenly fills the frame from behind the camera. Whisper: “Tsugi wa
 Audio: low eerie hum, distant wind, wooden kam
 ```
 
-**[Попробовать ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
+**[사용해보기 ->](https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)**
 
-## Ресурсы
+## 리소스
 
-- Руководство по участию: [`./CONTRIBUTING.md`](./CONTRIBUTING.md)
-- Справка по планированию репозитория: [`../repo-structure.md`](../repo-structure.md)
-- API reference: [`EvoLinkAI/Seedance-2.0-Gateway-Service`](https://github.com/EvoLinkAI/Seedance-2.0-Gateway-Service)
+- 기여 가이드: [`./CONTRIBUTING.md`](./CONTRIBUTING.md)
+- 저장소 계획 레퍼런스: [`../repo-structure.md`](../repo-structure.md)
+- API 레퍼런스: [`EvoLinkAI/Seedance-2.0-Gateway-Service`](https://github.com/EvoLinkAI/Seedance-2.0-Gateway-Service)
 - OpenClaw skill: [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
-- Практическое руководство: [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
+- 실전 가이드: [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
 
-## Участие
+## 기여
 
-Пожалуйста, прочитайте [`CONTRIBUTING.md`](./CONTRIBUTING.md), прежде чем добавлять или очищать промпты. Ключевое правило простое: сохраняйте actionable prompts, удаляйте окружающий social noise и держите метаданные README синхронизированными с очищенным датасетом.
+프롬프트를 추가하거나 정리하기 전에 [`CONTRIBUTING.md`](./CONTRIBUTING.md)를 읽어 주세요. 핵심 규칙은 단순합니다. 실행 가능한 프롬프트는 남기고, 주변의 소셜 노이즈는 제거하며, README 메타데이터를 정리된 데이터셋과 동기화하세요.
 
-## Лицензия
+## 라이선스
 
-Финальный файл open-source лицензии пока не добавлен. До принятия решения рассматривайте этот репозиторий как курируемую справочную коллекцию с сохраненной атрибуцией оригинального источника для каждой записи.
+최종 오픈소스 라이선스 파일은 아직 추가되지 않았습니다. 결정되기 전까지는 이 저장소를 항목별 원본 출처 표기를 보존한 큐레이션 레퍼런스 컬렉션으로 취급해 주세요.
 
-## Уведомление об авторских правах
+## 저작권 고지
 
-Этот репозиторий курирует примеры промптов Seedance 2.0 из публичных веб-источников.
+이 저장소는 공개 웹 소스에서 수집한 Seedance 2.0 프롬프트 예시를 큐레이션합니다.
 
-- Источники промптов сохранены с атрибуционными ссылками там, где они доступны.
-- Этот репозиторий предназначен для обучения, prompt research и workflow reference.
-- Авторские права на оригинальный текст промптов остаются у исходных авторов.
-- Если какую-либо запись нужно обновить или удалить, откройте issue или отправьте pull request с соответствующей ссылкой на источник.
+- 가능한 경우 프롬프트 출처는 attribution 링크와 함께 보존됩니다.
+- 이 저장소는 학습, 프롬프트 연구, 워크플로 레퍼런스를 위한 것입니다.
+- 원본 프롬프트 텍스트의 저작권은 원저자에게 있습니다.
+- 어떤 항목을 수정하거나 삭제해야 한다면 관련 소스 링크와 함께 이슈를 열거나 pull request를 제출해 주세요.
