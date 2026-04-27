@@ -3,10 +3,10 @@
 <img src="./public/banner.jpg" alt="Awesome Seedance 2.0 Prompts banner">
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
-[![Website](https://img.shields.io/badge/Website-Live-orange)](https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
-[![Docs](https://img.shields.io/badge/Docs-Read-blue)](https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
-[![Model](https://img.shields.io/badge/Model-Explore-purple)](https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
+[![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/seedance2?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
+[![Website](https://img.shields.io/badge/Website-Live-orange)](https://evolink.ai/seedance2?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
+[![Docs](https://img.shields.io/badge/Docs-Read-blue)](https://evolink.ai/seedance2?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
+[![Model](https://img.shields.io/badge/Model-Explore-purple)](https://evolink.ai/seedance2?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)

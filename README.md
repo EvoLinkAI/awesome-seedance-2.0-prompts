@@ -3,10 +3,10 @@
 <img src="./public/banner.jpg" alt="Awesome Seedance 2.0 Prompts banner">
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
-[![Website](https://img.shields.io/badge/Website-Live-orange)](https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
-[![Docs](https://img.shields.io/badge/Docs-Read-blue)](https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
-[![Model](https://img.shields.io/badge/Model-Explore-purple)](https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
+[![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/seedance2?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
+[![Website](https://img.shields.io/badge/Website-Live-orange)](https://evolink.ai/seedance2?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
+[![Docs](https://img.shields.io/badge/Docs-Read-blue)](https://evolink.ai/seedance2?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
+[![Model](https://img.shields.io/badge/Model-Explore-purple)](https://evolink.ai/seedance2?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -30,7 +30,7 @@ Welcome to the Awesome Seedance 2.0 Prompts repository! 🤗
 
 Most prompts are curated from X/Twitter community posts, creator demos, and public shares.
 
-Try it on Evolink: [Seedance 2.0](https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
+Try it on Evolink: [Seedance 2.0](https://evolink.ai/seedance2?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
 
 If you find this useful, consider giving it a star. ⭐
 
@@ -43,7 +43,7 @@ Related repositories:
 - OpenClaw skill: [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
 - Full guide: [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
 
-<a href='https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts'><img src='https://img.shields.io/badge/🚀 Try%20it%20on-Evolink-black' height="25" alt="Try it on Evolink"></a>
+<a href='https://evolink.ai/seedance2?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts'><img src='https://img.shields.io/badge/🚀 Try%20it%20on-Evolink-black' height="25" alt="Try it on Evolink"></a>
 
 ## 📰 News
 
