@@ -257,7 +257,7 @@ Combat, chase, anime, wuxia, creature, and large-scale cinematic spectacle promp
 
 | Output |
 | :----: |
-| <a href="https://x.com/songguoxiansen/status/2033175478765289598"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/021.jpg" width="300" alt="Preview image"></a> |
+| <video src="https://github.com/user-attachments/assets/541df943-58b6-4e38-b681-d48761994748" width="300" controls></video> |
 
 **Prompt:**
 
@@ -935,7 +935,7 @@ The camera remains in a low, fetal position on the final bar, shaking from the a
 
 | Output |
 | :----: |
-| <a href="https://x.com/Adam38363368936/status/2039498800801398911"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/005.jpg" width="300" alt="Preview image"></a> |
+| <video src="https://github.com/user-attachments/assets/477e9711-1d52-4bf0-bdda-0c0bbdf93a9a" width="300" controls></video> |
 
 **Prompt:**
 
@@ -960,7 +960,7 @@ Mood: energetic, futuristic, premium, fast-paced. Combine wide city views with f
 
 | Output |
 | :----: |
-| <a href="https://x.com/Just_sharon7/status/2040685931858907646"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/006.jpg" width="300" alt="Preview image"></a> |
+| <video src="https://github.com/user-attachments/assets/5af0eb61-3bc6-4174-80af-6f40aa602863" width="300" controls></video> |
 
 **Prompt:**
 
@@ -973,7 +973,7 @@ Strictly follow the reference character’s face, hairstyle, outfit silhouette, 
 
 | Output |
 | :----: |
-| <a href="https://x.com/drjoetw/status/2040661051948323129"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/009.jpg" width="300" alt="Preview image"></a> |
+| <video src="https://github.com/user-attachments/assets/93944843-fd86-4dca-b73e-42b883b26531" width="300" controls></video> |
 
 **Prompt:**
 
@@ -994,7 +994,7 @@ Shot 8: Wide epic drone pull-back. Wukong stands silhouett
 
 | Output |
 | :----: |
-| <a href="https://x.com/johnAGI168/status/2040628800422322359"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/010.jpg" width="300" alt="Preview image"></a> |
+| <video src="https://github.com/user-attachments/assets/4a8faa66-0ad4-4a5c-ba05-1bb08e7698c2" width="300" controls></video> |
 
 **Prompt:**
 
@@ -1369,7 +1369,7 @@ Advertising, fashion, lifestyle, product, and premium brand-style prompts.
 
 | Output |
 | :----: |
-| <a href="https://x.com/ShadeLurk/status/2040671186984796632"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/007.jpg" width="300" alt="Preview image"></a> |
+| <video src="https://github.com/user-attachments/assets/10ece9bd-dd8d-4c1c-a094-b0d8c85dec01" width="300" controls></video> |
 
 **Prompt:**
 
@@ -1387,7 +1387,7 @@ Three anime girls perform Perfume-style formation dance on an illuminated stage.
 
 | Output |
 | :----: |
-| <a href="https://x.com/ZaraIrahh/status/2040667542390190245"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/008.jpg" width="300" alt="Preview image"></a> |
+| <video src="https://github.com/user-attachments/assets/ca91b7f8-d3ea-4ed0-a3b4-697e72e6e5db" width="300" controls></video> |
 
 **Prompt:**
 
@@ -1400,7 +1400,7 @@ Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-cl
 
 | Output |
 | :----: |
-| <a href="https://x.com/MiraMusic_AI/status/2040595365096034700"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/012.jpg" width="300" alt="Preview image"></a> |
+| <video src="https://github.com/user-attachments/assets/95dc5dc9-ebb4-4423-8384-f2806e049005" width="300" controls></video> |
 
 **Prompt:**
 
@@ -1416,7 +1416,7 @@ A strong hook within the first 2 seconds, followed by a stable and cohesive prog
 
 | Output |
 | :----: |
-| <a href="https://x.com/aigeboku/status/2040562471027782017"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/014.jpg" width="300" alt="Preview image"></a> |
+| <video src="https://github.com/user-attachments/assets/8308c1cd-64ac-42eb-a795-629d618fcd09" width="300" controls></video> |
 
 **Prompt:**
 
@@ -1436,7 +1436,7 @@ Shot 5 (3s): Close-up of the new snack package. Narration: "It's out! New releas
 
 | Output |
 | :----: |
-| <a href="https://x.com/CharaspowerAI/status/2040376349504815467"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/017.jpg" width="300" alt="Preview image"></a> |
+| <video src="https://github.com/user-attachments/assets/7fcb7e15-6170-4eb5-9477-6b29920051f1" width="300" controls></video> |
 
 **Prompt:**
 
@@ -1460,7 +1460,7 @@ Ultra realistic, high-end martial arts film choreography, precise body mechanics
 
 | Output |
 | :----: |
-| <a href="https://x.com/Viafin23/status/2025901411221774788"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/020.jpg" width="300" alt="Preview image"></a> |
+| <video src="https://github.com/user-attachments/assets/dbe90116-bba0-47dd-a4ab-25231720910e" width="300" controls></video> |
 
 **Prompt:**
 
@@ -1480,7 +1480,7 @@ Maintain stable temporal continuity. Avoid unnatural frame interpolation. No exa
 
 | Output |
 | :----: |
-| <a href="https://x.com/JiahaoYang_art/status/2033119940216344616"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/022.jpg" width="300" alt="Preview image"></a> |
+| <video src="https://github.com/user-attachments/assets/4e3bb308-ba70-43b2-9fdd-898a62ad3858" width="300" controls></video> |
 
 **Prompt:**
 
@@ -1499,7 +1499,7 @@ Character identity is maintained throughout, real subtle head tilts, eye movemen
 
 | Output |
 | :----: |
-| <a href="https://x.com/MiraMusic_AI/status/2039096342749016145"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/025.jpg" width="300" alt="Preview image"></a> |
+| <video src="https://github.com/user-attachments/assets/e4051b2b-abd0-4156-9e22-6d7f62c01023" width="300" controls></video> |
 
 **Prompt:**
 
@@ -1512,7 +1512,7 @@ Character identity is maintained throughout, real subtle head tilts, eye movemen
 
 | Output |
 | :----: |
-| <a href="https://x.com/Adam38363368936/status/2039932977287979053"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/030.jpg" width="300" alt="Preview image"></a> |
+| <video src="https://github.com/user-attachments/assets/374c6ee4-2486-4cd5-a7a1-13bd594d40fd" width="300" controls></video> |
 
 **Prompt:**
 
@@ -1906,7 +1906,7 @@ SHOT 15: WS, 50mm pull-out / L-cut with a match from the floor to the bed. The m
 
 | Output |
 | :----: |
-| <a href="https://x.com/Adam38363368936/status/2039932977287979053"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/030.jpg" width="300" alt="Preview image"></a> |
+| <video src="https://github.com/user-attachments/assets/374c6ee4-2486-4cd5-a7a1-13bd594d40fd" width="300" controls></video> |
 
 **Prompt:**
 
@@ -2064,7 +2064,7 @@ Prompts that rely on image references, character consistency, or frame-to-frame 
 
 | Output |
 | :----: |
-| <a href="https://x.com/tea_story_hoshi/status/2040614786933887043"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/011.jpg" width="300" alt="Preview image"></a> |
+| <video src="https://github.com/user-attachments/assets/d9aed4e0-babd-4e27-806f-89596026d093" width="300" controls></video> |
 
 **Prompt:**
 
@@ -2166,7 +2166,7 @@ Motion blur + light streaks
 
 | Output |
 | :----: |
-| <a href="https://x.com/MiraMusic_AI/status/2040281710957666770"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/019.jpg" width="300" alt="Preview image"></a> |
+| <video src="https://github.com/user-attachments/assets/6d4fe7b1-0a0c-4a5d-90c2-6e37fa621320" width="300" controls></video> |
 
 **Prompt:**
 
@@ -2245,7 +2245,7 @@ Notes:
 
 | Output |
 | :----: |
-| <a href="https://x.com/liyue_ai/status/2040062803076341872"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/028.jpg" width="300" alt="Preview image"></a> |
+| <video src="https://github.com/user-attachments/assets/6037b604-6551-4dc0-b7dc-4cb25c7f8278" width="300" controls></video> |
 
 **Prompt:**
 
@@ -2706,7 +2706,7 @@ Abstract, impossible, stylized, or effect-heavy prompts driven by transformation
 
 | Output |
 | :----: |
-| <a href="https://x.com/MiraMusic_AI/status/2040584525781364874"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/013.jpg" width="300" alt="Preview image"></a> |
+| <video src="https://github.com/user-attachments/assets/186ca757-d676-48d5-99d6-2e8a814742d8" width="300" controls></video> |
 
 **Prompt:**
 
@@ -2983,7 +2983,7 @@ Reusable prompt skeletons, JSON-style specs, and highly structured prompt format
 
 | Output |
 | :----: |
-| <a href="https://x.com/johnAGI168/status/2040432247094870343"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/016.jpg" width="300" alt="Preview image"></a> |
+| <video src="https://github.com/user-attachments/assets/cdc965b0-424e-4098-9051-a88c7b280f0e" width="300" controls></video> |
 
 **Prompt:**
 
@@ -3000,7 +3000,7 @@ Seedance 2.0 text-to-video prompt below:
 
 | Output |
 | :----: |
-| <a href="https://x.com/TechTalkNAVI/status/2040327899606306840"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/018.jpg" width="300" alt="Preview image"></a> |
+| <video src="https://github.com/user-attachments/assets/7629f680-ef76-4158-bccb-0a5bb42473bc" width="300" controls></video> |
 
 **Prompt:**
 
@@ -3028,7 +3028,7 @@ Seedance 2.0 text-to-video prompt below:
 
 | Output |
 | :----: |
-| <a href="https://x.com/craftian_keskin/status/2039053365666037902"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/024.jpg" width="300" alt="Preview image"></a> |
+| <video src="https://github.com/user-attachments/assets/61011b1e-ddf6-4129-bee0-b1065c4694c6" width="300" controls></video> |
 
 **Prompt:**
 
@@ -3092,7 +3092,7 @@ Seedance 2.0 text-to-video prompt below:
 
 | Output |
 | :----: |
-| <a href="https://x.com/Adam38363368936/status/2037359552849666514"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/027.jpg" width="300" alt="Preview image"></a> |
+| <video src="https://github.com/user-attachments/assets/3b2d45d3-bf02-4a03-b40c-acd7c4f6c9d3" width="300" controls></video> |
 
 **Prompt:**
 
@@ -3536,7 +3536,7 @@ Useful prompts that do not fit the tighter buckets above but remain strong gener
 
 | Output |
 | :----: |
-| <a href="https://x.com/liyue_ai/status/2038993496225591731"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/001.jpg" width="300" alt="Preview image"></a> |
+| <video src="https://github.com/user-attachments/assets/27a1213b-ce63-4720-bfc0-5c39ff07760b" width="300" controls></video> |
 
 **Prompt:**
 
@@ -3579,7 +3579,7 @@ Beauty beat-sync sequence:
 
 | Output |
 | :----: |
-| <a href="https://x.com/anson7956/status/2038846411253657939"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/003.jpg" width="300" alt="Preview image"></a> |
+| <video src="https://github.com/user-attachments/assets/22e91a4c-51bc-4bff-8604-1ce6adfe2f73" width="300" controls></video> |
 
 **Prompt:**
 
@@ -3597,7 +3597,7 @@ This is a thrilling, heart-pounding video packed with near escapes. The setting 
 
 | Output |
 | :----: |
-| <a href="https://x.com/techhalla/status/2039114930461549008"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/023.jpg" width="300" alt="Preview image"></a> |
+| <video src="https://github.com/user-attachments/assets/e64a4dc1-3969-4672-9458-7ec9c4a8e43f" width="300" controls></video> |
 
 **Prompt:**
 
@@ -3610,7 +3610,7 @@ Raw mobile phone footage, vertical handheld shot, shaky cam, grainy texture. At 
 
 | Output |
 | :----: |
-| <a href="https://x.com/AITalesNBH/status/2039072522650423445"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/026.jpg" width="300" alt="Preview image"></a> |
+| <video src="https://github.com/user-attachments/assets/d478b2d7-bcbf-43e1-b135-c122514cde11" width="300" controls></video> |
 
 **Prompt:**
 
@@ -3623,7 +3623,7 @@ The firefighter is entering the house, at the 3-second mark the firefighter is w
 
 | Output |
 | :----: |
-| <a href="https://x.com/johnAGI168/status/2040058721158467975"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/029.jpg" width="300" alt="Preview image"></a> |
+| <video src="https://github.com/user-attachments/assets/bdec0be7-c556-4f55-8135-f10baa527b7c" width="300" controls></video> |
 
 **Prompt:**
 
@@ -4020,7 +4020,7 @@ her boyfriend full of regret, ending with a low background music and whispers ar
 
 | Output |
 | :----: |
-| <a href="https://x.com/JiahaoYang_art/status/2033119940216344616"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/022.jpg" width="300" alt="Preview image"></a> |
+| <video src="https://github.com/user-attachments/assets/4e3bb308-ba70-43b2-9fdd-898a62ad3858" width="300" controls></video> |
 
 **Prompt:**
 
