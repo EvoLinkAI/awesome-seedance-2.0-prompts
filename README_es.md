@@ -3,6 +3,7 @@
 <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2.0-prompts"><img src="./public/banner.jpg" alt="Awesome Seedance 2.0 Prompts banner"></a>
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
+[![Prompts](https://img.shields.io/badge/Prompts-163_Curated_Cases-111111)](README.md)
 [![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
 [![Website](https://img.shields.io/badge/Website-Live-orange)](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
 [![Docs](https://img.shields.io/badge/Docs-Read-blue)](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
@@ -34,6 +35,7 @@ Idioma: **Español**
 
 ## 📰 News
 
+- **30 de abril de 2026:** Se mejoro la reproduccion inline de video para 113 entradas adicionales y se corrigio el comportamiento de los enlaces de vista previa para adjuntos de video de GitHub
 - **17 de abril de 2026:** Se añadió el lote más reciente de prompts con 6 entradas cinematográficas destacadas
 
 ## 📑 Menu

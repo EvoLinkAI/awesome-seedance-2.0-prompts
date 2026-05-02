@@ -93,7 +93,7 @@ Related repositories:
   - [Case 30: Dark Fantasy Transformation — Eastern Style (by @johnAGI168)](#case-30-dark-fantasy-transformation--eastern-style-by-johnagi168)
 - [🎞️ Cinematic Realism](#cinematic-realism) (3)
   - [Case 1: Modern Japan Documentary Sequence (by @kuranoayashi)](#case-1-modern-japan-documentary-sequence-by-kuranoayashi)
-  - [Case 2: Prompt 76 (by @Dheepanratnam)](#case-2-prompt-76-by-dheepanratnam)
+  - [Case 2: Shadow-Tracking Longboard Descent (by @Dheepanratnam)](#case-2-shadow-tracking-longboard-descent-by-dheepanratnam)
   - [Case 3: Meteor Awakening War Heroine (by @ChrisTheNerv)](#case-3-meteor-awakening-war-heroine-by-christhenerv)
 - [🥽 POV / FPV](#pov--fpv) (18)
   - [Case 1: Chest-Mounted Camouflage Chase Sequence (by @genel_ai)](#case-1-chest-mounted-camouflage-chase-sequence-by-genel_ai)
@@ -101,7 +101,7 @@ Related repositories:
   - [Case 3: Cursed Samurai Consistency Action Prompt (by @Just_sharon7)](#case-3-cursed-samurai-consistency-action-prompt-by-just_sharon7)
   - [Case 4: Sun Wukong Battlefield Divine Rescue (by @drjoetw)](#case-4-sun-wukong-battlefield-divine-rescue-by-drjoetw)
   - [Case 5: Y2K Pool Party Camcorder Montage (by @johnAGI168)](#case-5-y2k-pool-party-camcorder-montage-by-johnagi168)
-  - [Case 6: Prompt 40 (by @xingsthatmatter)](#case-6-prompt-40-by-xingsthatmatter)
+  - [Case 6: Tesla Card POV City Burst (by @xingsthatmatter)](#case-6-tesla-card-pov-city-burst-by-xingsthatmatter)
   - [Case 7: Anime MV Extreme Close-Up Sequence (by @drjoetw)](#case-7-anime-mv-extreme-close-up-sequence-by-drjoetw)
   - [Case 8: Create A Fast, Seamless 16 (by @aisavvy1)](#case-8-create-a-fast-seamless-16-by-aisavvy1)
   - [Case 9: Medieval Fantasy City Descent (by @LudovicCreator)](#case-9-medieval-fantasy-city-descent-by-ludoviccreator)
@@ -110,7 +110,7 @@ Related repositories:
   - [Case 12: 10-second photorealistic cinematic POV video (by @umitsuru_fire)](#case-12-10-second-photorealistic-cinematic-pov-video-by-umitsuru_fire)
   - [Case 13: A super futuristic megacity after the apocalypse awakens in a storm (by @johnAGI168)](#case-13-a-super-futuristic-megacity-after-the-apocalypse-awakens-in-a-storm-by-johnagi168)
   - [Case 14: Style: Ultra-realistic industrial timelapse (by @craftian_keskin)](#case-14-style-ultra-realistic-industrial-timelapse-by-craftian_keskin)
-  - [Case 15: Prompt 116 (by @Yuupapa_free)](#case-15-prompt-116-by-yuupapa_free)
+  - [Case 15: Monster Attack Schoolgirl Transformation (by @Yuupapa_free)](#case-15-monster-attack-schoolgirl-transformation-by-yuupapa_free)
   - [Case 16: Tokyo POV Rollercoaster (by @TechTalkNAVI)](#case-16-tokyo-pov-rollercoaster-by-techtalknavi)
   - [Case 17: Cinematic Beijing Cultural Ad — 8K First-Person (by @crayon1267)](#case-17-cinematic-beijing-cultural-ad--8k-first-person-by-crayon1267)
   - [Case 18: Extreme Macro FPV — Fairy Wing Tracking Shot (by @EHuanglu)](#case-18-extreme-macro-fpv--fairy-wing-tracking-shot-by-ehuanglu)
@@ -125,18 +125,18 @@ Related repositories:
   - [Case 8: Recommended Settings Mode (by @MiraMusic_AI)](#case-8-recommended-settings-mode-by-miramusic_ai)
   - [Case 9: LaFerrari Commercial Storyboard (by @Adam38363368936)](#case-9-laferrari-commercial-storyboard-by-adam38363368936)
   - [Case 10: Hot-Blooded Anime Final Duel (by @gkxspace)](#case-10-hot-blooded-anime-final-duel-by-gkxspace)
-  - [Case 11: Prompt 35 (by @johnAGI168)](#case-11-prompt-35-by-johnagi168)
-  - [Case 12: Character (by @johnAGI168)](#case-12-character-by-johnagi168)
-  - [Case 13: Camera (by @CharaspowerAI)](#case-13-camera-by-charaspowerai)
-  - [Case 14: Prompt 49 (by @johnAGI168)](#case-14-prompt-49-by-johnagi168)
-  - [Case 15: Prompt 57 (by @aiehon_aya)](#case-15-prompt-57-by-aiehon_aya)
-  - [Case 16: Positive Prompt (by @adrianaia_)](#case-16-positive-prompt-by-adrianaia_)
+  - [Case 11: Porcelain Couture Sky Mirror Runway (by @johnAGI168)](#case-11-porcelain-couture-sky-mirror-runway-by-johnagi168)
+  - [Case 12: Modern Rural Creator Harvest Ad (by @johnAGI168)](#case-12-modern-rural-creator-harvest-ad-by-johnagi168)
+  - [Case 13: Neon Street Racing Sequence (by @CharaspowerAI)](#case-13-neon-street-racing-sequence-by-charaspowerai)
+  - [Case 14: Supermodel and Luxury Sports Cars (by @johnAGI168)](#case-14-supermodel-and-luxury-sports-cars-by-johnagi168)
+  - [Case 15: Android Girl Lab Destruction Chase (by @aiehon_aya)](#case-15-android-girl-lab-destruction-chase-by-aiehon_aya)
+  - [Case 16: Neon Ruined City Game Trailer (by @adrianaia_)](#case-16-neon-ruined-city-game-trailer-by-adrianaia_)
   - [Case 17: Original Dark Fantasy Action Short Film (by @Rufus87078959)](#case-17-original-dark-fantasy-action-short-film-by-rufus87078959)
   - [Case 18: 00:00-00:04 Shot 1: Follow shot (by @IamEmily2050)](#case-18-0000-0004-shot-1-follow-shot-by-iamemily2050)
   - [Case 19: Meteor Awakening War Heroine (by @ChrisTheNerv)](#case-19-meteor-awakening-war-heroine-by-christhenerv)
   - [Case 20: Cloud Cave Sword Shadow (by @Adam38363368936)](#case-20-cloud-cave-sword-shadow-by-adam38363368936)
-  - [Case 21: Prompt 98 (by @ImperfectEngel)](#case-21-prompt-98-by-imperfectengel)
-  - [Case 22: Prompt 112 (by @johnAGI168)](#case-22-prompt-112-by-johnagi168)
+  - [Case 21: Train-Top Tactical Fight Sequence (by @ImperfectEngel)](#case-21-train-top-tactical-fight-sequence-by-imperfectengel)
+  - [Case 22: Manhattan Trading Floor Frenzy (by @johnAGI168)](#case-22-manhattan-trading-floor-frenzy-by-johnagi168)
   - [Case 23: (Poliziottesco Wednesday) (by @ChrisGwinnLA)](#case-23-poliziottesco-wednesday-by-chrisgwinnla)
   - [Case 24: Foldable Smartphone Fashion Ad (by @Adam38363368936)](#case-24-foldable-smartphone-fashion-ad-by-adam38363368936)
   - [Case 25: Travel Suitcase Buddy Montage (by @ChaseAIx)](#case-25-travel-suitcase-buddy-montage-by-chaseaix)
@@ -150,24 +150,24 @@ Related repositories:
   - [Case 3: Maid Blade Dance: Mei vs Coco (by @MiraMusic_AI)](#case-3-maid-blade-dance-mei-vs-coco-by-miramusic_ai)
   - [Case 4: Apocalyptic Rooftop Piano Farewell (by @liyue_ai)](#case-4-apocalyptic-rooftop-piano-farewell-by-liyue_ai)
   - [Case 5: CINEMATIC 8mm Fisheye lens, FPV racing drone camera, hyper-fluid motion (by @itsPixieVerse)](#case-5-cinematic-8mm-fisheye-lens-fpv-racing-drone-camera-hyper-fluid-motion-by-itspixieverse)
-  - [Case 6: Subject (by @YaReYaRu30Life)](#case-6-subject-by-yareyaru30life)
+  - [Case 6: Reference-Driven Kung Fu Stunt Sequence (by @YaReYaRu30Life)](#case-6-reference-driven-kung-fu-stunt-sequence-by-yareyaru30life)
   - [Case 7: Ray tracing, Unreal Engine render, small town in heavy rain (by @Gwsubsa)](#case-7-ray-tracing-unreal-engine-render-small-town-in-heavy-rain-by-gwsubsa)
   - [Case 8: Moon Convenience Store Night Shift (by @zasuko_michiksa)](#case-8-moon-convenience-store-night-shift-by-zasuko_michiksa)
   - [Case 9: Rooftop Awakening to F-14 Transformation (by @john87445528)](#case-9-rooftop-awakening-to-f-14-transformation-by-john87445528)
   - [Case 10: Armor Assembly Street Counterattack (by @egeberkina)](#case-10-armor-assembly-street-counterattack-by-egeberkina)
   - [Case 11: Character reference @Image 1, convert to real-person live-action style (by @Adam38363368936)](#case-11-character-reference-image-1-convert-to-real-person-live-action-style-by-adam38363368936)
-  - [Case 12: Format (by @aimikoda)](#case-12-format-by-aimikoda)
+  - [Case 12: Polar Bear Match-Cut Sword Duel Template (by @aimikoda)](#case-12-polar-bear-match-cut-sword-duel-template-by-aimikoda)
   - [Case 13: Seven-Image Seamless Morphing Sequence (by @YaReYaRu30Life)](#case-13-seven-image-seamless-morphing-sequence-by-yareyaru30life)
   - [Case 14: Stridex Sneaker Commercial (by @ShamsAmin56)](#case-14-stridex-sneaker-commercial-by-shamsamin56)
   - [Case 15: Image-Driven Prompt with Singing Cat (by @pan_soramame_da)](#case-15-image-driven-prompt-with-singing-cat-by-pan_soramame_da)
   - [Case 16: Character Reference Anime Prompt (by @Reiria123)](#case-16-character-reference-anime-prompt-by-reiria123)
 - [🌀 Surreal / VFX](#surreal--vfx) (11)
   - [Case 1: Zero-Gravity Katana Combat (by @MiraMusic_AI)](#case-1-zero-gravity-katana-combat-by-miramusic_ai)
-  - [Case 2: Aerial Shot (by @chaosdotjpg)](#case-2-aerial-shot-by-chaosdotjpg)
-  - [Case 3: Prompt 85 (by @AIARTGALLARY)](#case-3-prompt-85-by-aiartgallary)
-  - [Case 4: Reality splits (by @LudovicCreator)](#case-4-reality-splits-by-ludoviccreator)
+  - [Case 2: Whale in the Clouds Surreal Epic (by @chaosdotjpg)](#case-2-whale-in-the-clouds-surreal-epic-by-chaosdotjpg)
+  - [Case 3: Abyss Diver Sea Creature Metamorphosis (by @AIARTGALLARY)](#case-3-abyss-diver-sea-creature-metamorphosis-by-aiartgallary)
+  - [Case 4: Interdimensional Megacity Rift Collapse (by @LudovicCreator)](#case-4-interdimensional-megacity-rift-collapse-by-ludoviccreator)
   - [Case 5: Rainy Underground Alley Merge (by @Dheepanratnam)](#case-5-rainy-underground-alley-merge-by-dheepanratnam)
-  - [Case 6: Video prompt (by @Dheepanratnam)](#case-6-video-prompt-by-dheepanratnam)
+  - [Case 6: Quantum Reality Fracture Street Rift (by @Dheepanratnam)](#case-6-quantum-reality-fracture-street-rift-by-dheepanratnam)
   - [Case 7: the eye suddenly opens (by @roco_kn_roco)](#case-7-the-eye-suddenly-opens-by-roco_kn_roco)
   - [Case 8: They clash mid-air above a floating lava river (by @LudovicCreator)](#case-8-they-clash-mid-air-above-a-floating-lava-river-by-ludoviccreator)
   - [Case 9: Creative Director Dimension Walk (by @lukasersil)](#case-9-creative-director-dimension-walk-by-lukasersil)
@@ -178,46 +178,46 @@ Related repositories:
   - [Case 2: Reconstruction of Memory Shards (by @TechTalkNAVI)](#case-2-reconstruction-of-memory-shards-by-techtalknavi)
   - [Case 3: Blueprint to Reality – Single-Story House Transformation (by @craftian_keskin)](#case-3-blueprint-to-reality--single-story-house-transformation-by-craftian_keskin)
   - [Case 4: Martial-Arts Haute Couture Tailor (by @Adam38363368936)](#case-4-martial-arts-haute-couture-tailor-by-adam38363368936)
-  - [Case 5: Format (by @aimikoda)](#case-5-format-by-aimikoda)
-  - [Case 6: Location (by @TechTalkNAVI)](#case-6-location-by-techtalknavi)
-  - [Case 7: Location (by @TechTalkNAVI)](#case-7-location-by-techtalknavi)
+  - [Case 5: Beat-Synced Outfit Transition Template (by @aimikoda)](#case-5-beat-synced-outfit-transition-template-by-aimikoda)
+  - [Case 6: Tokyo POV Neon Rollercoaster Template (by @TechTalkNAVI)](#case-6-tokyo-pov-neon-rollercoaster-template-by-techtalknavi)
+  - [Case 7: Dancing Skyscraper District Template (by @TechTalkNAVI)](#case-7-dancing-skyscraper-district-template-by-techtalknavi)
   - [Case 8: Starlight Shadow / Stardust Silhouette (by @TechTalkNAVI)](#case-8-starlight-shadow--stardust-silhouette-by-techtalknavi)
-  - [Case 9: Subjects (by @0xbisc)](#case-9-subjects-by-0xbisc)
-  - [Case 10: Format (by @aimikoda)](#case-10-format-by-aimikoda)
-  - [Case 11: Prompt (by @Just_sharon7)](#case-11-prompt-by-just_sharon7)
-  - [Case 12: Format (by @Dheepanratnam)](#case-12-format-by-dheepanratnam)
-  - [Case 13: Composition (by @CharaspowerAI)](#case-13-composition-by-charaspowerai)
-  - [Case 14: Format (by @BrennanErbz)](#case-14-format-by-brennanerbz)
-  - [Case 15: Subjects (by @0xbisc)](#case-15-subjects-by-0xbisc)
+  - [Case 9: Painterly Parkour POV Template (by @0xbisc)](#case-9-painterly-parkour-pov-template-by-0xbisc)
+  - [Case 10: 360 POV Downhill Stair Run Template (by @aimikoda)](#case-10-360-pov-downhill-stair-run-template-by-aimikoda)
+  - [Case 11: Food and Character Motion Template (by @Just_sharon7)](#case-11-food-and-character-motion-template-by-just_sharon7)
+  - [Case 12: Impossible Camera Kitchen Rush Template (by @Dheepanratnam)](#case-12-impossible-camera-kitchen-rush-template-by-dheepanratnam)
+  - [Case 13: Time-Freeze POV Burst Template (by @CharaspowerAI)](#case-13-time-freeze-pov-burst-template-by-charaspowerai)
+  - [Case 14: Astronaut First Spacewalk Template (by @BrennanErbz)](#case-14-astronaut-first-spacewalk-template-by-brennanerbz)
+  - [Case 15: Golden Retriever Routine Template (by @0xbisc)](#case-15-golden-retriever-routine-template-by-0xbisc)
   - [Case 16: Stylized 3D Barbershop Transformation Sequence (by @ShamiWeb3)](#case-16-stylized-3d-barbershop-transformation-sequence-by-shamiweb3)
-  - [Case 17: Subjects (by @0xbisc)](#case-17-subjects-by-0xbisc)
+  - [Case 17: Impressionist Rowing Hands Template (by @0xbisc)](#case-17-impressionist-rowing-hands-template-by-0xbisc)
   - [Case 18: Seven-Image Seamless Morphing Sequence (by @YaReYaRu30Life)](#case-18-seven-image-seamless-morphing-sequence-by-yareyaru30life)
   - [Case 19: Female Warrior — Structured Subject Prompt (by @noman23761)](#case-19-female-warrior--structured-subject-prompt-by-noman23761)
 - [🎬 General Cinematic](#general-cinematic) (37)
   - [Case 1: Spring Wind Memory Poem (by @liyue_ai)](#case-1-spring-wind-memory-poem-by-liyue_ai)
   - [Case 2: High-Heel Beat Sync Fashion Close-Up (by @TingFengAIAI)](#case-2-high-heel-beat-sync-fashion-close-up-by-tingfengaiai)
   - [Case 3: Mini Skateboard Escape in a Child Bedroom (by @anson7956)](#case-3-mini-skateboard-escape-in-a-child-bedroom-by-anson7956)
-  - [Case 4: Prompt 25 (by @techhalla)](#case-4-prompt-25-by-techhalla)
-  - [Case 5: Prompt 28 (by @AITalesNBH)](#case-5-prompt-28-by-aitalesnbh)
+  - [Case 4: Rucker Park Grandma Showdown (by @techhalla)](#case-4-rucker-park-grandma-showdown-by-techhalla)
+  - [Case 5: Firefighter Baby Rescue Sequence (by @AITalesNBH)](#case-5-firefighter-baby-rescue-sequence-by-aitalesnbh)
   - [Case 6: Ancient Costume Transformation Showcase (by @johnAGI168)](#case-6-ancient-costume-transformation-showcase-by-johnagi168)
   - [Case 7: Ginza at night, future cyberpunk (by @ChiakiAkagi)](#case-7-ginza-at-night-future-cyberpunk-by-chiakiakagi)
   - [Case 8: stories of a hopper (by @starks_arq)](#case-8-stories-of-a-hopper-by-starks_arq)
   - [Case 9: A suspicious man stands in the center of Shibuya scramble crossing (by @roco_kn_roco)](#case-9-a-suspicious-man-stands-in-the-center-of-shibuya-scramble-crossing-by-roco_kn_roco)
-  - [Case 10: Aesthetic (by @maxescu)](#case-10-aesthetic-by-maxescu)
+  - [Case 10: Fishing Boat Crowd Phone Cam (by @maxescu)](#case-10-fishing-boat-crowd-phone-cam-by-maxescu)
   - [Case 11: A girl falls rapidly through a digital tunnel (by @_3912657840)](#case-11-a-girl-falls-rapidly-through-a-digital-tunnel-by-_3912657840)
-  - [Case 12: Visuals (by @TechTalkNAVI)](#case-12-visuals-by-techtalknavi)
+  - [Case 12: Skytree Railgun Launch Sequence (by @TechTalkNAVI)](#case-12-skytree-railgun-launch-sequence-by-techtalknavi)
   - [Case 13: A Hollywood movie trailer (by @SSSS_CRYPTOMAN)](#case-13-a-hollywood-movie-trailer-by-ssss_cryptoman)
   - [Case 14: Cinematic Vertical 9 (by @Mayz1169)](#case-14-cinematic-vertical-9-by-mayz1169)
   - [Case 15: A giant glacier wall collapses into a fjord beside a coastal city (by @LudovicCreator)](#case-15-a-giant-glacier-wall-collapses-into-a-fjord-beside-a-coastal-city-by-ludoviccreator)
   - [Case 16: A moonlit piano chase where the mouse (by @Dheepanratnam)](#case-16-a-moonlit-piano-chase-where-the-mouse-by-dheepanratnam)
   - [Case 17: 15-second continuous single-shot cartoon sequence (by @Artedeingenio)](#case-17-15-second-continuous-single-shot-cartoon-sequence-by-artedeingenio)
-  - [Case 18: Prompt 83 (by @Alin_Reaper05)](#case-18-prompt-83-by-alin_reaper05)
-  - [Case 19: Aesthetic (by @maxescu)](#case-19-aesthetic-by-maxescu)
+  - [Case 18: Steampunk Airship Battle at Sunset (by @Alin_Reaper05)](#case-18-steampunk-airship-battle-at-sunset-by-alin_reaper05)
+  - [Case 19: Flip-Flops Jet Wing Tracking Shot (by @maxescu)](#case-19-flip-flops-jet-wing-tracking-shot-by-maxescu)
   - [Case 20: Exterior of an ancient temple in the deep mountains (by @cdexsta)](#case-20-exterior-of-an-ancient-temple-in-the-deep-mountains-by-cdexsta)
   - [Case 21: Statue of Liberty Sunrise Storyboard (by @MrDasOnX)](#case-21-statue-of-liberty-sunrise-storyboard-by-mrdasonx)
   - [Case 22: Historical scene with dramatic lighting (by @AskVenice)](#case-22-historical-scene-with-dramatic-lighting-by-askvenice)
-  - [Case 23: ROCKET SURF (by @maxescu)](#case-23-rocket-surf-by-maxescu)
-  - [Case 24: Dialogue (by @Adam38363368936)](#case-24-dialogue-by-adam38363368936)
+  - [Case 23: Rocket Surf Continuous Tracking Shot (by @maxescu)](#case-23-rocket-surf-continuous-tracking-shot-by-maxescu)
+  - [Case 24: Stand-Up Comedy Monologue Template (by @Adam38363368936)](#case-24-stand-up-comedy-monologue-template-by-adam38363368936)
   - [Case 25: Rooftop Awakening to F-14 Transformation (by @john87445528)](#case-25-rooftop-awakening-to-f-14-transformation-by-john87445528)
   - [Case 26: Birthday Betrayal Restaurant Drama (by @Lighterkissan33)](#case-26-birthday-betrayal-restaurant-drama-by-lighterkissan33)
   - [Case 27: Japanese Classroom Whisper Romance (by @JiahaoYang_art)](#case-27-japanese-classroom-whisper-romance-by-jiahaoyang_art)
@@ -856,7 +856,7 @@ No BGM. No subtitles. Only environmental sounds, radio, wind, fire, and people's
 ```
 
 <!-- Case 2: Prompt 76 (by @Dheepanratnam) -->
-### Case 2: [Prompt 76](https://x.com/Dheepanratnam/status/2039982273076810119) (by [@Dheepanratnam](https://x.com/Dheepanratnam))
+### Case 2: [Shadow-Tracking Longboard Descent](https://x.com/Dheepanratnam/status/2039982273076810119) (by [@Dheepanratnam](https://x.com/Dheepanratnam))
 
 | Output |
 | :----: |
@@ -1030,7 +1030,7 @@ A rapid crane rise opens the entire pool party in golden-hour warm light, full o
 ```
 
 <!-- Case 6: Prompt 40 (by @xingsthatmatter) -->
-### Case 6: [Prompt 40](https://x.com/xingsthatmatter/status/2040190310043812035) (by [@xingsthatmatter](https://x.com/xingsthatmatter))
+### Case 6: [Tesla Card POV City Burst](https://x.com/xingsthatmatter/status/2040190310043812035) (by [@xingsthatmatter](https://x.com/xingsthatmatter))
 
 | Output |
 | :----: |
@@ -1304,7 +1304,7 @@ Camera holds briefly as car exits frame
 ```
 
 <!-- Case 15: Prompt 116 (by @Yuupapa_free) -->
-### Case 15: [Prompt 116](https://x.com/Yuupapa_free/status/2039329682492121547) (by [@Yuupapa_free](https://x.com/Yuupapa_free))
+### Case 15: [Monster Attack Schoolgirl Transformation](https://x.com/Yuupapa_free/status/2039329682492121547) (by [@Yuupapa_free](https://x.com/Yuupapa_free))
 
 | Output |
 | :----: |
@@ -1566,7 +1566,7 @@ Original Hot-Blooded Duel Anime Short Film: Two top warriors launch their final 
 ```
 
 <!-- Case 11: Prompt 35 (by @johnAGI168) -->
-### Case 11: [Prompt 35](https://x.com/johnAGI168/status/2025849650654122348) (by [@johnAGI168](https://x.com/johnAGI168))
+### Case 11: [Porcelain Couture Sky Mirror Runway](https://x.com/johnAGI168/status/2025849650654122348) (by [@johnAGI168](https://x.com/johnAGI168))
 
 | Output |
 | :----: |
@@ -1579,7 +1579,7 @@ Original Hot-Blooded Duel Anime Short Film: Two top warriors launch their final 
 ```
 
 <!-- Case 12: Character (by @johnAGI168) -->
-### Case 12: [Character](https://x.com/johnAGI168/status/2021818021354848258) (by [@johnAGI168](https://x.com/johnAGI168))
+### Case 12: [Modern Rural Creator Harvest Ad](https://x.com/johnAGI168/status/2021818021354848258) (by [@johnAGI168](https://x.com/johnAGI168))
 
 | Output |
 | :----: |
@@ -1615,7 +1615,7 @@ Atmosphere: Steam slowly rises against the backlight, the scene is so quiet you 
 ```
 
 <!-- Case 13: Camera (by @CharaspowerAI) -->
-### Case 13: [Camera](https://x.com/CharaspowerAI/status/2039651574297792688) (by [@CharaspowerAI](https://x.com/CharaspowerAI))
+### Case 13: [Neon Street Racing Sequence](https://x.com/CharaspowerAI/status/2039651574297792688) (by [@CharaspowerAI](https://x.com/CharaspowerAI))
 
 | Output |
 | :----: |
@@ -1640,7 +1640,7 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 ```
 
 <!-- Case 14: Prompt 49 (by @johnAGI168) -->
-### Case 14: [Prompt 49](https://x.com/johnAGI168/status/2039984306085327298) (by [@johnAGI168](https://x.com/johnAGI168))
+### Case 14: [Supermodel and Luxury Sports Cars](https://x.com/johnAGI168/status/2039984306085327298) (by [@johnAGI168](https://x.com/johnAGI168))
 
 | Output |
 | :----: |
@@ -1653,7 +1653,7 @@ Generate a visual blockbuster featuring an Asian supermodel and luxury sports ca
 ```
 
 <!-- Case 15: Prompt 57 (by @aiehon_aya) -->
-### Case 15: [Prompt 57](https://x.com/aiehon_aya/status/2040187587889905861) (by [@aiehon_aya](https://x.com/aiehon_aya))
+### Case 15: [Android Girl Lab Destruction Chase](https://x.com/aiehon_aya/status/2040187587889905861) (by [@aiehon_aya](https://x.com/aiehon_aya))
 
 | Output |
 | :----: |
@@ -1666,7 +1666,7 @@ An android girl malfunctions and proceeds to destroy an evil research lab one af
 ```
 
 <!-- Case 16: Positive Prompt (by @adrianaia_) -->
-### Case 16: [Positive Prompt](https://x.com/adrianaia_/status/2039972811067031657) (by [@adrianaia_](https://x.com/adrianaia_))
+### Case 16: [Neon Ruined City Game Trailer](https://x.com/adrianaia_/status/2039972811067031657) (by [@adrianaia_](https://x.com/adrianaia_))
 
 | Output |
 | :----: |
@@ -1796,7 +1796,7 @@ Freeze Frame: The camera pushes in for an extreme close-up. A drop of blood drip
 ```
 
 <!-- Case 21: Prompt 98 (by @ImperfectEngel) -->
-### Case 21: [Prompt 98](https://x.com/ImperfectEngel/status/2039796558238286329) (by [@ImperfectEngel](https://x.com/ImperfectEngel))
+### Case 21: [Train-Top Tactical Fight Sequence](https://x.com/ImperfectEngel/status/2039796558238286329) (by [@ImperfectEngel](https://x.com/ImperfectEngel))
 
 | Output |
 | :----: |
@@ -1809,7 +1809,7 @@ Freeze Frame: The camera pushes in for an extreme close-up. A drop of blood drip
 ```
 
 <!-- Case 22: Prompt 112 (by @johnAGI168) -->
-### Case 22: [Prompt 112](https://x.com/johnAGI168/status/2039277115690877430) (by [@johnAGI168](https://x.com/johnAGI168))
+### Case 22: [Manhattan Trading Floor Frenzy](https://x.com/johnAGI168/status/2039277115690877430) (by [@johnAGI168](https://x.com/johnAGI168))
 
 | Output |
 | :----: |
@@ -2295,7 +2295,7 @@ Color and tonality: Hollywood teal-and-orange tone, low saturation. Generate the
 ```
 
 <!-- Case 6: Subject (by @YaReYaRu30Life) -->
-### Case 6: [Subject](https://x.com/YaReYaRu30Life/status/2039971048305930643) (by [@YaReYaRu30Life](https://x.com/YaReYaRu30Life))
+### Case 6: [Reference-Driven Kung Fu Stunt Sequence](https://x.com/YaReYaRu30Life/status/2039971048305930643) (by [@YaReYaRu30Life](https://x.com/YaReYaRu30Life))
 
 | Output |
 | :----: |
@@ -2480,7 +2480,7 @@ Shot Breakdown (15 shots in 15 seconds):
 ```
 
 <!-- Case 12: Format (by @aimikoda) -->
-### Case 12: [Format](https://x.com/aimikoda/status/2039380910278115454) (by [@aimikoda](https://x.com/aimikoda))
+### Case 12: [Polar Bear Match-Cut Sword Duel Template](https://x.com/aimikoda/status/2039380910278115454) (by [@aimikoda](https://x.com/aimikoda))
 
 | Output |
 | :----: |
@@ -2751,7 +2751,7 @@ She regains balance, floating motionless as the scene holds on a final frame.
 ```
 
 <!-- Case 2: Aerial Shot (by @chaosdotjpg) -->
-### Case 2: [Aerial Shot](https://x.com/chaosdotjpg/status/2040203827249398086) (by [@chaosdotjpg](https://x.com/chaosdotjpg))
+### Case 2: [Whale in the Clouds Surreal Epic](https://x.com/chaosdotjpg/status/2040203827249398086) (by [@chaosdotjpg](https://x.com/chaosdotjpg))
 
 | Output |
 | :----: |
@@ -2765,7 +2765,7 @@ Aerial shot: skyline,
 ```
 
 <!-- Case 3: Prompt 85 (by @AIARTGALLARY) -->
-### Case 3: [Prompt 85](https://x.com/AIARTGALLARY/status/2039964736419479576) (by [@AIARTGALLARY](https://x.com/AIARTGALLARY))
+### Case 3: [Abyss Diver Sea Creature Metamorphosis](https://x.com/AIARTGALLARY/status/2039964736419479576) (by [@AIARTGALLARY](https://x.com/AIARTGALLARY))
 
 | Output |
 | :----: |
@@ -2778,7 +2778,7 @@ A diver floats motionless in pitch-black ocean depth, a single beam of light cut
 ```
 
 <!-- Case 4: Reality splits (by @LudovicCreator) -->
-### Case 4: [Reality splits](https://x.com/LudovicCreator/status/2039768597241725132) (by [@LudovicCreator](https://x.com/LudovicCreator))
+### Case 4: [Interdimensional Megacity Rift Collapse](https://x.com/LudovicCreator/status/2039768597241725132) (by [@LudovicCreator](https://x.com/LudovicCreator))
 
 | Output |
 | :----: |
@@ -2834,7 +2834,7 @@ Rainy Underground Alley Merge
 ```
 
 <!-- Case 6: Video prompt (by @Dheepanratnam) -->
-### Case 6: [Video prompt](https://x.com/Dheepanratnam/status/2039651240909435242) (by [@Dheepanratnam](https://x.com/Dheepanratnam))
+### Case 6: [Quantum Reality Fracture Street Rift](https://x.com/Dheepanratnam/status/2039651240909435242) (by [@Dheepanratnam](https://x.com/Dheepanratnam))
 
 | Output |
 | :----: |
@@ -3127,7 +3127,7 @@ TIMELINE:
 ```
 
 <!-- Case 5: Format (by @aimikoda) -->
-### Case 5: [Format](https://x.com/aimikoda/status/2040200435986817039) (by [@aimikoda](https://x.com/aimikoda))
+### Case 5: [Beat-Synced Outfit Transition Template](https://x.com/aimikoda/status/2040200435986817039) (by [@aimikoda](https://x.com/aimikoda))
 
 | Output |
 | :----: |
@@ -3143,7 +3143,7 @@ WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top, trou
 ```
 
 <!-- Case 6: Location (by @TechTalkNAVI) -->
-### Case 6: [Location](https://x.com/TechTalkNAVI/status/2039941029265355123) (by [@TechTalkNAVI](https://x.com/TechTalkNAVI))
+### Case 6: [Tokyo POV Neon Rollercoaster Template](https://x.com/TechTalkNAVI/status/2039941029265355123) (by [@TechTalkNAVI](https://x.com/TechTalkNAVI))
 
 | Output |
 | :----: |
@@ -3165,7 +3165,7 @@ WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top, trou
 ```
 
 <!-- Case 7: Location (by @TechTalkNAVI) -->
-### Case 7: [Location](https://x.com/TechTalkNAVI/status/2039928267323658399) (by [@TechTalkNAVI](https://x.com/TechTalkNAVI))
+### Case 7: [Dancing Skyscraper District Template](https://x.com/TechTalkNAVI/status/2039928267323658399) (by [@TechTalkNAVI](https://x.com/TechTalkNAVI))
 
 | Output |
 | :----: |
@@ -3218,7 +3218,7 @@ WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top, trou
 ```
 
 <!-- Case 9: Subjects (by @0xbisc) -->
-### Case 9: [Subjects](https://x.com/0xbisc/status/2040041171460968728) (by [@0xbisc](https://x.com/0xbisc))
+### Case 9: [Painterly Parkour POV Template](https://x.com/0xbisc/status/2040041171460968728) (by [@0xbisc](https://x.com/0xbisc))
 
 | Output |
 | :----: |
@@ -3235,7 +3235,7 @@ Style: Painterly 3D, stylized on real human anatomy
 ```
 
 <!-- Case 10: Format (by @aimikoda) -->
-### Case 10: [Format](https://x.com/aimikoda/status/2039827756083540361) (by [@aimikoda](https://x.com/aimikoda))
+### Case 10: [360 POV Downhill Stair Run Template](https://x.com/aimikoda/status/2039827756083540361) (by [@aimikoda](https://x.com/aimikoda))
 
 | Output |
 | :----: |
@@ -3250,7 +3250,7 @@ SUBJECTS: First-person cyclist, handlebars and front wheel flashing low in frame
 ```
 
 <!-- Case 11: Prompt (by @Just_sharon7) -->
-### Case 11: [Prompt](https://x.com/Just_sharon7/status/2039725656393875580) (by [@Just_sharon7](https://x.com/Just_sharon7))
+### Case 11: [Food and Character Motion Template](https://x.com/Just_sharon7/status/2039725656393875580) (by [@Just_sharon7](https://x.com/Just_sharon7))
 
 | Output |
 | :----: |
@@ -3277,7 +3277,7 @@ SUBJECTS: First-person cyclist, handlebars and front wheel flashing low in frame
 ```
 
 <!-- Case 12: Format (by @Dheepanratnam) -->
-### Case 12: [Format](https://x.com/Dheepanratnam/status/2039568902481387645) (by [@Dheepanratnam](https://x.com/Dheepanratnam))
+### Case 12: [Impossible Camera Kitchen Rush Template](https://x.com/Dheepanratnam/status/2039568902481387645) (by [@Dheepanratnam](https://x.com/Dheepanratnam))
 
 | Output |
 | :----: |
@@ -3292,7 +3292,7 @@ Shot 01 (0:00–2:00): Camera starts at floor level on anti-slip
 ```
 
 <!-- Case 13: Composition (by @CharaspowerAI) -->
-### Case 13: [Composition](https://x.com/CharaspowerAI/status/2039704453784191201) (by [@CharaspowerAI](https://x.com/CharaspowerAI))
+### Case 13: [Time-Freeze POV Burst Template](https://x.com/CharaspowerAI/status/2039704453784191201) (by [@CharaspowerAI](https://x.com/CharaspowerAI))
 
 | Output |
 | :----: |
@@ -3337,7 +3337,7 @@ Shot 01 (0:00–2:00): Camera starts at floor level on anti-slip
 ```
 
 <!-- Case 14: Format (by @BrennanErbz) -->
-### Case 14: [Format](https://x.com/BrennanErbz/status/2039579736301781215) (by [@BrennanErbz](https://x.com/BrennanErbz))
+### Case 14: [Astronaut First Spacewalk Template](https://x.com/BrennanErbz/status/2039579736301781215) (by [@BrennanErbz](https://x.com/BrennanErbz))
 
 | Output |
 | :----: |
@@ -3350,7 +3350,7 @@ FORMAT: 15s / handheld close + slow cuts / 5 beats / sci-fi drama — astronaut'
 ```
 
 <!-- Case 15: Subjects (by @0xbisc) -->
-### Case 15: [Subjects](https://x.com/0xbisc/status/2039673040787956123) (by [@0xbisc](https://x.com/0xbisc))
+### Case 15: [Golden Retriever Routine Template](https://x.com/0xbisc/status/2039673040787956123) (by [@0xbisc](https://x.com/0xbisc))
 
 | Output |
 | :----: |
@@ -3432,7 +3432,7 @@ Subject 2: Golden Retriever, large head, broad chest, thick, fluffy fur; overall
 ```
 
 <!-- Case 17: Subjects (by @0xbisc) -->
-### Case 17: [Subjects](https://x.com/0xbisc/status/2039332336643248317) (by [@0xbisc](https://x.com/0xbisc))
+### Case 17: [Impressionist Rowing Hands Template](https://x.com/0xbisc/status/2039332336643248317) (by [@0xbisc](https://x.com/0xbisc))
 
 | Output |
 | :----: |
@@ -3597,7 +3597,7 @@ This is a thrilling, heart-pounding video packed with near escapes. The setting 
 ```
 
 <!-- Case 4: Prompt 25 (by @techhalla) -->
-### Case 4: [Prompt 25](https://x.com/techhalla/status/2039114930461549008) (by [@techhalla](https://x.com/techhalla))
+### Case 4: [Rucker Park Grandma Showdown](https://x.com/techhalla/status/2039114930461549008) (by [@techhalla](https://x.com/techhalla))
 
 | Output |
 | :----: |
@@ -3610,7 +3610,7 @@ Raw mobile phone footage, vertical handheld shot, shaky cam, grainy texture. At 
 ```
 
 <!-- Case 5: Prompt 28 (by @AITalesNBH) -->
-### Case 5: [Prompt 28](https://x.com/AITalesNBH/status/2039072522650423445) (by [@AITalesNBH](https://x.com/AITalesNBH))
+### Case 5: [Firefighter Baby Rescue Sequence](https://x.com/AITalesNBH/status/2039072522650423445) (by [@AITalesNBH](https://x.com/AITalesNBH))
 
 | Output |
 | :----: |
@@ -3693,7 +3693,7 @@ Protagonist: Hiromu, Age 19
 ```
 
 <!-- Case 10: Aesthetic (by @maxescu) -->
-### Case 10: [Aesthetic](https://x.com/maxescu/status/2040095139511636166) (by [@maxescu](https://x.com/maxescu))
+### Case 10: [Fishing Boat Crowd Phone Cam](https://x.com/maxescu/status/2040095139511636166) (by [@maxescu](https://x.com/maxescu))
 
 | Output |
 | :----: |
@@ -3722,7 +3722,7 @@ A girl falls rapidly through a digital tunnel. The girl is panicking and flailin
 ```
 
 <!-- Case 12: Visuals (by @TechTalkNAVI) -->
-### Case 12: [Visuals](https://x.com/TechTalkNAVI/status/2040100728627454339) (by [@TechTalkNAVI](https://x.com/TechTalkNAVI))
+### Case 12: [Skytree Railgun Launch Sequence](https://x.com/TechTalkNAVI/status/2040100728627454339) (by [@TechTalkNAVI](https://x.com/TechTalkNAVI))
 
 | Output |
 | :----: |
@@ -3835,7 +3835,7 @@ A small animal character walking through a quiet meadow.
 ```
 
 <!-- Case 18: Prompt 83 (by @Alin_Reaper05) -->
-### Case 18: [Prompt 83](https://x.com/Alin_Reaper05/status/2040017612105556403) (by [@Alin_Reaper05](https://x.com/Alin_Reaper05))
+### Case 18: [Steampunk Airship Battle at Sunset](https://x.com/Alin_Reaper05/status/2040017612105556403) (by [@Alin_Reaper05](https://x.com/Alin_Reaper05))
 
 | Output |
 | :----: |
@@ -3848,7 +3848,7 @@ Victorian-era flying airships with brass gears and giant propellers battling ove
 ```
 
 <!-- Case 19: Aesthetic (by @maxescu) -->
-### Case 19: [Aesthetic](https://x.com/maxescu/status/2039639805592502504) (by [@maxescu](https://x.com/maxescu))
+### Case 19: [Flip-Flops Jet Wing Tracking Shot](https://x.com/maxescu/status/2039639805592502504) (by [@maxescu](https://x.com/maxescu))
 
 | Output |
 | :----: |
@@ -3926,7 +3926,7 @@ Quick cut: Ottoman cannon
 ```
 
 <!-- Case 23: ROCKET SURF (by @maxescu) -->
-### Case 23: [ROCKET SURF](https://x.com/maxescu/status/2039308020006396033) (by [@maxescu](https://x.com/maxescu))
+### Case 23: [Rocket Surf Continuous Tracking Shot](https://x.com/maxescu/status/2039308020006396033) (by [@maxescu](https://x.com/maxescu))
 
 | Output |
 | :----: |
@@ -3946,7 +3946,7 @@ TIMELINE: 0-3s:
 ```
 
 <!-- Case 24: Dialogue (by @Adam38363368936) -->
-### Case 24: [Dialogue](https://x.com/Adam38363368936/status/2039286911265800297) (by [@Adam38363368936](https://x.com/Adam38363368936))
+### Case 24: [Stand-Up Comedy Monologue Template](https://x.com/Adam38363368936/status/2039286911265800297) (by [@Adam38363368936](https://x.com/Adam38363368936))
 
 | Output |
 | :----: |

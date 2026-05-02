@@ -3,6 +3,7 @@
 <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2.0-prompts"><img src="./public/banner.jpg" alt="Awesome Seedance 2.0 Prompts banner"></a>
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
+[![Prompts](https://img.shields.io/badge/Prompts-163_Curated_Cases-111111)](README.md)
 [![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
 [![Website](https://img.shields.io/badge/Website-Live-orange)](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
 [![Docs](https://img.shields.io/badge/Docs-Read-blue)](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
@@ -34,6 +35,7 @@
 
 ## 📰 News
 
+- **30 апреля 2026:** Улучшен inline-показ видео еще для 113 записей и исправлено поведение preview-ссылок для GitHub video attachments
 - **17 апреля 2026 г.:** Добавлена последняя подборка промптов с 6 выделенными кинематографичными примерами
 
 ## 📑 Menu

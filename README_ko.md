@@ -3,6 +3,7 @@
 <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2.0-prompts"><img src="./public/banner.jpg" alt="Awesome Seedance 2.0 Prompts banner"></a>
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
+[![Prompts](https://img.shields.io/badge/Prompts-163_Curated_Cases-111111)](README.md)
 [![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
 [![Website](https://img.shields.io/badge/Website-Live-orange)](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
 [![Docs](https://img.shields.io/badge/Docs-Read-blue)](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
@@ -34,6 +35,7 @@
 
 ## 📰 News
 
+- **2026년 4월 30일:** 추가 113개 엔트리에 대한 인라인 비디오 렌더링을 개선하고 GitHub 비디오 첨부 미리보기 링크 동작을 수정했습니다
 - **2026년 4월 17일:** 최신 프롬프트 배치를 추가하고 추천 시네마틱 항목 6개를 반영했습니다
 
 ## 📑 Menu
