@@ -3,6 +3,7 @@
 <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2.0-prompts"><img src="./public/banner.jpg" alt="Awesome Seedance 2.0 Prompts banner"></a>
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
+[![Prompts](https://img.shields.io/badge/Prompts-163_Curated_Cases-111111)](README.md)
 [![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
 [![Website](https://img.shields.io/badge/Website-Live-orange)](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
 [![Docs](https://img.shields.io/badge/Docs-Read-blue)](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
@@ -26,7 +27,9 @@
 
 Welcome to the Awesome Seedance 2.0 Prompts repository! 🤗
 
-**We collect high-quality Seedance 2.0 prompts for cinematic video generation — cleaned from public community posts, translated into English for README readability, and organized for fast GitHub-native browsing.**
+**This repository currently includes 163 curated Seedance 2.0 prompt cases across action, cinematic realism, POV, commercial, reference-driven, surreal VFX, structured templates, and general cinematic workflows.**
+
+**We collect high-quality Seedance 2.0 prompts for cinematic video generation, cleaned from public community posts, translated into English for README readability, and organized for fast GitHub-native browsing.**
 
 Most prompts are curated from X/Twitter community posts, creator demos, and public shares.
 
@@ -47,6 +50,7 @@ Related repositories:
 
 ## 📰 News
 
+- **April 30, 2026:** Improved inline video rendering coverage for 113 additional entries and fixed preview-link behavior for GitHub video attachments
 - **April 17, 2026:** Added latest prompt batch with 6 featured cinematic entries
 
 ## 📑 Menu
@@ -57,23 +61,23 @@ Related repositories:
 - [Statistics](#statistics)
 - [How to Use This Repository](#how-to-use-this-repository)
 - [⚔️ Action / Fantasy](#action--fantasy) (30)
-  - [Case 1: Prompt 23 (by @songguoxiansen)](#case-1-prompt-23-by-songguoxiansen)
+  - [Case 1: Street Rap MV Performance (by @songguoxiansen)](#case-1-street-rap-mv-performance-by-songguoxiansen)
   - [Case 2: Black Cat Desert Martial-Arts Duel (by @nopinduoduo)](#case-2-black-cat-desert-martial-arts-duel-by-nopinduoduo)
-  - [Case 3: 【Core Focus】 (by @johnAGI168)](#case-3-core-focus-by-johnagi168)
+  - [Case 3: Live-Action Breathing Technique Duel (by @johnAGI168)](#case-3-live-action-breathing-technique-duel-by-johnagi168)
   - [Case 4: Anime high-speed cut test — 20 hard cuts in 10 seconds (0 (by @tebasaki3D)](#case-4-anime-high-speed-cut-test--20-hard-cuts-in-10-seconds-0-by-tebasaki3d)
   - [Case 5: Watch a grease-stained mechanic fix (by @sebatheepan)](#case-5-watch-a-grease-stained-mechanic-fix-by-sebatheepan)
-  - [Case 6: Prompt 45 (by @sailorv321)](#case-6-prompt-45-by-sailorv321)
-  - [Case 7: Prompt 50 (by @johnAGI168)](#case-7-prompt-50-by-johnagi168)
-  - [Case 8: Dialogue (Overlapping) (by @drjoetw)](#case-8-dialogue-overlapping-by-drjoetw)
+  - [Case 6: Samurai Revenge Short Film (by @sailorv321)](#case-6-samurai-revenge-short-film-by-sailorv321)
+  - [Case 7: Stylized 3D Battle Animation (by @johnAGI168)](#case-7-stylized-3d-battle-animation-by-johnagi168)
+  - [Case 8: Fast-Paced Comedic Parody Short (by @drjoetw)](#case-8-fast-paced-comedic-parody-short-by-drjoetw)
   - [Case 9: Giant Ninja Tokusatsu Battle (by @EarthGigantea)](#case-9-giant-ninja-tokusatsu-battle-by-earthgigantea)
-  - [Case 10: Japanese anime (by @_3912657840)](#case-10-japanese-anime-by-_3912657840)
+  - [Case 10: Japanese Anime Dialogue Sequence (by @_3912657840)](#case-10-japanese-anime-dialogue-sequence-by-_3912657840)
   - [Case 11: 15-Second Original Elemental Battle Short Film (by @ZikinArt)](#case-11-15-second-original-elemental-battle-short-film-by-zikinart)
   - [Case 12: Faberge Fantasy Egg Animation (by @ShamiWeb3)](#case-12-faberge-fantasy-egg-animation-by-shamiweb3)
-  - [Case 13: Prompt 77 (by @David_eficaz)](#case-13-prompt-77-by-david_eficaz)
-  - [Case 14: Prompt 79 (by @CharaspowerAI)](#case-14-prompt-79-by-charaspowerai)
+  - [Case 13: Original Elemental Battle Short Film (by @David_eficaz)](#case-13-original-elemental-battle-short-film-by-david_eficaz)
+  - [Case 14: Cinematic Sci-Fi Fantasy Duel (by @CharaspowerAI)](#case-14-cinematic-sci-fi-fantasy-duel-by-charaspowerai)
   - [Case 15: 15-second continuous single-shot action sequence (by @Artedeingenio)](#case-15-15-second-continuous-single-shot-action-sequence-by-artedeingenio)
-  - [Case 16: Prompt 82 (by @Alin_Reaper05)](#case-16-prompt-82-by-alin_reaper05)
-  - [Case 17: Prompt 88 (by @sebatheepan)](#case-17-prompt-88-by-sebatheepan)
+  - [Case 16: Lone Samurai Cliffside Standoff (by @Alin_Reaper05)](#case-16-lone-samurai-cliffside-standoff-by-alin_reaper05)
+  - [Case 17: Aerial Rogue Dragon Dive (by @sebatheepan)](#case-17-aerial-rogue-dragon-dive-by-sebatheepan)
   - [Case 18: Zero-G Mech Scramble Sequence (by @Dheepanratnam)](#case-18-zero-g-mech-scramble-sequence-by-dheepanratnam)
   - [Case 19: A super high-speed flight action scene of a girl riding a dragon (by @naoyuki_okada)](#case-19-a-super-high-speed-flight-action-scene-of-a-girl-riding-a-dragon-by-naoyuki_okada)
   - [Case 20: 15-Second Original Desert Martial Arts Short Film (by @NimEshed)](#case-20-15-second-original-desert-martial-arts-short-film-by-nimeshed)
@@ -88,7 +92,7 @@ Related repositories:
   - [Case 29: Epic Fantasy Battle — Cinematic 10-Second Sequence (by @a_shimanski)](#case-29-epic-fantasy-battle--cinematic-10-second-sequence-by-a_shimanski)
   - [Case 30: Dark Fantasy Transformation — Eastern Style (by @johnAGI168)](#case-30-dark-fantasy-transformation--eastern-style-by-johnagi168)
 - [🎞️ Cinematic Realism](#cinematic-realism) (3)
-  - [Case 1: Modern Japan (by @kuranoayashi)](#case-1-modern-japan-by-kuranoayashi)
+  - [Case 1: Modern Japan Documentary Sequence (by @kuranoayashi)](#case-1-modern-japan-documentary-sequence-by-kuranoayashi)
   - [Case 2: Prompt 76 (by @Dheepanratnam)](#case-2-prompt-76-by-dheepanratnam)
   - [Case 3: Meteor Awakening War Heroine (by @ChrisTheNerv)](#case-3-meteor-awakening-war-heroine-by-christhenerv)
 - [🥽 POV / FPV](#pov--fpv) (18)
@@ -98,9 +102,9 @@ Related repositories:
   - [Case 4: Sun Wukong Battlefield Divine Rescue (by @drjoetw)](#case-4-sun-wukong-battlefield-divine-rescue-by-drjoetw)
   - [Case 5: Y2K Pool Party Camcorder Montage (by @johnAGI168)](#case-5-y2k-pool-party-camcorder-montage-by-johnagi168)
   - [Case 6: Prompt 40 (by @xingsthatmatter)](#case-6-prompt-40-by-xingsthatmatter)
-  - [Case 7: Extreme Close-Up (by @drjoetw)](#case-7-extreme-close-up-by-drjoetw)
+  - [Case 7: Anime MV Extreme Close-Up Sequence (by @drjoetw)](#case-7-anime-mv-extreme-close-up-sequence-by-drjoetw)
   - [Case 8: Create A Fast, Seamless 16 (by @aisavvy1)](#case-8-create-a-fast-seamless-16-by-aisavvy1)
-  - [Case 9: Environment (by @LudovicCreator)](#case-9-environment-by-ludoviccreator)
+  - [Case 9: Medieval Fantasy City Descent (by @LudovicCreator)](#case-9-medieval-fantasy-city-descent-by-ludoviccreator)
   - [Case 10: First-person POV of an ice cube dropped into a glass of soda (by @LudovicCreator)](#case-10-first-person-pov-of-an-ice-cube-dropped-into-a-glass-of-soda-by-ludoviccreator)
   - [Case 11: Gritty, raw handheld 35mm film aesthetic with natural film grain (by @AngelNwoha)](#case-11-gritty-raw-handheld-35mm-film-aesthetic-with-natural-film-grain-by-angelnwoha)
   - [Case 12: 10-second photorealistic cinematic POV video (by @umitsuru_fire)](#case-12-10-second-photorealistic-cinematic-pov-video-by-umitsuru_fire)
@@ -253,7 +257,7 @@ Related repositories:
 Combat, chase, anime, wuxia, creature, and large-scale cinematic spectacle prompts.
 
 <!-- Case 1: Prompt 23 (by @songguoxiansen) -->
-### Case 1: [Prompt 23](https://x.com/songguoxiansen/status/2033175478765289598) (by [@songguoxiansen](https://x.com/songguoxiansen))
+### Case 1: [Street Rap MV Performance](https://x.com/songguoxiansen/status/2033175478765289598) (by [@songguoxiansen](https://x.com/songguoxiansen))
 
 | Output |
 | :----: |
@@ -279,7 +283,7 @@ Combat, chase, anime, wuxia, creature, and large-scale cinematic spectacle promp
 ```
 
 <!-- Case 3: 【Core Focus】 (by @johnAGI168) -->
-### Case 3: [【Core Focus】](https://x.com/johnAGI168/status/2021610292979876208) (by [@johnAGI168](https://x.com/johnAGI168))
+### Case 3: [Live-Action Breathing Technique Duel](https://x.com/johnAGI168/status/2021610292979876208) (by [@johnAGI168](https://x.com/johnAGI168))
 
 | Output |
 | :----: |
@@ -344,7 +348,7 @@ From rusty disaster to purring monster in seconds.
 ```
 
 <!-- Case 6: Prompt 45 (by @sailorv321) -->
-### Case 6: [Prompt 45](https://x.com/sailorv321/status/2040127822908596305) (by [@sailorv321](https://x.com/sailorv321))
+### Case 6: [Samurai Revenge Short Film](https://x.com/sailorv321/status/2040127822908596305) (by [@sailorv321](https://x.com/sailorv321))
 
 | Output |
 | :----: |
@@ -358,7 +362,7 @@ The first half is a fierce battle on a battlefield covered in mud and flames. Th
 ```
 
 <!-- Case 7: Prompt 50 (by @johnAGI168) -->
-### Case 7: [Prompt 50](https://x.com/johnAGI168/status/2039924160567058725) (by [@johnAGI168](https://x.com/johnAGI168))
+### Case 7: [Stylized 3D Battle Animation](https://x.com/johnAGI168/status/2039924160567058725) (by [@johnAGI168](https://x.com/johnAGI168))
 
 | Output |
 | :----: |
@@ -371,7 +375,7 @@ Stylized 3D animation with exaggerated proportions, sharp kung-fu-soccer choreog
 ```
 
 <!-- Case 8: Dialogue (Overlapping) (by @drjoetw) -->
-### Case 8: [Dialogue (Overlapping)](https://x.com/drjoetw/status/2039905967597613558) (by [@drjoetw](https://x.com/drjoetw))
+### Case 8: [Fast-Paced Comedic Parody Short](https://x.com/drjoetw/status/2039905967597613558) (by [@drjoetw](https://x.com/drjoetw))
 
 | Output |
 | :----: |
@@ -413,7 +417,7 @@ Visual Style:
 ```
 
 <!-- Case 10: Japanese anime (by @_3912657840) -->
-### Case 10: [Japanese anime](https://x.com/_3912657840/status/2040018529441730815) (by [@_3912657840](https://x.com/_3912657840))
+### Case 10: [Japanese Anime Dialogue Sequence](https://x.com/_3912657840/status/2040018529441730815) (by [@_3912657840](https://x.com/_3912657840))
 
 | Output |
 | :----: |
@@ -452,7 +456,7 @@ Highly detailed cinematic 4K animated video, precious enchanted Faberge-style Ea
 ```
 
 <!-- Case 13: Prompt 77 (by @David_eficaz) -->
-### Case 13: [Prompt 77](https://x.com/David_eficaz/status/2039966320414937236) (by [@David_eficaz](https://x.com/David_eficaz))
+### Case 13: [Original Elemental Battle Short Film](https://x.com/David_eficaz/status/2039966320414937236) (by [@David_eficaz](https://x.com/David_eficaz))
 
 | Output |
 | :----: |
@@ -465,7 +469,7 @@ Original 15-second short film about an elemental battle: In a volcanic mountain 
 ```
 
 <!-- Case 14: Prompt 79 (by @CharaspowerAI) -->
-### Case 14: [Prompt 79](https://x.com/CharaspowerAI/status/2040013966986957144) (by [@CharaspowerAI](https://x.com/CharaspowerAI))
+### Case 14: [Cinematic Sci-Fi Fantasy Duel](https://x.com/CharaspowerAI/status/2040013966986957144) (by [@CharaspowerAI](https://x.com/CharaspowerAI))
 
 | Output |
 | :----: |
@@ -511,7 +515,7 @@ Dense forest → cliff edge → open valley
 ```
 
 <!-- Case 16: Prompt 82 (by @Alin_Reaper05) -->
-### Case 16: [Prompt 82](https://x.com/Alin_Reaper05/status/2040042931172655384) (by [@Alin_Reaper05](https://x.com/Alin_Reaper05))
+### Case 16: [Lone Samurai Cliffside Standoff](https://x.com/Alin_Reaper05/status/2040042931172655384) (by [@Alin_Reaper05](https://x.com/Alin_Reaper05))
 
 | Output |
 | :----: |
@@ -524,7 +528,7 @@ A lone samurai stands on a cliff overlooking cherry blossom mountains at sunset,
 ```
 
 <!-- Case 17: Prompt 88 (by @sebatheepan) -->
-### Case 17: [Prompt 88](https://x.com/sebatheepan/status/2039723026124575231) (by [@sebatheepan](https://x.com/sebatheepan))
+### Case 17: [Aerial Rogue Dragon Dive](https://x.com/sebatheepan/status/2039723026124575231) (by [@sebatheepan](https://x.com/sebatheepan))
 
 | Output |
 | :----: |
@@ -837,7 +841,7 @@ Seedance 2.0 prompt 👇
 Grounded live-action prompts focused on mood, body language, practical light, and believable camera behavior.
 
 <!-- Case 1: Modern Japan (by @kuranoayashi) -->
-### Case 1: [Modern Japan](https://x.com/kuranoayashi/status/2040055299835650266) (by [@kuranoayashi](https://x.com/kuranoayashi))
+### Case 1: [Modern Japan Documentary Sequence](https://x.com/kuranoayashi/status/2040055299835650266) (by [@kuranoayashi](https://x.com/kuranoayashi))
 
 | Output |
 | :----: |
@@ -1041,7 +1045,7 @@ The camera bursts out from inside image1, the Tesla card, as the card spins forw
 ```
 
 <!-- Case 7: Extreme Close-Up (by @drjoetw) -->
-### Case 7: [Extreme Close-Up](https://x.com/drjoetw/status/2040036596897222773) (by [@drjoetw](https://x.com/drjoetw))
+### Case 7: [Anime MV Extreme Close-Up Sequence](https://x.com/drjoetw/status/2040036596897222773) (by [@drjoetw](https://x.com/drjoetw))
 
 | Output |
 | :----: |
@@ -1132,7 +1136,7 @@ Fast, smooth, continuous movement. No flying device, shadow, or reflection. Cine
 ```
 
 <!-- Case 9: Environment (by @LudovicCreator) -->
-### Case 9: [Environment](https://x.com/LudovicCreator/status/2039983776206344231) (by [@LudovicCreator](https://x.com/LudovicCreator))
+### Case 9: [Medieval Fantasy City Descent](https://x.com/LudovicCreator/status/2039983776206344231) (by [@LudovicCreator](https://x.com/LudovicCreator))
 
 | Output |
 | :----: |
