@@ -32,6 +32,7 @@
 - API 문서: [`EvoLinkAI/Seedance-2.0-Gateway-Service`](https://github.com/EvoLinkAI/Seedance-2.0-Gateway-Service)
 - OpenClaw 스킬: [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
 - 전체 가이드: [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
+- 공식 웹 앱: [Seedance 2.0 AI Video](https://seedance2aivideo.app/) — 무료, API 키 불필요
 
 ## 📰 News
 

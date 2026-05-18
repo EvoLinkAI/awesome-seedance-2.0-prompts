@@ -45,6 +45,7 @@ Related repositories:
 - API docs: [`EvoLinkAI/Seedance-2.0-Gateway-Service`](https://github.com/EvoLinkAI/Seedance-2.0-Gateway-Service)
 - OpenClaw skill: [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
 - Full guide: [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
+- Official web app: [Seedance 2.0 AI Video](https://seedance2aivideo.app/) — free online interface, no API key needed
 
 <a href='https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts'><img src='https://img.shields.io/badge/🚀 Try%20it%20on-Evolink-black' height="25" alt="Try it on Evolink"></a>
 

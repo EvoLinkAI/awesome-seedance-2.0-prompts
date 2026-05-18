@@ -32,6 +32,7 @@
 - Документация API: [`EvoLinkAI/Seedance-2.0-Gateway-Service`](https://github.com/EvoLinkAI/Seedance-2.0-Gateway-Service)
 - Skill для OpenClaw: [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
 - Полный гайд: [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
+- Официальное веб-приложение: [Seedance 2.0 AI Video](https://seedance2aivideo.app/) — бесплатно, без API-ключа
 
 ## 📰 News
 
