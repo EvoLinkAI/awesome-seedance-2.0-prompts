@@ -32,6 +32,7 @@ Dil: **Turkce**
 - API dokumani: [`EvoLinkAI/Seedance-2.0-Gateway-Service`](https://github.com/EvoLinkAI/Seedance-2.0-Gateway-Service)
 - OpenClaw skill'i: [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
 - Tam rehber: [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
+- Resmi web uygulaması: [Seedance 2.0 AI Video](https://seedance2aivideo.app/) — ücretsiz, API anahtarı gerekmez
 
 ## 📰 News
 

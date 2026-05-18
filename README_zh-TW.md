@@ -32,6 +32,7 @@
 - API 文件: [`EvoLinkAI/Seedance-2.0-Gateway-Service`](https://github.com/EvoLinkAI/Seedance-2.0-Gateway-Service)
 - OpenClaw Skill: [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
 - 完整指南: [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
+- 官方網頁端: [Seedance 2.0 AI Video](https://seedance2aivideo.app/) — 免費線上使用，無需 API Key
 
 ## 📰 News
 

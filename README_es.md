@@ -32,6 +32,7 @@ Idioma: **Español**
 - Documentación API: [`EvoLinkAI/Seedance-2.0-Gateway-Service`](https://github.com/EvoLinkAI/Seedance-2.0-Gateway-Service)
 - Skill de OpenClaw: [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
 - Guía completa: [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
+- Aplicación web oficial: [Seedance 2.0 AI Video](https://seedance2aivideo.app/) — interfaz gratuita, sin clave de API
 
 ## 📰 News
 
