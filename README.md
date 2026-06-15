@@ -23,31 +23,6 @@
 
 </div>
 
-## EvoLink Quick Start
-
-Convert a reusable Seedance prompt into a video task:
-
-- Model page: [Seedance 2.0 prompts on EvoLink](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
-- API docs and examples: [Seedance-2.0-Gateway-Service](https://github.com/EvoLinkAI/Seedance-2.0-Gateway-Service)
-- API key: [create an EvoLink API key](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
-- Full guide: [awesome-seedance-2-guide](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
-
-```bash
-export EVOLINK_API_KEY="your_key_here"
-
-curl --request POST \
-  --url https://api.evolink.ai/v1/videos/generations \
-  --header "Authorization: Bearer ${EVOLINK_API_KEY}" \
-  --header 'Content-Type: application/json' \
-  --data '{
-    "model": "seedance-2.0-text-to-video",
-    "prompt": "A one-shot cinematic chase through a neon market, handheld camera, fast parallax, dramatic lighting, natural motion blur",
-    "duration": 5,
-    "quality": "720p",
-    "aspect_ratio": "16:9"
-  }'
-```
-
 ## 🍌 Introduction
 
 Welcome to the Awesome Seedance 2.0 Prompts repository! 🤗
@@ -67,9 +42,10 @@ If you find this useful, consider giving it a star. ⭐
 
 Related repositories:
 
-- API docs: [`EvoLinkAI/Seedance-2.0-Gateway-Service`](https://github.com/EvoLinkAI/Seedance-2.0-Gateway-Service)
-- OpenClaw skill: [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
-- Full guide: [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
+- [Open Seedance 2.0 prompts on EvoLink](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
+- [Go to Seedance 2.0 API docs and examples](https://github.com/EvoLinkAI/Seedance-2.0-Gateway-Service)
+- [Install the Seedance 2.0 OpenClaw skill](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
+- [Read the complete Seedance 2.0 guide](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
 
 <a href='https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts'><img src='https://img.shields.io/badge/🚀 Try%20it%20on-Evolink-black' height="25" alt="Try it on Evolink"></a>
 
