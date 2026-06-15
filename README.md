@@ -73,15 +73,9 @@ Related repositories:
 
 <a href='https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts'><img src='https://img.shields.io/badge/🚀 Try%20it%20on-Evolink-black' height="25" alt="Try it on Evolink"></a>
 
-## 📰 News
-
-- **April 30, 2026:** Improved inline video rendering coverage for 113 additional entries and fixed preview-link behavior for GitHub video attachments
-- **April 17, 2026:** Added latest prompt batch with 6 featured cinematic entries
-
 ## 📑 Menu
 
 - [🍌 Introduction](#-introduction)
-- [📰 News](#-news)
 - [📑 Menu](#-menu)
 - [Statistics](#statistics)
 - [How to Use This Repository](#how-to-use-this-repository)

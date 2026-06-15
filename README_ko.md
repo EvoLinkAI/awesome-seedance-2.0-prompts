@@ -33,15 +33,9 @@
 - OpenClaw 스킬: [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
 - 전체 가이드: [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
 
-## 📰 News
-
-- **2026년 4월 30일:** 추가 113개 엔트리에 대한 인라인 비디오 렌더링을 개선하고 GitHub 비디오 첨부 미리보기 링크 동작을 수정했습니다
-- **2026년 4월 17일:** 최신 프롬프트 배치를 추가하고 추천 시네마틱 항목 6개를 반영했습니다
-
 ## 📑 Menu
 
 - [🍌 Introduction](#-introduction)
-- [📰 News](#-news)
 - [📑 Menu](#-menu)
 - [Statistics](#statistics)
 - [How to Use This Repository](#how-to-use-this-repository)

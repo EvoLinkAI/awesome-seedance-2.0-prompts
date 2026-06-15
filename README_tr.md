@@ -33,15 +33,9 @@ Dil: **Turkce**
 - OpenClaw skill'i: [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
 - Tam rehber: [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
 
-## 📰 News
-
-- **30 Nisan 2026:** 113 ek girdi icin satir ici video gosterimi iyilestirildi ve GitHub video ekleri icin onizleme baglantisi davranisi duzeltildi
-- **17 Nisan 2026:** 6 öne çıkan sinematik örnek içeren en son prompt paketi eklendi
-
 ## 📑 Menu
 
 - [🍌 Introduction](#-introduction)
-- [📰 News](#-news)
 - [📑 Menu](#-menu)
 - [Statistics](#statistics)
 - [How to Use This Repository](#how-to-use-this-repository)

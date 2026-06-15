@@ -33,15 +33,9 @@ Idioma: **Español**
 - Skill de OpenClaw: [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
 - Guía completa: [`EvoLinkAI/awesome-seedance-2-guide`](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
 
-## 📰 News
-
-- **30 de abril de 2026:** Se mejoro la reproduccion inline de video para 113 entradas adicionales y se corrigio el comportamiento de los enlaces de vista previa para adjuntos de video de GitHub
-- **17 de abril de 2026:** Se añadió el lote más reciente de prompts con 6 entradas cinematográficas destacadas
-
 ## 📑 Menu
 
 - [🍌 Introduction](#-introduction)
-- [📰 News](#-news)
 - [📑 Menu](#-menu)
 - [Statistics](#statistics)
 - [How to Use This Repository](#how-to-use-this-repository)
