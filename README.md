@@ -23,6 +23,33 @@
 
 </div>
 
+## EvoLink Quick Start
+
+Convert a reusable Seedance 2.0 prompt into a video generation task:
+
+- [Open the Seedance 2.0 prompts model page](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
+- [Read Seedance 2.0 API docs](https://docs.evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
+- [Get your EvoLink API key](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
+- [Go to Seedance 2.0 API examples](https://github.com/EvoLinkAI/Seedance-2.0-Gateway-Service)
+- [Install the Seedance 2.0 OpenClaw skill](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
+- [Read the complete Seedance 2.0 guide](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
+
+```bash
+export EVOLINK_API_KEY="your_key_here"
+
+curl --request POST \
+  --url https://api.evolink.ai/v1/videos/generations \
+  --header "Authorization: Bearer ${EVOLINK_API_KEY}" \
+  --header 'Content-Type: application/json' \
+  --data '{
+    "model": "seedance-2.0-text-to-video",
+    "prompt": "A one-shot cinematic chase through a neon market, handheld camera, fast parallax, dramatic lighting, natural motion blur",
+    "duration": 5,
+    "quality": "720p",
+    "aspect_ratio": "16:9"
+  }'
+```
+
 ## 🍌 Introduction
 
 Welcome to the Awesome Seedance 2.0 Prompts repository! 🤗
