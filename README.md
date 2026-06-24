@@ -1,13 +1,13 @@
 <div align="center">
 
-<a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2.0-prompts"><img src="./public/banner.jpg" alt="Awesome Seedance 2.0 Prompts banner"></a>
+<a href="https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2.5-prompts"><img src="./public/banner.jpg" alt="Awesome Seedance 2.5 Prompts banner"></a>
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![Prompts](https://img.shields.io/badge/Prompts-163_Curated_Cases-111111)](README.md)
-[![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
-[![Website](https://img.shields.io/badge/Website-Live-orange)](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
-[![Docs](https://img.shields.io/badge/Docs-Read-blue)](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
-[![Model](https://img.shields.io/badge/Model-Explore-purple)](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts)
+[![Get Seedance 2.5 Early Access](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.5-prompts)
+[![Website](https://img.shields.io/badge/Website-Live-orange)](https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.5-prompts)
+[![Docs](https://img.shields.io/badge/Docs-Read-blue)](https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.5-prompts)
+[![Model](https://img.shields.io/badge/Model-Explore-purple)](https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.5-prompts)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -28,13 +28,16 @@
 Convert a reusable Seedance 2.0 prompt into a video generation task:
 
 <p align="center">
-  <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts"><strong>Model Page</strong></a> &nbsp;·&nbsp;
-  <a href="https://docs.evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts"><strong>Docs</strong></a> &nbsp;·&nbsp;
-  <a href="https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts"><strong>API Key</strong></a> &nbsp;·&nbsp;
-  <a href="https://github.com/EvoLinkAI/Seedance-2.0-Gateway-Service"><strong>API Examples</strong></a> &nbsp;·&nbsp;
+  <a href="https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.5-prompts"><strong>Model Page</strong></a> &nbsp;·&nbsp;
+  <a href="https://docs.evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.5-prompts"><strong>Docs</strong></a> &nbsp;·&nbsp;
+  <a href="https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.5-prompts"><strong>API Key</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/EvoLinkAI/Seedance-2.5-Gateway-Service"><strong>API Examples</strong></a> &nbsp;·&nbsp;
   <a href="https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw"><strong>Skill</strong></a> &nbsp;·&nbsp;
-  <a href="https://github.com/EvoLinkAI/awesome-seedance-2-guide"><strong>Seedance Guide</strong></a>
+  <a href="https://github.com/EvoLinkAI/awesome-seedance-2.5-guide"><strong>Seedance Guide</strong></a>
 </p>
+
+> [!NOTE]
+> **Get Seedance 2.5 Early Access:** Seedance 2.5 early access is open through EvoLink. This repository organizes reusable Seedance prompt patterns for the 2.5 launch path. [Join the rollout](https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.5-prompts).
 
 ```bash
 export EVOLINK_API_KEY="your_key_here"
@@ -54,15 +57,15 @@ curl --request POST \
 
 ## 🍌 Introduction
 
-Welcome to the Awesome Seedance 2.0 Prompts repository! 🤗
+Welcome to the Awesome Seedance 2.5 Prompts repository! 🤗
 
-**This repository currently includes 163 curated Seedance 2.0 prompt cases across action, cinematic realism, POV, commercial, reference-driven, surreal VFX, structured templates, and general cinematic workflows.**
+**This repository currently includes 163 curated Seedance 2.5 prompt cases across action, cinematic realism, POV, commercial, reference-driven, surreal VFX, structured templates, and general cinematic workflows.**
 
-**We collect high-quality Seedance 2.0 prompts for cinematic video generation, cleaned from public community posts, translated into English for README readability, and organized for fast GitHub-native browsing.**
+**We collect high-quality Seedance 2.5 prompts for cinematic video generation, cleaned from public community posts, translated into English for README readability, and organized for fast GitHub-native browsing.**
 
 Most prompts are curated from X/Twitter community posts, creator demos, and public shares.
 
-Try it on Evolink: [Seedance 2.0](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
+Get Seedance 2.5 Early Access: [Seedance 2.5](https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.5-prompts)
 
 If you find this useful, consider giving it a star. ⭐
 
@@ -71,12 +74,12 @@ If you find this useful, consider giving it a star. ⭐
 
 Related repositories:
 
-- [Open Seedance 2.0 prompts on EvoLink](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts)
-- [Go to Seedance 2.0 API docs and examples](https://github.com/EvoLinkAI/Seedance-2.0-Gateway-Service)
+- [Get Seedance 2.5 Early Access](https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.5-prompts)
+- [Go to Seedance 2.0 API docs and examples](https://github.com/EvoLinkAI/Seedance-2.5-Gateway-Service)
 - [Install the Seedance 2.0 OpenClaw skill](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
-- [Read the complete Seedance 2.0 guide](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
+- [Read the complete Seedance 2.0 guide](https://github.com/EvoLinkAI/awesome-seedance-2.5-guide)
 
-<a href='https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts'><img src='https://img.shields.io/badge/🚀 Try%20it%20on-Evolink-black' height="25" alt="Try it on Evolink"></a>
+<a href='https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.5-prompts'><img src='https://img.shields.io/badge/🚀 Try%20it%20on-Evolink-black' height="25" alt="Get Seedance 2.5 Early Access"></a>
 
 ## 📑 Menu
 
@@ -4334,5 +4337,5 @@ This repository curates Seedance 2.0 prompt examples from public web sources.
 - This repository is intended for learning, prompt research, and workflow reference.
 - Copyright for the original prompt text remains with the original authors.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=EvoLinkAI/awesome-seedance-2.0-prompts&type=Date)](https://www.star-history.com/#EvoLinkAI/awesome-seedance-2.0-prompts&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=EvoLinkAI/awesome-seedance-2.5-prompts&type=Date)](https://www.star-history.com/#EvoLinkAI/awesome-seedance-2.5-prompts&Date)
 - If any entry should be updated or removed, open an issue or submit a pull request with the relevant source link.
